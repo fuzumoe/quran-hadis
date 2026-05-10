@@ -1,0 +1,28 @@
+{
+  "surah": {
+    "id": 1,
+    "name_arabic": "سُورَةُ ٱلْفَاتِحَةِ",
+    "name_english": "Al-Faatiha",
+    "verses_count": 7
+  },
+  "verses": [
+    {
+      "verse_number": 6,
+      "text_arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "text_english": "Guide us to the straight path -",
+      "hadiths": [
+        {
+          "id": 45574,
+          "idInBook": 2613,
+          "chapterId": 10,
+          "bookId": 14,
+          "arabic": "وَعَن عيَّاشِ بنِ أبي ربيعةَ المَخْزُومِي قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَزَالُ هَذِهِ الْأُمَّةُ بِخَيْرٍ مَا عَظَّمُوا هَذِهِ الْحُرْمَةَ حَقَّ تَعْظِيمِهَا فَإِذَا ضَيَّعُوا ذلكَ هلَكُوا» . رَوَاهُ ابْن مَاجَه",
+          "english": {
+            "narrator": "",
+            "text": "‘Ayyash b. Abu Rabi'a al-Makhzumi reported God’s messenger as saying, “This people will continue to prosper as long as they give this sacredness due respect, but when they squander that they will perish.” \n\nIbn Majah transmitted it.\n\nChapter 16a"
+          }
+        }
+      ]
+    }
+  ]
+}
