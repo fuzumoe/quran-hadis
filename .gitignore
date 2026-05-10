@@ -140,9 +140,7 @@ Thumbs.db
 .env.*.local
 
 # Project specific
-data/
-node_modules/
 *.bak
 *.tmp
 .cache/
-plan.md
+# plan.md
