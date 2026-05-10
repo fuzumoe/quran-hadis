@@ -1,0 +1,77 @@
+{
+  "surah": {
+    "id": 101,
+    "name_arabic": "سُورَةُ القَارِعَةِ",
+    "name_english": "Al-Qaari'a",
+    "name_english_translation": "The Calamity",
+    "verses_count": 11
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "text_english": "The Striking Calamity -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "مَا ٱلْقَارِعَةُ",
+      "text_english": "What is the Striking Calamity?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "text_english": "And what can make you know what is the Striking Calamity?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "text_english": "It is the Day when people will be like moths, dispersed,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "text_english": "And the mountains will be like wool, fluffed up.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "text_english": "Then as for one whose scales are heavy [with good deeds],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "text_english": "He will be in a pleasant life.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "text_english": "But as for one whose scales are light,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "text_english": "His refuge will be an abyss.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "text_english": "And what can make you know what that is?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "نَارٌ حَامِيَةٌۢ",
+      "text_english": "It is a Fire, intensely hot.",
+      "hadiths": []
+    }
+  ]
+}

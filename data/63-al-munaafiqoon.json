@@ -1,0 +1,110 @@
+{
+  "surah": {
+    "id": 63,
+    "name_arabic": "سُورَةُ المُنَافِقُونَ",
+    "name_english": "Al-Munaafiqoon",
+    "name_english_translation": "The Hypocrites",
+    "verses_count": 11
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ",
+      "text_english": "When the hypocrites come to you, [O Muhammad], they say, \"We testify that you are the Messenger of Allah.\" And Allah knows that you are His Messenger, and Allah testifies that the hypocrites are liars.",
+      "hadiths": [
+        {
+          "reference_text": "63:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 41920,
+            "idInBook": 855,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن زيد بن أرقم رضي الله عنه قال‏:‏ خرجنا مع رسول الله صلى الله عليه وسلم في سفر أصاب الناس فيه شدة، فقال عبد الله بن أبي‏:‏ لا تنفقوا على من عند رسول الله حتى ينفضوا وقال‏:‏ لئن رجعنا إلى المدينة ليخرجن الأعز منها الأذل فأتيت رسول الله صلى الله عليه وسلم، فأخبرته بذلك، فأرسل إلى عبد الله بن أبي ، فاجتهد يمينه‏:‏ ما فعل، فقالوا‏:‏ كذب زيد رسول الله صلى الله عليه وسلم فوقع في نفسي مما قالوا شدة حتى أنزل الله تعالى تصديقي ‏{‏إذا جاءك المنافقون‏}‏ ثم دعاهم النبي صلى الله عليه وسلم، ليستغفر لهم فلووا رءوسهم‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "We set out on a journey along with the Messenger of Allah (ﷺ) and we faced many hardships. 'Abdullah bin Ubaiy (the chief of the hypocrites at Al- Madinah) said to his friends: \"Do not spend on those who are with the Messenger of Allah (ﷺ) until they desert him.\" He also said: \"If we return to Al-Madinah, the more honourable (meaning himself, i.e., Abdullah bin Ubaiy) will drive out therefrom the meaner (meaning Messenger of Allah (ﷺ)).\" I went to the Messenger of Allah (ﷺ) and informed him about that and he sent someone to 'Abdullah bin Ubaiy. He asked him whether he had said that or not. Abdullah took an oath that he had not done anything of that sort and said that it was Zaid who carried a false tale to the Messenger of Allah (ﷺ). Zaid said: I was so much perturbed because of this until this Verse was revealed verifying my statement:\"When the hypocrites come to you (O Muhammad (ﷺ)), they say: 'We bear witness that you are indeed the Messenger of Allah.' Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.\" (63:1) Then the Messenger of Allah (ﷺ) called the hypocrites in order to seek forgiveness for them from Allah, but they turned away their heads..",
+            "narrator": "Zaid bin Al-Arqam (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "63:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "17",
+            "id": 24,
+            "idInBook": 24,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن زيد بن أرقم رضي الله عنه قال‏:‏ خرجنا مع رسول الله صلى الله عليه وسلم في سفر أصاب الناس فيه شدة، فقال عبد الله بن أبي‏:‏ لا تنفقوا على من عند رسول الله حتى ينفضوا وقال‏:‏ لئن رجعنا إلى المدينة ليخرجن الأعز منها الأذل فأتيت رسول الله صلى الله عليه وسلم، فأخبرته بذلك، فأرسل إلى عبد الله بن أبي ، فاجتهد يمينه‏:‏ ما فعل، فقالوا‏:‏ كذب زيد رسول الله صلى الله عليه وسلم فوقع في نفسي مما قالوا شدة حتى أنزل الله تعالى تصديقي ‏{‏إذا جاءك المنافقون‏}‏ ثم دعاهم النبي صلى الله عليه وسلم، ليستغفر لهم فلووا رءوسهم‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "We set out on a journey along with the Messenger of Allah (ﷺ) and we faced many hardships. 'Abdullah bin Ubaiy (the chief of the hypocrites at Al- Madinah) said to his friends: \"Do not spend on those who are with the Messenger of Allah (ﷺ) until they desert him.\" He also said: \"If we return to Al-Madinah, the more honourable (meaning himself, i.e., Abdullah bin Ubaiy) will drive out therefrom the meaner (meaning Messenger of Allah (ﷺ)).\" I went to the Messenger of Allah (ﷺ) and informed him about that and he sent someone to 'Abdullah bin Ubaiy. He asked him whether he had said that or not. Abdullah took an oath that he had not done anything of that sort and said that it was Zaid who carried a false tale to the Messenger of Allah (ﷺ). Zaid said: I was so much perturbed because of this until this Verse was revealed verifying my statement:\"When the hypocrites come to you (O Muhammad (ﷺ)), they say: 'We bear witness that you are indeed the Messenger of Allah.' Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.\" (63:1) Then the Messenger of Allah (ﷺ) called the hypocrites in order to seek forgiveness for them from Allah, but they turned away their heads..",
+            "narrator": "Zaid bin Al-Arqam (May Allah be pleased with him) said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "text_english": "They have taken their oaths as a cover, so they averted [people] from the way of Allah. Indeed, it was evil that they were doing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "text_english": "That is because they believed, and then they disbelieved; so their hearts were sealed over, and they do not understand.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "text_english": "And when you see them, their forms please you, and if they speak, you listen to their speech. [They are] as if they were pieces of wood propped up - they think that every shout is against them. They are the enemy, so beware of them. May Allah destroy them; how are they deluded?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "text_english": "And when it is said to them, \"Come, the Messenger of Allah will ask forgiveness for you,\" they turn their heads aside and you see them evading while they are arrogant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "text_english": "It is all the same for them whether you ask forgiveness for them or do not ask forgiveness for them; never will Allah forgive them. Indeed, Allah does not guide the defiantly disobedient people.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ",
+      "text_english": "They are the ones who say, \"Do not spend on those who are with the Messenger of Allah until they disband.\" And to Allah belongs the depositories of the heavens and the earth, but the hypocrites do not understand.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ",
+      "text_english": "They say, \"If we return to al-Madinah, the more honored [for power] will surely expel therefrom the more humble.\" And to Allah belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "text_english": "O you who have believed, let not your wealth and your children divert you from remembrance of Allah. And whoever does that - then those are the losers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+      "text_english": "And spend [in the way of Allah] from what We have provided you before death approaches one of you and he says, \"My Lord, if only You would delay me for a brief term so I would give charity and be among the righteous.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_english": "But never will Allah delay a soul when its time has come. And Allah is Acquainted with what you do.",
+      "hadiths": []
+    }
+  ]
+}

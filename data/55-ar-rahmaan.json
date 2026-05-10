@@ -1,0 +1,479 @@
+{
+  "surah": {
+    "id": 55,
+    "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+    "name_english": "Ar-Rahmaan",
+    "name_english_translation": "The Beneficent",
+    "verses_count": 78
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ",
+      "text_english": "The Most Merciful",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "عَلَّمَ ٱلْقُرْءَانَ",
+      "text_english": "Taught the Qur'an,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "خَلَقَ ٱلْإِنسَٰنَ",
+      "text_english": "Created man,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "عَلَّمَهُ ٱلْبَيَانَ",
+      "text_english": "[And] taught him eloquence.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ",
+      "text_english": "The sun and the moon [move] by precise calculation,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "text_english": "And the stars and trees prostrate.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "text_english": "And the heaven He raised and imposed the balance",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "text_english": "That you not transgress within the balance.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "text_english": "And establish weight in justice and do not make deficient the balance.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "text_english": "And the earth He laid [out] for the creatures.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "text_english": "Therein is fruit and palm trees having sheaths [of dates]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "text_english": "And grain having husks and scented plants.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ",
+      "text_english": "He created man from clay like [that of] pottery.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ",
+      "text_english": "And He created the jinn from a smokeless flame of fire.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "text_english": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "text_english": "He released the two seas, meeting [side by side];",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+      "text_english": "Between them is a barrier [so] neither of them transgresses.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "text_english": "From both of them emerge pearl and coral.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+      "text_english": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ",
+      "text_english": "Everyone upon the earth will perish,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "text_english": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ",
+      "text_english": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "text_english": "We will attend to you, O prominent beings.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ",
+      "text_english": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+      "text_english": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+      "text_english": "And when the heaven is split open and becomes rose-colored like oil -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ",
+      "text_english": "Then on that Day none will be asked about his sin among men or jinn.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "text_english": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "text_english": "This is Hell, which the criminals deny.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ",
+      "text_english": "They will go around between it and scalding water, heated [to the utmost degree].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "text_english": "But for he who has feared the position of his Lord are two gardens -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "ذَوَاتَآ أَفْنَانٍۢ",
+      "text_english": "Having [spreading] branches.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "text_english": "In both of them are two springs, flowing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ",
+      "text_english": "In both of them are of every fruit, two kinds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 53,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 54,
+      "text_arabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ",
+      "text_english": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 55,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 56,
+      "text_arabic": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+      "text_english": "In them are women limiting [their] glances, untouched before them by man or jinni -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 57,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 58,
+      "text_arabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "text_english": "As if they were rubies and coral.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 59,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 60,
+      "text_arabic": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+      "text_english": "Is the reward for good [anything] but good?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 61,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 62,
+      "text_arabic": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "text_english": "And below them both [in excellence] are two [other] gardens -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 63,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 64,
+      "text_arabic": "مُدْهَآمَّتَانِ",
+      "text_english": "Dark green [in color].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 65,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 66,
+      "text_arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "text_english": "In both of them are two springs, spouting.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 67,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 68,
+      "text_arabic": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+      "text_english": "In both of them are fruit and palm trees and pomegranates.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 69,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 70,
+      "text_arabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+      "text_english": "In them are good and beautiful women -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 71,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 72,
+      "text_arabic": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ",
+      "text_english": "Fair ones reserved in pavilions -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 73,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 74,
+      "text_arabic": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+      "text_english": "Untouched before them by man or jinni -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 75,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 76,
+      "text_arabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+      "text_english": "Reclining on green cushions and beautiful fine carpets.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 77,
+      "text_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "text_english": "So which of the favors of your Lord would you deny?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 78,
+      "text_arabic": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "text_english": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+      "hadiths": []
+    }
+  ]
+}

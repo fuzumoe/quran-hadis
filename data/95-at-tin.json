@@ -1,0 +1,59 @@
+{
+  "surah": {
+    "id": 95,
+    "name_arabic": "سُورَةُ التِّينِ",
+    "name_english": "At-Tin",
+    "name_english_translation": "The Fig",
+    "verses_count": 8
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "text_english": "By the fig and the olive",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَطُورِ سِينِينَ",
+      "text_english": "And [by] Mount Sinai",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "text_english": "And [by] this secure city [Makkah],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+      "text_english": "We have certainly created man in the best of stature;",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "text_english": "Then We return him to the lowest of the low,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+      "text_english": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "text_english": "So what yet causes you to deny the Recompense?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+      "text_english": "Is not Allah the most just of judges?",
+      "hadiths": []
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "surah": {
+    "id": 32,
+    "name_arabic": "سُورَةُ السَّجۡدَةِ",
+    "name_english": "As-Sajda",
+    "name_english_translation": "The Prostration",
+    "verses_count": 30
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+      "text_english": "Alif, Lam, Meem.",
+      "hadiths": [
+        {
+          "reference_text": "سورة السجدة آية 1-2",
+          "surah_name": "السجدة",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "darimi",
+            "id": 40203,
+            "idInBook": 2666,
+            "bookId": 9,
+            "chapterId": 23,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ  ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ  : أَنَّهُ سَمِعَ أَبَا خَالِدٍ عَامِرَ بْنَ جَشِيبٍ  ، وَبَحِيرَ بْنَ سَعْدٍ  ، يُحَدِّثَانِ : أَنَّ خَالِدَ بْنَ مَعْدَانَ  ، قَالَ :\" إِنَّ # الم { 1 } تَنْزِيلُ الْكِتَابِ لا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ { 2 } سورة السجدة آية 1-2 # تُجَادِلُ عَنْ صَاحِبِهَا فِي الْقَبْرِ، تَقُولُ : اللَّهُمَّ إِنْ كُنْتُ مِنْ كِتَابِكَ، فَشَفِّعْنِي فِيهِ، وَإِنْ لَمْ أَكُنْ مِنْ كِتَابِكَ، فَامْحُنِي عَنْهُ، وَإِنَّهَا تَكُونُ كَالطَّيْرِ تَجْعَلُ جَنَاحَهَا عَلَيْهِ، فَيُشْفَعُ لَهُ، فَتَمْنَعُهُ مِنْ عَذَابِ الْقَبْرِ، وَفِي ( تَبَارَكَ ) مِثْلَهُ\"، فَكَانَ خَالِدٌ لَا يَبِيتُ حَتَّى يَقْرَأَ بِهِمَا",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة السجدة آية 1-2",
+          "surah_name": "السجدة",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "23",
+            "id": 105,
+            "idInBook": 105,
+            "bookId": 9,
+            "chapterId": 23,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ  ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ  : أَنَّهُ سَمِعَ أَبَا خَالِدٍ عَامِرَ بْنَ جَشِيبٍ  ، وَبَحِيرَ بْنَ سَعْدٍ  ، يُحَدِّثَانِ : أَنَّ خَالِدَ بْنَ مَعْدَانَ  ، قَالَ :\" إِنَّ # الم { 1 } تَنْزِيلُ الْكِتَابِ لا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ { 2 } سورة السجدة آية 1-2 # تُجَادِلُ عَنْ صَاحِبِهَا فِي الْقَبْرِ، تَقُولُ : اللَّهُمَّ إِنْ كُنْتُ مِنْ كِتَابِكَ، فَشَفِّعْنِي فِيهِ، وَإِنْ لَمْ أَكُنْ مِنْ كِتَابِكَ، فَامْحُنِي عَنْهُ، وَإِنَّهَا تَكُونُ كَالطَّيْرِ تَجْعَلُ جَنَاحَهَا عَلَيْهِ، فَيُشْفَعُ لَهُ، فَتَمْنَعُهُ مِنْ عَذَابِ الْقَبْرِ، وَفِي ( تَبَارَكَ ) مِثْلَهُ\"، فَكَانَ خَالِدٌ لَا يَبِيتُ حَتَّى يَقْرَأَ بِهِمَا",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "تَنزِيلُ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ",
+      "text_english": "[This is] the revelation of the Book about which there is no doubt from the Lord of the worlds.",
+      "hadiths": [
+        {
+          "reference_text": "سورة السجدة آية 1-2",
+          "surah_name": "السجدة",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "darimi",
+            "id": 40203,
+            "idInBook": 2666,
+            "bookId": 9,
+            "chapterId": 23,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ  ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ  : أَنَّهُ سَمِعَ أَبَا خَالِدٍ عَامِرَ بْنَ جَشِيبٍ  ، وَبَحِيرَ بْنَ سَعْدٍ  ، يُحَدِّثَانِ : أَنَّ خَالِدَ بْنَ مَعْدَانَ  ، قَالَ :\" إِنَّ # الم { 1 } تَنْزِيلُ الْكِتَابِ لا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ { 2 } سورة السجدة آية 1-2 # تُجَادِلُ عَنْ صَاحِبِهَا فِي الْقَبْرِ، تَقُولُ : اللَّهُمَّ إِنْ كُنْتُ مِنْ كِتَابِكَ، فَشَفِّعْنِي فِيهِ، وَإِنْ لَمْ أَكُنْ مِنْ كِتَابِكَ، فَامْحُنِي عَنْهُ، وَإِنَّهَا تَكُونُ كَالطَّيْرِ تَجْعَلُ جَنَاحَهَا عَلَيْهِ، فَيُشْفَعُ لَهُ، فَتَمْنَعُهُ مِنْ عَذَابِ الْقَبْرِ، وَفِي ( تَبَارَكَ ) مِثْلَهُ\"، فَكَانَ خَالِدٌ لَا يَبِيتُ حَتَّى يَقْرَأَ بِهِمَا",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة السجدة آية 1-2",
+          "surah_name": "السجدة",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "23",
+            "id": 105,
+            "idInBook": 105,
+            "bookId": 9,
+            "chapterId": 23,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ  ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ  : أَنَّهُ سَمِعَ أَبَا خَالِدٍ عَامِرَ بْنَ جَشِيبٍ  ، وَبَحِيرَ بْنَ سَعْدٍ  ، يُحَدِّثَانِ : أَنَّ خَالِدَ بْنَ مَعْدَانَ  ، قَالَ :\" إِنَّ # الم { 1 } تَنْزِيلُ الْكِتَابِ لا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ { 2 } سورة السجدة آية 1-2 # تُجَادِلُ عَنْ صَاحِبِهَا فِي الْقَبْرِ، تَقُولُ : اللَّهُمَّ إِنْ كُنْتُ مِنْ كِتَابِكَ، فَشَفِّعْنِي فِيهِ، وَإِنْ لَمْ أَكُنْ مِنْ كِتَابِكَ، فَامْحُنِي عَنْهُ، وَإِنَّهَا تَكُونُ كَالطَّيْرِ تَجْعَلُ جَنَاحَهَا عَلَيْهِ، فَيُشْفَعُ لَهُ، فَتَمْنَعُهُ مِنْ عَذَابِ الْقَبْرِ، وَفِي ( تَبَارَكَ ) مِثْلَهُ\"، فَكَانَ خَالِدٌ لَا يَبِيتُ حَتَّى يَقْرَأَ بِهِمَا",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ أَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+      "text_english": "Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muhammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ",
+      "text_english": "It is Allah who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. You have not besides Him any protector or any intercessor; so will you not be reminded?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍۢ مِّمَّا تَعُدُّونَ",
+      "text_english": "He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "ذَٰلِكَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_english": "That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍۢ",
+      "text_english": "Who perfected everything which He created and began the creation of man from clay.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَٰلَةٍۢ مِّن مَّآءٍۢ مَّهِينٍۢ",
+      "text_english": "Then He made his posterity out of the extract of a liquid disdained.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
+      "text_english": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts; little are you grateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَٰفِرُونَ",
+      "text_english": "And they say, \"When we are lost within the earth, will we indeed be [recreated] in a new creation?\" Rather, they are, in [the matter of] the meeting with their Lord, disbelievers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "text_english": "Say, \"The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَلَوْ تَرَىٰٓ إِذِ ٱلْمُجْرِمُونَ نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَٱرْجِعْنَا نَعْمَلْ صَٰلِحًا إِنَّا مُوقِنُونَ",
+      "text_english": "If you could but see when the criminals are hanging their heads before their Lord, [saying], \"Our Lord, we have seen and heard, so return us [to the world]; we will work righteousness. Indeed, we are [now] certain.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَلَوْ شِئْنَا لَءَاتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَٰكِنْ حَقَّ ٱلْقَوْلُ مِنِّى لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "text_english": "And if We had willed, We could have given every soul its guidance, but the word from Me will come into effect [that] \"I will surely fill Hell with jinn and people all together.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ",
+      "text_english": "So taste [punishment] because you forgot the meeting of this, your Day; indeed, We have [accordingly] forgotten you. And taste the punishment of eternity for what you used to do.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًۭا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩",
+      "text_english": "Only those believe in Our verses who, when they are reminded by them, fall down in prostration and exalt [Allah] with praise of their Lord, and they are not arrogant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًۭا وَطَمَعًۭا وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "text_english": "They arise from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend.",
+      "hadiths": [
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 41908,
+            "idInBook": 843,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن معاذ رضي الله عنه قال‏:‏ قلت يا رسول الله‏:‏ أخبرني بعمل يدخلني الجنة، ويباعدني من النار‏؟‏ قال‏:‏ ‏\"‏لقد سألت عن عظيم، وإنه ليسير على من يسره الله تعالى عليه‏:‏ تعبد الله لا تشرك به شيئًا، وتقيم الصلاة، وتؤتي الزكاة، وتصوم رمضان وتحج البيت إن استطعت إليه سبيلا ثم قال‏:‏ ألا أدلك على أبواب الخير‏؟‏ الصوم جُنة، والصدقة تطفئ الخطيئة كما يطفئ الماء النار، وصلاة الرجل من جوف الليل” ثم تلا‏:‏ ‏{‏تتجافى جنوبهم عن المضاجع‏}‏ حتى بلغ‏:‏ ‏{‏يعملون‏}‏ ‏(‏‏(‏السجدة‏:‏ 16-17‏)‏‏)‏‏.‏ ثم قال‏:‏ ‏\"‏ألا أخبرك برأس الأمر وعموده وذِروة سنامه‏\"‏ قلت‏\"‏ بلى يا رسول الله، قال‏:‏ رأس الأمر الإسلام، وعموده الصلاة، وذِروة سنامه الجهاد” ثم قال‏:‏ “ألا أخبرك بملاك ذلك كله‏؟‏‏\"‏ قلت‏:‏ بلى يا رسول الله، فأخذ بلسانه قال‏:‏ ‏\"‏كف عليك هذا‏\"‏ قلت‏:‏ يا رسول الله وإنا لمؤاخذون بما نتكلم به‏؟‏ فقال‏:‏ ثكلتك أمك‏!‏ وهل يُكب الناس في النار على وجوههم إلا حصائد ألسنتهم‏؟‏‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح، وقد سبق شرحه في باب قبل هذا‏)‏‏)‏‏.‏",
+            "english": "I asked the Messenger of Allah (ﷺ): \"Inform me of an act which will cause me to enter Jannah and keep me far from Hell.\" He (ﷺ) replied, \"You have asked me about a matter of great importance, but it is easy for one for whom Allah makes it easy.\" He added, \"Worship Allah, associate nothing with Him in worship, offer As-Salat (the prayer), pay the Zakat, observe Saum (fasting) during Ramadan and perform Hajj (pilgrimage) to the House of Allah, if you can afford it.\" He (ﷺ) further said, \"Shall I not guide you to the gates of goodness? Fasting is a screen (from Hell), charity extinguishes (i.e., removes) the sins as water extinguishes fire, and standing in prayers by a slave of Allah during the last third part of the night.\" Then he recited: \"Their sides forsake their beds, to invoke their Rabb in fear and hope, and they spend (in charity in Allah's Cause) out of what We have bestowed on them. No person knows what is kept hidden for them of joy as a reward for what they used to do.\" (32:16-17) Then he added, \"Shall I tell you of the root of the matter, its pillar and its highest point?\" I replied: \"Yes! Certainly, O Prophet of Allah.\" He said, \"The root of this matter (foundation) is Islam, its pillar (mainstay is) As-Salat (the prayer) and its highest point is Jihad (fighting in the Cause of Allah).\" Then he asked, \"Shall I tell you of that which holds all these things?\" I said: \"Yes, O Messenger of Allah.\" So he took hold of his tongue and said, \"Keep this in control.\" I asked: \"O Messenger of Allah! Shall we really be accounted for what we talk about?\" He replied, \"May your mother lose you! People will be thrown on their faces into the Hell on account of their tongues.\"",
+            "narrator": "Mu'adh bin Jabal (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42277,
+            "idInBook": 1212,
+            "bookId": 13,
+            "chapterId": 19,
+            "arabic": "وعنه رضي الله عنه قال‏:‏ شهدت من النبي صلى الله عليه وسلم  مجلساً وصف فيه الجنة حتى انتهى، ثم قال في آخر حديثه‏:‏ ‏\n\"‏فيها مالا عين رأت، ولا أذن سمعت، ولا خطر على قلب بشر‏\"‏ ثم قرأ ‏{‏تتجافى جنوبهم عن المضاجع‏}‏ إلى قوله تعالى‏:‏ ‏{‏فلا تعلم نفس ما أخفي لهم من قرة أعين‏}‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+            "english": "I was in the company of the Prophet (ﷺ). He gave a description of Jannah and concluded with these words, \"There will be bounties which no eye has seen, no ear has heard and no human heart has ever perceived.\" He (ﷺ) then recited this Verse:\"Their sides forsake their beds, to invoke their Rubb in fear and hope, and they spend (in charity in Allah's Cause) out of what We have bestowed on them. No person knows what is kept hidden for them of joy...\" (32:16,17).",
+            "narrator": "Sahl bin Sa'd (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29060,
+            "idInBook": 3280,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي زِيَادٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ هَذِهِ الآيَةَ  ‏:‏ ‏(‏ تتَجَافَى، جُنُوبُهُمْ عَنِ الْمَضَاجِعِ، ‏)‏ نَزَلَتْ فِي انْتِظَارِ هَذِهِ الصَّلاَةِ الَّتِي تُدْعَى الْعَتَمَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "english": "Their sides forsake their beds (32:16) - \"It was revealed about waiting for  Salat which you call Al-'Atamah.\"",
+            "narrator": "Anas bin Malik said about this Ayah:"
+          }
+        },
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "17",
+            "id": 12,
+            "idInBook": 12,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن معاذ رضي الله عنه قال‏:‏ قلت يا رسول الله‏:‏ أخبرني بعمل يدخلني الجنة، ويباعدني من النار‏؟‏ قال‏:‏ ‏\"‏لقد سألت عن عظيم، وإنه ليسير على من يسره الله تعالى عليه‏:‏ تعبد الله لا تشرك به شيئًا، وتقيم الصلاة، وتؤتي الزكاة، وتصوم رمضان وتحج البيت إن استطعت إليه سبيلا ثم قال‏:‏ ألا أدلك على أبواب الخير‏؟‏ الصوم جُنة، والصدقة تطفئ الخطيئة كما يطفئ الماء النار، وصلاة الرجل من جوف الليل” ثم تلا‏:‏ ‏{‏تتجافى جنوبهم عن المضاجع‏}‏ حتى بلغ‏:‏ ‏{‏يعملون‏}‏ ‏(‏‏(‏السجدة‏:‏ 16-17‏)‏‏)‏‏.‏ ثم قال‏:‏ ‏\"‏ألا أخبرك برأس الأمر وعموده وذِروة سنامه‏\"‏ قلت‏\"‏ بلى يا رسول الله، قال‏:‏ رأس الأمر الإسلام، وعموده الصلاة، وذِروة سنامه الجهاد” ثم قال‏:‏ “ألا أخبرك بملاك ذلك كله‏؟‏‏\"‏ قلت‏:‏ بلى يا رسول الله، فأخذ بلسانه قال‏:‏ ‏\"‏كف عليك هذا‏\"‏ قلت‏:‏ يا رسول الله وإنا لمؤاخذون بما نتكلم به‏؟‏ فقال‏:‏ ثكلتك أمك‏!‏ وهل يُكب الناس في النار على وجوههم إلا حصائد ألسنتهم‏؟‏‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح، وقد سبق شرحه في باب قبل هذا‏)‏‏)‏‏.‏",
+            "english": "I asked the Messenger of Allah (ﷺ): \"Inform me of an act which will cause me to enter Jannah and keep me far from Hell.\" He (ﷺ) replied, \"You have asked me about a matter of great importance, but it is easy for one for whom Allah makes it easy.\" He added, \"Worship Allah, associate nothing with Him in worship, offer As-Salat (the prayer), pay the Zakat, observe Saum (fasting) during Ramadan and perform Hajj (pilgrimage) to the House of Allah, if you can afford it.\" He (ﷺ) further said, \"Shall I not guide you to the gates of goodness? Fasting is a screen (from Hell), charity extinguishes (i.e., removes) the sins as water extinguishes fire, and standing in prayers by a slave of Allah during the last third part of the night.\" Then he recited: \"Their sides forsake their beds, to invoke their Rabb in fear and hope, and they spend (in charity in Allah's Cause) out of what We have bestowed on them. No person knows what is kept hidden for them of joy as a reward for what they used to do.\" (32:16-17) Then he added, \"Shall I tell you of the root of the matter, its pillar and its highest point?\" I replied: \"Yes! Certainly, O Prophet of Allah.\" He said, \"The root of this matter (foundation) is Islam, its pillar (mainstay is) As-Salat (the prayer) and its highest point is Jihad (fighting in the Cause of Allah).\" Then he asked, \"Shall I tell you of that which holds all these things?\" I said: \"Yes, O Messenger of Allah.\" So he took hold of his tongue and said, \"Keep this in control.\" I asked: \"O Messenger of Allah! Shall we really be accounted for what we talk about?\" He replied, \"May your mother lose you! People will be thrown on their faces into the Hell on account of their tongues.\"",
+            "narrator": "Mu'adh bin Jabal (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "19",
+            "id": 23,
+            "idInBook": 23,
+            "bookId": 13,
+            "chapterId": 19,
+            "arabic": "وعنه رضي الله عنه قال‏:‏ شهدت من النبي صلى الله عليه وسلم  مجلساً وصف فيه الجنة حتى انتهى، ثم قال في آخر حديثه‏:‏ ‏\n\"‏فيها مالا عين رأت، ولا أذن سمعت، ولا خطر على قلب بشر‏\"‏ ثم قرأ ‏{‏تتجافى جنوبهم عن المضاجع‏}‏ إلى قوله تعالى‏:‏ ‏{‏فلا تعلم نفس ما أخفي لهم من قرة أعين‏}‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+            "english": "I was in the company of the Prophet (ﷺ). He gave a description of Jannah and concluded with these words, \"There will be bounties which no eye has seen, no ear has heard and no human heart has ever perceived.\" He (ﷺ) then recited this Verse:\"Their sides forsake their beds, to invoke their Rubb in fear and hope, and they spend (in charity in Allah's Cause) out of what We have bestowed on them. No person knows what is kept hidden for them of joy...\" (32:16,17).",
+            "narrator": "Sahl bin Sa'd (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "32:16",
+          "surah_name": null,
+          "start_ayah": 16,
+          "end_ayah": 16,
+          "hadith": {
+            "source": "47",
+            "id": 248,
+            "idInBook": 248,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي زِيَادٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ هَذِهِ الآيَةَ  ‏:‏ ‏(‏ تتَجَافَى، جُنُوبُهُمْ عَنِ الْمَضَاجِعِ، ‏)‏ نَزَلَتْ فِي انْتِظَارِ هَذِهِ الصَّلاَةِ الَّتِي تُدْعَى الْعَتَمَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "english": "Their sides forsake their beds (32:16) - \"It was revealed about waiting for  Salat which you call Al-'Atamah.\"",
+            "narrator": "Anas bin Malik said about this Ayah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "فَلَا تَعْلَمُ نَفْسٌۭ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍۢ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "text_english": "And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do.",
+      "hadiths": [
+        {
+          "reference_text": "32:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42267,
+            "idInBook": 1202,
+            "bookId": 13,
+            "chapterId": 19,
+            "arabic": "وعن أبي  هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم  ‏:‏ ‏\"‏قال الله تعالى أعددت لعبادي الصالحين ما لا عين رأت ولا أذن سمعت ولا خطر على قلب بشر، واقرؤوا إن شئتم‏:‏ ‏{‏فلا تعلم نفس ما أخفي لهم من قرة أعين جزاء بما كانوا يعملون‏}‏ ‏(‏‏(‏السجدة‏:‏17‏)‏‏)‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+            "english": "The Messenger of Allah (ﷺ) said, \"Allah, the Exalted, has said: 'I have prepared for my righteous slaves what no eye has seen, no ear has heard, and the mind of no man has conceived.' If you wish, recite:'No person knows what is kept hidden for them of joy as a reward for what they used to do.\"' (32:17).",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "سورة السجدة آية 17",
+          "surah_name": "السجدة",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "darimi",
+            "id": 39629,
+            "idInBook": 2092,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ أَبِي هُرَيْرَةَ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يَقُولُ اللَّهُ G :أَعْدَدْتُ لِعِبَادِي الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، وَاقْرَءُوا إِنْ شِئْتُمْ : # فَلا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ سورة السجدة آية 17 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "32:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29061,
+            "idInBook": 3281,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ قَالَ اللَّهُ تَعَالَى أَعْدَدْتُ لِعِبَادِي الصَّالِحِينَ مَا لاَ عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ وَتَصْدِيقُ ذَلِكَ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ ‏:‏ ‏(‏ فلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ ‏)‏ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that the Prophet (ﷺ) said: \"Allah Most High said: 'I have prepared for My righteous worshipers what no eye has seen, no ear has heard, and no human heart has conceived.'\" And that is testified to in Allah's  Book: No person knows what is kept hidden for them of delights of the eyes (32:17).",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        },
+        {
+          "reference_text": "32:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "19",
+            "id": 13,
+            "idInBook": 13,
+            "bookId": 13,
+            "chapterId": 19,
+            "arabic": "وعن أبي  هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم  ‏:‏ ‏\"‏قال الله تعالى أعددت لعبادي الصالحين ما لا عين رأت ولا أذن سمعت ولا خطر على قلب بشر، واقرؤوا إن شئتم‏:‏ ‏{‏فلا تعلم نفس ما أخفي لهم من قرة أعين جزاء بما كانوا يعملون‏}‏ ‏(‏‏(‏السجدة‏:‏17‏)‏‏)‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+            "english": "The Messenger of Allah (ﷺ) said, \"Allah, the Exalted, has said: 'I have prepared for my righteous slaves what no eye has seen, no ear has heard, and the mind of no man has conceived.' If you wish, recite:'No person knows what is kept hidden for them of joy as a reward for what they used to do.\"' (32:17).",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "سورة السجدة آية 17",
+          "surah_name": "السجدة",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "20",
+            "id": 119,
+            "idInBook": 119,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ أَبِي هُرَيْرَةَ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يَقُولُ اللَّهُ G :أَعْدَدْتُ لِعِبَادِي الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، وَاقْرَءُوا إِنْ شِئْتُمْ : # فَلا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ سورة السجدة آية 17 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "32:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "47",
+            "id": 249,
+            "idInBook": 249,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ قَالَ اللَّهُ تَعَالَى أَعْدَدْتُ لِعِبَادِي الصَّالِحِينَ مَا لاَ عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ وَتَصْدِيقُ ذَلِكَ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ ‏:‏ ‏(‏ فلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ ‏)‏ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that the Prophet (ﷺ) said: \"Allah Most High said: 'I have prepared for My righteous worshipers what no eye has seen, no ear has heard, and no human heart has conceived.'\" And that is testified to in Allah's  Book: No person knows what is kept hidden for them of delights of the eyes (32:17).",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "أَفَمَن كَانَ مُؤْمِنًۭا كَمَن كَانَ فَاسِقًۭا ۚ لَّا يَسْتَوُۥنَ",
+      "text_english": "Then is one who was a believer like one who was defiantly disobedient? They are not equal.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "text_english": "As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "text_english": "But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, \"Taste the punishment of the Fire which you used to deny.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ ٱلْأَدْنَىٰ دُونَ ٱلْعَذَابِ ٱلْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ",
+      "text_english": "And we will surely let them taste the nearer punishment short of the greater punishment that perhaps they will repent.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ",
+      "text_english": "And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍۢ مِّن لِّقَآئِهِۦ ۖ وَجَعَلْنَٰهُ هُدًۭى لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+      "text_english": "And We certainly gave Moses the Scripture, so do not be in doubt over his meeting. And we made the Torah guidance for the Children of Israel.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةًۭ يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ ۖ وَكَانُوا۟ بِـَٔايَٰتِنَا يُوقِنُونَ",
+      "text_english": "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "text_english": "Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَٰكِنِهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ ۖ أَفَلَا يَسْمَعُونَ",
+      "text_english": "Has it not become clear to them how many generations We destroyed before them, [as] they walk among their dwellings? Indeed in that are signs; then do they not hear?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًۭا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ",
+      "text_english": "Have they not seen that We drive the water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَٰدِقِينَ",
+      "text_english": "And they say, \"When will be this conquest, if you should be truthful?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَٰنُهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "text_english": "Say, [O Muhammad], \"On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+      "text_english": "So turn away from them and wait. Indeed, they are waiting.",
+      "hadiths": []
+    }
+  ]
+}

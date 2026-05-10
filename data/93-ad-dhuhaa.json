@@ -1,0 +1,77 @@
+{
+  "surah": {
+    "id": 93,
+    "name_arabic": "سُورَةُ الضُّحَىٰ",
+    "name_english": "Ad-Dhuhaa",
+    "name_english_translation": "The Morning Hours",
+    "verses_count": 11
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "text_english": "By the morning brightness",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "text_english": "And [by] the night when it covers with darkness,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "text_english": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "text_english": "And the Hereafter is better for you than the first [life].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "text_english": "And your Lord is going to give you, and you will be satisfied.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+      "text_english": "Did He not find you an orphan and give [you] refuge?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
+      "text_english": "And He found you lost and guided [you],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ",
+      "text_english": "And He found you poor and made [you] self-sufficient.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "text_english": "So as for the orphan, do not oppress [him].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "text_english": "And as for the petitioner, do not repel [him].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_english": "But as for the favor of your Lord, report [it].",
+      "hadiths": []
+    }
+  ]
+}

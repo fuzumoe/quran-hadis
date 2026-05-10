@@ -1,0 +1,181 @@
+{
+  "surah": {
+    "id": 65,
+    "name_arabic": "سُورَةُ الطَّلَاقِ",
+    "name_english": "At-Talaaq",
+    "name_english_translation": "Divorce",
+    "verses_count": 12
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًۭا",
+      "text_english": "O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period, and fear Allah, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allah. And whoever transgresses the limits of Allah has certainly wronged himself. You know not; perhaps Allah will bring about after that a [different] matter.",
+      "hadiths": [
+        {
+          "reference_text": "سورة الطلاق آية 1",
+          "surah_name": "الطلاق",
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "darimi",
+            "id": 38999,
+            "idInBook": 1462,
+            "bookId": 9,
+            "chapterId": 11,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَنْبَأَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ،  عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ   : أَنَّهَا حَدَّثَتْهُ وَكَتَبَهُ مِنْهَا كِتَابًا أَنَّهَا كَانَتْ تَحْتَ رَجُلٍ مِنْ قُرَيْشٍ، مِنْ بَنِي مَخْزُومٍ، فَطَلَّقَهَا الْبَتَّةَ، فَأَرْسَلَتْ إِلَى أَهْلِهِ تَبْتَغِي مِنْهُمُ النَّفَقَةَ، فَقَالُوا : لَيْسَ لَكِ نَفَقَةٌ، فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ :\" لَيْسَ لَكِ نَفَقَةٌ، وَعَلَيْكِ الْعِدَّةُ، وَانْتَقِلِي إِلَى بَيْتِ أُمِّ شَرِيكٍ ، وَلَا تُفَوِّتِينَا بِنَفْسِكِ \"، ثُمَّ قَالَ : \" إِنَّ أُمَّ شَرِيكٍ امْرَأَةٌ يَدْخُلُ إِلَيْهَا إِخْوَانُهَا مِنَ الْمُهَاجِرِينَ، وَلَكِنِ انْتَقِلِي إِلَى بَيْتِ ابْنِ أُمِّ مَكْتُومٍ فَإِنَّهُ رَجُلٌ أَعْمَى، إِنْ وَضَعْتِ ثِيَابَكِ لَمْ يَرَ شَيْئًا وَلَا تُفَوِّتِينَا بِنَفْسِكِ \"، فَانْطَلَقَتْ إِلَى بَيْتِ ابْنِ أُمِّ مَكْتُومٍ فَلَمَّا حَلَّتْ، ذَكَرَتْ أَنَّ مُعَاوِيَةَ، وَأَبَا جَهْمٍ خَطَبَاهَا، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَمَّا مُعَاوِيَةُ، فَرَجُلٌ لَا مَالَ لَهُ، وَأَمَّا أَبُو جَهْمٍ، فَلَا يَضَعُ عَصَاهُ عَنْ عَاتِقِهِ، فَأَيْنَ أَنْتِ مِنْ أُسَامَةَ؟ \" فَكَأَنَّ أَهْلَهَا كَرِهُوا ذَلِكَ، فَقَالَتْ : وَاللَّهِ لَا أَنْكِحُ إِلَّا الَّذِي قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَنَكَحَتْ أُسَامَةَ.\nقَالَ مُحَمَّدُ بْنُ عَمْرٍو : قَالَ مُحَمَّدُ بْنُ إِبْرَاهِيمَ : يَا فَاطِمَةُ ، اتَّقِي اللَّهَ، فَقَدْ عَلِمْتِ فِي أَيِّ شَيْءٍ كَانَ هَذَا، قَالَ : وَقَالَ ابْنُ عَبَّاسٍ : قَالَ اللَّهُ تَعَالَى : # يَأَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ وَاتَّقُوا اللَّهَ رَبَّكُمْ لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ سورة الطلاق آية 1 # وَالْفَاحِشَةُ أَنْ تَبْذُوَ عَلَى أَهْلِهَا، فَإِذَا فَعَلَتْ ذَلِكَ، فَقَدْ حَلَّ لَهُمْ أَنْ يُخْرِجُوهَا",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة الطلاق آية 1",
+          "surah_name": "الطلاق",
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "11",
+            "id": 13,
+            "idInBook": 13,
+            "bookId": 9,
+            "chapterId": 11,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَنْبَأَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ،  عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ   : أَنَّهَا حَدَّثَتْهُ وَكَتَبَهُ مِنْهَا كِتَابًا أَنَّهَا كَانَتْ تَحْتَ رَجُلٍ مِنْ قُرَيْشٍ، مِنْ بَنِي مَخْزُومٍ، فَطَلَّقَهَا الْبَتَّةَ، فَأَرْسَلَتْ إِلَى أَهْلِهِ تَبْتَغِي مِنْهُمُ النَّفَقَةَ، فَقَالُوا : لَيْسَ لَكِ نَفَقَةٌ، فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ :\" لَيْسَ لَكِ نَفَقَةٌ، وَعَلَيْكِ الْعِدَّةُ، وَانْتَقِلِي إِلَى بَيْتِ أُمِّ شَرِيكٍ ، وَلَا تُفَوِّتِينَا بِنَفْسِكِ \"، ثُمَّ قَالَ : \" إِنَّ أُمَّ شَرِيكٍ امْرَأَةٌ يَدْخُلُ إِلَيْهَا إِخْوَانُهَا مِنَ الْمُهَاجِرِينَ، وَلَكِنِ انْتَقِلِي إِلَى بَيْتِ ابْنِ أُمِّ مَكْتُومٍ فَإِنَّهُ رَجُلٌ أَعْمَى، إِنْ وَضَعْتِ ثِيَابَكِ لَمْ يَرَ شَيْئًا وَلَا تُفَوِّتِينَا بِنَفْسِكِ \"، فَانْطَلَقَتْ إِلَى بَيْتِ ابْنِ أُمِّ مَكْتُومٍ فَلَمَّا حَلَّتْ، ذَكَرَتْ أَنَّ مُعَاوِيَةَ، وَأَبَا جَهْمٍ خَطَبَاهَا، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَمَّا مُعَاوِيَةُ، فَرَجُلٌ لَا مَالَ لَهُ، وَأَمَّا أَبُو جَهْمٍ، فَلَا يَضَعُ عَصَاهُ عَنْ عَاتِقِهِ، فَأَيْنَ أَنْتِ مِنْ أُسَامَةَ؟ \" فَكَأَنَّ أَهْلَهَا كَرِهُوا ذَلِكَ، فَقَالَتْ : وَاللَّهِ لَا أَنْكِحُ إِلَّا الَّذِي قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَنَكَحَتْ أُسَامَةَ.\nقَالَ مُحَمَّدُ بْنُ عَمْرٍو : قَالَ مُحَمَّدُ بْنُ إِبْرَاهِيمَ : يَا فَاطِمَةُ ، اتَّقِي اللَّهَ، فَقَدْ عَلِمْتِ فِي أَيِّ شَيْءٍ كَانَ هَذَا، قَالَ : وَقَالَ ابْنُ عَبَّاسٍ : قَالَ اللَّهُ تَعَالَى : # يَأَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ وَاتَّقُوا اللَّهَ رَبَّكُمْ لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ سورة الطلاق آية 1 # وَالْفَاحِشَةُ أَنْ تَبْذُوَ عَلَى أَهْلِهَا، فَإِذَا فَعَلَتْ ذَلِكَ، فَقَدْ حَلَّ لَهُمْ أَنْ يُخْرِجُوهَا",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍۢ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍۢ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًۭا",
+      "text_english": "And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allah. That is instructed to whoever should believe in Allah and the Last day. And whoever fears Allah - He will make for him a way out",
+      "hadiths": [
+        {
+          "reference_text": "65:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 47880,
+            "idInBook": 491,
+            "bookId": 15,
+            "chapterId": 28,
+            "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ، عَنْ أَبِي الضُّحَى قَالَ‏:‏ اجْتَمَعَ مَسْرُوقٌ وَشُتَيْرُ بْنُ شَكَلٍ فِي الْمَسْجِدِ، فَتَقَوَّضَ إِلَيْهِمَا حِلَقُ الْمَسْجِدِ، فَقَالَ مَسْرُوقٌ‏:‏ لاَ أَرَى هَؤُلاَءِ يَجْتَمِعُونَ إِلَيْنَا إِلاَّ لِيَسْتَمِعُوا مِنَّا خَيْرًا، فَإِمَّا أَنْ تُحَدِّثَ عَنْ عَبْدِ اللهِ فَأُصَدِّقَكَ أَنَا، وَإِمَّا أَنْ أُحَدِّثَ عَنْ عَبْدِ اللهِ فَتُصَدِّقَنِي‏؟‏ فَقَالَ‏:‏ حَدِّثْ يَا أَبَا عَائِشَةَ، قَالَ‏:‏ هَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ الْعَيْنَانِ يَزْنِيَانِ، وَالْيَدَانِ يَزْنِيَانِ، وَالرِّجْلاَنِ يَزْنِيَانِ، وَالْفَرْجُ يُصَدِّقُ ذَلِكَ أَوْ يُكَذِّبُهُ‏؟‏ فَقَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَجْمَعَ لِحَلاَلٍ وَحَرَامٍ وَأَمْرٍ وَنَهْيٍ، مِنْ هَذِهِ الْآيَةِ‏:‏ ‏{‏إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى‏}‏‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا قَدْ سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَسْرَعَ فَرَجًا مِنْ قَوْلِهِ‏:‏ ‏{‏وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا‏}‏‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا قَدْ سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَشَدَّ تَفْوِيضًا مِنْ قَوْلِهِ‏:‏ ‏{‏يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لاَ تَقْنَطُوا‏}‏ مِنْ رَحْمَةِ اللهِ‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا سَمِعْتُهُ‏.‏",
+            "english": "\"Masruq and Shutayr ibn Shakal met in the mosque.\nThe people sitting in circles in the mosque moved towards them. Masruq\nsaid, 'I can only think that these people are gathering around us in order\nto hear good from us. If you relate from 'Abdullah, I will confirm you.\nIf I relate from 'Abdullah, you can confirm me.' He said, 'Abu 'A'isha,\nrelate!' He said, 'Did you hear 'Abdullah say, \"The eyes commit fornication.\nThe hands commit fornication. The feet commit fornication, and then the\ngenitals either confirm or deny that?\"' 'Yes,' he replied, 'I have heard\nit.' He said, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an\nwhich is greater in combining the halal and the haram and the command and the\nprohibition than this ayat: 'Indeed Allah commands to justice and doing good and\ngiving to relatives' (16.90)?\"' 'Yes,' he replied, 'I have heard it.' He\nsaid, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an swifter\nin bringing relief than His words, \"Whoever has taqwa of Allah - He\nwill give him a way out\" (65:2)?' 'Yes,' he replied, 'I have heard it.'\nHe said, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an stronger\nin entrusting things to Allah than His words, \"My slaves, you have transgressed\nagainst yourselves, do not despair of the mercy of Allah\" (39:53)?' 'Yes,'\nhe replied, 'I heard that.'\"",
+            "narrator": "Abu'd-Duha said:"
+          }
+        },
+        {
+          "reference_text": "سورة الطلاق آية 2",
+          "surah_name": "الطلاق",
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "darimi",
+            "id": 39531,
+            "idInBook": 1994,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ مُحَمَّدٍ  ، قَالَ : حَدَّثَنَا مُعْتَمِرٌ  ، عَنْ كَهْمَسِ بْنِ الْحَسَنِ  ، عَنْ أَبِي السَّلِيلِ  ، عَنْ أَبِي ذَرٍّ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" إِنِّي لَأَعْلَمُ آيَةً لَوْ أَخَذَ بِهَا النَّاسُ بِهَا لَكَفَتْهُمْ : # فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ذَلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا سورة الطلاق آية 2 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "65:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "28",
+            "id": 7,
+            "idInBook": 7,
+            "bookId": 15,
+            "chapterId": 28,
+            "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ، عَنْ أَبِي الضُّحَى قَالَ‏:‏ اجْتَمَعَ مَسْرُوقٌ وَشُتَيْرُ بْنُ شَكَلٍ فِي الْمَسْجِدِ، فَتَقَوَّضَ إِلَيْهِمَا حِلَقُ الْمَسْجِدِ، فَقَالَ مَسْرُوقٌ‏:‏ لاَ أَرَى هَؤُلاَءِ يَجْتَمِعُونَ إِلَيْنَا إِلاَّ لِيَسْتَمِعُوا مِنَّا خَيْرًا، فَإِمَّا أَنْ تُحَدِّثَ عَنْ عَبْدِ اللهِ فَأُصَدِّقَكَ أَنَا، وَإِمَّا أَنْ أُحَدِّثَ عَنْ عَبْدِ اللهِ فَتُصَدِّقَنِي‏؟‏ فَقَالَ‏:‏ حَدِّثْ يَا أَبَا عَائِشَةَ، قَالَ‏:‏ هَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ الْعَيْنَانِ يَزْنِيَانِ، وَالْيَدَانِ يَزْنِيَانِ، وَالرِّجْلاَنِ يَزْنِيَانِ، وَالْفَرْجُ يُصَدِّقُ ذَلِكَ أَوْ يُكَذِّبُهُ‏؟‏ فَقَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَجْمَعَ لِحَلاَلٍ وَحَرَامٍ وَأَمْرٍ وَنَهْيٍ، مِنْ هَذِهِ الْآيَةِ‏:‏ ‏{‏إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى‏}‏‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا قَدْ سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَسْرَعَ فَرَجًا مِنْ قَوْلِهِ‏:‏ ‏{‏وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا‏}‏‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا قَدْ سَمِعْتُهُ، قَالَ‏:‏ فَهَلْ سَمِعْتَ عَبْدَ اللهِ يَقُولُ‏:‏ مَا فِي الْقُرْآنِ آيَةٌ أَشَدَّ تَفْوِيضًا مِنْ قَوْلِهِ‏:‏ ‏{‏يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لاَ تَقْنَطُوا‏}‏ مِنْ رَحْمَةِ اللهِ‏؟‏ قَالَ‏:‏ نَعَمْ، قَالَ‏:‏ وَأَنَا سَمِعْتُهُ‏.‏",
+            "english": "\"Masruq and Shutayr ibn Shakal met in the mosque.\nThe people sitting in circles in the mosque moved towards them. Masruq\nsaid, 'I can only think that these people are gathering around us in order\nto hear good from us. If you relate from 'Abdullah, I will confirm you.\nIf I relate from 'Abdullah, you can confirm me.' He said, 'Abu 'A'isha,\nrelate!' He said, 'Did you hear 'Abdullah say, \"The eyes commit fornication.\nThe hands commit fornication. The feet commit fornication, and then the\ngenitals either confirm or deny that?\"' 'Yes,' he replied, 'I have heard\nit.' He said, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an\nwhich is greater in combining the halal and the haram and the command and the\nprohibition than this ayat: 'Indeed Allah commands to justice and doing good and\ngiving to relatives' (16.90)?\"' 'Yes,' he replied, 'I have heard it.' He\nsaid, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an swifter\nin bringing relief than His words, \"Whoever has taqwa of Allah - He\nwill give him a way out\" (65:2)?' 'Yes,' he replied, 'I have heard it.'\nHe said, 'Did you hear 'Abdullah say, \"There is no ayat in the Qur'an stronger\nin entrusting things to Allah than His words, \"My slaves, you have transgressed\nagainst yourselves, do not despair of the mercy of Allah\" (39:53)?' 'Yes,'\nhe replied, 'I heard that.'\"",
+            "narrator": "Abu'd-Duha said:"
+          }
+        },
+        {
+          "reference_text": "سورة الطلاق آية 2",
+          "surah_name": "الطلاق",
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "20",
+            "id": 21,
+            "idInBook": 21,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ مُحَمَّدٍ  ، قَالَ : حَدَّثَنَا مُعْتَمِرٌ  ، عَنْ كَهْمَسِ بْنِ الْحَسَنِ  ، عَنْ أَبِي السَّلِيلِ  ، عَنْ أَبِي ذَرٍّ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" إِنِّي لَأَعْلَمُ آيَةً لَوْ أَخَذَ بِهَا النَّاسُ بِهَا لَكَفَتْهُمْ : # فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ذَلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا سورة الطلاق آية 2 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+      "text_english": "And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَٱلَّٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشْهُرٍۢ وَٱلَّٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًۭا",
+      "text_english": "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allah - He will make for him of his matter ease.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "text_english": "That is the command of Allah, which He has sent down to you; and whoever fears Allah - He will remove for him his misdeeds and make great for him his reward.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍۢ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍۢ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "text_english": "Lodge them [in a section] of where you dwell out of your means and do not harm them in order to oppress them. And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for the father another woman.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًۭا",
+      "text_english": "Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَٰهَا عَذَابًۭا نُّكْرًۭا",
+      "text_english": "And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَٰقِبَةُ أَمْرِهَا خُسْرًا",
+      "text_english": "And it tasted the bad consequence of its affair, and the outcome of its affair was loss.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًۭا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًۭا",
+      "text_english": "Allah has prepared for them a severe punishment; so fear Allah, O you of understanding who have believed. Allah has sent down to you the Qur'an.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "رَّسُولًۭا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٍۢ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًۭا يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "text_english": "[He sent] a Messenger [Muhammad] reciting to you the distinct verses of Allah that He may bring out those who believe and do righteous deeds from darknesses into the light. And whoever believes in Allah and does righteousness - He will admit him into gardens beneath which rivers flow to abide therein forever. Allah will have perfected for him a provision.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "text_english": "It is Allah who has created seven heavens and of the earth, the like of them. [His] command descends among them so you may know that Allah is over all things competent and that Allah has encompassed all things in knowledge.",
+      "hadiths": []
+    }
+  ]
+}

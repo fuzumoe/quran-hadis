@@ -1,0 +1,546 @@
+{
+  "surah": {
+    "id": 59,
+    "name_arabic": "سُورَةُ الحَشۡرِ",
+    "name_english": "Al-Hashr",
+    "name_english_translation": "The Exile",
+    "verses_count": 24
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_english": "Whatever is in the heavens and whatever is on the earth exalts Allah, and He is the Exalted in Might, the Wise.",
+      "hadiths": [
+        {
+          "reference_text": "سورة الحشر آية 1",
+          "surah_name": "الحشر",
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "darimi",
+            "id": 39200,
+            "idInBook": 1663,
+            "bookId": 9,
+            "chapterId": 16,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ كَثِيرٍ  ، عَنْ الْأَوْزَاعِيِّ  ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ  ، قَالَ : \" قَعَدْنَا نَفَرٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتَذَاكَرْنَا، فَقُلْنَا :لَوْ نَعْلَمُ أَيَّ الْأَعْمَالِ أَحَبَّ إِلَى اللَّهِ تَعَالَى، لَعَمِلْنَاهُ، فَأَنْزَلَ اللَّهُ تَعَالَى : # سَبَّحَ لِلَّهِ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ سورة الحشر آية 1 # حَتَّى خَتَمَهَا \".\nقَالَ عَبْدُ اللَّهِ : فَقَرَأَهَا عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى خَتَمَهَا، قَالَ أَبُو سَلَمَةَ : فَقَرَأَهَا عَلَيْنَا ابْنُ سَلَامٍ.\nقَالَ يَحْيَى : فَقَرَأَهَا عَلَيْنَا أَبُو سَلَمَةَ، وَقَرَأَهَا عَلَيْنَا يَحْيَى وَقَرَأَهَا عَلَيْنَا الْأَوْزَاعِيُّ، وَقَرَأَهَا عَلَيْنَا مُحَمَّدٌ",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة الحشر آية 1",
+          "surah_name": "الحشر",
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "16",
+            "id": 1,
+            "idInBook": 1,
+            "bookId": 9,
+            "chapterId": 16,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ كَثِيرٍ  ، عَنْ الْأَوْزَاعِيِّ  ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ  ، قَالَ : \" قَعَدْنَا نَفَرٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتَذَاكَرْنَا، فَقُلْنَا :لَوْ نَعْلَمُ أَيَّ الْأَعْمَالِ أَحَبَّ إِلَى اللَّهِ تَعَالَى، لَعَمِلْنَاهُ، فَأَنْزَلَ اللَّهُ تَعَالَى : # سَبَّحَ لِلَّهِ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ سورة الحشر آية 1 # حَتَّى خَتَمَهَا \".\nقَالَ عَبْدُ اللَّهِ : فَقَرَأَهَا عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى خَتَمَهَا، قَالَ أَبُو سَلَمَةَ : فَقَرَأَهَا عَلَيْنَا ابْنُ سَلَامٍ.\nقَالَ يَحْيَى : فَقَرَأَهَا عَلَيْنَا أَبُو سَلَمَةَ، وَقَرَأَهَا عَلَيْنَا يَحْيَى وَقَرَأَهَا عَلَيْنَا الْأَوْزَاعِيُّ، وَقَرَأَهَا عَلَيْنَا مُحَمَّدٌ",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ ۖ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ ۖ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ",
+      "text_english": "It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allah; but [the decree of] Allah came upon them from where they had not expected, and He cast terror into their hearts [so] they destroyed their houses by their [own] hands and the hands of the believers. So take warning, O people of vision.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابُ ٱلنَّارِ",
+      "text_english": "And if not that Allah had decreed for them evacuation, He would have punished them in [this] world, and for them in the Hereafter is the punishment of the Fire.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "text_english": "That is because they opposed Allah and His Messenger. And whoever opposes Allah - then indeed, Allah is severe in penalty.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَٰسِقِينَ",
+      "text_english": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allah and so He would disgrace the defiantly disobedient.",
+      "hadiths": [
+        {
+          "reference_text": "59:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46742,
+            "idInBook": 3781,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنِ ابْنِ عُمَرَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَطَعَ نَخْلَ بني النَّضيرِ وحرَّقَ وَلها يقولُ حسَّانٌ:\nوَهَانَ عَلَى سَرَاةِ بَنِي لُؤَيٍّ حَرِيقٌ بِالْبُوَيْرَةِ مُستَطيرُ\nوَفِي ذَلِكَ نَزَلَتْ (مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ)",
+            "english": "The nobles of the B. Lu’ayy treated lightly a widely dispersed conflagration in al-Buwaira. Concerning that came down, “The palm-trees you cut down or left standing on their roots, it was by God’s permission” (Al-Quran 59:5). \n\n(Bukhari and Muslim.)",
+            "narrator": "Ibn ‘Umar told that God’s Messenger cut down the palm-trees of the B. an-Nadir and burned them. On that Hassan says:"
+          }
+        },
+        {
+          "reference_text": "59:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 27368,
+            "idInBook": 1588,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَرَّقَ نَخْلَ بَنِي النَّضِيرِ وَقَطَعَ وَهِيَ الْبُوَيْرَةُ فَأَنْزَلَ اللَّهُ ‏:‏ ‏(‏ مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ ‏)‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عَبَّاسٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ ذَهَبَ قَوْمٌ مِنْ أَهْلِ الْعِلْمِ إِلَى هَذَا وَلَمْ يَرَوْا بَأْسًا بِقَطْعِ الأَشْجَارِ وَتَخْرِيبِ الْحُصُونِ ‏.‏ وَكَرِهَ بَعْضُهُمْ ذَلِكَ وَهُوَ قَوْلُ الأَوْزَاعِيِّ ‏.‏ قَالَ الأَوْزَاعِيُّ وَنَهَى أَبُو بَكْرٍ الصِّدِّيقُ يَزِيدَ أَنْ يَقْطَعَ شَجَرًا مُثْمِرًا أَوْ يُخَرِّبَ عَامِرًا وَعَمِلَ بِذَلِكَ الْمُسْلِمُونَ بَعْدَهُ ‏.‏ وَقَالَ الشَّافِعِيُّ لاَ بَأْسَ بِالتَّحْرِيقِ فِي أَرْضِ الْعَدُوِّ وَقَطْعِ الأَشْجَارِ وَالثِّمَارِ ‏.‏ وَقَالَ أَحْمَدُ وَقَدْ تَكُونُ فِي مَوَاضِعَ لاَ يَجِدُونَ مِنْهُ بُدًّا فَأَمَّا بِالْعَبَثِ فَلاَ تُحَرَّقُ ‏.‏ وَقَالَ إِسْحَاقُ التَّحْرِيقُ سُنَّةٌ إِذَا كَانَ أَنْكَى فِيهِمْ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) burnt the palm trees of Bani Nadir and cut them down at Al-Buwairah. So Allah revealed: Whatever you cut down of their palm trees, or you left them standing on their trunks, then it was by the permission of Allah, and in the order to disgrace the rebellious.(59:5)\"",
+            "narrator": "Narrated Ibn 'Umar:"
+          }
+        },
+        {
+          "reference_text": "59:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "19",
+            "id": 156,
+            "idInBook": 156,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنِ ابْنِ عُمَرَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَطَعَ نَخْلَ بني النَّضيرِ وحرَّقَ وَلها يقولُ حسَّانٌ:\nوَهَانَ عَلَى سَرَاةِ بَنِي لُؤَيٍّ حَرِيقٌ بِالْبُوَيْرَةِ مُستَطيرُ\nوَفِي ذَلِكَ نَزَلَتْ (مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ)",
+            "english": "The nobles of the B. Lu’ayy treated lightly a widely dispersed conflagration in al-Buwaira. Concerning that came down, “The palm-trees you cut down or left standing on their roots, it was by God’s permission” (Al-Quran 59:5). \n\n(Bukhari and Muslim.)",
+            "narrator": "Ibn ‘Umar told that God’s Messenger cut down the palm-trees of the B. an-Nadir and burned them. On that Hassan says:"
+          }
+        },
+        {
+          "reference_text": "59:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "21",
+            "id": 5,
+            "idInBook": 5,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَرَّقَ نَخْلَ بَنِي النَّضِيرِ وَقَطَعَ وَهِيَ الْبُوَيْرَةُ فَأَنْزَلَ اللَّهُ ‏:‏ ‏(‏ مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ ‏)‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عَبَّاسٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ ذَهَبَ قَوْمٌ مِنْ أَهْلِ الْعِلْمِ إِلَى هَذَا وَلَمْ يَرَوْا بَأْسًا بِقَطْعِ الأَشْجَارِ وَتَخْرِيبِ الْحُصُونِ ‏.‏ وَكَرِهَ بَعْضُهُمْ ذَلِكَ وَهُوَ قَوْلُ الأَوْزَاعِيِّ ‏.‏ قَالَ الأَوْزَاعِيُّ وَنَهَى أَبُو بَكْرٍ الصِّدِّيقُ يَزِيدَ أَنْ يَقْطَعَ شَجَرًا مُثْمِرًا أَوْ يُخَرِّبَ عَامِرًا وَعَمِلَ بِذَلِكَ الْمُسْلِمُونَ بَعْدَهُ ‏.‏ وَقَالَ الشَّافِعِيُّ لاَ بَأْسَ بِالتَّحْرِيقِ فِي أَرْضِ الْعَدُوِّ وَقَطْعِ الأَشْجَارِ وَالثِّمَارِ ‏.‏ وَقَالَ أَحْمَدُ وَقَدْ تَكُونُ فِي مَوَاضِعَ لاَ يَجِدُونَ مِنْهُ بُدًّا فَأَمَّا بِالْعَبَثِ فَلاَ تُحَرَّقُ ‏.‏ وَقَالَ إِسْحَاقُ التَّحْرِيقُ سُنَّةٌ إِذَا كَانَ أَنْكَى فِيهِمْ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) burnt the palm trees of Bani Nadir and cut them down at Al-Buwairah. So Allah revealed: Whatever you cut down of their palm trees, or you left them standing on their trunks, then it was by the permission of Allah, and in the order to disgrace the rebellious.(59:5)\"",
+            "narrator": "Narrated Ibn 'Umar:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَلَا رِكَابٍۢ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "text_english": "And what Allah restored [of property] to His Messenger from them - you did not spur for it [in an expedition] any horses or camels, but Allah gives His messengers power over whom He wills, and Allah is over all things competent.",
+      "hadiths": [
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46851,
+            "idInBook": 3890,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "عَن مالكِ بن أوْسِ بنِ الحَدَثانِ قَالَ: قَالَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ: إِنَّ اللَّهَ قَدْ خَصَّ رَسُولَهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي هَذَا الْفَيْءِ بِشَيْءٍ لَمْ عطه أحدا غيرَه ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُم)\nإِلى قولِه (قديرٌ)\nفكانتْ هَذِه خَالِصَة لرَسُول اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَتِهِمْ مِنْ هَذَا الْمَالِ. ثُمَّ يَأْخُذُ مَا بَقِيَ فَيَجْعَلُهُ مَجْعَلَ مَالِ اللَّهِ",
+            "english": "Malik b. Aus b. al-Hadathan reported \"Umar b. al-Khattab as saying that God appointed His Messenger a special portion in this fai’* which He gave to no other. He then recited, “What God has bestowed on His Messenger from them . . . omnipotent\" (Al-Qur’an; 59:6). This was purely for God’s Messenger who used to give his family their annual contribution from this property, then take what remained and deal with it as he did with God’s property.\n\n *Fai’ is the term used for tribute from territory the Muslims have conquered.\n\n(Bukhari and Muslim.)",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36328,
+            "idInBook": 165,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، وَمَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِمَّا لَمْ يُوجِفْ الْمُسْلِمُونَ عَلَيْهِ بِخَيْلٍ وَلَا رِكَابٍ فَكَانَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَالِصَةً وَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهَا نَفَقَةَ سَنَةٍ وَقَالَ مَرَّةً قُوتَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلَاحِ عُدَّةً فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+            "english": "The wealth of Banu an-­Nadeer was among the fai' that Allah bestowed upon His Messenger ﷺ, for which the Muslims made no expedition with either cavalry or camelry (cf. al-Hashr 59:6). It was only for the Messenger of Allah ﷺ and he used to spend from it on his family's annual expenses-and on one occasion he said: his annual \nfood supply ­-and what was left he spent on horses and weapons in preparation for jihad for the sake of Allah, may He be glorified and exalted,",
+            "narrator": "!t was narrated that 'Umar bin al-Khattab رضي الله عنه said:"
+          }
+        },
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36483,
+            "idInBook": 320,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسٍ، قَالَ أَرْسَلَ إِلَيَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُ فَذَكَرَ الْحَدِيثَ وَقَالَ إِنَّ أَمْوَالَ بَنِي النَّضِيرِ كَانَتْ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِمَّا لَمْ يُوجِفْ عَلَيْهِ الْمُسْلِمُونَ بِخَيْلٍ وَلَا رِكَابٍ فَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهَا نَفَقَةَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلَاحِ عُدَّةً فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+            "english": "‘Umar sent for me... and he mentioned a similar hadeeth. He said: The wealth of Banun-Nadeer was among the fai` that Allah granted to His Messenger for which the Muslims made no expedition with either cavalry or camelry (cf. al-Hashr 59:6). He allocated some of it for his family`s maintenance for one year, and what was left he spent on horses and weapons in preparation for jihad for the sake of Allah, may He be glorified and exalted.",
+            "narrator": "It was narrated that Malik bin Aws said:"
+          }
+        },
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "19",
+            "id": 265,
+            "idInBook": 265,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "عَن مالكِ بن أوْسِ بنِ الحَدَثانِ قَالَ: قَالَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ: إِنَّ اللَّهَ قَدْ خَصَّ رَسُولَهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي هَذَا الْفَيْءِ بِشَيْءٍ لَمْ عطه أحدا غيرَه ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُم)\nإِلى قولِه (قديرٌ)\nفكانتْ هَذِه خَالِصَة لرَسُول اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَتِهِمْ مِنْ هَذَا الْمَالِ. ثُمَّ يَأْخُذُ مَا بَقِيَ فَيَجْعَلُهُ مَجْعَلَ مَالِ اللَّهِ",
+            "english": "Malik b. Aus b. al-Hadathan reported \"Umar b. al-Khattab as saying that God appointed His Messenger a special portion in this fai’* which He gave to no other. He then recited, “What God has bestowed on His Messenger from them . . . omnipotent\" (Al-Qur’an; 59:6). This was purely for God’s Messenger who used to give his family their annual contribution from this property, then take what remained and deal with it as he did with God’s property.\n\n *Fai’ is the term used for tribute from territory the Muslims have conquered.\n\n(Bukhari and Muslim.)",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "2",
+            "id": 88,
+            "idInBook": 88,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، وَمَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِمَّا لَمْ يُوجِفْ الْمُسْلِمُونَ عَلَيْهِ بِخَيْلٍ وَلَا رِكَابٍ فَكَانَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَالِصَةً وَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهَا نَفَقَةَ سَنَةٍ وَقَالَ مَرَّةً قُوتَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلَاحِ عُدَّةً فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+            "english": "The wealth of Banu an-­Nadeer was among the fai' that Allah bestowed upon His Messenger ﷺ, for which the Muslims made no expedition with either cavalry or camelry (cf. al-Hashr 59:6). It was only for the Messenger of Allah ﷺ and he used to spend from it on his family's annual expenses-and on one occasion he said: his annual \nfood supply ­-and what was left he spent on horses and weapons in preparation for jihad for the sake of Allah, may He be glorified and exalted,",
+            "narrator": "!t was narrated that 'Umar bin al-Khattab رضي الله عنه said:"
+          }
+        },
+        {
+          "reference_text": "59:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "2",
+            "id": 243,
+            "idInBook": 243,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسٍ، قَالَ أَرْسَلَ إِلَيَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُ فَذَكَرَ الْحَدِيثَ وَقَالَ إِنَّ أَمْوَالَ بَنِي النَّضِيرِ كَانَتْ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِمَّا لَمْ يُوجِفْ عَلَيْهِ الْمُسْلِمُونَ بِخَيْلٍ وَلَا رِكَابٍ فَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهَا نَفَقَةَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلَاحِ عُدَّةً فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+            "english": "‘Umar sent for me... and he mentioned a similar hadeeth. He said: The wealth of Banun-Nadeer was among the fai` that Allah granted to His Messenger for which the Muslims made no expedition with either cavalry or camelry (cf. al-Hashr 59:6). He allocated some of it for his family`s maintenance for one year, and what was left he spent on horses and weapons in preparation for jihad for the sake of Allah, may He be glorified and exalted.",
+            "narrator": "It was narrated that Malik bin Aws said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "text_english": "And what Allah restored to His Messenger from the people of the towns - it is for Allah and for the Messenger and for [his] near relatives and orphans and the [stranded] traveler - so that it will not be a perpetual distribution among the rich from among you. And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allah; indeed, Allah is severe in penalty.",
+      "hadiths": [
+        {
+          "reference_text": "59:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46857,
+            "idInBook": 3896,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنْهُ قَالَ: قَرَأَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنهُ: (إِنَّما الصَّدَقاتُ للفقراءِ والمساكينِ)\nحَتَّى بَلَغَ (عَلِيمٌ حَكِيمٌ)\nفَقَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (وَاعْلَمُوا أَنَّ مَا غَنِمْتُمْ مِنْ شيءٍ فإنَّ للَّهِ خُمُسَه وللرَّسولِ)\nحَتَّى بلغَ (وابنِ السَّبِيلِ)\nثُمَّ قَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقرى)\nحَتَّى بلغَ (للفقراءِ)\nثمَّ قرأَ (والذينَ جاؤوا منْ بعدِهِم)\nثُمَّ قَالَ: هَذِهِ اسْتَوْعَبَتِ الْمُسْلِمِينَ عَامَّةً فَلَئِنْ عِشْتُ فَلَيَأْتِيَنَّ الرَّاعِيَ وَهُوَ بِسَرْوِ حِمْيَرَ نَصِيبُهُ مِنْهَا لَمْ يَعْرَقْ فِيهَا جَبِينُهُ. رَوَاهُ فِي شرح السّنة",
+            "english": "He told that ‘Umar b. al-Khattab recited, “Alms are for the poor and needy…Knowing, Wise,\" (Al-Qur’an; 9:60) and said that this verse applies to such. He then recited, “Know that a fifth of whatever booty you acquire goes to God and the Messenger . . . the traveller,\" (Al-Qur’an; 8:41) and said that this verse applies to such. He then recited, “What God has bestowed on His Messenger from the people of the towns ... to the poor\" (Al-Qur’an; 59:7 f. The last word mentioned is the first word of verse 8. It may mean that he recited the whole of verse 8). He then recited, “And those who came after them,\" (Al-Qur’an; 59:10) saying that this includes all the Muslims, and adding that if he lived the herdsman in the sarw* of Himyar would certainly get his share which he had not earned by the sweat of his brow.\t\n\n* The word means a hill slope above a valley, not right upon the mountain. When associated with Himyar it is said to mean their settlement, cf. Yaqut, Mu'jam, iii, 82. The Himyarites were a famous South Arabian people.\n\nIt is transmitted in Sharh as-sunna.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42032,
+            "idInBook": 967,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن ابن مسعود رضي الله عنه قال‏:‏ لعن الله الواشمات والمستوشمات والمتنمصات والمتفلجات بالحسن، المغيرات خلق الله‏!‏ فقالت له امرأة في ذلك فقال‏:‏ وما لي لا ألعن من لعنه رسول الله صلى الله عليه وسلم وهو في كتاب الله‏؟‏‏!‏ قال الله تعالى‏:‏ ‏{‏وما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا‏}‏ ‏(‏‏(‏الحشر‏:‏7‏)‏‏)‏‏.‏‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏  المتفلجة هي: التي تبرد من أسنانها ليتباعد بعضها من بعض قليلا، وتحسنها وهو الوشر. والنامصة:  التي تأخذ من شعر حاجب غيرها، وترققه ليصير حسنا. والمتنمصة: التي تأمر من يفعل بها ذلك.",
+            "english": "Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation. A woman started to argue with him, saying: \"What is all this?\" He replied: \"Why should I not curse those whom the Messenger of Allah (ﷺ) cursed and who are cursed in Allah's Book? Allah, the Exalted, has said in His Book:\"And whatsoever the Messenger (Muhammad (ﷺ)) gives you, take it; and whatsoever he forbids you, abstain (from it).\" (59:7).",
+            "narrator": "Ibn Mas'ud (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "سورة الحشر آية 7",
+          "surah_name": "الحشر",
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "darimi",
+            "id": 39454,
+            "idInBook": 1917,
+            "bookId": 9,
+            "chapterId": 19,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ يُوسُفَ  ، عَنْ سُفْيَانَ  ، عَنْ مَنْصُورٍ  ، عَنْ إِبْرَاهِيمَ  ، عَنْ عَلْقَمَةَ  ،  عَنْ عَبْدِ اللَّهِ  ، قَالَ :\" لَعَنَ اللَّهُ الْوَاشِمَاتِ، ، وَالْمُتَنَمِّصَاتِ، وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ \"، فَبَلَغَ ذَلِكَ امْرَأَةً مِنْ بَنِي أَسَدٍ يُقَالُ لَهَا : أُمُّ يَعْقُوبَ ، فَجَاءَتْ فَقَالَتْ : بَلَغَنِي أَنَّكَ لَعَنْتَ كَيْتَ وَكَيْتَ؟، فَقَالَ : وَمَا لِي لَا أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَهُوَ فِي كِتَابِ اللَّهِ؟، فَقَالَتْ : لَقَدْ قَرَأْتُ مَا بَيْنَ اللَّوْحَيْنِ، فَمَا وَجَدْتُ فِيهِ مَا تَقُولُ.\nقَالَ : لَئِنْ كُنْتِ قَرَأْتِيهِ، لَقَدْ وَجَدْتِيهِ، أَمَا قَرَأْتِ # وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ سورة الحشر آية 7 #؟، فَقَالَتْ : بَلَى.\nقَالَ : فَإِنَّهُ قَدْ نَهَى عَنْهُ، فَقَالَتْ : فَإِنِّي أَرَى أَهْلَكَ يَفْعَلُونَهُ؟.\nقَالَ : فَادْخُلِي فَانْظُرِي.\nفَدَخَلَتْ فَنَظَرَتْ، فَلَمْ تَرَ مِنْ حَاجَتِهَا شَيْئًا، فَقَالَ : لَوْ كَانَتْ كَذَلِكَ مَا جَامَعْتُهَا",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "19",
+            "id": 271,
+            "idInBook": 271,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنْهُ قَالَ: قَرَأَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنهُ: (إِنَّما الصَّدَقاتُ للفقراءِ والمساكينِ)\nحَتَّى بَلَغَ (عَلِيمٌ حَكِيمٌ)\nفَقَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (وَاعْلَمُوا أَنَّ مَا غَنِمْتُمْ مِنْ شيءٍ فإنَّ للَّهِ خُمُسَه وللرَّسولِ)\nحَتَّى بلغَ (وابنِ السَّبِيلِ)\nثُمَّ قَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقرى)\nحَتَّى بلغَ (للفقراءِ)\nثمَّ قرأَ (والذينَ جاؤوا منْ بعدِهِم)\nثُمَّ قَالَ: هَذِهِ اسْتَوْعَبَتِ الْمُسْلِمِينَ عَامَّةً فَلَئِنْ عِشْتُ فَلَيَأْتِيَنَّ الرَّاعِيَ وَهُوَ بِسَرْوِ حِمْيَرَ نَصِيبُهُ مِنْهَا لَمْ يَعْرَقْ فِيهَا جَبِينُهُ. رَوَاهُ فِي شرح السّنة",
+            "english": "He told that ‘Umar b. al-Khattab recited, “Alms are for the poor and needy…Knowing, Wise,\" (Al-Qur’an; 9:60) and said that this verse applies to such. He then recited, “Know that a fifth of whatever booty you acquire goes to God and the Messenger . . . the traveller,\" (Al-Qur’an; 8:41) and said that this verse applies to such. He then recited, “What God has bestowed on His Messenger from the people of the towns ... to the poor\" (Al-Qur’an; 59:7 f. The last word mentioned is the first word of verse 8. It may mean that he recited the whole of verse 8). He then recited, “And those who came after them,\" (Al-Qur’an; 59:10) saying that this includes all the Muslims, and adding that if he lived the herdsman in the sarw* of Himyar would certainly get his share which he had not earned by the sweat of his brow.\t\n\n* The word means a hill slope above a valley, not right upon the mountain. When associated with Himyar it is said to mean their settlement, cf. Yaqut, Mu'jam, iii, 82. The Himyarites were a famous South Arabian people.\n\nIt is transmitted in Sharh as-sunna.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "17",
+            "id": 136,
+            "idInBook": 136,
+            "bookId": 13,
+            "chapterId": 17,
+            "arabic": "وعن ابن مسعود رضي الله عنه قال‏:‏ لعن الله الواشمات والمستوشمات والمتنمصات والمتفلجات بالحسن، المغيرات خلق الله‏!‏ فقالت له امرأة في ذلك فقال‏:‏ وما لي لا ألعن من لعنه رسول الله صلى الله عليه وسلم وهو في كتاب الله‏؟‏‏!‏ قال الله تعالى‏:‏ ‏{‏وما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا‏}‏ ‏(‏‏(‏الحشر‏:‏7‏)‏‏)‏‏.‏‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏  المتفلجة هي: التي تبرد من أسنانها ليتباعد بعضها من بعض قليلا، وتحسنها وهو الوشر. والنامصة:  التي تأخذ من شعر حاجب غيرها، وترققه ليصير حسنا. والمتنمصة: التي تأمر من يفعل بها ذلك.",
+            "english": "Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation. A woman started to argue with him, saying: \"What is all this?\" He replied: \"Why should I not curse those whom the Messenger of Allah (ﷺ) cursed and who are cursed in Allah's Book? Allah, the Exalted, has said in His Book:\"And whatsoever the Messenger (Muhammad (ﷺ)) gives you, take it; and whatsoever he forbids you, abstain (from it).\" (59:7).",
+            "narrator": "Ibn Mas'ud (May Allah be pleased with him) said:"
+          }
+        },
+        {
+          "reference_text": "سورة الحشر آية 7",
+          "surah_name": "الحشر",
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "19",
+            "id": 19,
+            "idInBook": 19,
+            "bookId": 9,
+            "chapterId": 19,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ يُوسُفَ  ، عَنْ سُفْيَانَ  ، عَنْ مَنْصُورٍ  ، عَنْ إِبْرَاهِيمَ  ، عَنْ عَلْقَمَةَ  ،  عَنْ عَبْدِ اللَّهِ  ، قَالَ :\" لَعَنَ اللَّهُ الْوَاشِمَاتِ، ، وَالْمُتَنَمِّصَاتِ، وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ \"، فَبَلَغَ ذَلِكَ امْرَأَةً مِنْ بَنِي أَسَدٍ يُقَالُ لَهَا : أُمُّ يَعْقُوبَ ، فَجَاءَتْ فَقَالَتْ : بَلَغَنِي أَنَّكَ لَعَنْتَ كَيْتَ وَكَيْتَ؟، فَقَالَ : وَمَا لِي لَا أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَهُوَ فِي كِتَابِ اللَّهِ؟، فَقَالَتْ : لَقَدْ قَرَأْتُ مَا بَيْنَ اللَّوْحَيْنِ، فَمَا وَجَدْتُ فِيهِ مَا تَقُولُ.\nقَالَ : لَئِنْ كُنْتِ قَرَأْتِيهِ، لَقَدْ وَجَدْتِيهِ، أَمَا قَرَأْتِ # وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ سورة الحشر آية 7 #؟، فَقَالَتْ : بَلَى.\nقَالَ : فَإِنَّهُ قَدْ نَهَى عَنْهُ، فَقَالَتْ : فَإِنِّي أَرَى أَهْلَكَ يَفْعَلُونَهُ؟.\nقَالَ : فَادْخُلِي فَانْظُرِي.\nفَدَخَلَتْ فَنَظَرَتْ، فَلَمْ تَرَ مِنْ حَاجَتِهَا شَيْئًا، فَقَالَ : لَوْ كَانَتْ كَذَلِكَ مَا جَامَعْتُهَا",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "text_english": "For the poor emigrants who were expelled from their homes and their properties, seeking bounty from Allah and [His] approval and supporting Allah and His Messenger, [there is also a share]. Those are the truthful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "text_english": "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+      "hadiths": [
+        {
+          "reference_text": "59:9",
+          "surah_name": null,
+          "start_ayah": 9,
+          "end_ayah": 9,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 48131,
+            "idInBook": 742,
+            "bookId": 15,
+            "chapterId": 32,
+            "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ دَاوُدَ، عَنْ فُضَيْلِ بْنِ غَزْوَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً أَتَى النَّبِيَّ صلى الله عليه وسلم، فَبَعَثَ إِلَى نِسَائِهِ، فَقُلْنَ‏:‏ مَا مَعَنَا إِلاَّ الْمَاءُ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ مَنْ يَضُمُّ، أَوْ يُضِيفُ، هَذَا‏؟‏ فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ‏:‏ أَنَا‏.‏ فَانْطَلَقَ بِهِ إِلَى امْرَأَتِهِ فَقَالَ‏:‏ أَكْرِمِي ضَيْفَ رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَتْ‏:‏ مَا عِنْدَنَا إِلاَّ قُوتٌ لِلصِّبْيَانِ، فَقَالَ‏:‏ هَيِّئِي طَعَامَكِ، وَأَصْلِحِي سِرَاجَكِ، وَنَوِّمِي صِبْيَانَكِ إِذَا أَرَادُوا عَشَاءً، فَهَيَّأَتْ طَعَامَهَا، وَأَصْلَحَتْ سِرَاجَهَا، وَنَوَّمَتْ صِبْيَانَهَا، ثُمَّ قَامَتْ كَأَنَّهَا تُصْلِحُ سِرَاجَهَا فَأَطْفَأَتْهُ، وَجَعَلاَ يُرِيَانِهِ أَنَّهُمَا يَأْكُلاَنِ، وَبَاتَا طَاوِيَيْنِ، فَلَمَّا أَصْبَحَ غَدَا إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَ صلى الله عليه وسلم‏:‏ لَقَدْ ضَحِكَ اللَّهُ، أَوْ‏:‏ عَجِبَ، مِنْ فَعَالِكُمَا، وَأَنْزَلَ اللَّهُ‏:‏ ‏{‏وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ‏}‏‏.‏",
+            "english": "\" ... but give  preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.\" (al-Hashr,59:9)",
+            "narrator": "Abu Hurayrah (ra) said that a man came to the Messenger of Allah (ﷺ). He sent message to his homes that they should send him if they had anything (to entertain his guest). They all sent back a reply that they had nothing but water. The messenger of Allah ^ asked (his companions),\" Who will entertain this guest?\" One of the Ansar volunteered to serve the guest. This companion took him and said to his wife,\" Honour the guest of the Messenger of Allah.\" She responded that they only had the food of their children and nothing more. He said to her,\" Prepare to serve and set the lantern and send the children to sleep\". When they decided to have their meal, she laid the food on the cloth and set the lantern after putting her children to sleep. She then stood pretending to set right the lantern but, in the process, she extinguished it. Both husband and wife sat down leaving an impression on their guest that they were partaking the meal with him. Both of them passed the night in hunger. In the morning, that companion went to the Prophet (ﷺ) who said to him,\" Allah is pleased with your deed and revealed to me this verse:"
+          }
+        },
+        {
+          "reference_text": "59:9",
+          "surah_name": null,
+          "start_ayah": 9,
+          "end_ayah": 9,
+          "hadith": {
+            "source": "32",
+            "id": 2,
+            "idInBook": 2,
+            "bookId": 15,
+            "chapterId": 32,
+            "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ دَاوُدَ، عَنْ فُضَيْلِ بْنِ غَزْوَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً أَتَى النَّبِيَّ صلى الله عليه وسلم، فَبَعَثَ إِلَى نِسَائِهِ، فَقُلْنَ‏:‏ مَا مَعَنَا إِلاَّ الْمَاءُ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ مَنْ يَضُمُّ، أَوْ يُضِيفُ، هَذَا‏؟‏ فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ‏:‏ أَنَا‏.‏ فَانْطَلَقَ بِهِ إِلَى امْرَأَتِهِ فَقَالَ‏:‏ أَكْرِمِي ضَيْفَ رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَتْ‏:‏ مَا عِنْدَنَا إِلاَّ قُوتٌ لِلصِّبْيَانِ، فَقَالَ‏:‏ هَيِّئِي طَعَامَكِ، وَأَصْلِحِي سِرَاجَكِ، وَنَوِّمِي صِبْيَانَكِ إِذَا أَرَادُوا عَشَاءً، فَهَيَّأَتْ طَعَامَهَا، وَأَصْلَحَتْ سِرَاجَهَا، وَنَوَّمَتْ صِبْيَانَهَا، ثُمَّ قَامَتْ كَأَنَّهَا تُصْلِحُ سِرَاجَهَا فَأَطْفَأَتْهُ، وَجَعَلاَ يُرِيَانِهِ أَنَّهُمَا يَأْكُلاَنِ، وَبَاتَا طَاوِيَيْنِ، فَلَمَّا أَصْبَحَ غَدَا إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَ صلى الله عليه وسلم‏:‏ لَقَدْ ضَحِكَ اللَّهُ، أَوْ‏:‏ عَجِبَ، مِنْ فَعَالِكُمَا، وَأَنْزَلَ اللَّهُ‏:‏ ‏{‏وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ‏}‏‏.‏",
+            "english": "\" ... but give  preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.\" (al-Hashr,59:9)",
+            "narrator": "Abu Hurayrah (ra) said that a man came to the Messenger of Allah (ﷺ). He sent message to his homes that they should send him if they had anything (to entertain his guest). They all sent back a reply that they had nothing but water. The messenger of Allah ^ asked (his companions),\" Who will entertain this guest?\" One of the Ansar volunteered to serve the guest. This companion took him and said to his wife,\" Honour the guest of the Messenger of Allah.\" She responded that they only had the food of their children and nothing more. He said to her,\" Prepare to serve and set the lantern and send the children to sleep\". When they decided to have their meal, she laid the food on the cloth and set the lantern after putting her children to sleep. She then stood pretending to set right the lantern but, in the process, she extinguished it. Both husband and wife sat down leaving an impression on their guest that they were partaking the meal with him. Both of them passed the night in hunger. In the morning, that companion went to the Prophet (ﷺ) who said to him,\" Allah is pleased with your deed and revealed to me this verse:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ",
+      "text_english": "And [there is a share for] those who came after them, saying, \"Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.\"",
+      "hadiths": [
+        {
+          "reference_text": "59:10",
+          "surah_name": null,
+          "start_ayah": 10,
+          "end_ayah": 10,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46857,
+            "idInBook": 3896,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنْهُ قَالَ: قَرَأَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنهُ: (إِنَّما الصَّدَقاتُ للفقراءِ والمساكينِ)\nحَتَّى بَلَغَ (عَلِيمٌ حَكِيمٌ)\nفَقَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (وَاعْلَمُوا أَنَّ مَا غَنِمْتُمْ مِنْ شيءٍ فإنَّ للَّهِ خُمُسَه وللرَّسولِ)\nحَتَّى بلغَ (وابنِ السَّبِيلِ)\nثُمَّ قَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقرى)\nحَتَّى بلغَ (للفقراءِ)\nثمَّ قرأَ (والذينَ جاؤوا منْ بعدِهِم)\nثُمَّ قَالَ: هَذِهِ اسْتَوْعَبَتِ الْمُسْلِمِينَ عَامَّةً فَلَئِنْ عِشْتُ فَلَيَأْتِيَنَّ الرَّاعِيَ وَهُوَ بِسَرْوِ حِمْيَرَ نَصِيبُهُ مِنْهَا لَمْ يَعْرَقْ فِيهَا جَبِينُهُ. رَوَاهُ فِي شرح السّنة",
+            "english": "He told that ‘Umar b. al-Khattab recited, “Alms are for the poor and needy…Knowing, Wise,\" (Al-Qur’an; 9:60) and said that this verse applies to such. He then recited, “Know that a fifth of whatever booty you acquire goes to God and the Messenger . . . the traveller,\" (Al-Qur’an; 8:41) and said that this verse applies to such. He then recited, “What God has bestowed on His Messenger from the people of the towns ... to the poor\" (Al-Qur’an; 59:7 f. The last word mentioned is the first word of verse 8. It may mean that he recited the whole of verse 8). He then recited, “And those who came after them,\" (Al-Qur’an; 59:10) saying that this includes all the Muslims, and adding that if he lived the herdsman in the sarw* of Himyar would certainly get his share which he had not earned by the sweat of his brow.\t\n\n* The word means a hill slope above a valley, not right upon the mountain. When associated with Himyar it is said to mean their settlement, cf. Yaqut, Mu'jam, iii, 82. The Himyarites were a famous South Arabian people.\n\nIt is transmitted in Sharh as-sunna.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "59:10",
+          "surah_name": null,
+          "start_ayah": 10,
+          "end_ayah": 10,
+          "hadith": {
+            "source": "19",
+            "id": 271,
+            "idInBook": 271,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنْهُ قَالَ: قَرَأَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنهُ: (إِنَّما الصَّدَقاتُ للفقراءِ والمساكينِ)\nحَتَّى بَلَغَ (عَلِيمٌ حَكِيمٌ)\nفَقَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (وَاعْلَمُوا أَنَّ مَا غَنِمْتُمْ مِنْ شيءٍ فإنَّ للَّهِ خُمُسَه وللرَّسولِ)\nحَتَّى بلغَ (وابنِ السَّبِيلِ)\nثُمَّ قَالَ: هَذِهِ لِهَؤُلَاءِ. ثُمَّ قَرَأَ (مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقرى)\nحَتَّى بلغَ (للفقراءِ)\nثمَّ قرأَ (والذينَ جاؤوا منْ بعدِهِم)\nثُمَّ قَالَ: هَذِهِ اسْتَوْعَبَتِ الْمُسْلِمِينَ عَامَّةً فَلَئِنْ عِشْتُ فَلَيَأْتِيَنَّ الرَّاعِيَ وَهُوَ بِسَرْوِ حِمْيَرَ نَصِيبُهُ مِنْهَا لَمْ يَعْرَقْ فِيهَا جَبِينُهُ. رَوَاهُ فِي شرح السّنة",
+            "english": "He told that ‘Umar b. al-Khattab recited, “Alms are for the poor and needy…Knowing, Wise,\" (Al-Qur’an; 9:60) and said that this verse applies to such. He then recited, “Know that a fifth of whatever booty you acquire goes to God and the Messenger . . . the traveller,\" (Al-Qur’an; 8:41) and said that this verse applies to such. He then recited, “What God has bestowed on His Messenger from the people of the towns ... to the poor\" (Al-Qur’an; 59:7 f. The last word mentioned is the first word of verse 8. It may mean that he recited the whole of verse 8). He then recited, “And those who came after them,\" (Al-Qur’an; 59:10) saying that this includes all the Muslims, and adding that if he lived the herdsman in the sarw* of Himyar would certainly get his share which he had not earned by the sweat of his brow.\t\n\n* The word means a hill slope above a valley, not right upon the mountain. When associated with Himyar it is said to mean their settlement, cf. Yaqut, Mu'jam, iii, 82. The Himyarites were a famous South Arabian people.\n\nIt is transmitted in Sharh as-sunna.",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "text_english": "Have you not considered those who practice hypocrisy, saying to their brothers who have disbelieved among the People of the Scripture, \"If you are expelled, we will surely leave with you, and we will not obey, in regard to you, anyone - ever; and if you are fought, we will surely aid you.\" But Allah testifies that they are liars.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَٰرَ ثُمَّ لَا يُنصَرُونَ",
+      "text_english": "If they are expelled, they will not leave with them, and if they are fought, they will not aid them. And [even] if they should aid them, they will surely turn their backs; then [thereafter] they will not be aided.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "لَأَنتُمْ أَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ",
+      "text_english": "You [believers] are more fearful within their breasts than Allah. That is because they are a people who do not understand.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۚ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+      "text_english": "They will not fight you all except within fortified cities or from behind walls. Their violence among themselves is severe. You think they are together, but their hearts are diverse. That is because they are a people who do not reason.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+      "text_english": "[Theirs is] like the example of those shortly before them: they tasted the bad consequence of their affair, and they will have a painful punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "text_english": "[The hypocrites are] like the example of Satan when he says to man, \"Disbelieve.\" But when he disbelieves, he says, \"Indeed, I am disassociated from you. Indeed, I fear Allah, Lord of the worlds.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "text_english": "So the outcome for both of them is that they will be in the Fire, abiding eternally therein. And that is the recompense of the wrong-doers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌۭ مَّا قَدَّمَتْ لِغَدٍۢ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_english": "O you who have believed, fear Allah. And let every soul look to what it has put forth for tomorrow - and fear Allah. Indeed, Allah is Acquainted with what you do.",
+      "hadiths": [
+        {
+          "reference_text": "59:18",
+          "surah_name": null,
+          "start_ayah": 18,
+          "end_ayah": 18,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42453,
+            "idInBook": 1388,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "عن أبي عمرو، جرير بن عبد الله، رضي الله عنه ، قال‏:‏ كنا  في صدر النهار عند رسول الله، صلى الله عليه وسلم، فجاءه قوم عراة مجتابي النمار، أو العباء، متقلدي السيوف، عامتهم من مضر، بل كلهم من مضر؛ فتمعر وجه رسول الله، صلى الله عليه وسلم، لما رأى بهم من الفاقة؛ فدخل ثم خرج، فأمر بلالاً فأذن وأقام، فصلى ثم خطب؛ فقال‏:‏ ‏{‏يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة‏}‏ إلى آخر الآية‏:‏ ‏{‏إن الله كان عليكم رقيبا‏}‏، والآية الأخرى التي في آخر الحشر‏:‏ ‏{‏يا أيها الذين آمنوا اتقوا الله ولتنظر نفس ما قدمت لغد‏}‏ تصدق رجل من ديناره من درهمه من ثوبه من صاع بره من صاع تمره _حتى قال _ ولو بشق تمرة ‏,‏فجاء رجل من الأنصار بصرة كادت كفه تعجز عنها، بل قد عجزت، ثم تتابع الناس حتى رأيت كومين من طعام وثياب، حتى رأيت وجه رسول الله، صلى الله عليه وسلم، يتهلل كأنه مذهبة، فقال رسول الله، صلى الله عليه وسلم، ‏\n\"‏ من سن في الإسلام سنة حسنة فله أجرها، وأجر من عمل بها من بعده من غير أن يقنص من أجورهم شيء، ومن سن في الإسلام سنة سيئة كان عليه وزرها ووزر من عمل بها من بعده من غير أن ينقص من أوزارهم شيء‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "We were with Messenger of Allah (ﷺ) shortly after dawn when there came to him some people clad in woollen rags, or covered with sleeveless blankets; and with swords hanging down from their necks. Most of them rather, all of them, belonged to the Mudar tribe. The face of the Prophet (ﷺ) changed when he saw them starving. Then he went into his house and came out; then he commanded Bilal (May Allah be pleased with him) to proclaim Adhan (call to prayers). So he proclaimed Adhan and recited Iqamah and the Prophet (ﷺ) led the Salat. Then he delivered a Khutbah saying, \"O mankind! Be dutiful to your Rubb, Who created you from a single person (Adam), and from him (Adam) He created his wife (Eve), and from them both He created many men and women; and fear Allah through Whom you demand your (natural) rights, and do not sever the relations of kinship. Surely, Allah is Ever an All-Watcher over you.\" (4:1) He also recited the Ayah which is in the end of Surat Al-Hashr: \"O you who believe! Fear Allah and keep your duty to Him. And let every one look what he has sent forth for the tomorrow\". (59:18). Thereafter, every man gave in charity Dinar, Dirham, clothes, measure-fulls of wheat and measure-fulls of dates till he said: \"(Give in charity) be it half a date\". Then a man of the Ansar came with a bag which was difficult for him to hold in his hand. Thereafter, the people came successively (with charity) till I saw two heaps of food and clothes. I noticed that the face of Messenger of Allah (ﷺ) was glowing like that of the bright moon or glittering gold. Then he (ﷺ) said, \"Whosoever introduces a good practice in Islam, there is for him its reward and the reward of those who act upon it after him without anything being diminished from their rewards. And whosoever introduces an evil practice in Islam, will shoulder its sin and the sins of all those who will act upon it, without diminishing in any way their burden\".",
+            "narrator": "Jarir bin 'Abdullah (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "59:18",
+          "surah_name": null,
+          "start_ayah": 18,
+          "end_ayah": 18,
+          "hadith": {
+            "source": "introduction",
+            "id": 171,
+            "idInBook": 171,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "عن أبي عمرو، جرير بن عبد الله، رضي الله عنه ، قال‏:‏ كنا  في صدر النهار عند رسول الله، صلى الله عليه وسلم، فجاءه قوم عراة مجتابي النمار، أو العباء، متقلدي السيوف، عامتهم من مضر، بل كلهم من مضر؛ فتمعر وجه رسول الله، صلى الله عليه وسلم، لما رأى بهم من الفاقة؛ فدخل ثم خرج، فأمر بلالاً فأذن وأقام، فصلى ثم خطب؛ فقال‏:‏ ‏{‏يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة‏}‏ إلى آخر الآية‏:‏ ‏{‏إن الله كان عليكم رقيبا‏}‏، والآية الأخرى التي في آخر الحشر‏:‏ ‏{‏يا أيها الذين آمنوا اتقوا الله ولتنظر نفس ما قدمت لغد‏}‏ تصدق رجل من ديناره من درهمه من ثوبه من صاع بره من صاع تمره _حتى قال _ ولو بشق تمرة ‏,‏فجاء رجل من الأنصار بصرة كادت كفه تعجز عنها، بل قد عجزت، ثم تتابع الناس حتى رأيت كومين من طعام وثياب، حتى رأيت وجه رسول الله، صلى الله عليه وسلم، يتهلل كأنه مذهبة، فقال رسول الله، صلى الله عليه وسلم، ‏\n\"‏ من سن في الإسلام سنة حسنة فله أجرها، وأجر من عمل بها من بعده من غير أن يقنص من أجورهم شيء، ومن سن في الإسلام سنة سيئة كان عليه وزرها ووزر من عمل بها من بعده من غير أن ينقص من أوزارهم شيء‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "We were with Messenger of Allah (ﷺ) shortly after dawn when there came to him some people clad in woollen rags, or covered with sleeveless blankets; and with swords hanging down from their necks. Most of them rather, all of them, belonged to the Mudar tribe. The face of the Prophet (ﷺ) changed when he saw them starving. Then he went into his house and came out; then he commanded Bilal (May Allah be pleased with him) to proclaim Adhan (call to prayers). So he proclaimed Adhan and recited Iqamah and the Prophet (ﷺ) led the Salat. Then he delivered a Khutbah saying, \"O mankind! Be dutiful to your Rubb, Who created you from a single person (Adam), and from him (Adam) He created his wife (Eve), and from them both He created many men and women; and fear Allah through Whom you demand your (natural) rights, and do not sever the relations of kinship. Surely, Allah is Ever an All-Watcher over you.\" (4:1) He also recited the Ayah which is in the end of Surat Al-Hashr: \"O you who believe! Fear Allah and keep your duty to Him. And let every one look what he has sent forth for the tomorrow\". (59:18). Thereafter, every man gave in charity Dinar, Dirham, clothes, measure-fulls of wheat and measure-fulls of dates till he said: \"(Give in charity) be it half a date\". Then a man of the Ansar came with a bag which was difficult for him to hold in his hand. Thereafter, the people came successively (with charity) till I saw two heaps of food and clothes. I noticed that the face of Messenger of Allah (ﷺ) was glowing like that of the bright moon or glittering gold. Then he (ﷺ) said, \"Whosoever introduces a good practice in Islam, there is for him its reward and the reward of those who act upon it after him without anything being diminished from their rewards. And whosoever introduces an evil practice in Islam, will shoulder its sin and the sins of all those who will act upon it, without diminishing in any way their burden\".",
+            "narrator": "Jarir bin 'Abdullah (May Allah be pleased with him) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+      "text_english": "And be not like those who forgot Allah, so He made them forget themselves. Those are the defiantly disobedient.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "text_english": "Not equal are the companions of the Fire and the companions of Paradise. The companions of Paradise - they are the attainers [of success].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "text_english": "If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah. And these examples We present to the people that perhaps they will give thought.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۖ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ",
+      "text_english": "He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "text_english": "He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_english": "He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.",
+      "hadiths": []
+    }
+  ]
+}

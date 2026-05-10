@@ -1,0 +1,816 @@
+{
+  "surah": {
+    "id": 56,
+    "name_arabic": "سُورَةُ الوَاقِعَةِ",
+    "name_english": "Al-Waaqia",
+    "name_english_translation": "The Inevitable",
+    "verses_count": 96
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "text_english": "When the Occurrence occurs,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "text_english": "There is, at its occurrence, no denial.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "خَافِضَةٌۭ رَّافِعَةٌ",
+      "text_english": "It will bring down [some] and raise up [others].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا",
+      "text_english": "When the earth is shaken with convulsion",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا",
+      "text_english": "And the mountains are broken down, crumbling",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا",
+      "text_english": "And become dust dispersing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ",
+      "text_english": "And you become [of] three kinds:",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "text_english": "Then the companions of the right - what are the companions of the right?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "text_english": "And the companions of the left - what are the companions of the left?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "text_english": "And the forerunners, the forerunners -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "text_english": "Those are the ones brought near [to Allah]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+      "text_english": "In the Gardens of Pleasure,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+      "text_english": "A [large] company of the former peoples",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ",
+      "text_english": "And a few of the later peoples,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+      "text_english": "On thrones woven [with ornament],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ",
+      "text_english": "Reclining on them, facing each other.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ",
+      "text_english": "There will circulate among them young boys made eternal",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "بِأَكْوَابٍۢ وَأَبَارِيقَ وَكَأْسٍۢ مِّن مَّعِينٍۢ",
+      "text_english": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+      "text_english": "No headache will they have therefrom, nor will they be intoxicated -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَفَٰكِهَةٍۢ مِّمَّا يَتَخَيَّرُونَ",
+      "text_english": "And fruit of what they select",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَلَحْمِ طَيْرٍۢ مِّمَّا يَشْتَهُونَ",
+      "text_english": "And the meat of fowl, from whatever they desire.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَحُورٌ عِينٌۭ",
+      "text_english": "And [for them are] fair women with large, [beautiful] eyes,",
+      "hadiths": [
+        {
+          "reference_text": "56:22",
+          "surah_name": null,
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46632,
+            "idInBook": 3671,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنِ الْمِقْدَامِ بْنِ مَعْدِي كَرِبَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" لِلشَّهِيدِ عِنْدَ اللَّهِ سِتُّ خِصَالٍ: يُغْفَرُ لَهُ فِي أوَّلِ دفعةٍ وَيَرَى مَقْعَدَهُ مِنَ الْجَنَّةِ وَيُجَارُ مِنْ عَذَابِ الْقَبْرِ وَيَأْمَنُ مِنَ الْفَزَعِ الْأَكْبَرِ وَيُوضَعُ عَلَى رَأْسِهِ تَاجُ الْوَقَارِ الْيَاقُوتَةُ مِنْهَا خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ويزوَّجُ ثنتينِ وَسَبْعِينَ زَوْجَةً مِنَ الْحُورِ الْعِينِ وَيُشَفَّعُ فِي سَبْعِينَ مِنْ أَقْرِبَائِهِ \". رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ",
+            "english": "he is forgiven at the first shedding of his blood, he is shown his abode in paradise, he is preserved from the punishment in the grave, he is kept safe from the greatest terror2, he has placed on his head the crown of honour a ruby of which is better than the world and what it contains, he is married to seventy-two wives of the maidens with large dark eyes,3 and is made intercessor for seventy of his relatives.” \n\n1. There seem to be seven things mentioned in this tradition.\n2. Cf. Al-Qur'an; 21:103.\n3. Cf. Al-Qur’an, 56:22.\n\nTirmidhi and Ibn Majah transmitted it.",
+            "narrator": "Al-Miqdam b. Ma'dikarib reported God’s Messenger as saying, “The martyr receives six1 good things from God:"
+          }
+        },
+        {
+          "reference_text": "56:22",
+          "surah_name": null,
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "19",
+            "id": 46,
+            "idInBook": 46,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَنِ الْمِقْدَامِ بْنِ مَعْدِي كَرِبَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" لِلشَّهِيدِ عِنْدَ اللَّهِ سِتُّ خِصَالٍ: يُغْفَرُ لَهُ فِي أوَّلِ دفعةٍ وَيَرَى مَقْعَدَهُ مِنَ الْجَنَّةِ وَيُجَارُ مِنْ عَذَابِ الْقَبْرِ وَيَأْمَنُ مِنَ الْفَزَعِ الْأَكْبَرِ وَيُوضَعُ عَلَى رَأْسِهِ تَاجُ الْوَقَارِ الْيَاقُوتَةُ مِنْهَا خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ويزوَّجُ ثنتينِ وَسَبْعِينَ زَوْجَةً مِنَ الْحُورِ الْعِينِ وَيُشَفَّعُ فِي سَبْعِينَ مِنْ أَقْرِبَائِهِ \". رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ",
+            "english": "he is forgiven at the first shedding of his blood, he is shown his abode in paradise, he is preserved from the punishment in the grave, he is kept safe from the greatest terror2, he has placed on his head the crown of honour a ruby of which is better than the world and what it contains, he is married to seventy-two wives of the maidens with large dark eyes,3 and is made intercessor for seventy of his relatives.” \n\n1. There seem to be seven things mentioned in this tradition.\n2. Cf. Al-Qur'an; 21:103.\n3. Cf. Al-Qur’an, 56:22.\n\nTirmidhi and Ibn Majah transmitted it.",
+            "narrator": "Al-Miqdam b. Ma'dikarib reported God’s Messenger as saying, “The martyr receives six1 good things from God:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+      "text_english": "The likenesses of pearls well-protected,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "text_english": "As reward for what they used to do.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا",
+      "text_english": "They will not hear therein ill speech or commission of sin -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا",
+      "text_english": "Only a saying: \"Peace, peace.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+      "text_english": "The companions of the right - what are the companions of the right?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "فِى سِدْرٍۢ مَّخْضُودٍۢ",
+      "text_english": "[They will be] among lote trees with thorns removed",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "وَطَلْحٍۢ مَّنضُودٍۢ",
+      "text_english": "And [banana] trees layered [with fruit]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "وَظِلٍّۢ مَّمْدُودٍۢ",
+      "text_english": "And shade extended",
+      "hadiths": [
+        {
+          "reference_text": "سورة الواقعة آية 30",
+          "surah_name": "الواقعة",
+          "start_ayah": 30,
+          "end_ayah": 30,
+          "hadith": {
+            "source": "darimi",
+            "id": 39638,
+            "idInBook": 2101,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ أَبِي هُرَيْرَةَ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ عَامٍ لَا يَقْطَعُهَا، وَاقْرَءُوا إِنْ شِئْتُمْ : # وَظِلٍّ مَمْدُودٍ سورة الواقعة آية 30 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "56:30",
+          "surah_name": null,
+          "start_ayah": 30,
+          "end_ayah": 30,
+          "hadith": {
+            "source": "ibnmajah",
+            "id": 33906,
+            "idInBook": 4073,
+            "bookId": 6,
+            "chapterId": 37,
+            "arabic": "حَدَّثَنَا أَبُو عُمَرَ الضَّرِيرُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُثْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ سَنَةٍ لاَ يَقْطَعُهَا ‏\"‏ ‏.‏ وَاقْرَءُوا إِنْ شِئْتُمْ ‏{وَظِلٍّ مَمْدُودٍ * وَمَاءٍ مَسْكُوبٍ ‏)‏ ‏.‏",
+            "english": "“In Paradise there is a tree under whose shade a rider could travel\nfor one hundred years and never leave it.”\n\"Recite, if you wish: 'And in shade long-extended (56:30).'\"",
+            "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"
+          }
+        },
+        {
+          "reference_text": "سورة الواقعة آية 30",
+          "surah_name": "الواقعة",
+          "start_ayah": 30,
+          "end_ayah": 30,
+          "hadith": {
+            "source": "20",
+            "id": 128,
+            "idInBook": 128,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ  ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو  ، عَنْ أَبِي سَلَمَةَ  ، عَنْ أَبِي هُرَيْرَةَ  ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ عَامٍ لَا يَقْطَعُهَا، وَاقْرَءُوا إِنْ شِئْتُمْ : # وَظِلٍّ مَمْدُودٍ سورة الواقعة آية 30 # \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "56:30",
+          "surah_name": null,
+          "start_ayah": 30,
+          "end_ayah": 30,
+          "hadith": {
+            "source": "37",
+            "id": 236,
+            "idInBook": 236,
+            "bookId": 6,
+            "chapterId": 37,
+            "arabic": "حَدَّثَنَا أَبُو عُمَرَ الضَّرِيرُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُثْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ سَنَةٍ لاَ يَقْطَعُهَا ‏\"‏ ‏.‏ وَاقْرَءُوا إِنْ شِئْتُمْ ‏{وَظِلٍّ مَمْدُودٍ * وَمَاءٍ مَسْكُوبٍ ‏)‏ ‏.‏",
+            "english": "“In Paradise there is a tree under whose shade a rider could travel\nfor one hundred years and never leave it.”\n\"Recite, if you wish: 'And in shade long-extended (56:30).'\"",
+            "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "وَمَآءٍۢ مَّسْكُوبٍۢ",
+      "text_english": "And water poured out",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "وَفَٰكِهَةٍۢ كَثِيرَةٍۢ",
+      "text_english": "And fruit, abundant [and varied],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ",
+      "text_english": "Neither limited [to season] nor forbidden,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "وَفُرُشٍۢ مَّرْفُوعَةٍ",
+      "text_english": "And [upon] beds raised high.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءًۭ",
+      "text_english": "Indeed, We have produced the women of Paradise in a [new] creation",
+      "hadiths": [
+        {
+          "reference_text": "56:35",
+          "surah_name": null,
+          "start_ayah": 35,
+          "end_ayah": 35,
+          "hadith": {
+            "source": "shamail_muhammadiyah",
+            "id": 48949,
+            "idInBook": 234,
+            "bookId": 16,
+            "chapterId": 35,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ‏:‏ حَدَّثَنَا مُصْعَبُ بْنُ الْمِقْدَامِ، قَالَ‏:‏ حَدَّثَنَا الْمُبَارِكُ بْنُ فَضَالَةَ، عَنِ الْحَسَنِ، قَالَ‏:‏ أَتَتْ عَجُوزٌ إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَتْ‏:‏ يَا رَسُولَ اللهِ، ادْعُ اللَّهَ أَنْ يُدْخِلَنِي الْجَنَّةَ، فَقَالَ‏:‏ يَا أُمَّ فُلانٍ، إِنَّ الْجَنَّةَ لا تَدْخُلُهَا عَجُوزٌ، قَالَ‏:‏ فَوَلَّتْ تَبْكِي، فَقَالَ‏:‏ أَخْبِرُوهَا أَنَّهَا لا تَدْخُلُهَا وَهِيَ عَجُوزٌ إِنَّ اللَّهَ تَعَالَى، يَقُولُ‏:‏ إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً، فَجَعَلْنَاهُنَّ أَبْكَارًا، عُرُبًا أَتْرَابًا‏.‏",
+            "english": "\"An old woman came to the Prophet (Allah bless him and give him peace) and said: 'O Messenger of Allah, beseech Allah to let me enter the Garden of Paradise!' He replied: 'O Mother of So-and-so, no old woman will enter the Garden of Paradise!' She turned away weeping, so he said: 'Tell her that she will not enter it as an old woman, for Allah says: ‘We have created them a new creation, and made them virgins, loving, equal in age .’” (Al-Qur'an; 56:35-37)",
+            "narrator": "Al-Hasan Al-Basri said:"
+          }
+        },
+        {
+          "reference_text": "56:35",
+          "surah_name": null,
+          "start_ayah": 35,
+          "end_ayah": 35,
+          "hadith": {
+            "source": "35",
+            "id": 6,
+            "idInBook": 6,
+            "bookId": 16,
+            "chapterId": 35,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ‏:‏ حَدَّثَنَا مُصْعَبُ بْنُ الْمِقْدَامِ، قَالَ‏:‏ حَدَّثَنَا الْمُبَارِكُ بْنُ فَضَالَةَ، عَنِ الْحَسَنِ، قَالَ‏:‏ أَتَتْ عَجُوزٌ إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَتْ‏:‏ يَا رَسُولَ اللهِ، ادْعُ اللَّهَ أَنْ يُدْخِلَنِي الْجَنَّةَ، فَقَالَ‏:‏ يَا أُمَّ فُلانٍ، إِنَّ الْجَنَّةَ لا تَدْخُلُهَا عَجُوزٌ، قَالَ‏:‏ فَوَلَّتْ تَبْكِي، فَقَالَ‏:‏ أَخْبِرُوهَا أَنَّهَا لا تَدْخُلُهَا وَهِيَ عَجُوزٌ إِنَّ اللَّهَ تَعَالَى، يَقُولُ‏:‏ إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً، فَجَعَلْنَاهُنَّ أَبْكَارًا، عُرُبًا أَتْرَابًا‏.‏",
+            "english": "\"An old woman came to the Prophet (Allah bless him and give him peace) and said: 'O Messenger of Allah, beseech Allah to let me enter the Garden of Paradise!' He replied: 'O Mother of So-and-so, no old woman will enter the Garden of Paradise!' She turned away weeping, so he said: 'Tell her that she will not enter it as an old woman, for Allah says: ‘We have created them a new creation, and made them virgins, loving, equal in age .’” (Al-Qur'an; 56:35-37)",
+            "narrator": "Al-Hasan Al-Basri said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "فَجَعَلْنَٰهُنَّ أَبْكَارًا",
+      "text_english": "And made them virgins,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "عُرُبًا أَتْرَابًۭا",
+      "text_english": "Devoted [to their husbands] and of equal age,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "لِّأَصْحَٰبِ ٱلْيَمِينِ",
+      "text_english": "For the companions of the right [who are]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+      "text_english": "A company of the former peoples",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "وَثُلَّةٌۭ مِّنَ ٱلْءَاخِرِينَ",
+      "text_english": "And a company of the later peoples.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+      "text_english": "And the companions of the left - what are the companions of the left?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "فِى سَمُومٍۢ وَحَمِيمٍۢ",
+      "text_english": "[They will be] in scorching fire and scalding water",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "وَظِلٍّۢ مِّن يَحْمُومٍۢ",
+      "text_english": "And a shade of black smoke,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "لَّا بَارِدٍۢ وَلَا كَرِيمٍ",
+      "text_english": "Neither cool nor beneficial.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "text_english": "Indeed they were, before that, indulging in affluence,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "text_english": "And they used to persist in the great violation,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "text_english": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "text_english": "And our forefathers [as well]?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ",
+      "text_english": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+      "text_english": "Are to be gathered together for the appointment of a known Day.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+      "text_english": "Then indeed you, O those astray [who are] deniers,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+      "text_english": "Will be eating from trees of zaqqum",
+      "hadiths": []
+    },
+    {
+      "verse_number": 53,
+      "text_arabic": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "text_english": "And filling with it your bellies",
+      "hadiths": []
+    },
+    {
+      "verse_number": 54,
+      "text_arabic": "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+      "text_english": "And drinking on top of it from scalding water",
+      "hadiths": []
+    },
+    {
+      "verse_number": 55,
+      "text_arabic": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+      "text_english": "And will drink as the drinking of thirsty camels.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 56,
+      "text_arabic": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+      "text_english": "That is their accommodation on the Day of Recompense.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 57,
+      "text_arabic": "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "text_english": "We have created you, so why do you not believe?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 58,
+      "text_arabic": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+      "text_english": "Have you seen that which you emit?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 59,
+      "text_arabic": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ",
+      "text_english": "Is it you who creates it, or are We the Creator?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 60,
+      "text_arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "text_english": "We have decreed death among you, and We are not to be outdone",
+      "hadiths": []
+    },
+    {
+      "verse_number": 61,
+      "text_arabic": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "text_english": "In that We will change your likenesses and produce you in that [form] which you do not know.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 62,
+      "text_arabic": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "text_english": "And you have already known the first creation, so will you not remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 63,
+      "text_arabic": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+      "text_english": "And have you seen that [seed] which you sow?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 64,
+      "text_arabic": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+      "text_english": "Is it you who makes it grow, or are We the grower?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 65,
+      "text_arabic": "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ",
+      "text_english": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 66,
+      "text_arabic": "إِنَّا لَمُغْرَمُونَ",
+      "text_english": "[Saying], \"Indeed, we are [now] in debt;",
+      "hadiths": []
+    },
+    {
+      "verse_number": 67,
+      "text_arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "text_english": "Rather, we have been deprived.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 68,
+      "text_arabic": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+      "text_english": "And have you seen the water that you drink?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 69,
+      "text_arabic": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+      "text_english": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 70,
+      "text_arabic": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ",
+      "text_english": "If We willed, We could make it bitter, so why are you not grateful?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 71,
+      "text_arabic": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+      "text_english": "And have you seen the fire that you ignite?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 72,
+      "text_arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "text_english": "Is it you who produced its tree, or are We the producer?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 73,
+      "text_arabic": "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ",
+      "text_english": "We have made it a reminder and provision for the travelers,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 74,
+      "text_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "text_english": "So exalt the name of your Lord, the Most Great.",
+      "hadiths": [
+        {
+          "reference_text": "56:74",
+          "surah_name": null,
+          "start_ayah": 74,
+          "end_ayah": 74,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 43785,
+            "idInBook": 824,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: لَمَّا نَزَلَتْ (فسبح باسم رَبك الْعَظِيم)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي رُكُوعِكُمْ» فَلَمَّا نَزَلَتْ (سَبِّحِ اسْمَ رَبك الْأَعْلَى)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي سُجُودِكُمْ» . رَوَاهُ أَبُو دَاوُدَ وَابْن مَاجَه والدارمي",
+            "english": "‘Uqba b. ‘Amir said that when “Glorify the name of your mighty Lord” (Al-Qur’an; 56:74, 96; 69:52) was revealed, God’s Messenger said, “Use it when bowing;” and when “Glorify the name of your most high Lord” (Al-Qur’an; 87) was revealed, he said, “Use it when prostrating yourselves.” \n\nAbu Dawud, Ibn Majah and Darimi transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة الواقعة آية 74",
+          "surah_name": "الواقعة",
+          "start_ayah": 74,
+          "end_ayah": 74,
+          "hadith": {
+            "source": "darimi",
+            "id": 38164,
+            "idInBook": 627,
+            "bookId": 9,
+            "chapterId": 2,
+            "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ  ، حَدَّثَنَا مُوسَى بْنُ أَيُّوبَ  ، حَدَّثَنِي عَمِّي إِيَاسُ بْنُ عَامِرٍ  ، قَالَ : سَمِعْتُ عُقْبَةَ بْنَ عَامِرٍ  ، يَقُولُ : لَمَّا نَزَلَتْ # فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ سورة الواقعة آية 74 #، قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" اجْعَلُوهَا فِي رُكُوعِكُمْ \"، فَلَمَّا نَزَلَتْ # سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى سورة الأعلى آية 1 # قَالَ : \" اجْعَلُوهَا فِي سُجُودِكُمْ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "56:74",
+          "surah_name": null,
+          "start_ayah": 74,
+          "end_ayah": 74,
+          "hadith": {
+            "source": "4",
+            "id": 303,
+            "idInBook": 303,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: لَمَّا نَزَلَتْ (فسبح باسم رَبك الْعَظِيم)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي رُكُوعِكُمْ» فَلَمَّا نَزَلَتْ (سَبِّحِ اسْمَ رَبك الْأَعْلَى)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي سُجُودِكُمْ» . رَوَاهُ أَبُو دَاوُدَ وَابْن مَاجَه والدارمي",
+            "english": "‘Uqba b. ‘Amir said that when “Glorify the name of your mighty Lord” (Al-Qur’an; 56:74, 96; 69:52) was revealed, God’s Messenger said, “Use it when bowing;” and when “Glorify the name of your most high Lord” (Al-Qur’an; 87) was revealed, he said, “Use it when prostrating yourselves.” \n\nAbu Dawud, Ibn Majah and Darimi transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة الواقعة آية 74",
+          "surah_name": "الواقعة",
+          "start_ayah": 74,
+          "end_ayah": 74,
+          "hadith": {
+            "source": "2",
+            "id": 117,
+            "idInBook": 117,
+            "bookId": 9,
+            "chapterId": 2,
+            "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ  ، حَدَّثَنَا مُوسَى بْنُ أَيُّوبَ  ، حَدَّثَنِي عَمِّي إِيَاسُ بْنُ عَامِرٍ  ، قَالَ : سَمِعْتُ عُقْبَةَ بْنَ عَامِرٍ  ، يَقُولُ : لَمَّا نَزَلَتْ # فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ سورة الواقعة آية 74 #، قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" اجْعَلُوهَا فِي رُكُوعِكُمْ \"، فَلَمَّا نَزَلَتْ # سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى سورة الأعلى آية 1 # قَالَ : \" اجْعَلُوهَا فِي سُجُودِكُمْ \"",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 75,
+      "text_arabic": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "text_english": "Then I swear by the setting of the stars,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 76,
+      "text_arabic": "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "text_english": "And indeed, it is an oath - if you could know - [most] great.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 77,
+      "text_arabic": "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ",
+      "text_english": "Indeed, it is a noble Qur'an",
+      "hadiths": []
+    },
+    {
+      "verse_number": 78,
+      "text_arabic": "فِى كِتَٰبٍۢ مَّكْنُونٍۢ",
+      "text_english": "In a Register well-protected;",
+      "hadiths": []
+    },
+    {
+      "verse_number": 79,
+      "text_arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "text_english": "None touch it except the purified.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 80,
+      "text_arabic": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+      "text_english": "[It is] a revelation from the Lord of the worlds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 81,
+      "text_arabic": "أَفَبِهَٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "text_english": "Then is it to this statement that you are indifferent",
+      "hadiths": []
+    },
+    {
+      "verse_number": 82,
+      "text_arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "text_english": "And make [the thanks for] your provision that you deny [the Provider]?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 83,
+      "text_arabic": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "text_english": "Then why, when the soul at death reaches the throat",
+      "hadiths": []
+    },
+    {
+      "verse_number": 84,
+      "text_arabic": "وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ",
+      "text_english": "And you are at that time looking on -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 85,
+      "text_arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ",
+      "text_english": "And Our angels are nearer to him than you, but you do not see -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 86,
+      "text_arabic": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "text_english": "Then why do you not, if you are not to be recompensed,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 87,
+      "text_arabic": "تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "text_english": "Bring it back, if you should be truthful?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 88,
+      "text_arabic": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "text_english": "And if the deceased was of those brought near to Allah,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 89,
+      "text_arabic": "فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ",
+      "text_english": "Then [for him is] rest and bounty and a garden of pleasure.",
+      "hadiths": [
+        {
+          "reference_text": "56:89",
+          "surah_name": null,
+          "start_ayah": 89,
+          "end_ayah": 89,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28801,
+            "idInBook": 3021,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ الْبَصْرِيُّ ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، عَنْ هَارُونَ الأَعْوَرِ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ ‏(‏فَرُوحٌ وَ رَيْحَانٌ وَ جَنَّةُ نَعِيمٍ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ هَارُونَ الأَعْوَرِ ‏.‏",
+            "english": "that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:89)\"",
+            "narrator": "Narrated 'Aishah:"
+          }
+        },
+        {
+          "reference_text": "56:89",
+          "surah_name": null,
+          "start_ayah": 89,
+          "end_ayah": 89,
+          "hadith": {
+            "source": "46",
+            "id": 12,
+            "idInBook": 12,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ الْبَصْرِيُّ ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، عَنْ هَارُونَ الأَعْوَرِ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ ‏(‏فَرُوحٌ وَ رَيْحَانٌ وَ جَنَّةُ نَعِيمٍ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ هَارُونَ الأَعْوَرِ ‏.‏",
+            "english": "that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:89)\"",
+            "narrator": "Narrated 'Aishah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 90,
+      "text_arabic": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "text_english": "And if he was of the companions of the right,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 91,
+      "text_arabic": "فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "text_english": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 92,
+      "text_arabic": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "text_english": "But if he was of the deniers [who were] astray,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 93,
+      "text_arabic": "فَنُزُلٌۭ مِّنْ حَمِيمٍۢ",
+      "text_english": "Then [for him is] accommodation of scalding water",
+      "hadiths": []
+    },
+    {
+      "verse_number": 94,
+      "text_arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+      "text_english": "And burning in Hellfire",
+      "hadiths": []
+    },
+    {
+      "verse_number": 95,
+      "text_arabic": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "text_english": "Indeed, this is the true certainty,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 96,
+      "text_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "text_english": "So exalt the name of your Lord, the Most Great.",
+      "hadiths": []
+    }
+  ]
+}

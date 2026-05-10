@@ -1,0 +1,191 @@
+{
+  "surah": {
+    "id": 89,
+    "name_arabic": "سُورَةُ الفَجۡرِ",
+    "name_english": "Al-Fajr",
+    "name_english_translation": "The Dawn",
+    "verses_count": 30
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "text_english": "By the dawn",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَلَيَالٍ عَشْرٍۢ",
+      "text_english": "And [by] ten nights",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "text_english": "And [by] the even [number] and the odd",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "text_english": "And [by] the night when it passes,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ",
+      "text_english": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "text_english": "Have you not considered how your Lord dealt with 'Aad -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "text_english": "[With] Iram - who had lofty pillars,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ",
+      "text_english": "The likes of whom had never been created in the land?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "text_english": "And [with] Thamud, who carved out the rocks in the valley?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "text_english": "And [with] Pharaoh, owner of the stakes? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ",
+      "text_english": "[All of] whom oppressed within the lands",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "text_english": "And increased therein the corruption.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "text_english": "So your Lord poured upon them a scourge of punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "text_english": "Indeed, your Lord is in observation.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "text_english": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "text_english": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "text_english": "No! But you do not honor the orphan",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "text_english": "And you do not encourage one another to feed the poor.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا",
+      "text_english": "And you consume inheritance, devouring [it] altogether,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا",
+      "text_english": "And you love wealth with immense love.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا",
+      "text_english": "No! When the earth has been leveled - pounded and crushed -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا",
+      "text_english": "And your Lord has come and the angels, rank upon rank,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "text_english": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "text_english": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ",
+      "text_english": "So on that Day, none will punish [as severely] as His punishment,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ",
+      "text_english": "And none will bind [as severely] as His binding [of the evildoers].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "text_english": "[To the righteous it will be said], \"O reassured soul,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ",
+      "text_english": "Return to your Lord, well-pleased and pleasing [to Him],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "فَٱدْخُلِى فِى عِبَٰدِى",
+      "text_english": "And enter among My [righteous] servants",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "وَٱدْخُلِى جَنَّتِى",
+      "text_english": "And enter My Paradise.\"",
+      "hadiths": []
+    }
+  ]
+}

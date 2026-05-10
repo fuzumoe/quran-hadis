@@ -1,0 +1,59 @@
+{
+  "surah": {
+    "id": 94,
+    "name_arabic": "سُورَةُ الشَّرۡحِ",
+    "name_english": "Ash-Sharh",
+    "name_english_translation": "The Consolation",
+    "verses_count": 8
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "text_english": "Did We not expand for you, [O Muhammad], your breast?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "text_english": "And We removed from you your burden",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "text_english": "Which had weighed upon your back",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_english": "And raised high for you your repute.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_english": "For indeed, with hardship [will be] ease.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "text_english": "Indeed, with hardship [will be] ease.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "text_english": "So when you have finished [your duties], then stand up [for worship].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "text_english": "And to your Lord direct [your] longing.",
+      "hadiths": []
+    }
+  ]
+}

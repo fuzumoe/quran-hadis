@@ -1,0 +1,412 @@
+{
+  "surah": {
+    "id": 49,
+    "name_arabic": "سُورَةُ الحُجُرَاتِ",
+    "name_english": "Al-Hujuraat",
+    "name_english_translation": "The Inner Apartments",
+    "verses_count": 18
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+      "text_english": "O you who have believed, do not put [yourselves] before Allah and His Messenger but fear Allah. Indeed, Allah is Hearing and Knowing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "text_english": "O you who have believed, do not raise your voices above the voice of the Prophet or be loud to him in speech like the loudness of some of you to others, lest your deeds become worthless while you perceive not.",
+      "hadiths": [
+        {
+          "reference_text": "49:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29130,
+            "idInBook": 3350,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُؤَمِّلُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ بْنِ جَمِيلٍ الْجُمَحِيُّ، حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ أَبُو بَكْرٍ يَا رَسُولَ اللَّهِ اسْتَعْمِلْهُ عَلَى قَوْمِهِ ‏.‏ فَقَالَ عُمَرُ لاَ تَسْتَعْمِلْهُ يَا رَسُولَ اللَّهِ ‏.‏ فَتَكَلَّمَا عِنْدَ النَّبِيِّ صلى الله عليه وسلم حَتَّى ارْتَفَعَتْ أَصْوَاتُهُمَا فَقَالَ أَبُو بَكْرٍ لِعُمَرَ مَا أَرَدْتَ إِلاَّ خِلاَفِي ‏.‏ فَقَالَ عُمَرُ مَا أَرَدْتُ خِلاَفَكَ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏ يا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ ‏)‏ فَكَانَ عُمَرُ بْنُ الْخَطَّابِ بَعْدَ ذَلِكَ إِذَا تَكَلَّمَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم لَمْ يُسْمِعْ كَلاَمَهُ حَتَّى يَسْتَفْهِمَهُ ‏.‏ قَالَ وَمَا ذَكَرَ ابْنُ الزُّبَيْرِ جَدَّهُ يَعْنِي أَبَا بَكْرٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رَوَى بَعْضُهُمْ عَنِ ابْنِ أَبِي مُلَيْكَةَ مُرْسَلٌ وَلَمْ يَذْكُرْ فِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ ‏.‏",
+            "english": "\"Al-Aqra' bin Habis arrived to meet the Prophet (ﷺ)\" - he said - \"so Abu Bakr said: 'O Messenger of Allah! Appoint him over his people.' 'Umar said: 'Do not appoint him O Messenger of Allah!' They continued talking before the Prophet (ﷺ) until they raised their voices. Abu Bakr said to 'Umar: 'You only wanted to contradict me.' So  said: 'I did not want to contradict you.'\" He said: \"So this Ayah was revealed: 'O you who believe! Do not raise your voices above the voice of the Prophet (49:2).'\" He said: \"After that, when 'Umar spoke before the Prophet (ﷺ), his speech could not be heard until he told him he could not understand him.\" He (one of the narrators) said: \"And Ibn Az-Zubair did not mention his grandfather\" meaning Abu Bakr.",
+            "narrator": "Narrated 'Abdullah bin Az-Zubair:"
+          }
+        },
+        {
+          "reference_text": "49:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "47",
+            "id": 318,
+            "idInBook": 318,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُؤَمِّلُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ بْنِ جَمِيلٍ الْجُمَحِيُّ، حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ أَبُو بَكْرٍ يَا رَسُولَ اللَّهِ اسْتَعْمِلْهُ عَلَى قَوْمِهِ ‏.‏ فَقَالَ عُمَرُ لاَ تَسْتَعْمِلْهُ يَا رَسُولَ اللَّهِ ‏.‏ فَتَكَلَّمَا عِنْدَ النَّبِيِّ صلى الله عليه وسلم حَتَّى ارْتَفَعَتْ أَصْوَاتُهُمَا فَقَالَ أَبُو بَكْرٍ لِعُمَرَ مَا أَرَدْتَ إِلاَّ خِلاَفِي ‏.‏ فَقَالَ عُمَرُ مَا أَرَدْتُ خِلاَفَكَ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏ يا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ ‏)‏ فَكَانَ عُمَرُ بْنُ الْخَطَّابِ بَعْدَ ذَلِكَ إِذَا تَكَلَّمَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم لَمْ يُسْمِعْ كَلاَمَهُ حَتَّى يَسْتَفْهِمَهُ ‏.‏ قَالَ وَمَا ذَكَرَ ابْنُ الزُّبَيْرِ جَدَّهُ يَعْنِي أَبَا بَكْرٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رَوَى بَعْضُهُمْ عَنِ ابْنِ أَبِي مُلَيْكَةَ مُرْسَلٌ وَلَمْ يَذْكُرْ فِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ ‏.‏",
+            "english": "\"Al-Aqra' bin Habis arrived to meet the Prophet (ﷺ)\" - he said - \"so Abu Bakr said: 'O Messenger of Allah! Appoint him over his people.' 'Umar said: 'Do not appoint him O Messenger of Allah!' They continued talking before the Prophet (ﷺ) until they raised their voices. Abu Bakr said to 'Umar: 'You only wanted to contradict me.' So  said: 'I did not want to contradict you.'\" He said: \"So this Ayah was revealed: 'O you who believe! Do not raise your voices above the voice of the Prophet (49:2).'\" He said: \"After that, when 'Umar spoke before the Prophet (ﷺ), his speech could not be heard until he told him he could not understand him.\" He (one of the narrators) said: \"And Ibn Az-Zubair did not mention his grandfather\" meaning Abu Bakr.",
+            "narrator": "Narrated 'Abdullah bin Az-Zubair:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌ",
+      "text_english": "Indeed, those who lower their voices before the Messenger of Allah - they are the ones whose hearts Allah has tested for righteousness. For them is forgiveness and great reward.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "text_english": "Indeed, those who call you, [O Muhammad], from behind the chambers - most of them do not use reason.",
+      "hadiths": [
+        {
+          "reference_text": "49:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29131,
+            "idInBook": 3351,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، فِي قَوْلِهِ ‏:‏ ‏(‏ إنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لاَ يَعْقِلُونَ ‏)‏ قَالَ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ حَمْدِي زَيْنٌ وَإِنَّ ذَمِّي شَيْنٌ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ذَاكَ اللَّهُ تَعَالَى ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+            "english": "regarding the saying of Allah the Most High: Verily, those who call you from behind the dwellings, most of them have no sense (49:4). He said: \"A man stood and said: 'O Messenger of Allah! Indeed my praise (of others) is worthwhile and my censure is appropriate.' So the Prophet (ﷺ) said: 'That is for Allah, the Mighty and Sublime.'\"",
+            "narrator": "Narrated Al-Bara bin 'Azib:"
+          }
+        },
+        {
+          "reference_text": "49:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "47",
+            "id": 319,
+            "idInBook": 319,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، فِي قَوْلِهِ ‏:‏ ‏(‏ إنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لاَ يَعْقِلُونَ ‏)‏ قَالَ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ حَمْدِي زَيْنٌ وَإِنَّ ذَمِّي شَيْنٌ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ذَاكَ اللَّهُ تَعَالَى ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+            "english": "regarding the saying of Allah the Most High: Verily, those who call you from behind the dwellings, most of them have no sense (49:4). He said: \"A man stood and said: 'O Messenger of Allah! Indeed my praise (of others) is worthwhile and my censure is appropriate.' So the Prophet (ﷺ) said: 'That is for Allah, the Mighty and Sublime.'\"",
+            "narrator": "Narrated Al-Bara bin 'Azib:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+      "text_english": "And if they had been patient until you [could] come out to them, it would have been better for them. But Allah is Forgiving and Merciful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍۢ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍۢ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ",
+      "text_english": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "text_english": "And know that among you is the Messenger of Allah. If he were to obey you in much of the matter, you would be in difficulty, but Allah has endeared to you the faith and has made it pleasing in your hearts and has made hateful to you disbelief, defiance and disobedience. Those are the [rightly] guided.",
+      "hadiths": [
+        {
+          "reference_text": "49:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29133,
+            "idInBook": 3353,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، عَنِ الْمُسْتَمِرِّ بْنِ الرَّيَّانِ، عَنْ أَبِي نَضْرَةَ، قَالَ قَرَأَ أَبُو سَعِيدٍ الْخُدْرِيُّ ‏:‏ ‏(‏ واعْلَمُوا أَنَّ فِيكُمْ، رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الأَمْرِ لَعَنِتُّمْ ‏)‏ قَالَ هَذَا نَبِيُّكُمْ صلى الله عليه وسلم يُوحَى إِلَيْهِ وَخِيَارُ أَئِمَّتِكُمْ لَوْ أَطَاعَهُمْ فِي كَثِيرٍ مِنَ الأَمْرِ لَعَنِتُوا فَكَيْفَ بِكُمُ الْيَوْمَ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ قَالَ عَلِيُّ بْنُ الْمَدِينِيِّ سَأَلْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ عَنِ الْمُسْتَمِرِّ بْنِ الرَّيَّانِ فَقَالَ ثِقَةٌ ‏.‏",
+            "english": "\"Abu Sa'eed Al-Khudri recited: And know that among you there is the Messenger of Allah. If he were to obey you in much of the matter, you would surely be in trouble (49:7). He said: \"This is your Prophet (ﷺ) to whom the Revelation came, and the best of your leaders, if he had obeyed them in may of their matters, then he would have been in trouble. So how about you people today?\"",
+            "narrator": "Narrated Abu Nadrah:"
+          }
+        },
+        {
+          "reference_text": "49:7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "47",
+            "id": 321,
+            "idInBook": 321,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، عَنِ الْمُسْتَمِرِّ بْنِ الرَّيَّانِ، عَنْ أَبِي نَضْرَةَ، قَالَ قَرَأَ أَبُو سَعِيدٍ الْخُدْرِيُّ ‏:‏ ‏(‏ واعْلَمُوا أَنَّ فِيكُمْ، رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الأَمْرِ لَعَنِتُّمْ ‏)‏ قَالَ هَذَا نَبِيُّكُمْ صلى الله عليه وسلم يُوحَى إِلَيْهِ وَخِيَارُ أَئِمَّتِكُمْ لَوْ أَطَاعَهُمْ فِي كَثِيرٍ مِنَ الأَمْرِ لَعَنِتُوا فَكَيْفَ بِكُمُ الْيَوْمَ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ قَالَ عَلِيُّ بْنُ الْمَدِينِيِّ سَأَلْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ عَنِ الْمُسْتَمِرِّ بْنِ الرَّيَّانِ فَقَالَ ثِقَةٌ ‏.‏",
+            "english": "\"Abu Sa'eed Al-Khudri recited: And know that among you there is the Messenger of Allah. If he were to obey you in much of the matter, you would surely be in trouble (49:7). He said: \"This is your Prophet (ﷺ) to whom the Revelation came, and the best of your leaders, if he had obeyed them in may of their matters, then he would have been in trouble. So how about you people today?\"",
+            "narrator": "Narrated Abu Nadrah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+      "text_english": "[It is] as bounty from Allah and favor. And Allah is Knowing and Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "text_english": "And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allah. And if it returns, then make settlement between them in justice and act justly. Indeed, Allah loves those who act justly.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "text_english": "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "text_english": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers.",
+      "hadiths": [
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 47719,
+            "idInBook": 330,
+            "bookId": 15,
+            "chapterId": 15,
+            "arabic": "حَدَّثَنَا مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ‏:‏ أَخْبَرَنَا عَبْدُ اللهِ، قَالَ‏:‏ حَدَّثَنَا أَبُو مَوْدُودٍ، عَنْ زَيْدٍ مَوْلَى قَيْسٍ الْحَذَّاءِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ عَزَّ وَجَلَّ‏:‏ ‏{‏وَلاَ تَلْمِزُوا أَنْفُسَكُمْ‏}‏، قَالَ‏:‏ لاَ يَطْعَنُ بَعْضُكُمْ عَلَى بَعْضٍ‏.‏",
+            "english": "Ibn 'Abbas spoke about the words of Allah Almighty, \"Do not\nfind fault with one another\" (49:11) and he said that these words mean,\n\"Do not attack one another.\"",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 47720,
+            "idInBook": 331,
+            "bookId": 15,
+            "chapterId": 15,
+            "arabic": "حَدَّثَنَا مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا مُوسَى، قَالَ‏:‏ حَدَّثَنَا وُهَيْبٌ، قَالَ‏:‏ أَخْبَرَنَا دَاوُدُ، عَنْ عَامِرٍ قَالَ‏:‏ حَدَّثَنِي أَبُو جَبِيرَةَ بْنُ الضَّحَّاكِ قَالَ‏:‏ فِينَا نَزَلَتْ، فِي بَنِي سَلِمَةَ‏:‏ ‏{‏وَلاَ تَنَابَزُوا بِالأَلْقَابِ‏}‏، قَالَ‏:‏ قَدِمَ عَلَيْنَا رَسُولُ اللهِ صلى الله عليه وسلم وَلَيْسَ مِنَّا رَجُلٌ إِلاَّ لَهُ اسْمَانِ، فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ‏:‏ يَا فُلاَنُ، فَيَقُولُونَ‏:‏ يَا رَسُولَ اللهِ، إِنَّهُ يَغْضَبُ مِنْهُ‏.‏",
+            "english": "Ad-Dahhak said, \"It was about us (the Banu Salima) that these words\nwere revealed, 'Do not find fault with one another' (49:11)\" He\nwent on to say, \"The Messenger of Allah, may Allah bless him and grant\nhim peace, came to us and there was not a man among us who did not have\ntwo names. The Prophet, may Allah bless him and grant him peace, began\nto say, 'O so-and-so!' and they said, 'Messenger of Allah! That will make\nhim angry!'\"",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "ibnmajah",
+            "id": 33310,
+            "idInBook": 3477,
+            "bookId": 6,
+            "chapterId": 33,
+            "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، قَالَ فِينَا نَزَلَتْ مَعْشَرَ الأَنْصَارِ ‏{وَلاَ تَنَابَزُوا بِالأَلْقَابِ‏)‏ قَدِمَ عَلَيْنَا النَّبِيُّ ـ صلى الله عليه وسلم ـ وَالرَّجُلُ مِنَّا لَهُ الاِسْمَانِ وَالثَّلاَثَةُ فَكَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ رُبَّمَا دَعَاهُمْ بِبَعْضِ تِلْكَ الأَسْمَاءِ فَيُقَالُ يَا رَسُولَ اللَّهِ إِنَّهُ يَغْضَبُ مِنْ هَذَا ‏.‏ فَنَزَلَتْ ‏{وَلاَ تَنَابَزُوا بِالأَلْقَابِ}‏ ‏.‏",
+            "english": "\"(Allah's saying) \"Nor insult one another by nicknames(Surah Al Hujarat 49:11)\" was revealed concerning us, the Ansar. When the Prophet(ﷺ) came to us, a man among us would have two or three names, and the Prophet(ﷺ) might call him by one of those names, only to be told: \"O Messenger of Allah(ﷺ), he does not like that name.\" Then:\"Nor insult one another by nicknames.\" was revealed.\"",
+            "narrator": "It was narrated that Abu Jabirah bin Dahhak said:"
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29132,
+            "idInBook": 3352,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِسْحَاقَ الْجَوْهَرِيُّ الْبَصْرِيُّ، حَدَّثَنَا أَبُو زَيْدٍ، عَنْ شُعْبَةَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، قَالَ سَمِعْتُ الشَّعْبِيَّ، يُحَدِّثُ عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، قَالَ كَانَ الرَّجُلُ مِنَّا يَكُونُ لَهُ الاِسْمَيْنِ وَالثَّلاَثَةَ فَيُدْعَى بِبَعْضِهَا فَعَسَى أَنْ يَكْرَهَ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏(‏ وَلاَ تَنَابَزُوا بِالأَلْقَابِ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ أَبُو جَبِيرَةَ هُوَ أَخُو ثَابِتِ بْنِ الضَّحَّاكِ بْنِ خَلِيفَةَ أَنْصَارِيٌّ وَأَبُو زَيْدٍ سَعِيدُ بْنُ الرَّبِيعِ صَاحِبُ الْهَرَوِيِّ بَصْرِيٌّ ثِقَةٌ ‏.‏ \n\n\n حَدَّثَنَا أَبُو سَلَمَةَ، يَحْيَى بْنُ خَلَفٍ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"A man among us would be known by two or three names. He would be called by one that perhaps he disliked, so this Ayah was revealed: Nor insult with nicknames (49:11).\"",
+            "narrator": "Narrated Abu Jubairah bin Ad-Dahhak:"
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "15",
+            "id": 21,
+            "idInBook": 21,
+            "bookId": 15,
+            "chapterId": 15,
+            "arabic": "حَدَّثَنَا مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ‏:‏ أَخْبَرَنَا عَبْدُ اللهِ، قَالَ‏:‏ حَدَّثَنَا أَبُو مَوْدُودٍ، عَنْ زَيْدٍ مَوْلَى قَيْسٍ الْحَذَّاءِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ عَزَّ وَجَلَّ‏:‏ ‏{‏وَلاَ تَلْمِزُوا أَنْفُسَكُمْ‏}‏، قَالَ‏:‏ لاَ يَطْعَنُ بَعْضُكُمْ عَلَى بَعْضٍ‏.‏",
+            "english": "Ibn 'Abbas spoke about the words of Allah Almighty, \"Do not\nfind fault with one another\" (49:11) and he said that these words mean,\n\"Do not attack one another.\"",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "15",
+            "id": 22,
+            "idInBook": 22,
+            "bookId": 15,
+            "chapterId": 15,
+            "arabic": "حَدَّثَنَا مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا مُوسَى، قَالَ‏:‏ حَدَّثَنَا وُهَيْبٌ، قَالَ‏:‏ أَخْبَرَنَا دَاوُدُ، عَنْ عَامِرٍ قَالَ‏:‏ حَدَّثَنِي أَبُو جَبِيرَةَ بْنُ الضَّحَّاكِ قَالَ‏:‏ فِينَا نَزَلَتْ، فِي بَنِي سَلِمَةَ‏:‏ ‏{‏وَلاَ تَنَابَزُوا بِالأَلْقَابِ‏}‏، قَالَ‏:‏ قَدِمَ عَلَيْنَا رَسُولُ اللهِ صلى الله عليه وسلم وَلَيْسَ مِنَّا رَجُلٌ إِلاَّ لَهُ اسْمَانِ، فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ‏:‏ يَا فُلاَنُ، فَيَقُولُونَ‏:‏ يَا رَسُولَ اللهِ، إِنَّهُ يَغْضَبُ مِنْهُ‏.‏",
+            "english": "Ad-Dahhak said, \"It was about us (the Banu Salima) that these words\nwere revealed, 'Do not find fault with one another' (49:11)\" He\nwent on to say, \"The Messenger of Allah, may Allah bless him and grant\nhim peace, came to us and there was not a man among us who did not have\ntwo names. The Prophet, may Allah bless him and grant him peace, began\nto say, 'O so-and-so!' and they said, 'Messenger of Allah! That will make\nhim angry!'\"",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "33",
+            "id": 85,
+            "idInBook": 85,
+            "bookId": 6,
+            "chapterId": 33,
+            "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، قَالَ فِينَا نَزَلَتْ مَعْشَرَ الأَنْصَارِ ‏{وَلاَ تَنَابَزُوا بِالأَلْقَابِ‏)‏ قَدِمَ عَلَيْنَا النَّبِيُّ ـ صلى الله عليه وسلم ـ وَالرَّجُلُ مِنَّا لَهُ الاِسْمَانِ وَالثَّلاَثَةُ فَكَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ رُبَّمَا دَعَاهُمْ بِبَعْضِ تِلْكَ الأَسْمَاءِ فَيُقَالُ يَا رَسُولَ اللَّهِ إِنَّهُ يَغْضَبُ مِنْ هَذَا ‏.‏ فَنَزَلَتْ ‏{وَلاَ تَنَابَزُوا بِالأَلْقَابِ}‏ ‏.‏",
+            "english": "\"(Allah's saying) \"Nor insult one another by nicknames(Surah Al Hujarat 49:11)\" was revealed concerning us, the Ansar. When the Prophet(ﷺ) came to us, a man among us would have two or three names, and the Prophet(ﷺ) might call him by one of those names, only to be told: \"O Messenger of Allah(ﷺ), he does not like that name.\" Then:\"Nor insult one another by nicknames.\" was revealed.\"",
+            "narrator": "It was narrated that Abu Jabirah bin Dahhak said:"
+          }
+        },
+        {
+          "reference_text": "49:11",
+          "surah_name": null,
+          "start_ayah": 11,
+          "end_ayah": 11,
+          "hadith": {
+            "source": "47",
+            "id": 320,
+            "idInBook": 320,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِسْحَاقَ الْجَوْهَرِيُّ الْبَصْرِيُّ، حَدَّثَنَا أَبُو زَيْدٍ، عَنْ شُعْبَةَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، قَالَ سَمِعْتُ الشَّعْبِيَّ، يُحَدِّثُ عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، قَالَ كَانَ الرَّجُلُ مِنَّا يَكُونُ لَهُ الاِسْمَيْنِ وَالثَّلاَثَةَ فَيُدْعَى بِبَعْضِهَا فَعَسَى أَنْ يَكْرَهَ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏(‏ وَلاَ تَنَابَزُوا بِالأَلْقَابِ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ أَبُو جَبِيرَةَ هُوَ أَخُو ثَابِتِ بْنِ الضَّحَّاكِ بْنِ خَلِيفَةَ أَنْصَارِيٌّ وَأَبُو زَيْدٍ سَعِيدُ بْنُ الرَّبِيعِ صَاحِبُ الْهَرَوِيِّ بَصْرِيٌّ ثِقَةٌ ‏.‏ \n\n\n حَدَّثَنَا أَبُو سَلَمَةَ، يَحْيَى بْنُ خَلَفٍ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي جَبِيرَةَ بْنِ الضَّحَّاكِ، نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"A man among us would be known by two or three names. He would be called by one that perhaps he disliked, so this Ayah was revealed: Nor insult with nicknames (49:11).\"",
+            "narrator": "Narrated Abu Jubairah bin Ad-Dahhak:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
+      "text_english": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
+      "text_english": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.",
+      "hadiths": [
+        {
+          "reference_text": "49:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 48289,
+            "idInBook": 900,
+            "bookId": 15,
+            "chapterId": 38,
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْمَلِكِ، قَالَ‏:‏ حَدَّثَنَا عَطَاءٌ، عَنِ ابْنِ عَبَّاسٍ قَالَ‏:‏ لاَ أَرَى أَحَدًا يَعْمَلُ بِهَذِهِ الْآيَةِ‏:‏ ‏{‏يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى‏}‏ حَتَّى بَلَغَ‏:‏ ‏{‏إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقَاكُمْ‏}‏، فَيَقُولُ الرَّجُلُ لِلرَّجُلِ‏:‏ أَنَا أَكْرَمُ مِنْكَ، فَلَيْسَ أَحَدٌ أَكْرَمَ مِنْ أَحَدٍ إِلا بِتَقْوَى اللهِ‏.‏",
+            "english": "'Mankind!\nWe created you from a male and a female, and made you into peoples and\ntribes so that you might come to know each other. The noblest among you\nin Allah's sight is the one with the most taqwa.' (49:13) One man says\nto another man, 'I am more noble than you are.' No one is nobler than another\nperson except by taqwa.\"",
+            "narrator": "Ibn 'Abbas said, \"I do not know anyone who acts by this ayat:"
+          }
+        },
+        {
+          "reference_text": "49:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29134,
+            "idInBook": 3354,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ النَّاسَ يَوْمَ فَتْحِ مَكَّةَ فَقَالَ ‏\"‏ يَا أَيُّهَا النَّاسُ إِنَّ اللَّهَ قَدْ أَذْهَبَ عَنْكُمْ عُبِّيَّةَ الْجَاهِلِيَّةِ وَتَعَاظُمَهَا بِآبَائِهَا فَالنَّاسُ رَجُلاَنِ رَجُلٌ بَرٌّ تَقِيٌّ كَرِيمٌ عَلَى اللَّهِ وَفَاجِرٌ شَقِيٌّ هَيِّنٌ عَلَى اللَّهِ وَالنَّاسُ بَنُو آدَمَ وَخَلَقَ اللَّهُ آدَمَ مِنْ تُرَابٍ ‏\"‏ ‏.‏ قَالَ اللَّهُ ‏:‏ ‏(‏ يا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنِ ابْنِ عُمَرَ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَعَبْدُ اللَّهِ بْنُ جَعْفَرٍ يُضَعَّفُ ضَعَّفَهُ يَحْيَى بْنُ مَعِينٍ وَغَيْرُهُ وَعَبْدُ اللَّهِ بْنُ جَعْفَرٍ هُوَ وَالِدُ عَلِيِّ بْنِ الْمَدِينِيِّ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَعَبْدِ اللَّهِ بْنِ عَبَّاسٍ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) gave a Khutbah to the people on the day of the conquest of Makkah, and he said: \"O you people! Verily Allah has removed the slogans of Jahiliyyah from you, and its reverence of its forefathers. So, now there are two types of men: A man who is righteous, has Taqwa and honorable before Allah, and a wicked man, who is miserable and insignificant to Allah. People are children of Adam and Allah created Adam from the dust. Allah said: O you people! We have created you from a male and a female, and made you into nations and tribes, that you may know one another. Verily, the most honorable of you with Allah is the one who has most Taqwa. Verily, Allah is All-Knowing, All-Aware (49:13).\"",
+            "narrator": "Narrated Ibn 'Umar:"
+          }
+        },
+        {
+          "reference_text": "49:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "38",
+            "id": 11,
+            "idInBook": 11,
+            "bookId": 15,
+            "chapterId": 38,
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْمَلِكِ، قَالَ‏:‏ حَدَّثَنَا عَطَاءٌ، عَنِ ابْنِ عَبَّاسٍ قَالَ‏:‏ لاَ أَرَى أَحَدًا يَعْمَلُ بِهَذِهِ الْآيَةِ‏:‏ ‏{‏يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى‏}‏ حَتَّى بَلَغَ‏:‏ ‏{‏إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقَاكُمْ‏}‏، فَيَقُولُ الرَّجُلُ لِلرَّجُلِ‏:‏ أَنَا أَكْرَمُ مِنْكَ، فَلَيْسَ أَحَدٌ أَكْرَمَ مِنْ أَحَدٍ إِلا بِتَقْوَى اللهِ‏.‏",
+            "english": "'Mankind!\nWe created you from a male and a female, and made you into peoples and\ntribes so that you might come to know each other. The noblest among you\nin Allah's sight is the one with the most taqwa.' (49:13) One man says\nto another man, 'I am more noble than you are.' No one is nobler than another\nperson except by taqwa.\"",
+            "narrator": "Ibn 'Abbas said, \"I do not know anyone who acts by this ayat:"
+          }
+        },
+        {
+          "reference_text": "49:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "47",
+            "id": 322,
+            "idInBook": 322,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ النَّاسَ يَوْمَ فَتْحِ مَكَّةَ فَقَالَ ‏\"‏ يَا أَيُّهَا النَّاسُ إِنَّ اللَّهَ قَدْ أَذْهَبَ عَنْكُمْ عُبِّيَّةَ الْجَاهِلِيَّةِ وَتَعَاظُمَهَا بِآبَائِهَا فَالنَّاسُ رَجُلاَنِ رَجُلٌ بَرٌّ تَقِيٌّ كَرِيمٌ عَلَى اللَّهِ وَفَاجِرٌ شَقِيٌّ هَيِّنٌ عَلَى اللَّهِ وَالنَّاسُ بَنُو آدَمَ وَخَلَقَ اللَّهُ آدَمَ مِنْ تُرَابٍ ‏\"‏ ‏.‏ قَالَ اللَّهُ ‏:‏ ‏(‏ يا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنِ ابْنِ عُمَرَ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَعَبْدُ اللَّهِ بْنُ جَعْفَرٍ يُضَعَّفُ ضَعَّفَهُ يَحْيَى بْنُ مَعِينٍ وَغَيْرُهُ وَعَبْدُ اللَّهِ بْنُ جَعْفَرٍ هُوَ وَالِدُ عَلِيِّ بْنِ الْمَدِينِيِّ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَعَبْدِ اللَّهِ بْنِ عَبَّاسٍ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) gave a Khutbah to the people on the day of the conquest of Makkah, and he said: \"O you people! Verily Allah has removed the slogans of Jahiliyyah from you, and its reverence of its forefathers. So, now there are two types of men: A man who is righteous, has Taqwa and honorable before Allah, and a wicked man, who is miserable and insignificant to Allah. People are children of Adam and Allah created Adam from the dust. Allah said: O you people! We have created you from a male and a female, and made you into nations and tribes, that you may know one another. Verily, the most honorable of you with Allah is the one who has most Taqwa. Verily, Allah is All-Knowing, All-Aware (49:13).\"",
+            "narrator": "Narrated Ibn 'Umar:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+      "text_english": "The bedouins say, \"We have believed.\" Say, \"You have not [yet] believed; but say [instead], 'We have submitted,' for faith has not yet entered your hearts. And if you obey Allah and His Messenger, He will not deprive you from your deeds of anything. Indeed, Allah is Forgiving and Merciful.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "text_english": "The believers are only the ones who have believed in Allah and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allah. It is those who are the truthful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+      "text_english": "Say, \"Would you acquaint Allah with your religion while Allah knows whatever is in the heavens and whatever is on the earth, and Allah is Knowing of all things?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ",
+      "text_english": "They consider it a favor to you that they have accepted Islam. Say, \"Do not consider your Islam a favor to me. Rather, Allah has conferred favor upon you that He has guided you to the faith, if you should be truthful.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_english": "Indeed, Allah knows the unseen [aspects] of the heavens and the earth. And Allah is Seeing of what you do.",
+      "hadiths": []
+    }
+  ]
+}

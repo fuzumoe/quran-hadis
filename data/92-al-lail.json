@@ -1,0 +1,170 @@
+{
+  "surah": {
+    "id": 92,
+    "name_arabic": "سُورَةُ اللَّيۡلِ",
+    "name_english": "Al-Lail",
+    "name_english_translation": "The Night",
+    "verses_count": 21
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "text_english": "By the night when it covers",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "text_english": "And [by] the day when it appears",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "text_english": "And [by] He who created the male and female,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "text_english": "Indeed, your efforts are diverse.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "text_english": "As for he who gives and fears Allah",
+      "hadiths": [
+        {
+          "reference_text": "92:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 48294,
+            "idInBook": 905,
+            "bookId": 15,
+            "chapterId": 38,
+            "arabic": "حَدَّثَنَا آدَمُ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ قَالَ‏:‏ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ يُحَدِّثُ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم فِي جَنَازَةٍ، فَأَخَذَ شَيْئًا فَجَعَلَ يَنْكُتُ بِهِ فِي الأَرْضِ، فَقَالَ‏:‏ مَا مِنْكُمْ مِنْ أَحَدٍ إِلاَّ قَدْ كُتِبَ مَقْعَدُهُ مِنَ النَّارِ، وَمَقْعَدُهُ مِنَ الْجَنَّةِ، قَالُوا‏:‏ يَا رَسُولَ اللهِ، أَفَلاَ نَتَّكِلُ عَلَى كِتَابِنَا، وَنَدَعُ الْعَمَلَ‏؟‏ قَالَ‏:‏ اعْمَلُوا، فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ، قَالَ‏:‏ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَسَيُيَسَّرُ لِعَمَلِ السَّعَادَةِ، وَأَمَّا مَنْ كَانَ مِنْ أَهْلِ الشَّقَاوَةِ فَسَيُيَسَّرُ لِعَمَلِ الشَّقَاوَةِ، ثُمَّ قَرَأَ‏:‏ ‏{‏فَأَمَّا مَنْ أَعْطَى وَاتَّقَى وَصَدَّقَ بِالْحُسْنَى‏}‏‏.‏",
+            "english": "'Ali said, \"The Prophet, may Allah bless him and grant him peace,\nwas in a funeral procession an he picked up something and began to scratch\nthe ground with it. He said, 'There is none of you who does not have his\nseat written either in the Fire or in the Garden.' They said, 'Messenger\nof Allah, then should we not rely on what is written for us and abandon\naction?' 'Act.' he said. 'Every thing is easy if you were created for it.'\nHe added, 'As for someone who is one of the people of happiness, it is\neasy for him to perform the actions of happiness. As for someone who is\none of the people of wretchedness, it is easy for him to perform the actions\nof wretchedness.' Then he recited, 'As for him who gives out and has\ntaqwa and confirms the Good' (92:5-10)",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "92:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "38",
+            "id": 16,
+            "idInBook": 16,
+            "bookId": 15,
+            "chapterId": 38,
+            "arabic": "حَدَّثَنَا آدَمُ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ قَالَ‏:‏ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ يُحَدِّثُ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم فِي جَنَازَةٍ، فَأَخَذَ شَيْئًا فَجَعَلَ يَنْكُتُ بِهِ فِي الأَرْضِ، فَقَالَ‏:‏ مَا مِنْكُمْ مِنْ أَحَدٍ إِلاَّ قَدْ كُتِبَ مَقْعَدُهُ مِنَ النَّارِ، وَمَقْعَدُهُ مِنَ الْجَنَّةِ، قَالُوا‏:‏ يَا رَسُولَ اللهِ، أَفَلاَ نَتَّكِلُ عَلَى كِتَابِنَا، وَنَدَعُ الْعَمَلَ‏؟‏ قَالَ‏:‏ اعْمَلُوا، فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ، قَالَ‏:‏ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَسَيُيَسَّرُ لِعَمَلِ السَّعَادَةِ، وَأَمَّا مَنْ كَانَ مِنْ أَهْلِ الشَّقَاوَةِ فَسَيُيَسَّرُ لِعَمَلِ الشَّقَاوَةِ، ثُمَّ قَرَأَ‏:‏ ‏{‏فَأَمَّا مَنْ أَعْطَى وَاتَّقَى وَصَدَّقَ بِالْحُسْنَى‏}‏‏.‏",
+            "english": "'Ali said, \"The Prophet, may Allah bless him and grant him peace,\nwas in a funeral procession an he picked up something and began to scratch\nthe ground with it. He said, 'There is none of you who does not have his\nseat written either in the Fire or in the Garden.' They said, 'Messenger\nof Allah, then should we not rely on what is written for us and abandon\naction?' 'Act.' he said. 'Every thing is easy if you were created for it.'\nHe added, 'As for someone who is one of the people of happiness, it is\neasy for him to perform the actions of happiness. As for someone who is\none of the people of wretchedness, it is easy for him to perform the actions\nof wretchedness.' Then he recited, 'As for him who gives out and has\ntaqwa and confirms the Good' (92:5-10)",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "text_english": "And believes in the best [reward],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "text_english": "We will ease him toward ease.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "text_english": "But as for he who withholds and considers himself free of need",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "text_english": "And denies the best [reward],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "text_english": "We will ease him toward difficulty.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "text_english": "And what will his wealth avail him when he falls?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "text_english": "Indeed, [incumbent] upon Us is guidance.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ",
+      "text_english": "And indeed, to Us belongs the Hereafter and the first [life].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ",
+      "text_english": "So I have warned you of a Fire which is blazing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "text_english": "None will [enter to] burn therein except the most wretched one.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "text_english": "Who had denied and turned away.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "text_english": "But the righteous one will avoid it -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "text_english": "[He] who gives [from] his wealth to purify himself",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ",
+      "text_english": "And not [giving] for anyone who has [done him] a favor to be rewarded",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "text_english": "But only seeking the countenance of his Lord, Most High.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَلَسَوْفَ يَرْضَىٰ",
+      "text_english": "And he is going to be satisfied.",
+      "hadiths": []
+    }
+  ]
+}

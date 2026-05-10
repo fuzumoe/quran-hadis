@@ -1,0 +1,47 @@
+{
+  "surah": {
+    "id": 109,
+    "name_arabic": "سُورَةُ الكَافِرُونَ",
+    "name_english": "Al-Kaafiroon",
+    "name_english_translation": "The Disbelievers",
+    "verses_count": 6
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+      "text_english": "Say, \"O disbelievers,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_english": "I do not worship what you worship.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "text_english": "Nor are you worshippers of what I worship.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+      "text_english": "Nor will I be a worshipper of what you worship.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "text_english": "Nor will you be worshippers of what I worship.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_english": "For you is your religion, and for me is my religion.\"",
+      "hadiths": []
+    }
+  ]
+}

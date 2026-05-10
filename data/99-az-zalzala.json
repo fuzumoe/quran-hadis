@@ -1,0 +1,158 @@
+{
+  "surah": {
+    "id": 99,
+    "name_arabic": "سُورَةُ الزَّلۡزَلَةِ",
+    "name_english": "Az-Zalzala",
+    "name_english_translation": "The Earthquake",
+    "verses_count": 8
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "text_english": "When the earth is shaken with its [final] earthquake",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "text_english": "And the earth discharges its burdens",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "text_english": "And man says, \"What is [wrong] with it?\" -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+      "text_english": "That Day, it will report its news",
+      "hadiths": [
+        {
+          "reference_text": "99:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42690,
+            "idInBook": 1625,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن أبي هريرة، رضي الله عنه ، قال‏:‏ قرأ رسول الله، صلى الله عليه وسلم ‏{‏يومئذ تحدث أخبارها‏}‏ ثم قال‏:‏ ‏\"‏أتدرون ما أخبارها‏؟‏‏\"‏ قالوا الله ورسوله أعلم‏.‏ قال‏:‏ ‏\"‏فإن أخبارها أن تشهد كل عبد أو أمة بما عمل على ظهرها تقول‏:‏ عملت كذا وكذا في يوم كذا وكذا، فهذه أخبارها‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن‏ صحيح‏)‏‏)‏‏.‏",
+            "english": "Messenger of Allah (ﷺ) recited, \"That Day it (the earth) will reveal its news (about all that happened over it of good or evil).\" (99:4). Then he (ﷺ) inquired, \"Do you know what its news are?\" He was told: \"Allah and His Messenger know better\". He said, \"Its news is that it shall bear witness against every slave man and woman they did on its back. It will say: 'You did this and this on such and such day.' Those will be its news.\".",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "99:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "introduction",
+            "id": 408,
+            "idInBook": 408,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن أبي هريرة، رضي الله عنه ، قال‏:‏ قرأ رسول الله، صلى الله عليه وسلم ‏{‏يومئذ تحدث أخبارها‏}‏ ثم قال‏:‏ ‏\"‏أتدرون ما أخبارها‏؟‏‏\"‏ قالوا الله ورسوله أعلم‏.‏ قال‏:‏ ‏\"‏فإن أخبارها أن تشهد كل عبد أو أمة بما عمل على ظهرها تقول‏:‏ عملت كذا وكذا في يوم كذا وكذا، فهذه أخبارها‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن‏ صحيح‏)‏‏)‏‏.‏",
+            "english": "Messenger of Allah (ﷺ) recited, \"That Day it (the earth) will reveal its news (about all that happened over it of good or evil).\" (99:4). Then he (ﷺ) inquired, \"Do you know what its news are?\" He was told: \"Allah and His Messenger know better\". He said, \"Its news is that it shall bear witness against every slave man and woman they did on its back. It will say: 'You did this and this on such and such day.' Those will be its news.\".",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "text_english": "Because your Lord has commanded it.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "text_english": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+      "text_english": "So whoever does an atom's weight of good will see it,",
+      "hadiths": [
+        {
+          "reference_text": "99: 7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 44648,
+            "idInBook": 1687,
+            "bookId": 14,
+            "chapterId": 6,
+            "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ صَاحِبِ ذَهَبٍ وَلَا فِضَّةٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ صُفِّحَتْ لَهُ صَفَائِحُ مِنْ نَارٍ فَأُحْمِيَ عَلَيْهَا فِي نَارِ جَهَنَّمَ فَيُكْوَى بِهَا جَنْبُهُ وجبينه وظهره كلما بردت أُعِيدَتْ لَهُ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ» قِيلَ: يَا رَسُولَ اللَّهِ فَالْإِبِلُ؟ قَالَ: «وَلَا صَاحِبُ إِبِلٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا وَمِنْ حَقِّهَا حَلْبُهَا يَوْمَ وِرْدِهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ بُطِحَ لَهَا بِقَاعٍ قَرْقَرٍ أَوْفَرَ مَا كَانَت لَا يفقد مِنْهَا فصيلا وَاحِدًا تَطَؤُهُ بِأَخْفَافِهَا وَتَعَضُّهُ بِأَفْوَاهِهَا كُلَّمَا مَرَّ عَلَيْهِ أولاها رد عَلَيْهِ أخراها فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار» قيل: يَا رَسُول الله فَالْبَقَرُ وَالْغَنَمُ؟ قَالَ: «وَلَا صَاحِبُ بَقْرٍ وَلَا غَنَمٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ بُطِحَ لَهَا بِقَاعٍ قَرْقَرٍ لَا يَفْقِدُ مِنْهَا شَيْئًا لَيْسَ فِيهَا عَقْصَاءُ وَلَا جَلْحَاءُ وَلَا عَضْبَاءُ تَنْطِحُهُ بِقُرُونِهَا وَتَطَؤُهُ بِأَظْلَافِهَا كُلَّمَا مَرَّ عَلَيْهِ أُولَاهَا رُدَّ عَلَيْهِ أُخْرَاهَا فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ» . قِيلَ: يَا رَسُول الله فالخيل؟ قَالَ: \" الْخَيل ثَلَاثَةٌ: هِيَ لِرَجُلٍ وِزْرٌ وَهِيَ لِرَجُلٍ سِتْرٌ وَهِيَ لِرَجُلٍ أَجْرٌ. فَأَمَّا الَّتِي هِيَ لَهُ وِزْرٌ فَرَجُلٌ رَبَطَهَا رِيَاءً وَفَخْرًا وَنِوَاءً عَلَى أَهْلِ الْإِسْلَامِ فَهِيَ لَهُ وِزْرٌ. وَأَمَّا الَّتِي لَهُ سِتْرٌ فَرَجُلٌ رَبَطَهَا فِي سَبِيلِ اللَّهِ ثُمَّ لَمْ يَنْسَ حَقَّ اللَّهِ فِي ظُهُورِهَا وَلَا رِقَابِهَا فَهِيَ لَهُ سِتْرٌ. وَأَمَّا الَّتِي هِيَ لَهُ أَجْرٌ فَرَجُلٌ رَبَطَهَا فِي سَبِيلِ الله لأهل الْإِسْلَام فِي مرج أَو رَوْضَة فَمَا أَكَلَتْ مِنْ ذَلِكَ الْمَرْجِ أَوِ الرَّوْضَةِ مِنْ شَيْءٍ إِلَّا كُتِبَ لَهُ عَدَدَ مَا أَكَلَتْ حَسَنَاتٌ وَكُتِبَ لَهُ عَدَدَ أَرْوَاثِهَا وَأَبْوَالِهَا حَسَنَاتٌ وَلَا تَقْطَعُ طِوَلَهَا فَاسْتَنَّتْ شَرَفًا أَوْ شَرَفَيْنِ إِلَّا كَتَبَ اللَّهُ لَهُ عَدَدَ آثَارِهَا وأوراثها حَسَنَاتٍ وَلَا مَرَّ بِهَا صَاحِبُهَا عَلَى نَهْرٍ فَشَرِبَتْ مِنْهُ وَلَا يُرِيدُ أَنْ يَسْقِيَهَا إِلَّا كَتَبَ اللَّهُ لَهُ عَدَدَ مَا شَرِبَتْ حَسَنَاتٍ \" قِيلَ: يَا رَسُولَ اللَّهِ فَالْحُمُرُ؟ قَالَ: \" مَا أُنْزِلَ عَلَيَّ فِي الْحُمُرِ شَيْءٌ إِلَّا هَذِهِ الْآيَةُ الْفَاذَّةُ الْجَامِعَةُ (فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ)\nالزلزلة. رَوَاهُ مُسلم",
+            "english": "Abu Huraira reported God’s messenger as saying, \n“If any owner of gold or silver does not pay what is due on it, when the day of resurrection comes plates of fire will be beaten out for him, they will be heated in the fire of jahannam, and his side, forehead and back will be cauterised with them. Every time they are put back in the fire they will be returned to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell.\" \nHe was asked about camels and replied, “If any owner of camels does not pay what is due on them, one thing which is due being to milk them on the day they come down to water,* when the day of resurrection comes a soft sandy plain will be spread out for them, as extensive as possible, he will find that not a single young one is missing, and they will trample him with their hoofs and bite him with their mouths. As often as the first of them pass him the last of them will be brought back to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell.\" \nHe was asked about cattle and sheep and said, “If any owner of cattle or sheep does not pay what is due on them, when the day of resurrection comes a soft sandy plain will be spread out for them, he will find none of them missing, with twisted horns, without horns, or with a broken horn, and they will gore him with their horns and trample him with their hoofs. As often as the first of them pass him the last of them will be brought back to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell”. \nHe was asked about horses and said, “Horses are of three types; to one man they are a load, to another a covering, and to another a reward. The first class is exemplified when a man keeps them in hypocrisy, vainglory and opposition to the people of Islam, so they are a load to him. The second class is exemplified when a man keeps them to be used in God's path and is not forgetful of God’s right concerning their backs and necks, so they are a covering to him. The third class is exemplified when a man keeps them to be used in God's path by the people of Islam and puts them in a meadow and field. The amount of what they eat in that meadow or field will be recorded on his behalf as good deeds, as will also the amount of their dung and urine. If they break their halter and prance a course or two God will record the amount of their hoofmarks and their dung on his behalf as good deeds. If their master brings them past a river from which they drink, although he did not intend to water them, God will record the amount of what they drink on his behalf as good deeds.” \nHe was asked about asses and said, \"I have had no revelation about asses except this solitary verse of a composite nature, ‘He who does an atom’s weight of good will see it, and he who does an atom’s weight of evil will see it'.”**\n\nMuslim transmitted it.\n\n* This is said to be in order that he may be able to give a drink to passers-by and the poor.\n** Qur’an 99: 7.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "99: 7",
+          "surah_name": null,
+          "start_ayah": 7,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "6",
+            "id": 2,
+            "idInBook": 2,
+            "bookId": 14,
+            "chapterId": 6,
+            "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ صَاحِبِ ذَهَبٍ وَلَا فِضَّةٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ صُفِّحَتْ لَهُ صَفَائِحُ مِنْ نَارٍ فَأُحْمِيَ عَلَيْهَا فِي نَارِ جَهَنَّمَ فَيُكْوَى بِهَا جَنْبُهُ وجبينه وظهره كلما بردت أُعِيدَتْ لَهُ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ» قِيلَ: يَا رَسُولَ اللَّهِ فَالْإِبِلُ؟ قَالَ: «وَلَا صَاحِبُ إِبِلٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا وَمِنْ حَقِّهَا حَلْبُهَا يَوْمَ وِرْدِهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ بُطِحَ لَهَا بِقَاعٍ قَرْقَرٍ أَوْفَرَ مَا كَانَت لَا يفقد مِنْهَا فصيلا وَاحِدًا تَطَؤُهُ بِأَخْفَافِهَا وَتَعَضُّهُ بِأَفْوَاهِهَا كُلَّمَا مَرَّ عَلَيْهِ أولاها رد عَلَيْهِ أخراها فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار» قيل: يَا رَسُول الله فَالْبَقَرُ وَالْغَنَمُ؟ قَالَ: «وَلَا صَاحِبُ بَقْرٍ وَلَا غَنَمٍ لَا يُؤَدِّي مِنْهَا حَقَّهَا إِلَّا إِذَا كَانَ يَوْمُ الْقِيَامَةِ بُطِحَ لَهَا بِقَاعٍ قَرْقَرٍ لَا يَفْقِدُ مِنْهَا شَيْئًا لَيْسَ فِيهَا عَقْصَاءُ وَلَا جَلْحَاءُ وَلَا عَضْبَاءُ تَنْطِحُهُ بِقُرُونِهَا وَتَطَؤُهُ بِأَظْلَافِهَا كُلَّمَا مَرَّ عَلَيْهِ أُولَاهَا رُدَّ عَلَيْهِ أُخْرَاهَا فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتَّى يُقْضَى بَيْنَ الْعِبَادِ فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ» . قِيلَ: يَا رَسُول الله فالخيل؟ قَالَ: \" الْخَيل ثَلَاثَةٌ: هِيَ لِرَجُلٍ وِزْرٌ وَهِيَ لِرَجُلٍ سِتْرٌ وَهِيَ لِرَجُلٍ أَجْرٌ. فَأَمَّا الَّتِي هِيَ لَهُ وِزْرٌ فَرَجُلٌ رَبَطَهَا رِيَاءً وَفَخْرًا وَنِوَاءً عَلَى أَهْلِ الْإِسْلَامِ فَهِيَ لَهُ وِزْرٌ. وَأَمَّا الَّتِي لَهُ سِتْرٌ فَرَجُلٌ رَبَطَهَا فِي سَبِيلِ اللَّهِ ثُمَّ لَمْ يَنْسَ حَقَّ اللَّهِ فِي ظُهُورِهَا وَلَا رِقَابِهَا فَهِيَ لَهُ سِتْرٌ. وَأَمَّا الَّتِي هِيَ لَهُ أَجْرٌ فَرَجُلٌ رَبَطَهَا فِي سَبِيلِ الله لأهل الْإِسْلَام فِي مرج أَو رَوْضَة فَمَا أَكَلَتْ مِنْ ذَلِكَ الْمَرْجِ أَوِ الرَّوْضَةِ مِنْ شَيْءٍ إِلَّا كُتِبَ لَهُ عَدَدَ مَا أَكَلَتْ حَسَنَاتٌ وَكُتِبَ لَهُ عَدَدَ أَرْوَاثِهَا وَأَبْوَالِهَا حَسَنَاتٌ وَلَا تَقْطَعُ طِوَلَهَا فَاسْتَنَّتْ شَرَفًا أَوْ شَرَفَيْنِ إِلَّا كَتَبَ اللَّهُ لَهُ عَدَدَ آثَارِهَا وأوراثها حَسَنَاتٍ وَلَا مَرَّ بِهَا صَاحِبُهَا عَلَى نَهْرٍ فَشَرِبَتْ مِنْهُ وَلَا يُرِيدُ أَنْ يَسْقِيَهَا إِلَّا كَتَبَ اللَّهُ لَهُ عَدَدَ مَا شَرِبَتْ حَسَنَاتٍ \" قِيلَ: يَا رَسُولَ اللَّهِ فَالْحُمُرُ؟ قَالَ: \" مَا أُنْزِلَ عَلَيَّ فِي الْحُمُرِ شَيْءٌ إِلَّا هَذِهِ الْآيَةُ الْفَاذَّةُ الْجَامِعَةُ (فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ)\nالزلزلة. رَوَاهُ مُسلم",
+            "english": "Abu Huraira reported God’s messenger as saying, \n“If any owner of gold or silver does not pay what is due on it, when the day of resurrection comes plates of fire will be beaten out for him, they will be heated in the fire of jahannam, and his side, forehead and back will be cauterised with them. Every time they are put back in the fire they will be returned to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell.\" \nHe was asked about camels and replied, “If any owner of camels does not pay what is due on them, one thing which is due being to milk them on the day they come down to water,* when the day of resurrection comes a soft sandy plain will be spread out for them, as extensive as possible, he will find that not a single young one is missing, and they will trample him with their hoofs and bite him with their mouths. As often as the first of them pass him the last of them will be brought back to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell.\" \nHe was asked about cattle and sheep and said, “If any owner of cattle or sheep does not pay what is due on them, when the day of resurrection comes a soft sandy plain will be spread out for them, he will find none of them missing, with twisted horns, without horns, or with a broken horn, and they will gore him with their horns and trample him with their hoofs. As often as the first of them pass him the last of them will be brought back to him during a day whose extent will be fifty thousand years, until judgment is pronounced among mankind and he sees whether his path is to take him to paradise or to hell”. \nHe was asked about horses and said, “Horses are of three types; to one man they are a load, to another a covering, and to another a reward. The first class is exemplified when a man keeps them in hypocrisy, vainglory and opposition to the people of Islam, so they are a load to him. The second class is exemplified when a man keeps them to be used in God's path and is not forgetful of God’s right concerning their backs and necks, so they are a covering to him. The third class is exemplified when a man keeps them to be used in God's path by the people of Islam and puts them in a meadow and field. The amount of what they eat in that meadow or field will be recorded on his behalf as good deeds, as will also the amount of their dung and urine. If they break their halter and prance a course or two God will record the amount of their hoofmarks and their dung on his behalf as good deeds. If their master brings them past a river from which they drink, although he did not intend to water them, God will record the amount of what they drink on his behalf as good deeds.” \nHe was asked about asses and said, \"I have had no revelation about asses except this solitary verse of a composite nature, ‘He who does an atom’s weight of good will see it, and he who does an atom’s weight of evil will see it'.”**\n\nMuslim transmitted it.\n\n* This is said to be in order that he may be able to give a drink to passers-by and the poor.\n** Qur’an 99: 7.",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+      "text_english": "And whoever does an atom's weight of evil will see it.",
+      "hadiths": [
+        {
+          "reference_text": "99: 8",
+          "surah_name": null,
+          "start_ayah": 8,
+          "end_ayah": 8,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 41600,
+            "idInBook": 535,
+            "bookId": 13,
+            "chapterId": 8,
+            "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ما من صاحب ذهب، ولا فضة، لا يؤدي منها حقها إلا إذا كان يوم القيامة صفحت له صفائح من نار، فأحمي عليها في نار جهنم فيكوى بها جنبه، وجبينه، وظهره، كلما بردت أعيدت له في يوم كان مقداره خمسين ألف سنة، حتى يقضى بين العباد فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ قيل‏:‏ يا رسول الله فالإبل‏؟‏ قال‏:‏ ‏\"‏ولا صاحب إبل لا يؤدي منها حقها، ومن حقها حلبها يوم وردها، إلا إذ كان يوم القيامة بطح لها بقاع قرقر أوفر ما كانت، لا يفقد منها فصيلا واحدًا، تطؤه بأخفافها، وتعضه بأفواهها كلما مر عليه أُولاها، رد عليه أُخراها، في يوم كان مقداره خمسين ألف سنة، حتى يقضى بين العباد، فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ قيل‏:‏ يا رسول الله فالبقر والغنم‏؟‏ قال‏:‏ ‏\"‏ولا صاحب بقر ولا غنم لا يؤدي منها حقها إلا إذا كان يوم القيامة، بطح لها بقاع قرقر، لا يفقد منها شيئًا ليس فيها عقصاء، ولا جلحاء، ولا عضباء، تنطحه بقرونها، وتطؤه بأظلافها، كلما مر عليه أُولاها، رد عليه أُخراها، في يوم كان مقداره خمسين ألف سنة حتى يقضى بين العباد، فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ ‏.‏ قيل‏:‏ يا رسول الله فالخيل‏؟‏ قال‏:‏ ‏\"‏الخيل ثلاثة‏:‏ هي لرجل وزر، وهي لرجل ستر، وهي لرجل أجر، فأما التي هي له وزر فرجل ربطها رياء وفخرًا ونواء على أهل الإسلام، فهي له وزر، وأما التي هي له ستر، فرجل ربطها في سبيل الله، ثم لم ينسَ حق الله في ظهورها، ولا رقابها فهي له ستر، وأما التي هي له أجر، فرجل ربطها في سبيل الله لأهل الإسلام في مرج، أو روضة، فما أكلت من ذلك المرج أو الروضة من شيء إلا كتب له عدد ما أكلت حسنات، وكتب له عدد أرواثها وأبوالها حسنات، ولا تقطع طولها فاستنت شرفًا أو شرفين إلا كتب الله له عدد آثارها، وأرواثها حسنات، ولا مر بها صاحبها على نهر فشربت منه، ولا يريد أن يسقيها إلا كتب الله له عدد ما شربت حسنات‏\"‏  \nوالإيتار قبل النوم إنما يستحب لمن لا يثق باستيقاظ آخر الليل، فإن وثق فآخر الليل أفضل‏.‏",
+            "english": "The Messenger of Allah (ﷺ) said, \"Any person who possesses gold or silver and does not pay what is due on it (i.e., the Zakat); on the Day of Resurrection, sheets of silver and gold would be heated for him in the fire of Hell and with them his flank, forehead and back will be branded. When they cool down, they will be heated again and the same process will be repeated during the day the measure whereof will be fifty thousand years. (This would go on) until Judgement is pronounced among (Allah's) slaves, and he will be shown his final abode, either to Jannah or to Hell.\" It was asked, \"How about someone who owns camels and does not pay what is due on him (i.e., their Zakat)?\" He (ﷺ) replied, \"In the same way the owner of camels who does not discharge what is due in respect of them (their due includes their milking on the day when they are taken to water) will be thrown on his face or on his back in a vast desert plain on the Day of Resurrection and they will trample upon him with their hoofs and bite him with their teeth. As often as the first of them passes him, the last of them will be made to return during a day the measure whereof will be fifty thousand years, until Judgement is pronounced among (Allah's) slaves, he will be shown his final abode either to Jannah or to Hell.\" It was (again) asked: \"O Messenger of Allah, what about cows (cattle) and sheep?\" He (ﷺ) said, \"If anyone who possesses cattle and sheep and does not pay what is due on them (i.e., their Zakat); on the Day of Resurrection, he will be thrown on his face in a vast plain desert. He will find none of the animals missing with twisted horns, without horns or with a broken horn, and they will gore him with their horns and trample upon him with their hoofs. As often as the first of them passes him, the last of them will be made to return to him during a day the measure whereof will be fifty thousand years, until Judgement is pronounced among (Allah's) slaves; and he will be shown his final abode either to Jannah or to Hell.\" It was asked: \"O Messenger of Allah, what about the horses?\" Upon this he (ﷺ) said, \"The horses are of three types. One, which is a burden for the owner; another which is a shield, and another one which makes its owner entitled to reward. The one for whom these are a burden is the person who rears them for show or for pride or for causing injury to the sentiments of the Muslims. They will be a cause of torment for their owners. The one for whom these are a shield is the person who rears them for the sake of Allah but does not forget the Right of Allah concerning their backs and their necks (i.e., he lets a needy ride on them), and so they are a shield for him. Those which bring reward to the one who rears them in pastures and gardens are the ones that are used in the Cause of Allah (Jihad) by the Muslims. Whatever they eat from the meadows and the gardens will be recorded on his behalf as good deeds so much so that their droppings and urine will be counted for an equal number of good deeds for him. Even when they break their tying rope and every height from which they climb and every hoofprint which they leave will be counted as a good deed on behalf of the owner. When their owner leads them through a stream from which they drink, though he does not intend to quench their thirst, yet Allah would record for him the quantity (of water) of what they would drink on his behalf as good deeds.\" It was asked: \"O Messenger of Allah, what about the donkeys?\" Upon this he (ﷺ) said, \"Nothing has been revealed to me in regard to the donkeys in particular except this one Verse of a comprehensive nature: \"So whosoever does good equal to the weight of an atom (or a small ant) shall see it. And whosoever does evil equal to the weight of an atom (or a small ant) shall see it.\"' (99: 8,9)..",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "99: 8",
+          "surah_name": null,
+          "start_ayah": 8,
+          "end_ayah": 8,
+          "hadith": {
+            "source": "8",
+            "id": 224,
+            "idInBook": 224,
+            "bookId": 13,
+            "chapterId": 8,
+            "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ما من صاحب ذهب، ولا فضة، لا يؤدي منها حقها إلا إذا كان يوم القيامة صفحت له صفائح من نار، فأحمي عليها في نار جهنم فيكوى بها جنبه، وجبينه، وظهره، كلما بردت أعيدت له في يوم كان مقداره خمسين ألف سنة، حتى يقضى بين العباد فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ قيل‏:‏ يا رسول الله فالإبل‏؟‏ قال‏:‏ ‏\"‏ولا صاحب إبل لا يؤدي منها حقها، ومن حقها حلبها يوم وردها، إلا إذ كان يوم القيامة بطح لها بقاع قرقر أوفر ما كانت، لا يفقد منها فصيلا واحدًا، تطؤه بأخفافها، وتعضه بأفواهها كلما مر عليه أُولاها، رد عليه أُخراها، في يوم كان مقداره خمسين ألف سنة، حتى يقضى بين العباد، فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ قيل‏:‏ يا رسول الله فالبقر والغنم‏؟‏ قال‏:‏ ‏\"‏ولا صاحب بقر ولا غنم لا يؤدي منها حقها إلا إذا كان يوم القيامة، بطح لها بقاع قرقر، لا يفقد منها شيئًا ليس فيها عقصاء، ولا جلحاء، ولا عضباء، تنطحه بقرونها، وتطؤه بأظلافها، كلما مر عليه أُولاها، رد عليه أُخراها، في يوم كان مقداره خمسين ألف سنة حتى يقضى بين العباد، فيرى سبيله، إما إلى الجنة، وإما إلى النار‏\"‏ ‏.‏ قيل‏:‏ يا رسول الله فالخيل‏؟‏ قال‏:‏ ‏\"‏الخيل ثلاثة‏:‏ هي لرجل وزر، وهي لرجل ستر، وهي لرجل أجر، فأما التي هي له وزر فرجل ربطها رياء وفخرًا ونواء على أهل الإسلام، فهي له وزر، وأما التي هي له ستر، فرجل ربطها في سبيل الله، ثم لم ينسَ حق الله في ظهورها، ولا رقابها فهي له ستر، وأما التي هي له أجر، فرجل ربطها في سبيل الله لأهل الإسلام في مرج، أو روضة، فما أكلت من ذلك المرج أو الروضة من شيء إلا كتب له عدد ما أكلت حسنات، وكتب له عدد أرواثها وأبوالها حسنات، ولا تقطع طولها فاستنت شرفًا أو شرفين إلا كتب الله له عدد آثارها، وأرواثها حسنات، ولا مر بها صاحبها على نهر فشربت منه، ولا يريد أن يسقيها إلا كتب الله له عدد ما شربت حسنات‏\"‏  \nوالإيتار قبل النوم إنما يستحب لمن لا يثق باستيقاظ آخر الليل، فإن وثق فآخر الليل أفضل‏.‏",
+            "english": "The Messenger of Allah (ﷺ) said, \"Any person who possesses gold or silver and does not pay what is due on it (i.e., the Zakat); on the Day of Resurrection, sheets of silver and gold would be heated for him in the fire of Hell and with them his flank, forehead and back will be branded. When they cool down, they will be heated again and the same process will be repeated during the day the measure whereof will be fifty thousand years. (This would go on) until Judgement is pronounced among (Allah's) slaves, and he will be shown his final abode, either to Jannah or to Hell.\" It was asked, \"How about someone who owns camels and does not pay what is due on him (i.e., their Zakat)?\" He (ﷺ) replied, \"In the same way the owner of camels who does not discharge what is due in respect of them (their due includes their milking on the day when they are taken to water) will be thrown on his face or on his back in a vast desert plain on the Day of Resurrection and they will trample upon him with their hoofs and bite him with their teeth. As often as the first of them passes him, the last of them will be made to return during a day the measure whereof will be fifty thousand years, until Judgement is pronounced among (Allah's) slaves, he will be shown his final abode either to Jannah or to Hell.\" It was (again) asked: \"O Messenger of Allah, what about cows (cattle) and sheep?\" He (ﷺ) said, \"If anyone who possesses cattle and sheep and does not pay what is due on them (i.e., their Zakat); on the Day of Resurrection, he will be thrown on his face in a vast plain desert. He will find none of the animals missing with twisted horns, without horns or with a broken horn, and they will gore him with their horns and trample upon him with their hoofs. As often as the first of them passes him, the last of them will be made to return to him during a day the measure whereof will be fifty thousand years, until Judgement is pronounced among (Allah's) slaves; and he will be shown his final abode either to Jannah or to Hell.\" It was asked: \"O Messenger of Allah, what about the horses?\" Upon this he (ﷺ) said, \"The horses are of three types. One, which is a burden for the owner; another which is a shield, and another one which makes its owner entitled to reward. The one for whom these are a burden is the person who rears them for show or for pride or for causing injury to the sentiments of the Muslims. They will be a cause of torment for their owners. The one for whom these are a shield is the person who rears them for the sake of Allah but does not forget the Right of Allah concerning their backs and their necks (i.e., he lets a needy ride on them), and so they are a shield for him. Those which bring reward to the one who rears them in pastures and gardens are the ones that are used in the Cause of Allah (Jihad) by the Muslims. Whatever they eat from the meadows and the gardens will be recorded on his behalf as good deeds so much so that their droppings and urine will be counted for an equal number of good deeds for him. Even when they break their tying rope and every height from which they climb and every hoofprint which they leave will be counted as a good deed on behalf of the owner. When their owner leads them through a stream from which they drink, though he does not intend to quench their thirst, yet Allah would record for him the quantity (of water) of what they would drink on his behalf as good deeds.\" It was asked: \"O Messenger of Allah, what about the donkeys?\" Upon this he (ﷺ) said, \"Nothing has been revealed to me in regard to the donkeys in particular except this one Verse of a comprehensive nature: \"So whosoever does good equal to the weight of an atom (or a small ant) shall see it. And whosoever does evil equal to the weight of an atom (or a small ant) shall see it.\"' (99: 8,9)..",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        }
+      ]
+    }
+  ]
+}

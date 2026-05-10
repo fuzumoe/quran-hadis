@@ -1,0 +1,476 @@
+{
+  "surah": {
+    "id": 31,
+    "name_arabic": "سُورَةُ لُقۡمَانَ",
+    "name_english": "Luqman",
+    "name_english_translation": "Luqman",
+    "verses_count": 34
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+      "text_english": "Alif, Lam, Meem.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ",
+      "text_english": "These are verses of the wise Book,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ",
+      "text_english": "As guidance and mercy for the doers of good",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ",
+      "text_english": "Who establish prayer and give zakah, and they, of the Hereafter, are certain [in faith].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "أُو۟لَٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "text_english": "Those are on [right] guidance from their Lord, and it is those who are the successful.",
+      "hadiths": [
+        {
+          "reference_text": "31:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 48177,
+            "idInBook": 788,
+            "bookId": 15,
+            "chapterId": 33,
+            "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ‏:‏ أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللهِ، قَالَ‏:‏ أَخْبَرَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ‏:‏ ‏{‏وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ‏}‏، قَالَ‏:‏ الْغِنَاءُ وَأَشْبَاهُهُ‏.‏",
+            "english": "Ibn 'Abbas said about \"There are some people who trade in distracting\ntales\" (31:5) that it means singing and things like it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "31:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "33",
+            "id": 33,
+            "idInBook": 33,
+            "bookId": 15,
+            "chapterId": 33,
+            "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ‏:‏ أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللهِ، قَالَ‏:‏ أَخْبَرَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ‏:‏ ‏{‏وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ‏}‏، قَالَ‏:‏ الْغِنَاءُ وَأَشْبَاهُهُ‏.‏",
+            "english": "Ibn 'Abbas said about \"There are some people who trade in distracting\ntales\" (31:5) that it means singing and things like it.",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+      "text_english": "And of the people is he who buys the amusement of speech to mislead [others] from the way of Allah without knowledge and who takes it in ridicule. Those will have a humiliating punishment.",
+      "hadiths": [
+        {
+          "reference_text": "31:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 45626,
+            "idInBook": 2665,
+            "bookId": 14,
+            "chapterId": 11,
+            "arabic": "وَعَنْ أَبِي أُمَامَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" لَا تَبِيعُوا الْقَيْنَاتِ وَلَا تَشْتَرُوهُنَّ وَلَا تُعَلِّمُوهُنَّ وَثَمَنُهُنَّ حَرَامٌ وَفِي مِثْلِ هَذَا نَزَلَتْ: (وَمِنَ النَّاسِ مَنْ يَشْتَرِي لهْوَ الحَديثِ)\nرَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ وَقَالَ التِّرْمِذِيُّ هَذَا حَدِيثٌ غَرِيبٌ وَعلي بن يزِيد الرواي يُضَعَّفُ فِي الْحَدِيثِ",
+            "english": "\"Do not sell, buy or teach singing-girls, and the price paid for them is unlawful. To similar effect has been sent down, 'Among men are those who purchase frivolous talk' (Al-Qur'an 31:6).\n\nAhmad, Tirmidhi and Ibn Majah transmitted it, Tirmidhi saying that this is a gharib tradition and that ‘Ali b. Yazid the transmitter is declared to be a weak traditionist.",
+            "narrator": "Abu Umama reported God’s Messenger as saying:"
+          }
+        },
+        {
+          "reference_text": "31:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29059,
+            "idInBook": 3279,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا بَكْرُ بْنُ مُضَرَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، وَهُوَ عَبْدُ الرَّحْمَنِ مَوْلَى عَبْدِ الرَّحْمَنِ عَنْ أَبِي أُمَامَةَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تَبِيعُوا الْقَيْنَاتِ وَلاَ تَشْتَرُوهُنَّ وَلاَ تُعَلِّمُوهُنَّ وَلاَ خَيْرَ فِي تِجَارَةٍ فِيهِنَّ وَثَمَنُهُنَّ حَرَامٌ ‏\"‏ ‏.‏ فِي مِثْلِ ذَلِكَ أُنْزِلَتْ عَلَيْهِ هَذِهِ الآيَةُ ‏:‏ ‏(‏ومِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ إِنَّمَا يُرْوَى مِنْ حَدِيثِ الْقَاسِمِ عَنْ أَبِي أُمَامَةَ ‏.‏ وَالْقَاسِمُ ثِقَةٌ وَعَلِيُّ بْنُ يَزِيدَ يُضَعَّفُ فِي الْحَدِيثِ قَالَ سَمِعْتُ مُحَمَّدَ بْنَ إِسْمَاعِيلَ يَقُولُ الْقَاسِمُ ثِقَةٌ وَعَلِيُّ بْنُ يَزِيدَ يُضَعَّفُ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) said: \"Do not sell the female singers, nor purchase them, nor teach them (to sing). And there is no good in trade in them, and their prices are unlawful. It was about the likes of this that this Ayah was revealed: 'And among mankind is he who purchases idle talk to divert from the way of Allah (31:6).'\"",
+            "narrator": "Narrated Abu Umamah:"
+          }
+        },
+        {
+          "reference_text": "31:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "11",
+            "id": 22,
+            "idInBook": 22,
+            "bookId": 14,
+            "chapterId": 11,
+            "arabic": "وَعَنْ أَبِي أُمَامَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" لَا تَبِيعُوا الْقَيْنَاتِ وَلَا تَشْتَرُوهُنَّ وَلَا تُعَلِّمُوهُنَّ وَثَمَنُهُنَّ حَرَامٌ وَفِي مِثْلِ هَذَا نَزَلَتْ: (وَمِنَ النَّاسِ مَنْ يَشْتَرِي لهْوَ الحَديثِ)\nرَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ وَقَالَ التِّرْمِذِيُّ هَذَا حَدِيثٌ غَرِيبٌ وَعلي بن يزِيد الرواي يُضَعَّفُ فِي الْحَدِيثِ",
+            "english": "\"Do not sell, buy or teach singing-girls, and the price paid for them is unlawful. To similar effect has been sent down, 'Among men are those who purchase frivolous talk' (Al-Qur'an 31:6).\n\nAhmad, Tirmidhi and Ibn Majah transmitted it, Tirmidhi saying that this is a gharib tradition and that ‘Ali b. Yazid the transmitter is declared to be a weak traditionist.",
+            "narrator": "Abu Umama reported God’s Messenger as saying:"
+          }
+        },
+        {
+          "reference_text": "31:6",
+          "surah_name": null,
+          "start_ayah": 6,
+          "end_ayah": 6,
+          "hadith": {
+            "source": "47",
+            "id": 247,
+            "idInBook": 247,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا بَكْرُ بْنُ مُضَرَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، وَهُوَ عَبْدُ الرَّحْمَنِ مَوْلَى عَبْدِ الرَّحْمَنِ عَنْ أَبِي أُمَامَةَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تَبِيعُوا الْقَيْنَاتِ وَلاَ تَشْتَرُوهُنَّ وَلاَ تُعَلِّمُوهُنَّ وَلاَ خَيْرَ فِي تِجَارَةٍ فِيهِنَّ وَثَمَنُهُنَّ حَرَامٌ ‏\"‏ ‏.‏ فِي مِثْلِ ذَلِكَ أُنْزِلَتْ عَلَيْهِ هَذِهِ الآيَةُ ‏:‏ ‏(‏ومِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ إِنَّمَا يُرْوَى مِنْ حَدِيثِ الْقَاسِمِ عَنْ أَبِي أُمَامَةَ ‏.‏ وَالْقَاسِمُ ثِقَةٌ وَعَلِيُّ بْنُ يَزِيدَ يُضَعَّفُ فِي الْحَدِيثِ قَالَ سَمِعْتُ مُحَمَّدَ بْنَ إِسْمَاعِيلَ يَقُولُ الْقَاسِمُ ثِقَةٌ وَعَلِيُّ بْنُ يَزِيدَ يُضَعَّفُ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) said: \"Do not sell the female singers, nor purchase them, nor teach them (to sing). And there is no good in trade in them, and their prices are unlawful. It was about the likes of this that this Ayah was revealed: 'And among mankind is he who purchases idle talk to divert from the way of Allah (31:6).'\"",
+            "narrator": "Narrated Abu Umamah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا وَلَّىٰ مُسْتَكْبِرًۭا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًۭا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "text_english": "And when our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتُ ٱلنَّعِيمِ",
+      "text_english": "Indeed, those who believe and do righteous deeds - for them are the Gardens of Pleasure.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "خَٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_english": "Wherein they abide eternally; [it is] the promise of Allah [which is] truth. And He is the Exalted in Might, the Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
+      "text_english": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+      "text_english": "This is the creation of Allah. So show Me what those other than Him have created. Rather, the wrongdoers are in clear error.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+      "text_english": "And We had certainly given Luqman wisdom [and said], \"Be grateful to Allah.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allah is Free of need and Praiseworthy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+      "text_english": "And [mention, O Muhammad], when Luqman said to his son while he was instructing him, \"O my son, do not associate [anything] with Allah. Indeed, association [with him] is great injustice.\"",
+      "hadiths": [
+        {
+          "reference_text": "31:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28931,
+            "idInBook": 3151,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ ‏:‏ لَمَّا نَزَلَتْ‏:‏ ‏(‏ الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ ‏)‏ شَقَّ ذَلِكَ عَلَى الْمُسْلِمِينَ فَقَالُوا يَا رَسُولَ اللَّهِ وَأَيُّنَا لاَ يَظْلِمُ نَفْسَهُ ‏.‏ قَالَ ‏\"‏ لَيْسَ ذَلِكَ إِنَّمَا هُوَ الشِّرْكُ أَلَمْ تَسْمَعُوا مَا قَالَ لُقْمَانُ لاِبْنِهِ ‏:‏ ‏(‏ يَا بُنَيَّ لاَ تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ ‏)‏ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"When (the following) was revealed: It is those who believe and confuse not their belief with Zulm (wrong) (6:82) - That bothered some Muslims, so they said: 'O Messenger of Allah! Which of us has not wronged himself?' He said: 'It is not that, it is only Shirk, have you not heard what Luqman said to his son: O my son! Do not commit Shirk with Allah. Verily Shirk is a tremendous Zulm (wrong) (31:13).'\"",
+            "narrator": "Narrated 'Abdullah:"
+          }
+        },
+        {
+          "reference_text": "31:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "47",
+            "id": 119,
+            "idInBook": 119,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ ‏:‏ لَمَّا نَزَلَتْ‏:‏ ‏(‏ الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ ‏)‏ شَقَّ ذَلِكَ عَلَى الْمُسْلِمِينَ فَقَالُوا يَا رَسُولَ اللَّهِ وَأَيُّنَا لاَ يَظْلِمُ نَفْسَهُ ‏.‏ قَالَ ‏\"‏ لَيْسَ ذَلِكَ إِنَّمَا هُوَ الشِّرْكُ أَلَمْ تَسْمَعُوا مَا قَالَ لُقْمَانُ لاِبْنِهِ ‏:‏ ‏(‏ يَا بُنَيَّ لاَ تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ ‏)‏ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"When (the following) was revealed: It is those who believe and confuse not their belief with Zulm (wrong) (6:82) - That bothered some Muslims, so they said: 'O Messenger of Allah! Which of us has not wronged himself?' He said: 'It is not that, it is only Shirk, have you not heard what Luqman said to his son: O my son! Do not commit Shirk with Allah. Verily Shirk is a tremendous Zulm (wrong) (31:13).'\"",
+            "narrator": "Narrated 'Abdullah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "text_english": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًۭا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "text_english": "But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+      "hadiths": [
+        {
+          "reference_text": "31:15",
+          "surah_name": null,
+          "start_ayah": 15,
+          "end_ayah": 15,
+          "hadith": {
+            "source": "aladab_almufrad",
+            "id": 47413,
+            "idInBook": 24,
+            "bookId": 15,
+            "chapterId": 1,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، قَالَ‏:‏ حَدَّثَنَا سِمَاكٌ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ سَعْدِ بْنِ أَبِي وَقَّاصٍ قَالَ‏:‏ نَزَلَتْ فِيَّ أَرْبَعُ آيَاتٍ مِنْ كِتَابِ اللهِ تَعَالَى‏:‏ كَانَتْ أُمِّي حَلَفَتْ أَنْ لاَ تَأْكُلَ وَلاَ تَشْرَبَ حَتَّى أُفَارِقَ مُحَمَّدًا صلى الله عليه وسلم، فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ‏:‏ ‏{‏وَإِنْ جَاهَدَاكَ عَلَى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطُعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا‏}‏‏.‏ وَالثَّانِيَةُ‏:‏ أَنِّي كُنْتُ أَخَذْتُ سَيْفًا أَعْجَبَنِي، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، هَبْ لِي هَذَا، فَنَزَلَتْ‏:‏ ‏{‏يَسْأَلُونَكَ عَنِ الأَنْفَالِ‏}‏‏.‏ وَالثَّالِثَةُ‏:‏ أَنِّي مَرِضْتُ فَأَتَانِي رَسُولُ اللهِ صلى الله عليه وسلم، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، إِنِّي أُرِيدُ أَنْ أَقْسِمَ مَالِي، أَفَأُوصِي بِالنِّصْفِ‏؟‏ فَقَالَ‏:‏ لاَ، فَقُلْتُ‏:‏ الثُّلُثُ‏؟‏ فَسَكَتَ، فَكَانَ الثُّلُثُ بَعْدَهُ جَائِزًا‏.‏ وَالرَّابِعَةُ‏:‏ إِنِّي شَرِبْتُ الْخَمْرَ مَعَ قَوْمٍ مِنَ الأَنْصَارِ، فَضَرَبَ رَجُلٌ مِنْهُمْ أَنْفِي بِلَحْيِ جَمَلٍ، فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَنْزَلَ عَزَّ وَجَلَّ تَحْرِيمَ الْخَمْرِ‏.‏",
+            "english": "\"Four ayats were revealed about me. The first\nwas when my mother swore she would neither eat nor drink until I left Muhammad,\nmay Allah bless him and grant him peace. Allah Almighty revealed, 'But\nif they try to make you associate something with Me about which you have\nno knowledge, do not obey them. Keep company with them correctly and courteously\nin this world' (31:15) The second was when I took a sword that\nI admired and said, 'Messenger of Allah, give me this!' Then the ayat\nwas revealed: 'They will ask you about booty.' (8:1) The third was\nwhen I was ill and the Messenger of Allah, may Allah bless him and grant\nhim peace, came to me and I said, 'Messenger of Allah, I want to divide my\nproperty. Can I will away a half?' He said, 'No.' 'A third?' I asked. He\nwas silent and so after that it was allowed to will away a third. The fourth\nwas when I had been drinking wine with some of the Ansar. One of them hit\nmy nose with the jawbone of a camel. I went to the Prophet, may Allah bless\nhim and grant him peace, and Allah Almighty revealed the prohibition of wine.\"",
+            "narrator": "Sa'id ibn Abi Waqqas said:"
+          }
+        },
+        {
+          "reference_text": "31:15",
+          "surah_name": null,
+          "start_ayah": 15,
+          "end_ayah": 15,
+          "hadith": {
+            "source": "1",
+            "id": 24,
+            "idInBook": 24,
+            "bookId": 15,
+            "chapterId": 1,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، قَالَ‏:‏ حَدَّثَنَا سِمَاكٌ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ سَعْدِ بْنِ أَبِي وَقَّاصٍ قَالَ‏:‏ نَزَلَتْ فِيَّ أَرْبَعُ آيَاتٍ مِنْ كِتَابِ اللهِ تَعَالَى‏:‏ كَانَتْ أُمِّي حَلَفَتْ أَنْ لاَ تَأْكُلَ وَلاَ تَشْرَبَ حَتَّى أُفَارِقَ مُحَمَّدًا صلى الله عليه وسلم، فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ‏:‏ ‏{‏وَإِنْ جَاهَدَاكَ عَلَى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطُعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا‏}‏‏.‏ وَالثَّانِيَةُ‏:‏ أَنِّي كُنْتُ أَخَذْتُ سَيْفًا أَعْجَبَنِي، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، هَبْ لِي هَذَا، فَنَزَلَتْ‏:‏ ‏{‏يَسْأَلُونَكَ عَنِ الأَنْفَالِ‏}‏‏.‏ وَالثَّالِثَةُ‏:‏ أَنِّي مَرِضْتُ فَأَتَانِي رَسُولُ اللهِ صلى الله عليه وسلم، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، إِنِّي أُرِيدُ أَنْ أَقْسِمَ مَالِي، أَفَأُوصِي بِالنِّصْفِ‏؟‏ فَقَالَ‏:‏ لاَ، فَقُلْتُ‏:‏ الثُّلُثُ‏؟‏ فَسَكَتَ، فَكَانَ الثُّلُثُ بَعْدَهُ جَائِزًا‏.‏ وَالرَّابِعَةُ‏:‏ إِنِّي شَرِبْتُ الْخَمْرَ مَعَ قَوْمٍ مِنَ الأَنْصَارِ، فَضَرَبَ رَجُلٌ مِنْهُمْ أَنْفِي بِلَحْيِ جَمَلٍ، فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَنْزَلَ عَزَّ وَجَلَّ تَحْرِيمَ الْخَمْرِ‏.‏",
+            "english": "\"Four ayats were revealed about me. The first\nwas when my mother swore she would neither eat nor drink until I left Muhammad,\nmay Allah bless him and grant him peace. Allah Almighty revealed, 'But\nif they try to make you associate something with Me about which you have\nno knowledge, do not obey them. Keep company with them correctly and courteously\nin this world' (31:15) The second was when I took a sword that\nI admired and said, 'Messenger of Allah, give me this!' Then the ayat\nwas revealed: 'They will ask you about booty.' (8:1) The third was\nwhen I was ill and the Messenger of Allah, may Allah bless him and grant\nhim peace, came to me and I said, 'Messenger of Allah, I want to divide my\nproperty. Can I will away a half?' He said, 'No.' 'A third?' I asked. He\nwas silent and so after that it was allowed to will away a third. The fourth\nwas when I had been drinking wine with some of the Ansar. One of them hit\nmy nose with the jawbone of a camel. I went to the Prophet, may Allah bless\nhim and grant him peace, and Allah Almighty revealed the prohibition of wine.\"",
+            "narrator": "Sa'id ibn Abi Waqqas said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ",
+      "text_english": "[And Luqman said], \"O my son, indeed if wrong should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allah will bring it forth. Indeed, Allah is Subtle and Acquainted.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "text_english": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] determination.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
+      "text_english": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ",
+      "text_english": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَٰبٍۢ مُّنِيرٍۢ",
+      "text_english": "Do you not see that Allah has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent? But of the people is he who disputes about Allah without knowledge or guidance or an enlightening Book [from Him].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+      "text_english": "And when it is said to them, \"Follow what Allah has revealed,\" they say, \"Rather, we will follow that upon which we found our fathers.\" Even if Satan was inviting them to the punishment of the Blaze?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌۭ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلْأُمُورِ",
+      "text_english": "And whoever submits his face to Allah while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allah will be the outcome of [all] matters.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "text_english": "And whoever has disbelieved - let not his disbelief grieve you. To Us is their return, and We will inform them of what they did. Indeed, Allah is Knowing of that within the breasts.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍۢ",
+      "text_english": "We grant them enjoyment for a little; then We will force them to a massive punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "text_english": "And if you asked them, \"Who created the heavens and earth?\" they would surely say, \"Allah.\" Say, \"[All] praise is [due] to Allah \"; but most of them do not know.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+      "text_english": "To Allah belongs whatever is in the heavens and earth. Indeed, Allah is the Free of need, the Praiseworthy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَٰمٌۭ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍۢ مَّا نَفِدَتْ كَلِمَٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ",
+      "text_english": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allah would not be exhausted. Indeed, Allah is Exalted in Might and Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍۢ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "text_english": "Your creation and your resurrection will not be but as that of a single soul. Indeed, Allah is Hearing and Seeing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّۭ يَجْرِىٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+      "text_english": "Do you not see that Allah causes the night to enter the day and causes the day to enter the night and has subjected the sun and the moon, each running [its course] for a specified term, and that Allah, with whatever you do, is Acquainted?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ",
+      "text_english": "That is because Allah is the Truth, and that what they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+      "text_english": "Do you not see that ships sail through the sea by the favor of Allah that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "وَإِذَا غَشِيَهُم مَّوْجٌۭ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌۭ ۚ وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٍۢ كَفُورٍۢ",
+      "text_english": "And when waves come over them like canopies, they supplicate Allah, sincere to Him in religion. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًۭا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+      "text_english": "O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allah is truth, so let not the worldly life delude you and be not deceived about Allah by the Deceiver.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌۭ مَّاذَا تَكْسِبُ غَدًۭا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍۢ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ",
+      "text_english": "Indeed, Allah [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allah is Knowing and Acquainted.",
+      "hadiths": [
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 44395,
+            "idInBook": 1434,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" مَفَاتِيحُ الْغَيْبِ خَمْسٌ ثُمَّ قَرَأَ: (إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ)\nالْآيَة. رَوَاهُ البُخَارِيّ",
+            "english": "Ibn ‘Umar reported God’s Messenger as saying, “The keys of the unseen are five.” He then recited, “God has knowledge of the Hour, and He sends down the rain . . .” (Al-Qur’an; 31:34). \n\nBukhari transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "bukhari",
+            "id": 4491,
+            "idInBook": 4491,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَفَاتِيحُ الْغَيْبِ خَمْسٌ لاَ يَعْلَمُهَا إِلاَّ اللَّهُ لاَ يَعْلَمُ مَا فِي غَدٍ إِلاَّ اللَّهُ، وَلاَ يَعْلَمُ مَا تَغِيضُ الأَرْحَامُ إِلاَّ اللَّهُ وَلاَ يَعْلَمُ مَتَى يَأْتِي الْمَطَرُ أَحَدٌ إِلاَّ اللَّهُ، وَلاَ تَدْرِي نَفْسٌ بِأَىِّ أَرْضٍ تَمُوتُ، وَلاَ يَعْلَمُ مَتَى تَقُومُ السَّاعَةُ إِلاَّ اللَّهُ ‏\"‏‏.‏",
+            "english": "Allah's Messenger (ﷺ) said, \"The keys of Unseen are five which none knows but Allah: None knows what \nwill happen tomorrow but Allah; none knows what is in the wombs (a male child or a female) but \nAllah; none knows when it will rain but Allah; none knows at what place one will die; none knows \nwhen the Hour will be established but Allah.\" (See The Qur'an 31:34.\")",
+            "narrator": "Narrated Ibn `Umar:"
+          }
+        },
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29142,
+            "idInBook": 3362,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، قَالَ لَقِيَ ابْنُ عَبَّاسٍ كَعْبًا بِعَرَفَةَ فَسَأَلَهُ عَنْ شَيْءٍ، فَكَبَّرَ حَتَّى جَاوَبَتْهُ الْجِبَالُ فَقَالَ ابْنُ عَبَّاسٍ إِنَّا بَنُو هَاشِمٍ ‏.‏ فَقَالَ كَعْبٌ إِنَّ اللَّهَ قَسَمَ رُؤْيَتَهُ وَكَلاَمَهُ بَيْنَ مُحَمَّدٍ وَمُوسَى فَكَلَّمَ مُوسَى مَرَّتَيْنِ وَرَآهُ مُحَمَّدٌ مَرَّتَيْنِ ‏.‏ قَالَ مَسْرُوقٌ فَدَخَلْتُ عَلَى عَائِشَةَ فَقُلْتُ هَلْ رَأَى مُحَمَّدٌ رَبَّهُ فَقَالَتْ لَقَدْ تَكَلَّمْتَ بِشَيْءٍ قَفَّ لَهُ شَعْرِي قُلْتُ رُوَيْدًا ثُمَّ قَرَأْتُ ‏:‏ ‏(‏لقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى ‏)‏ قَالَتْ أَيْنَ يُذْهَبُ بِكَ إِنَّمَا هُوَ جِبْرِيلُ مَنْ أَخْبَرَكَ أَنَّ مُحَمَّدًا رَأَى رَبَّهُ أَوْ كَتَمَ شَيْئًا مِمَّا أُمِرَ بِهِ أَوْ يَعْلَمُ الْخَمْسَ الَّتِي قَالَ اللَّهُ تَعَالَى ‏:‏ ‏(‏ إنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ ‏)‏ فَقَدْ أَعْظَمَ الْفِرْيَةَ وَلَكِنَّهُ رَأَى جِبْرِيلَ لَمْ يَرَهُ فِي صُورَتِهِ إِلاَّ مَرَّتَيْنِ مَرَّةً عِنْدَ سِدْرَةِ الْمُنْتَهَى وَمَرَّةً فِي جِيَادٍ لَهُ سِتُّمِائَةِ جَنَاحٍ قَدْ سَدَّ الأُفُقَ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى دَاوُدُ بْنُ أَبِي هِنْدٍ عَنِ الشَّعْبِيِّ عَنْ مَسْرُوقٍ عَنْ عَائِشَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا الْحَدِيثِ وَحَدِيثُ دَاوُدَ أَقْصَرُ مِنْ حَدِيثِ مُجَالِدٍ ‏.‏",
+            "english": "\"Ibn 'Abbas met Ka'b at Arafat, so he asked him about something and he kept on saying the Takbir until it reverberated off of the mountains. So Ibn 'Abbas (finally) said: 'We are Banu Hashim.' So Ka'b said: 'Indeed Allah divided His being seen and His speaking between Muhammad and Musa. He spoke to Musa two times, and Muhammad saw Him two times.' Masruq said: 'I entered upon 'Aishah and asked her if Muhammad saw his Lord.' She said: 'You have said something that makes my hair stand on end.' I said: 'Take it easy.' Then I recited: Indeed he saw of the great signs of his Lord (53:18). So she said: 'What do you mean by that? That is only Jibra'il. Whoever informed you that Muhammad saw his Lord, or that (ﷺ) concealed something he was ordered with, or he knew of the five things about which Allah,  said: Verily Allah, with Him is the knowledge of the Hour, He sends down the rain (31:34) - then he has fabricated the worst lie. Rather he (ﷺ) saw Jibra'il, but he did not see him in his (real) image except two times. One time at Sidrat Al-Muntaha and one time in Jiyad, he had six-hundred wings which filled the horizon.'\"",
+            "narrator": "Narrated Ash-Sha'bi:"
+          }
+        },
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "4",
+            "id": 913,
+            "idInBook": 913,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" مَفَاتِيحُ الْغَيْبِ خَمْسٌ ثُمَّ قَرَأَ: (إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ)\nالْآيَة. رَوَاهُ البُخَارِيّ",
+            "english": "Ibn ‘Umar reported God’s Messenger as saying, “The keys of the unseen are five.” He then recited, “God has knowledge of the Hour, and He sends down the rain . . .” (Al-Qur’an; 31:34). \n\nBukhari transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "65",
+            "id": 219,
+            "idInBook": 219,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَفَاتِيحُ الْغَيْبِ خَمْسٌ لاَ يَعْلَمُهَا إِلاَّ اللَّهُ لاَ يَعْلَمُ مَا فِي غَدٍ إِلاَّ اللَّهُ، وَلاَ يَعْلَمُ مَا تَغِيضُ الأَرْحَامُ إِلاَّ اللَّهُ وَلاَ يَعْلَمُ مَتَى يَأْتِي الْمَطَرُ أَحَدٌ إِلاَّ اللَّهُ، وَلاَ تَدْرِي نَفْسٌ بِأَىِّ أَرْضٍ تَمُوتُ، وَلاَ يَعْلَمُ مَتَى تَقُومُ السَّاعَةُ إِلاَّ اللَّهُ ‏\"‏‏.‏",
+            "english": "Allah's Messenger (ﷺ) said, \"The keys of Unseen are five which none knows but Allah: None knows what \nwill happen tomorrow but Allah; none knows what is in the wombs (a male child or a female) but \nAllah; none knows when it will rain but Allah; none knows at what place one will die; none knows \nwhen the Hour will be established but Allah.\" (See The Qur'an 31:34.\")",
+            "narrator": "Narrated Ibn `Umar:"
+          }
+        },
+        {
+          "reference_text": "31:34",
+          "surah_name": null,
+          "start_ayah": 34,
+          "end_ayah": 34,
+          "hadith": {
+            "source": "47",
+            "id": 330,
+            "idInBook": 330,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، قَالَ لَقِيَ ابْنُ عَبَّاسٍ كَعْبًا بِعَرَفَةَ فَسَأَلَهُ عَنْ شَيْءٍ، فَكَبَّرَ حَتَّى جَاوَبَتْهُ الْجِبَالُ فَقَالَ ابْنُ عَبَّاسٍ إِنَّا بَنُو هَاشِمٍ ‏.‏ فَقَالَ كَعْبٌ إِنَّ اللَّهَ قَسَمَ رُؤْيَتَهُ وَكَلاَمَهُ بَيْنَ مُحَمَّدٍ وَمُوسَى فَكَلَّمَ مُوسَى مَرَّتَيْنِ وَرَآهُ مُحَمَّدٌ مَرَّتَيْنِ ‏.‏ قَالَ مَسْرُوقٌ فَدَخَلْتُ عَلَى عَائِشَةَ فَقُلْتُ هَلْ رَأَى مُحَمَّدٌ رَبَّهُ فَقَالَتْ لَقَدْ تَكَلَّمْتَ بِشَيْءٍ قَفَّ لَهُ شَعْرِي قُلْتُ رُوَيْدًا ثُمَّ قَرَأْتُ ‏:‏ ‏(‏لقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى ‏)‏ قَالَتْ أَيْنَ يُذْهَبُ بِكَ إِنَّمَا هُوَ جِبْرِيلُ مَنْ أَخْبَرَكَ أَنَّ مُحَمَّدًا رَأَى رَبَّهُ أَوْ كَتَمَ شَيْئًا مِمَّا أُمِرَ بِهِ أَوْ يَعْلَمُ الْخَمْسَ الَّتِي قَالَ اللَّهُ تَعَالَى ‏:‏ ‏(‏ إنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ ‏)‏ فَقَدْ أَعْظَمَ الْفِرْيَةَ وَلَكِنَّهُ رَأَى جِبْرِيلَ لَمْ يَرَهُ فِي صُورَتِهِ إِلاَّ مَرَّتَيْنِ مَرَّةً عِنْدَ سِدْرَةِ الْمُنْتَهَى وَمَرَّةً فِي جِيَادٍ لَهُ سِتُّمِائَةِ جَنَاحٍ قَدْ سَدَّ الأُفُقَ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى دَاوُدُ بْنُ أَبِي هِنْدٍ عَنِ الشَّعْبِيِّ عَنْ مَسْرُوقٍ عَنْ عَائِشَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا الْحَدِيثِ وَحَدِيثُ دَاوُدَ أَقْصَرُ مِنْ حَدِيثِ مُجَالِدٍ ‏.‏",
+            "english": "\"Ibn 'Abbas met Ka'b at Arafat, so he asked him about something and he kept on saying the Takbir until it reverberated off of the mountains. So Ibn 'Abbas (finally) said: 'We are Banu Hashim.' So Ka'b said: 'Indeed Allah divided His being seen and His speaking between Muhammad and Musa. He spoke to Musa two times, and Muhammad saw Him two times.' Masruq said: 'I entered upon 'Aishah and asked her if Muhammad saw his Lord.' She said: 'You have said something that makes my hair stand on end.' I said: 'Take it easy.' Then I recited: Indeed he saw of the great signs of his Lord (53:18). So she said: 'What do you mean by that? That is only Jibra'il. Whoever informed you that Muhammad saw his Lord, or that (ﷺ) concealed something he was ordered with, or he knew of the five things about which Allah,  said: Verily Allah, with Him is the knowledge of the Hour, He sends down the rain (31:34) - then he has fabricated the worst lie. Rather he (ﷺ) saw Jibra'il, but he did not see him in his (real) image except two times. One time at Sidrat Al-Muntaha and one time in Jiyad, he had six-hundred wings which filled the horizon.'\"",
+            "narrator": "Narrated Ash-Sha'bi:"
+          }
+        }
+      ]
+    }
+  ]
+}

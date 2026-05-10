@@ -1,0 +1,191 @@
+{
+  "surah": {
+    "id": 96,
+    "name_arabic": "سُورَةُ العَلَقِ",
+    "name_english": "Al-Alaq",
+    "name_english_translation": "The Clot",
+    "verses_count": 19
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "text_english": "Recite in the name of your Lord who created -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "text_english": "Created man from a clinging substance.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "text_english": "Recite, and your Lord is the most Generous -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "text_english": "Who taught by the pen -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "text_english": "Taught man that which he knew not.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "text_english": "No! [But] indeed, man transgresses",
+      "hadiths": [
+        {
+          "reference_text": "سورة العلق آية 6-7",
+          "surah_name": "العلق",
+          "start_ayah": 6,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "darimi",
+            "id": 40631,
+            "idInBook": 3094,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ  ، أَخْبَرَنَا أَبُو عُمَيْسٍ  ، عَنْ عَوْنٍ  ، قَالَ : قَالَ عَبْدُ اللَّهِ   رَضِيَ اللهُ عَنْهُ :\" مَنْهُومَانِ لَا يَشْبَعَانِ : صَاحِبُ الْعِلْمِ، وَصَاحِبُ الدُّنْيَا، وَلَا يَسْتَوِيَانِ، أَمَّا صَاحِبُ الْعِلْمِ، فَيَزْدَادُ رِضًى لِلرَّحْمَنِ، وَأَمَّا صَاحِبُ الدُّنْيَا، فَيَتَمَادَى فِي الطُّغْيَانِ \"، ثُمَّ قَرَأَ عَبْدُ اللَّهِ : # كَلَّا إِنَّ الإِنْسَانَ لَيَطْغَى { 6 } أَنْ رَآهُ اسْتَغْنَى { 7 } سورة العلق آية 6-7 #، قَالَ : وَقَالَ الْآخَرُ : # إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ سورة فاطر آية 28 #",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة العلق آية 6-7",
+          "surah_name": "العلق",
+          "start_ayah": 6,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "introduction",
+            "id": 337,
+            "idInBook": 337,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ  ، أَخْبَرَنَا أَبُو عُمَيْسٍ  ، عَنْ عَوْنٍ  ، قَالَ : قَالَ عَبْدُ اللَّهِ   رَضِيَ اللهُ عَنْهُ :\" مَنْهُومَانِ لَا يَشْبَعَانِ : صَاحِبُ الْعِلْمِ، وَصَاحِبُ الدُّنْيَا، وَلَا يَسْتَوِيَانِ، أَمَّا صَاحِبُ الْعِلْمِ، فَيَزْدَادُ رِضًى لِلرَّحْمَنِ، وَأَمَّا صَاحِبُ الدُّنْيَا، فَيَتَمَادَى فِي الطُّغْيَانِ \"، ثُمَّ قَرَأَ عَبْدُ اللَّهِ : # كَلَّا إِنَّ الإِنْسَانَ لَيَطْغَى { 6 } أَنْ رَآهُ اسْتَغْنَى { 7 } سورة العلق آية 6-7 #، قَالَ : وَقَالَ الْآخَرُ : # إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ سورة فاطر آية 28 #",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "text_english": "Because he sees himself self-sufficient.",
+      "hadiths": [
+        {
+          "reference_text": "سورة العلق آية 6-7",
+          "surah_name": "العلق",
+          "start_ayah": 6,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "darimi",
+            "id": 40631,
+            "idInBook": 3094,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ  ، أَخْبَرَنَا أَبُو عُمَيْسٍ  ، عَنْ عَوْنٍ  ، قَالَ : قَالَ عَبْدُ اللَّهِ   رَضِيَ اللهُ عَنْهُ :\" مَنْهُومَانِ لَا يَشْبَعَانِ : صَاحِبُ الْعِلْمِ، وَصَاحِبُ الدُّنْيَا، وَلَا يَسْتَوِيَانِ، أَمَّا صَاحِبُ الْعِلْمِ، فَيَزْدَادُ رِضًى لِلرَّحْمَنِ، وَأَمَّا صَاحِبُ الدُّنْيَا، فَيَتَمَادَى فِي الطُّغْيَانِ \"، ثُمَّ قَرَأَ عَبْدُ اللَّهِ : # كَلَّا إِنَّ الإِنْسَانَ لَيَطْغَى { 6 } أَنْ رَآهُ اسْتَغْنَى { 7 } سورة العلق آية 6-7 #، قَالَ : وَقَالَ الْآخَرُ : # إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ سورة فاطر آية 28 #",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة العلق آية 6-7",
+          "surah_name": "العلق",
+          "start_ayah": 6,
+          "end_ayah": 7,
+          "hadith": {
+            "source": "introduction",
+            "id": 337,
+            "idInBook": 337,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ  ، أَخْبَرَنَا أَبُو عُمَيْسٍ  ، عَنْ عَوْنٍ  ، قَالَ : قَالَ عَبْدُ اللَّهِ   رَضِيَ اللهُ عَنْهُ :\" مَنْهُومَانِ لَا يَشْبَعَانِ : صَاحِبُ الْعِلْمِ، وَصَاحِبُ الدُّنْيَا، وَلَا يَسْتَوِيَانِ، أَمَّا صَاحِبُ الْعِلْمِ، فَيَزْدَادُ رِضًى لِلرَّحْمَنِ، وَأَمَّا صَاحِبُ الدُّنْيَا، فَيَتَمَادَى فِي الطُّغْيَانِ \"، ثُمَّ قَرَأَ عَبْدُ اللَّهِ : # كَلَّا إِنَّ الإِنْسَانَ لَيَطْغَى { 6 } أَنْ رَآهُ اسْتَغْنَى { 7 } سورة العلق آية 6-7 #، قَالَ : وَقَالَ الْآخَرُ : # إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ سورة فاطر آية 28 #",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "text_english": "Indeed, to your Lord is the return.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "text_english": "Have you seen the one who forbids",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "text_english": "A servant when he prays?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "text_english": "Have you seen if he is upon guidance",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "text_english": "Or enjoins righteousness?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "text_english": "Have you seen if he denies and turns away -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "text_english": "Does he not know that Allah sees?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "text_english": "No! If he does not desist, We will surely drag him by the forelock -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+      "text_english": "A lying, sinning forelock.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "فَلْيَدْعُ نَادِيَهُۥ",
+      "text_english": "Then let him call his associates;",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "text_english": "We will call the angels of Hell.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "text_english": "No! Do not obey him. But prostrate and draw near [to Allah].",
+      "hadiths": []
+    }
+  ]
+}

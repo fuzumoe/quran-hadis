@@ -1,0 +1,68 @@
+{
+  "surah": {
+    "id": 112,
+    "name_arabic": "سُورَةُ الإِخۡلَاصِ",
+    "name_english": "Al-Ikhlaas",
+    "name_english_translation": "Sincerity",
+    "verses_count": 4
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "text_english": "Say, \"He is Allah, [who is] One,",
+      "hadiths": [
+        {
+          "reference_text": "112:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42670,
+            "idInBook": 1605,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عائشة رضي الله عنها، أن رسول الله صلى الله عليه وسلم، بعث رجلاً على سرية، فكان يقرأ لأصحابه في صلاتهم، فيختم بـ‏{‏قل هو الله أحد‏}‏ فلما رجعوا، ذكروا ذلك لرسول الله، صلى الله عليه وسلم، فقال‏:‏ ‏\"‏سلوه لأي شيء كان يصنع ذلك‏؟‏ ‏\"‏ فسألوه، فقال ‏:‏ لأنها صفة الرحمن، فأنا أحب أن أقرأ بها، فقال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏أخبروه أن الله تعالى يحبه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "Messenger of Allah, (ﷺ) appointed a man in charge of an army unit who led them in Salat (prayer); he always concluded his recitation with Surat Al-Ikhlas: \"Say (O Muhammad (ﷺ)): 'He is Allah, (the) One. Allah-us-Samad (Allah - the Self-Sufficient). He begets not, nor was He begotten. And there is none equal or comparable to Him.\"' (112:1-4) Upon their return to Al-Madinah, they mentioned this to Messenger of Allah (ﷺ), who said, \"Ask him why he does so?\" He was asked and he said, \"This Surah contains the Attributes of Allah, the Gracious, and I love to recite it. Messenger of Allah (ﷺ) then told them, \"Tell him that Allah loves him\"..",
+            "narrator": "'Aishah (May Allah be pleased with her) reported:"
+          }
+        },
+        {
+          "reference_text": "112:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "introduction",
+            "id": 388,
+            "idInBook": 388,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عائشة رضي الله عنها، أن رسول الله صلى الله عليه وسلم، بعث رجلاً على سرية، فكان يقرأ لأصحابه في صلاتهم، فيختم بـ‏{‏قل هو الله أحد‏}‏ فلما رجعوا، ذكروا ذلك لرسول الله، صلى الله عليه وسلم، فقال‏:‏ ‏\"‏سلوه لأي شيء كان يصنع ذلك‏؟‏ ‏\"‏ فسألوه، فقال ‏:‏ لأنها صفة الرحمن، فأنا أحب أن أقرأ بها، فقال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏أخبروه أن الله تعالى يحبه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "Messenger of Allah, (ﷺ) appointed a man in charge of an army unit who led them in Salat (prayer); he always concluded his recitation with Surat Al-Ikhlas: \"Say (O Muhammad (ﷺ)): 'He is Allah, (the) One. Allah-us-Samad (Allah - the Self-Sufficient). He begets not, nor was He begotten. And there is none equal or comparable to Him.\"' (112:1-4) Upon their return to Al-Madinah, they mentioned this to Messenger of Allah (ﷺ), who said, \"Ask him why he does so?\" He was asked and he said, \"This Surah contains the Attributes of Allah, the Gracious, and I love to recite it. Messenger of Allah (ﷺ) then told them, \"Tell him that Allah loves him\"..",
+            "narrator": "'Aishah (May Allah be pleased with her) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "text_english": "Allah, the Eternal Refuge.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "text_english": "He neither begets nor is born,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "text_english": "Nor is there to Him any equivalent.\"",
+      "hadiths": []
+    }
+  ]
+}

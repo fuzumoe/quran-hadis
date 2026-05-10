@@ -1,0 +1,41 @@
+{
+  "surah": {
+    "id": 97,
+    "name_arabic": "سُورَةُ القَدۡرِ",
+    "name_english": "Al-Qadr",
+    "name_english_translation": "The Power, Fate",
+    "verses_count": 5
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "text_english": "Indeed, We sent the Qur'an down during the Night of Decree.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "text_english": "And what can make you know what is the Night of Decree?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+      "text_english": "The Night of Decree is better than a thousand months.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+      "text_english": "The angels and the Spirit descend therein by permission of their Lord for every matter.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "text_english": "Peace it is until the emergence of dawn.",
+      "hadiths": []
+    }
+  ]
+}

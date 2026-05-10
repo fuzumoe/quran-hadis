@@ -1,0 +1,178 @@
+{
+  "surah": {
+    "id": 86,
+    "name_arabic": "سُورَةُ الطَّارِقِ",
+    "name_english": "At-Taariq",
+    "name_english_translation": "The Morning Star",
+    "verses_count": 17
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "text_english": "By the sky and the night comer -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "text_english": "And what can make you know what is the night comer?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "text_english": "It is the piercing star -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ",
+      "text_english": "There is no soul but that it has over it a protector.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+      "text_english": "So let man observe from what he was created.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ",
+      "text_english": "He was created from a fluid, ejected,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "text_english": "Emerging from between the backbone and the ribs.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ",
+      "text_english": "Indeed, Allah, to return him [to life], is Able.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "text_english": "The Day when secrets will be put on trial,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ",
+      "text_english": "Then man will have no power or any helper.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "text_english": "By the sky which returns [rain]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "text_english": "And [by] the earth which cracks open,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ",
+      "text_english": "Indeed, the Qur'an is a decisive statement,",
+      "hadiths": [
+        {
+          "reference_text": "86:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 45003,
+            "idInBook": 2042,
+            "bookId": 14,
+            "chapterId": 8,
+            "arabic": "وَعَنِ الْحَارِثِ الْأَعْوَرِ قَالَ: مَرَرْتُ فِي الْمَسْجِدِ فَإِذَا النَّاسُ يَخُوضُونَ فِي الْأَحَادِيثِ فَدَخَلْتُ عَلَى عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فَأَخْبَرْتُهُ قَالَ: أَوَقَدْ فَعَلُوهَا؟ قلت نعم قَالَ: أما إِنِّي قَدْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُول: «أَلا إِنَّهَا سَتَكُون فتْنَة» . فَقلت مَا الْمَخْرَجُ مِنْهَا يَا رَسُولَ اللَّهِ قَالَ: «كتاب الله فِيهِ نبأ مَا كَانَ قبلكُمْ وَخبر مَا بعدكم وَحكم مَا بَيْنكُم وَهُوَ الْفَصْلُ لَيْسَ بِالْهَزْلِ مَنْ تَرَكَهُ مِنْ جَبَّارٍ قَصَمَهُ اللَّهُ وَمَنِ ابْتَغَى الْهُدَى فِي غَيْرِهِ أَضَلَّهُ اللَّهُ وَهُوَ حَبْلُ اللَّهِ الْمَتِينُ وَهُوَ الذِّكْرُ الْحَكِيمُ وَهُوَ الصِّرَاطُ الْمُسْتَقِيمُ هُوَ الَّذِي لَا تَزِيغُ بِهِ الْأَهْوَاءُ وَلَا تَلْتَبِسُ بِهِ الْأَلْسِنَةُ وَلَا يَشْبَعُ مِنْهُ الْعُلَمَاءُ وَلَا يَخْلِقُ على كَثْرَةِ الرَّدِّ وَلَا يَنْقَضِي عَجَائِبُهُ هُوَ الَّذِي لَمْ تَنْتَهِ الْجِنُّ إِذْ سَمِعَتْهُ حَتَّى قَالُوا (إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا يَهْدِي إِلَى الرُّشْدِ فَآمَنا بِهِ)\nمَنْ قَالَ بِهِ صَدَقَ وَمَنْ عَمِلَ بِهِ أُجِرَ وَمَنْ حَكَمَ بِهِ عَدَلَ وَمَنْ دَعَا إِلَيْهِ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ» . رَوَاهُ التِّرْمِذِيُّ وَالدَّارِمِيُّ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ إِسْنَادُهُ مَجْهُولٌ وَفِي الْحَارِث مقَال",
+            "english": "While passing in the mosque I found the people engrossed in talk, so I went to visit ‘Alī and told him. He asked if that was really so, and when I assured him that it was, he said he had heard God’s messenger say, “Dissension will certainly come,” and asked him how it could be avoided, to which he replied, “God’s Book is the way, for it contains information of what has happened before you, news of what will happen after you, and a decision regarding matters which occur among you (This is explained as a reference to such matters as unbelief and faith, obedience and dis-obedience, what is lawful and what is forbidden, etc.). It is the distinguisher and is not jesting, (Qur’ān, 86:13). If any overweening person abandons it God will break him, and if anyone seeks guidance elsewhere God will lead him astray. It is God’s strong cord, it is the wise reminder, it is the straight path, it is that by which the desires do not swerve nor the tongues become confused, and the learned cannot grasp it completely.* It does not become worn out by repetition and its wonders do not come to an end. It is that of which the jinn did not hesitate to say when they heard it, ‘We have heard a wonderful recital which guides to what is right, and we believe in it,’ (Qur’ān, 72). He who utters it speaks the truth, he who acts according to it is rewarded, he who pronounces judgment according to it is just, and he who invites people to it guides to a straight path.” \n*The verb used is one ordinarily meaning 'to be satisfied'. Here it is used to indicate that the learned can never learn all there is to be known about the teaching and meaning of the Qur’ān, so that they should be satisfied and feel no need to continue their study of it.  \n\nTirmidhī and Dārimī transmit­ted it, Tirmidhī saying this is a tradition whose isnād is unknown, and al-Hārith is adversely criticised.",
+            "narrator": "Al-Hārith al-A‘war said:"
+          }
+        },
+        {
+          "reference_text": "86:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36828,
+            "idInBook": 665,
+            "bookId": 8,
+            "chapterId": 5,
+            "arabic": "حَدَّثَنَا يَعْقُوبُ، حَدَّثَنَا أَبِي، عَنْ ابْنِ إِسْحَاقَ، قَالَ وَذَكَرَ مُحَمَّدُ بْنُ كَعْبٍ الْقُرَظِيُّ عَنِ الْحَارِثِ بْنِ عَبْدِ اللَّهِ الْأَعْوَرِ، قَالَ قُلْتُ لَآتِيَنَّ أَمِيرَ الْمُؤْمِنِينَ فَلَأَسْأَلَنَّهُ عَمَّا سَمِعْتُ الْعَشِيَّةَ قَالَ فَجِئْتُهُ بَعْدَ الْعِشَاءِ فَدَخَلْتُ عَلَيْهِ فَذَكَرَ الْحَدِيثَ قَالَ ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلَام فَقَالَ يَا مُحَمَّدُ إِنَّ أُمَّتَكَ مُخْتَلِفَةٌ بَعْدَكَ قَالَ فَقُلْتُ لَهُ فَأَيْنَ الْمَخْرَجُ يَا جِبْرِيلُ قَالَ فَقَالَ كِتَابُ اللَّهِ تَعَالَى بِهِ يَقْصِمُ اللَّهُ كُلَّ جَبَّارٍ مَنْ اعْتَصَمَ بِهِ نَجَا وَمَنْ تَرَكَهُ هَلَكَ مَرَّتَيْنِ قَوْلٌ فَصْلٌ وَلَيْسَ بِالْهَزْلِ لَا تَخْتَلِقُهُ الْأَلْسُنُ وَلَا تَفْنَى أَعَاجِيبُهُ فِيهِ نَبَأُ مَا كَانَ قَبْلَكُمْ وَفَصْلُ مَا بَيْنَكُمْ وَخَبَرُ مَا هُوَ كَائِنٌ بَعْدَكُمْ‏.‏",
+            "english": "I said: Ameer al-Mu`mineen will certainly come and I shall certainly ask him about what i heard tonight. After `Isha` I came to him and entered upon him, and he narrated the hadeeth. Then he said: I heard the Messenger of Allah (ﷺ) say: “Jibreel (عليه السلام) came to me and said: `O Muhammad, your ummah will differ after you are gone.` I said to him: ‘What is the solution, O Jibreel?` He said: The Book of Allah, may He be exalted, by means of which Allah will destroy every tyrant. Whoever clings to it will be saved and whoever abandons it will be doomed.` He said it twice. ‘Verily, this (the Qur`an) is the Word that separates (the truth from falsehood, and commands strict laws for mankind to cut the roots of evil). And it is not a thing for amusement` [At-Tariq 86:13-14). It does not wear out from being repeated and its wonders never end; in it is news of what came before you, judgement of what happens among you, and foretelling of what will happen after you are gone.",
+            "narrator": "It was narrated that Al-Harith bin Abdullah al-A’war said:"
+          }
+        },
+        {
+          "reference_text": "86:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "8",
+            "id": 29,
+            "idInBook": 29,
+            "bookId": 14,
+            "chapterId": 8,
+            "arabic": "وَعَنِ الْحَارِثِ الْأَعْوَرِ قَالَ: مَرَرْتُ فِي الْمَسْجِدِ فَإِذَا النَّاسُ يَخُوضُونَ فِي الْأَحَادِيثِ فَدَخَلْتُ عَلَى عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فَأَخْبَرْتُهُ قَالَ: أَوَقَدْ فَعَلُوهَا؟ قلت نعم قَالَ: أما إِنِّي قَدْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُول: «أَلا إِنَّهَا سَتَكُون فتْنَة» . فَقلت مَا الْمَخْرَجُ مِنْهَا يَا رَسُولَ اللَّهِ قَالَ: «كتاب الله فِيهِ نبأ مَا كَانَ قبلكُمْ وَخبر مَا بعدكم وَحكم مَا بَيْنكُم وَهُوَ الْفَصْلُ لَيْسَ بِالْهَزْلِ مَنْ تَرَكَهُ مِنْ جَبَّارٍ قَصَمَهُ اللَّهُ وَمَنِ ابْتَغَى الْهُدَى فِي غَيْرِهِ أَضَلَّهُ اللَّهُ وَهُوَ حَبْلُ اللَّهِ الْمَتِينُ وَهُوَ الذِّكْرُ الْحَكِيمُ وَهُوَ الصِّرَاطُ الْمُسْتَقِيمُ هُوَ الَّذِي لَا تَزِيغُ بِهِ الْأَهْوَاءُ وَلَا تَلْتَبِسُ بِهِ الْأَلْسِنَةُ وَلَا يَشْبَعُ مِنْهُ الْعُلَمَاءُ وَلَا يَخْلِقُ على كَثْرَةِ الرَّدِّ وَلَا يَنْقَضِي عَجَائِبُهُ هُوَ الَّذِي لَمْ تَنْتَهِ الْجِنُّ إِذْ سَمِعَتْهُ حَتَّى قَالُوا (إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا يَهْدِي إِلَى الرُّشْدِ فَآمَنا بِهِ)\nمَنْ قَالَ بِهِ صَدَقَ وَمَنْ عَمِلَ بِهِ أُجِرَ وَمَنْ حَكَمَ بِهِ عَدَلَ وَمَنْ دَعَا إِلَيْهِ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ» . رَوَاهُ التِّرْمِذِيُّ وَالدَّارِمِيُّ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ إِسْنَادُهُ مَجْهُولٌ وَفِي الْحَارِث مقَال",
+            "english": "While passing in the mosque I found the people engrossed in talk, so I went to visit ‘Alī and told him. He asked if that was really so, and when I assured him that it was, he said he had heard God’s messenger say, “Dissension will certainly come,” and asked him how it could be avoided, to which he replied, “God’s Book is the way, for it contains information of what has happened before you, news of what will happen after you, and a decision regarding matters which occur among you (This is explained as a reference to such matters as unbelief and faith, obedience and dis-obedience, what is lawful and what is forbidden, etc.). It is the distinguisher and is not jesting, (Qur’ān, 86:13). If any overweening person abandons it God will break him, and if anyone seeks guidance elsewhere God will lead him astray. It is God’s strong cord, it is the wise reminder, it is the straight path, it is that by which the desires do not swerve nor the tongues become confused, and the learned cannot grasp it completely.* It does not become worn out by repetition and its wonders do not come to an end. It is that of which the jinn did not hesitate to say when they heard it, ‘We have heard a wonderful recital which guides to what is right, and we believe in it,’ (Qur’ān, 72). He who utters it speaks the truth, he who acts according to it is rewarded, he who pronounces judgment according to it is just, and he who invites people to it guides to a straight path.” \n*The verb used is one ordinarily meaning 'to be satisfied'. Here it is used to indicate that the learned can never learn all there is to be known about the teaching and meaning of the Qur’ān, so that they should be satisfied and feel no need to continue their study of it.  \n\nTirmidhī and Dārimī transmit­ted it, Tirmidhī saying this is a tradition whose isnād is unknown, and al-Hārith is adversely criticised.",
+            "narrator": "Al-Hārith al-A‘war said:"
+          }
+        },
+        {
+          "reference_text": "86:13",
+          "surah_name": null,
+          "start_ayah": 13,
+          "end_ayah": 13,
+          "hadith": {
+            "source": "5",
+            "id": 137,
+            "idInBook": 137,
+            "bookId": 8,
+            "chapterId": 5,
+            "arabic": "حَدَّثَنَا يَعْقُوبُ، حَدَّثَنَا أَبِي، عَنْ ابْنِ إِسْحَاقَ، قَالَ وَذَكَرَ مُحَمَّدُ بْنُ كَعْبٍ الْقُرَظِيُّ عَنِ الْحَارِثِ بْنِ عَبْدِ اللَّهِ الْأَعْوَرِ، قَالَ قُلْتُ لَآتِيَنَّ أَمِيرَ الْمُؤْمِنِينَ فَلَأَسْأَلَنَّهُ عَمَّا سَمِعْتُ الْعَشِيَّةَ قَالَ فَجِئْتُهُ بَعْدَ الْعِشَاءِ فَدَخَلْتُ عَلَيْهِ فَذَكَرَ الْحَدِيثَ قَالَ ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلَام فَقَالَ يَا مُحَمَّدُ إِنَّ أُمَّتَكَ مُخْتَلِفَةٌ بَعْدَكَ قَالَ فَقُلْتُ لَهُ فَأَيْنَ الْمَخْرَجُ يَا جِبْرِيلُ قَالَ فَقَالَ كِتَابُ اللَّهِ تَعَالَى بِهِ يَقْصِمُ اللَّهُ كُلَّ جَبَّارٍ مَنْ اعْتَصَمَ بِهِ نَجَا وَمَنْ تَرَكَهُ هَلَكَ مَرَّتَيْنِ قَوْلٌ فَصْلٌ وَلَيْسَ بِالْهَزْلِ لَا تَخْتَلِقُهُ الْأَلْسُنُ وَلَا تَفْنَى أَعَاجِيبُهُ فِيهِ نَبَأُ مَا كَانَ قَبْلَكُمْ وَفَصْلُ مَا بَيْنَكُمْ وَخَبَرُ مَا هُوَ كَائِنٌ بَعْدَكُمْ‏.‏",
+            "english": "I said: Ameer al-Mu`mineen will certainly come and I shall certainly ask him about what i heard tonight. After `Isha` I came to him and entered upon him, and he narrated the hadeeth. Then he said: I heard the Messenger of Allah (ﷺ) say: “Jibreel (عليه السلام) came to me and said: `O Muhammad, your ummah will differ after you are gone.` I said to him: ‘What is the solution, O Jibreel?` He said: The Book of Allah, may He be exalted, by means of which Allah will destroy every tyrant. Whoever clings to it will be saved and whoever abandons it will be doomed.` He said it twice. ‘Verily, this (the Qur`an) is the Word that separates (the truth from falsehood, and commands strict laws for mankind to cut the roots of evil). And it is not a thing for amusement` [At-Tariq 86:13-14). It does not wear out from being repeated and its wonders never end; in it is news of what came before you, judgement of what happens among you, and foretelling of what will happen after you are gone.",
+            "narrator": "It was narrated that Al-Harith bin Abdullah al-A’war said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "text_english": "And it is not amusement.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا",
+      "text_english": "Indeed, they are planning a plan,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "وَأَكِيدُ كَيْدًۭا",
+      "text_english": "But I am planning a plan.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "text_english": "So allow time for the disbelievers. Leave them awhile.",
+      "hadiths": []
+    }
+  ]
+}

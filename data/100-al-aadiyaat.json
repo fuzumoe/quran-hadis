@@ -1,0 +1,77 @@
+{
+  "surah": {
+    "id": 100,
+    "name_arabic": "سُورَةُ العَادِيَاتِ",
+    "name_english": "Al-Aadiyaat",
+    "name_english_translation": "The Chargers",
+    "verses_count": 11
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+      "text_english": "By the racers, panting,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+      "text_english": "And the producers of sparks [when] striking",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+      "text_english": "And the chargers at dawn,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+      "text_english": "Stirring up thereby [clouds of] dust,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "text_english": "Arriving thereby in the center collectively,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+      "text_english": "Indeed mankind, to his Lord, is ungrateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+      "text_english": "And indeed, he is to that a witness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "text_english": "And indeed he is, in love of wealth, intense.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "text_english": "But does he not know that when the contents of the graves are scattered",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "text_english": "And that within the breasts is obtained,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+      "text_english": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+      "hadiths": []
+    }
+  ]
+}

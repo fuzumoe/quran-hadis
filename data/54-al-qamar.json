@@ -1,0 +1,504 @@
+{
+  "surah": {
+    "id": 54,
+    "name_arabic": "سُورَةُ القَمَرِ",
+    "name_english": "Al-Qamar",
+    "name_english_translation": "The Moon",
+    "verses_count": 55
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "text_english": "The Hour has come near, and the moon has split [in two].",
+      "hadiths": [
+        {
+          "reference_text": "54:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29149,
+            "idInBook": 3369,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ أَبِي مَعْمَرٍ، عَنِ ابْنِ مَسْعُودٍ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِمِنًى فَانْشَقَّ الْقَمَرُ فِلْقَتَيْنِ فِلْقَةٌ مِنْ وَرَاءِ الْجَبَلِ وَفِلْقَةٌ دُونَهُ فَقَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اشْهَدُوا ‏\"‏ ‏.‏ يَعْنِي ‏:‏ ‏(‏اقتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"We were with the Messenger of Allah (ﷺ) in Mina, when the moon was cleft asunder into two parts. Part of it was behind the mountain, and part of it before it. The Messenger of Allah (ﷺ) said to us: 'Bear witness' meaning: The house has drawn near, and the moon has been cleft asunder (54:1).\"",
+            "narrator": "Narrated Ibn Mas'ud, may Allah be pleased with him:"
+          }
+        },
+        {
+          "reference_text": "54:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29150,
+            "idInBook": 3370,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ سَأَلَ أَهْلُ مَكَّةَ النَّبِيَّ صلى الله عليه وسلم آيَةً فَانْشَقَّ الْقَمَرُ بِمَكَّةَ مَرَّتَيْنِ فَنَزَلَت ‏:‏ ‏(‏اقتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ‏)‏ إِلَى قَوْلِهِ ‏:‏ ‏(‏سحْرٌ مُسْتَمِرٌّ ‏)‏ يَقُولُ ذَاهِبٌ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The people of Makkah asked the Prophet (ﷺ) for a sign, so the moon was cleft asunder in Makkah two times (meaning two parts), so the following was revealed: 'The Hour has drawn near, and the moon has been cleft asunder, up to his saying: 'Magic, Mustamir (54:1 & 2)' meaning 'Going away.'\"",
+            "narrator": "Narrated Anas:"
+          }
+        },
+        {
+          "reference_text": "54:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "47",
+            "id": 337,
+            "idInBook": 337,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ أَبِي مَعْمَرٍ، عَنِ ابْنِ مَسْعُودٍ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِمِنًى فَانْشَقَّ الْقَمَرُ فِلْقَتَيْنِ فِلْقَةٌ مِنْ وَرَاءِ الْجَبَلِ وَفِلْقَةٌ دُونَهُ فَقَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اشْهَدُوا ‏\"‏ ‏.‏ يَعْنِي ‏:‏ ‏(‏اقتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"We were with the Messenger of Allah (ﷺ) in Mina, when the moon was cleft asunder into two parts. Part of it was behind the mountain, and part of it before it. The Messenger of Allah (ﷺ) said to us: 'Bear witness' meaning: The house has drawn near, and the moon has been cleft asunder (54:1).\"",
+            "narrator": "Narrated Ibn Mas'ud, may Allah be pleased with him:"
+          }
+        },
+        {
+          "reference_text": "54:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "47",
+            "id": 338,
+            "idInBook": 338,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ سَأَلَ أَهْلُ مَكَّةَ النَّبِيَّ صلى الله عليه وسلم آيَةً فَانْشَقَّ الْقَمَرُ بِمَكَّةَ مَرَّتَيْنِ فَنَزَلَت ‏:‏ ‏(‏اقتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ‏)‏ إِلَى قَوْلِهِ ‏:‏ ‏(‏سحْرٌ مُسْتَمِرٌّ ‏)‏ يَقُولُ ذَاهِبٌ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The people of Makkah asked the Prophet (ﷺ) for a sign, so the moon was cleft asunder in Makkah two times (meaning two parts), so the following was revealed: 'The Hour has drawn near, and the moon has been cleft asunder, up to his saying: 'Magic, Mustamir (54:1 & 2)' meaning 'Going away.'\"",
+            "narrator": "Narrated Anas:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ",
+      "text_english": "And if they see a miracle, they turn away and say, \"Passing magic.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍۢ مُّسْتَقِرٌّۭ",
+      "text_english": "And they denied and followed their inclinations. But for every matter is a [time of] settlement.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+      "text_english": "And there has already come to them of information that in which there is deterrence -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "حِكْمَةٌۢ بَٰلِغَةٌۭ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "text_english": "Extensive wisdom - but warning does not avail [them].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍۢ نُّكُرٍ",
+      "text_english": "So leave them, [O Muhammad]. The Day the Caller calls to something forbidding,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌۭ مُّنتَشِرٌۭ",
+      "text_english": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌۭ",
+      "text_english": "Racing ahead toward the Caller. The disbelievers will say, \"This is a difficult Day.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌۭ وَٱزْدُجِرَ",
+      "text_english": "The people of Noah denied before them, and they denied Our servant and said, \"A madman,\" and he was repelled.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌۭ فَٱنتَصِرْ",
+      "text_english": "So he invoked his Lord, \"Indeed, I am overpowered, so help.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍۢ مُّنْهَمِرٍۢ",
+      "text_english": "Then We opened the gates of the heaven with rain pouring down",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًۭا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍۢ قَدْ قُدِرَ",
+      "text_english": "And caused the earth to burst with springs, and the waters met for a matter already predestined.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَحَمَلْنَٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍۢ وَدُسُرٍۢ",
+      "text_english": "And We carried him on a [construction of] planks and nails,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "تَجْرِى بِأَعْيُنِنَا جَزَآءًۭ لِّمَن كَانَ كُفِرَ",
+      "text_english": "Sailing under Our observation as reward for he who had been denied.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَلَقَد تَّرَكْنَٰهَآ ءَايَةًۭ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We left it as a sign, so is there any who will remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_english": "And how [severe] were My punishment and warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
+      "hadiths": [
+        {
+          "reference_text": "سورة القمر آية 17",
+          "surah_name": "القمر",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "darimi",
+            "id": 40645,
+            "idInBook": 3108,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ كَثِيرٍ ، عَنْ ابْنِ شَوْذَبٍ ، عَنْ مُطَر  : # وَلَقَدْ يَسَّرْنَا الْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ سورة القمر آية 17 #، قَالَ :\" هَلْ مِنْ طَالِبِ خَيْرٍ فَيُعَانَ عَلَيْهِ؟ \"، وأَخْبَرَنَا مَرْوَانُ ، عَنْ ضَمْرَةَ ، قَالَ : \" طَالِبُ عِلْمٍ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "54:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28800,
+            "idInBook": 3020,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ  ‏(‏فَهَلْ مِنْ مُدَّكِرٍ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:17)",
+            "narrator": "Narrated 'Abdullah bin Mas'ud:"
+          }
+        },
+        {
+          "reference_text": "سورة القمر آية 17",
+          "surah_name": "القمر",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "introduction",
+            "id": 351,
+            "idInBook": 351,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ كَثِيرٍ ، عَنْ ابْنِ شَوْذَبٍ ، عَنْ مُطَر  : # وَلَقَدْ يَسَّرْنَا الْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ سورة القمر آية 17 #، قَالَ :\" هَلْ مِنْ طَالِبِ خَيْرٍ فَيُعَانَ عَلَيْهِ؟ \"، وأَخْبَرَنَا مَرْوَانُ ، عَنْ ضَمْرَةَ ، قَالَ : \" طَالِبُ عِلْمٍ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "54:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "46",
+            "id": 11,
+            "idInBook": 11,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ  ‏(‏فَهَلْ مِنْ مُدَّكِرٍ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:17)",
+            "narrator": "Narrated 'Abdullah bin Mas'ud:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_english": "'Aad denied; and how [severe] were My punishment and warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ نَحْسٍۢ مُّسْتَمِرٍّۢ",
+      "text_english": "Indeed, We sent upon them a screaming wind on a day of continuous misfortune,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍۢ مُّنقَعِرٍۢ",
+      "text_english": "Extracting the people as if they were trunks of palm trees uprooted.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_english": "And how [severe] were My punishment and warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "text_english": "Thamud denied the warning",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "فَقَالُوٓا۟ أَبَشَرًۭا مِّنَّا وَٰحِدًۭا نَّتَّبِعُهُۥٓ إِنَّآ إِذًۭا لَّفِى ضَلَٰلٍۢ وَسُعُرٍ",
+      "text_english": "And said, \"Is it one human being among us that we should follow? Indeed, we would then be in error and madness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌۭ",
+      "text_english": "Has the message been sent down upon him from among us? Rather, he is an insolent liar.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "سَيَعْلَمُونَ غَدًۭا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+      "text_english": "They will know tomorrow who is the insolent liar.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةًۭ لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "text_english": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍۢ مُّحْتَضَرٌۭ",
+      "text_english": "And inform them that the water is shared between them, each [day of] drink attended [by turn].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "text_english": "But they called their companion, and he dared and hamstrung [her].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_english": "And how [severe] were My punishment and warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+      "text_english": "Indeed, We sent upon them one blast from the sky, and they became like the dry twig fragments of an [animal] pen.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "text_english": "The people of Lot denied the warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍۢ ۖ نَّجَّيْنَٰهُم بِسَحَرٍۢ",
+      "text_english": "Indeed, We sent upon them a storm of stones, except the family of Lot - We saved them before dawn",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "نِّعْمَةًۭ مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "text_english": "As favor from us. Thus do We reward he who is grateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "text_english": "And he had already warned them of Our assault, but they disputed the warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "text_english": "And they had demanded from him his guests, but We obliterated their eyes, [saying], \"Taste My punishment and warning.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌۭ مُّسْتَقِرٌّۭ",
+      "text_english": "And there came upon them by morning an abiding punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "text_english": "So taste My punishment and warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "text_english": "And there certainly came to the people of Pharaoh warning.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "كَذَّبُوا۟ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍۢ مُّقْتَدِرٍ",
+      "text_english": "They denied Our signs, all of them, so We seized them with a seizure of one Exalted in Might and Perfect in Ability.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "أَكُفَّارُكُمْ خَيْرٌۭ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌۭ فِى ٱلزُّبُرِ",
+      "text_english": "Are your disbelievers better than those [former ones], or have you immunity in the scripture?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌۭ مُّنتَصِرٌۭ",
+      "text_english": "Or do they say, \"We are an assembly supporting [each other]\"?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+      "text_english": "[Their] assembly will be defeated, and they will turn their backs [in retreat].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+      "text_english": "But the Hour is their appointment [for due punishment], and the Hour is more disastrous and more bitter.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍۢ وَسُعُرٍۢ",
+      "text_english": "Indeed, the criminals are in error and madness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+      "text_english": "The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\"",
+      "hadiths": [
+        {
+          "reference_text": "54:48",
+          "surah_name": null,
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29154,
+            "idInBook": 3374,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَأَبُو بَكْرٍ بُنْدَارٌ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ زِيَادِ بْنِ إِسْمَاعِيلَ، عَنْ مُحَمَّدِ بْنِ عَبَّادِ بْنِ جَعْفَرٍ الْمَخْزُومِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ مُشْرِكُو قُرَيْشٍ يُخَاصِمُونَ النَّبِيَّ صلى الله عليه وسلم فِي الْقَدَرِ فَنَزَلَتْْ ‏:‏ ‏(‏ يومَ يُسْحَبُونَ فِي النَّارِ عَلَى وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ * إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The idolaters of the Quraish came to the Messenger of Allah (ﷺ) arguing about Qadar, so the following was revealed: The day they will be dragged on their faces into the Fire. Taste you the touch of Hell! Verily, We have created all things with Qadar (54:48 & 49).\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        },
+        {
+          "reference_text": "54:48",
+          "surah_name": null,
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "47",
+            "id": 342,
+            "idInBook": 342,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَأَبُو بَكْرٍ بُنْدَارٌ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ زِيَادِ بْنِ إِسْمَاعِيلَ، عَنْ مُحَمَّدِ بْنِ عَبَّادِ بْنِ جَعْفَرٍ الْمَخْزُومِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ مُشْرِكُو قُرَيْشٍ يُخَاصِمُونَ النَّبِيَّ صلى الله عليه وسلم فِي الْقَدَرِ فَنَزَلَتْْ ‏:‏ ‏(‏ يومَ يُسْحَبُونَ فِي النَّارِ عَلَى وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ * إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The idolaters of the Quraish came to the Messenger of Allah (ﷺ) arguing about Qadar, so the following was revealed: The day they will be dragged on their faces into the Fire. Taste you the touch of Hell! Verily, We have created all things with Qadar (54:48 & 49).\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍۢ",
+      "text_english": "Indeed, all things We created with predestination.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌۭ كَلَمْحٍۭ بِٱلْبَصَرِ",
+      "text_english": "And Our command is but one, like a glance of the eye.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍۢ",
+      "text_english": "And We have already destroyed your kinds, so is there any who will remember?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "وَكُلُّ شَىْءٍۢ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "text_english": "And everything they did is in written records.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 53,
+      "text_arabic": "وَكُلُّ صَغِيرٍۢ وَكَبِيرٍۢ مُّسْتَطَرٌ",
+      "text_english": "And every small and great [thing] is inscribed.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 54,
+      "text_arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَنَهَرٍۢ",
+      "text_english": "Indeed, the righteous will be among gardens and rivers,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 55,
+      "text_arabic": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍۢ مُّقْتَدِرٍۭ",
+      "text_english": "In a seat of honor near a Sovereign, Perfect in Ability.",
+      "hadiths": []
+    }
+  ]
+}

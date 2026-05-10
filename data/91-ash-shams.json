@@ -1,0 +1,134 @@
+{
+  "surah": {
+    "id": 91,
+    "name_arabic": "سُورَةُ الشَّمۡسِ",
+    "name_english": "Ash-Shams",
+    "name_english_translation": "The Sun",
+    "verses_count": 15
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "text_english": "By the sun and its brightness",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "text_english": "And [by] the moon when it follows it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "text_english": "And [by] the day when it displays it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "text_english": "And [by] the night when it covers it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "text_english": "And [by] the sky and He who constructed it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "text_english": "And [by] the earth and He who spread it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+      "text_english": "And [by] the soul and He who proportioned it",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "text_english": "And inspired it [with discernment of] its wickedness and its righteousness,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "text_english": "He has succeeded who purifies it,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "text_english": "And he has failed who instills it [with corruption].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "text_english": "Thamud denied [their prophet] by reason of their transgression,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "text_english": "When the most wretched of them was sent forth.",
+      "hadiths": [
+        {
+          "reference_text": "91:12",
+          "surah_name": null,
+          "start_ayah": 12,
+          "end_ayah": 12,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42556,
+            "idInBook": 1491,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عبد الله بن زمعة رضي الله عنه ، أنه سمع النبي صلى الله عليه وسلم يخطب، وذكر الناقة والذي عقرها، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏(‏إذ انبعث أشقاها‏)‏ انبعث لها رجل عزيز، عارم منيع في رهطه‏\"‏ ثم ذكر النساء، فوعظ فيهن، فقال ‏:‏ ‏\"‏يعمد أحدكم فيجلد امرأته جلد العبد فلعله يضاجعها من آخر يومه‏\"‏ ثم وعظهم في ضحكهم من الضرطة وقال‏:‏ ‏\"‏لم يضحك أحدكم مما يفعل‏؟‏‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+            "english": "\"When the most wicked man among them went forth (to kill the she-camel).' (91:12) signifies that a distinguished, wicked and most powerful chief of the people jumped up to kill the she- camel.\" Then he (ﷺ) made mention of women and said, \"Some of you beat your wives as if they were slaves, and then lie with them at the end of the day\".Then he (ﷺ) admonished them against laughing at another's passing of wind, saying, \"Why does any of you laugh at another doing what he does himself\".",
+            "narrator": "'Abdullah bin Zam'ah (May Allah be pleased with him) reported that he heard the Prophet (ﷺ) giving a speech when he mentioned the she- camel (of Prophet Salih) and the man who had killed her. Messenger of Allah (ﷺ) said:"
+          }
+        },
+        {
+          "reference_text": "91:12",
+          "surah_name": null,
+          "start_ayah": 12,
+          "end_ayah": 12,
+          "hadith": {
+            "source": "introduction",
+            "id": 274,
+            "idInBook": 274,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عبد الله بن زمعة رضي الله عنه ، أنه سمع النبي صلى الله عليه وسلم يخطب، وذكر الناقة والذي عقرها، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏(‏إذ انبعث أشقاها‏)‏ انبعث لها رجل عزيز، عارم منيع في رهطه‏\"‏ ثم ذكر النساء، فوعظ فيهن، فقال ‏:‏ ‏\"‏يعمد أحدكم فيجلد امرأته جلد العبد فلعله يضاجعها من آخر يومه‏\"‏ ثم وعظهم في ضحكهم من الضرطة وقال‏:‏ ‏\"‏لم يضحك أحدكم مما يفعل‏؟‏‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+            "english": "\"When the most wicked man among them went forth (to kill the she-camel).' (91:12) signifies that a distinguished, wicked and most powerful chief of the people jumped up to kill the she- camel.\" Then he (ﷺ) made mention of women and said, \"Some of you beat your wives as if they were slaves, and then lie with them at the end of the day\".Then he (ﷺ) admonished them against laughing at another's passing of wind, saying, \"Why does any of you laugh at another doing what he does himself\".",
+            "narrator": "'Abdullah bin Zam'ah (May Allah be pleased with him) reported that he heard the Prophet (ﷺ) giving a speech when he mentioned the she- camel (of Prophet Salih) and the man who had killed her. Messenger of Allah (ﷺ) said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+      "text_english": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "text_english": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَلَا يَخَافُ عُقْبَٰهَا",
+      "text_english": "And He does not fear the consequence thereof.",
+      "hadiths": []
+    }
+  ]
+}

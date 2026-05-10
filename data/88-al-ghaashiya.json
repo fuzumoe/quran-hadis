@@ -1,0 +1,167 @@
+{
+  "surah": {
+    "id": 88,
+    "name_arabic": "سُورَةُ الغَاشِيَةِ",
+    "name_english": "Al-Ghaashiya",
+    "name_english_translation": "The Overwhelming",
+    "verses_count": 26
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ",
+      "text_english": "Has there reached you the report of the Overwhelming [event]?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ",
+      "text_english": "[Some] faces, that Day, will be humbled,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "عَامِلَةٌۭ نَّاصِبَةٌۭ",
+      "text_english": "Working [hard] and exhausted.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+      "text_english": "They will [enter to] burn in an intensely hot Fire.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+      "text_english": "They will be given drink from a boiling spring.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+      "text_english": "For them there will be no food except from a poisonous, thorny plant",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ",
+      "text_english": "Which neither nourishes nor avails against hunger.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+      "text_english": "[Other] faces, that Day, will show pleasure.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+      "text_english": "With their effort [they are] satisfied",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "text_english": "In an elevated garden,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ",
+      "text_english": "Wherein they will hear no unsuitable speech.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+      "text_english": "Within it is a flowing spring.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+      "text_english": "Within it are couches raised high",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+      "text_english": "And cups put in place",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+      "text_english": "And cushions lined up",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "text_english": "And carpets spread around.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "text_english": "Then do they not look at the camels - how they are created?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "text_english": "And at the sky - how it is raised?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "text_english": "And at the mountains - how they are erected?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "text_english": "And at the earth - how it is spread out?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ",
+      "text_english": "So remind, [O Muhammad]; you are only a reminder.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "text_english": "You are not over them a controller.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "text_english": "However, he who turns away and disbelieves -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "text_english": "Then Allah will punish him with the greatest punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "text_english": "Indeed, to Us is their return.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "text_english": "Then indeed, upon Us is their account.",
+      "hadiths": []
+    }
+  ]
+}

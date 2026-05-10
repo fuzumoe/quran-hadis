@@ -1,0 +1,377 @@
+{
+  "surah": {
+    "id": 77,
+    "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+    "name_english": "Al-Mursalaat",
+    "name_english_translation": "The Emissaries",
+    "verses_count": 50
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًۭا",
+      "text_english": "By those [winds] sent forth in gusts",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "فَٱلْعَٰصِفَٰتِ عَصْفًۭا",
+      "text_english": "And the winds that blow violently",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَٱلنَّٰشِرَٰتِ نَشْرًۭا",
+      "text_english": "And [by] the winds that spread [clouds]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "فَٱلْفَٰرِقَٰتِ فَرْقًۭا",
+      "text_english": "And those [angels] who bring criterion",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+      "text_english": "And those [angels] who deliver a message",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "عُذْرًا أَوْ نُذْرًا",
+      "text_english": "As justification or warning,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌۭ",
+      "text_english": "Indeed, what you are promised is to occur.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "text_english": "So when the stars are obliterated",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "text_english": "And when the heaven is opened",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "text_english": "And when the mountains are blown away",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "text_english": "And when the messengers' time has come...",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "text_english": "For what Day was it postponed?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "text_english": "For the Day of Judgement.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "text_english": "And what can make you know what is the Day of Judgement?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "text_english": "Did We not destroy the former peoples?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+      "text_english": "Then We will follow them with the later ones.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "text_english": "Thus do We deal with the criminals.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ",
+      "text_english": "Did We not create you from a liquid disdained?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "فَجَعَلْنَٰهُ فِى قَرَارٍۢ مَّكِينٍ",
+      "text_english": "And We placed it in a firm lodging",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+      "text_english": "For a known extent.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "text_english": "And We determined [it], and excellent [are We] to determine.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "text_english": "Have We not made the earth a container",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "أَحْيَآءًۭ وَأَمْوَٰتًۭا",
+      "text_english": "Of the living and the dead?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍۢ وَأَسْقَيْنَٰكُم مَّآءًۭ فُرَاتًۭا",
+      "text_english": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "text_english": "[They will be told], \"Proceed to that which you used to deny.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ",
+      "text_english": "Proceed to a shadow [of smoke] having three columns",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "text_english": "[But having] no cool shade and availing not against the flame.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "إِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ",
+      "text_english": "Indeed, it throws sparks [as huge] as a fortress,",
+      "hadiths": [
+        {
+          "reference_text": "77:32",
+          "surah_name": null,
+          "start_ayah": 32,
+          "end_ayah": 32,
+          "hadith": {
+            "source": "bukhari",
+            "id": 4726,
+            "idInBook": 4726,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏تَرْمِي بِشَرَرٍ‏}‏ كُنَّا نَعْمِدُ إِلَى الْخَشَبَةِ ثَلاَثَةَ أَذْرُعٍ وَفَوْقَ ذَلِكَ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏ ‏{‏كَأَنَّهُ جِمَالاَتٌ صُفْرٌ‏}‏ حِبَالُ السُّفْنِ تُجْمَعُ حَتَّى تَكُونَ كَأَوْسَاطِ الرِّجَالِ‏.‏",
+            "english": "(regarding) the explanation of \"... It throws\nsparks as Al-Qasr ...\" (V. 77:32):\nWe used to collect logs of wood, three\ncubits long or longer, to store for heating\npurposes in winter, and we used to call it Al-\nQasr, it also means a castle or a fort.\n\"As if they were Jimalatun Sufr (yellow\ncamels or bundles of ropes)\" (V.77:33):\nmeans the ropes of a ship which are made in\nbundles till it become as wide as men's waists.",
+            "narrator": "Narrated Ibn 'Abbas:"
+          }
+        },
+        {
+          "reference_text": "77:32",
+          "surah_name": null,
+          "start_ayah": 32,
+          "end_ayah": 32,
+          "hadith": {
+            "source": "65",
+            "id": 454,
+            "idInBook": 454,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏تَرْمِي بِشَرَرٍ‏}‏ كُنَّا نَعْمِدُ إِلَى الْخَشَبَةِ ثَلاَثَةَ أَذْرُعٍ وَفَوْقَ ذَلِكَ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏ ‏{‏كَأَنَّهُ جِمَالاَتٌ صُفْرٌ‏}‏ حِبَالُ السُّفْنِ تُجْمَعُ حَتَّى تَكُونَ كَأَوْسَاطِ الرِّجَالِ‏.‏",
+            "english": "(regarding) the explanation of \"... It throws\nsparks as Al-Qasr ...\" (V. 77:32):\nWe used to collect logs of wood, three\ncubits long or longer, to store for heating\npurposes in winter, and we used to call it Al-\nQasr, it also means a castle or a fort.\n\"As if they were Jimalatun Sufr (yellow\ncamels or bundles of ropes)\" (V.77:33):\nmeans the ropes of a ship which are made in\nbundles till it become as wide as men's waists.",
+            "narrator": "Narrated Ibn 'Abbas:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "كَأَنَّهُۥ جِمَٰلَتٌۭ صُفْرٌۭ",
+      "text_english": "As if they were yellowish [black] camels.",
+      "hadiths": [
+        {
+          "reference_text": "77:33",
+          "surah_name": null,
+          "start_ayah": 33,
+          "end_ayah": 33,
+          "hadith": {
+            "source": "bukhari",
+            "id": 4726,
+            "idInBook": 4726,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏تَرْمِي بِشَرَرٍ‏}‏ كُنَّا نَعْمِدُ إِلَى الْخَشَبَةِ ثَلاَثَةَ أَذْرُعٍ وَفَوْقَ ذَلِكَ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏ ‏{‏كَأَنَّهُ جِمَالاَتٌ صُفْرٌ‏}‏ حِبَالُ السُّفْنِ تُجْمَعُ حَتَّى تَكُونَ كَأَوْسَاطِ الرِّجَالِ‏.‏",
+            "english": "(regarding) the explanation of \"... It throws\nsparks as Al-Qasr ...\" (V. 77:32):\nWe used to collect logs of wood, three\ncubits long or longer, to store for heating\npurposes in winter, and we used to call it Al-\nQasr, it also means a castle or a fort.\n\"As if they were Jimalatun Sufr (yellow\ncamels or bundles of ropes)\" (V.77:33):\nmeans the ropes of a ship which are made in\nbundles till it become as wide as men's waists.",
+            "narrator": "Narrated Ibn 'Abbas:"
+          }
+        },
+        {
+          "reference_text": "77:33",
+          "surah_name": null,
+          "start_ayah": 33,
+          "end_ayah": 33,
+          "hadith": {
+            "source": "65",
+            "id": 454,
+            "idInBook": 454,
+            "bookId": 1,
+            "chapterId": 65,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏تَرْمِي بِشَرَرٍ‏}‏ كُنَّا نَعْمِدُ إِلَى الْخَشَبَةِ ثَلاَثَةَ أَذْرُعٍ وَفَوْقَ ذَلِكَ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏ ‏{‏كَأَنَّهُ جِمَالاَتٌ صُفْرٌ‏}‏ حِبَالُ السُّفْنِ تُجْمَعُ حَتَّى تَكُونَ كَأَوْسَاطِ الرِّجَالِ‏.‏",
+            "english": "(regarding) the explanation of \"... It throws\nsparks as Al-Qasr ...\" (V. 77:32):\nWe used to collect logs of wood, three\ncubits long or longer, to store for heating\npurposes in winter, and we used to call it Al-\nQasr, it also means a castle or a fort.\n\"As if they were Jimalatun Sufr (yellow\ncamels or bundles of ropes)\" (V.77:33):\nmeans the ropes of a ship which are made in\nbundles till it become as wide as men's waists.",
+            "narrator": "Narrated Ibn 'Abbas:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "text_english": "This is a Day they will not speak,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "text_english": "Nor will it be permitted for them to make an excuse.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "هَٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+      "text_english": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "فَإِن كَانَ لَكُمْ كَيْدٌۭ فَكِيدُونِ",
+      "text_english": "So if you have a plan, then plan against Me.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍۢ وَعُيُونٍۢ",
+      "text_english": "Indeed, the righteous will be among shades and springs",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "text_english": "And fruits from whatever they desire,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "text_english": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_english": "Indeed, We thus reward the doers of good.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "text_english": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "text_english": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "text_english": "Woe, that Day, to the deniers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "text_english": "Then in what statement after the Qur'an will they believe?",
+      "hadiths": []
+    }
+  ]
+}

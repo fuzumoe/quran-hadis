@@ -1,0 +1,651 @@
+{
+  "surah": {
+    "id": 14,
+    "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+    "name_english": "Ibrahim",
+    "name_english_translation": "Abraham",
+    "verses_count": 52
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "text_english": "Alif, Lam, Ra. [This is] a Book which We have revealed to you, [O Muhammad], that you might bring mankind out of darknesses into the light by permission of their Lord - to the path of the Exalted in Might, the Praiseworthy -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌۭ لِّلْكَٰفِرِينَ مِنْ عَذَابٍۢ شَدِيدٍ",
+      "text_english": "Allah, to whom belongs whatever is in the heavens and whatever is on the earth. And woe to the disbelievers from a severe punishment",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍۢ",
+      "text_english": "The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allah, seeking to make it (seem) deviant. Those are in extreme error.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_english": "And We did not send any messenger except [speaking] in the language of his people to state clearly for them, and Allah sends astray [thereby] whom He wills and guides whom He wills. And He is the Exalted in Might, the Wise.",
+      "hadiths": [
+        {
+          "reference_text": "سورة إبراهيم آية 4",
+          "surah_name": "إبراهيم",
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "darimi",
+            "id": 40340,
+            "idInBook": 2803,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة إبراهيم آية 4",
+          "surah_name": "إبراهيم",
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "introduction",
+            "id": 46,
+            "idInBook": 46,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+      "text_english": "And We certainly sent Moses with Our signs, [saying], \"Bring out your people from darknesses into the light and remind them of the days of Allah.\" Indeed in that are signs for everyone patient and grateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ",
+      "text_english": "And [recall, O Children of Israel], when Moses said to His people, \"Remember the favor of Allah upon you when He saved you from the people of Pharaoh, who were afflicting you with the worst torment and were slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ",
+      "text_english": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.' \"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ",
+      "text_english": "And Moses said, \"If you should disbelieve, you and whoever is on the earth entirely - indeed, Allah is Free of need and Praiseworthy.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍۢ",
+      "text_english": "Has there not reached you the news of those before you - the people of Noah and 'Aad and Thamud and those after them? No one knows them but Allah. Their messengers brought them clear proofs, but they returned their hands to their mouths and said, \"Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّۭ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍۢ مُّبِينٍۢ",
+      "text_english": "Their messengers said, \"Can there be doubt about Allah, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays your death for a specified term.\" They said, \"You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌۭ مِّثْلُكُمْ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "text_english": "Their messengers said to them, \"We are only men like you, but Allah confers favor upon whom He wills of His servants. It has never been for us to bring you evidence except by permission of Allah. And upon Allah let the believers rely.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "text_english": "And why should we not rely upon Allah while He has guided us to our [good] ways. And we will surely be patient against whatever harm you should cause us. And upon Allah let those who would rely [indeed] rely.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّٰلِمِينَ",
+      "text_english": "And those who disbelieved said to their messengers, \"We will surely drive you out of our land, or you must return to our religion.\" So their Lord inspired to them, \"We will surely destroy the wrongdoers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "text_english": "And We will surely cause you to dwell in the land after them. That is for he who fears My position and fears My threat.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍۢ",
+      "text_english": "And they requested victory from Allah, and disappointed, [therefore], was every obstinate tyrant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍۢ صَدِيدٍۢ",
+      "text_english": "Before him is Hell, and he will be given a drink of purulent water.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍۢ وَمَا هُوَ بِمَيِّتٍۢ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌۭ",
+      "text_english": "He will gulp it but will hardly [be able to] swallow it. And death will come to him from everywhere, but he is not to die. And before him is a massive punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍۢ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍۢ ۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ",
+      "text_english": "The example of those who disbelieve in their Lord is [that] their deeds are like ashes which the wind blows forcefully on a stormy day; they are unable [to keep] from what they earned a [single] thing. That is what is extreme error.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍۢ جَدِيدٍۢ",
+      "text_english": "Have you not seen that Allah created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍۢ",
+      "text_english": "And that is not difficult for Allah.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًۭا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍۢ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍۢ",
+      "text_english": "And they will come out [for judgement] before Allah all together, and the weak will say to those who were arrogant, \"Indeed, we were your followers, so can you avail us anything against the punishment of Allah?\" They will say, \"If Allah had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ",
+      "text_english": "And Satan will say when the matter has been concluded, \"Indeed, Allah had promised you the promise of truth. And I promised you, but I betrayed you. But I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves. I cannot be called to your aid, nor can you be called to my aid. Indeed, I deny your association of me [with Allah] before. Indeed, for the wrongdoers is a painful punishment.\"",
+      "hadiths": [
+        {
+          "reference_text": "سورة إبراهيم آية 22",
+          "surah_name": "إبراهيم",
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "darimi",
+            "id": 39606,
+            "idInBook": 2069,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ  ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ زِيَادٍ  ، حَدَّثَنَا دُخَيْنٌ الْحَجْرِيُّ  ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ  ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ :\" إِذَا جَمَعَ اللَّهُ الْأَوَّلِينَ وَالْآخِرِينَ فَقَضَى بَيْنَهُمْ وَفَرَغَ مِنَ الْقَضَاءِ، قَالَ الْمُؤْمِنُونَ : قَدْ قَضَى بَيْنَنَا رَبُّنَا، فَمَنْ يَشْفَعُ لَنَا إِلَى رَبِّنَا؟ فَيَقُولُونَ : انْطَلِقُوا إِلَى آدَمَ ، فَإِنَّ اللَّهَ خَلَقَهُ بِيَدِهِ، وَكَلَّمَهُ، فَيَأْتُونَهُ، فَيَقُولُونَ : قُمْ فَاشْفَعْ لَنَا إِلَى رَبِّنَا.\nفَيَقُولُ آدَمُ : عَلَيْكُمْ بِنُوحٍ ، فَيَأْتُونَ نُوحًا ، فَيَدُلُّهُمْ عَلَى إِبْرَاهِيمَ ، فَيَأْتُونَ إِبْرَاهِيمَ ، فَيَدُلُّهُمْ عَلَى مُوسَى ، فَيَأْتُونَ مُوسَى ، فَيَدُلُّهُمْ عَلَى عِيسَى ، فَيَأْتُونَ عِيسَى ، فَيَقُولُ : أَدُلُّكُمْ عَلَى النَّبِيِّ الْأُمِّيِّ.\nقَالَ : فَيَأْتُونِي فَيَأْذَنُ اللَّهُ G لِي أَنْ أَقُومَ إِلَيْهِ، فَيَثُورُ مَجْلِسِي أَطْيَبَ رِيحٍ شَمَّهَا أَحَدٌ قَطُّ، حَتَّى آتِيَ رَبِّي فَيُشَفِّعَنِي وَيَجْعَلَ لِي نُورًا مِنْ شَعْرِ رَأْسِي إِلَى ظُفْرِ قَدَمِي، فَيَقُولُ الْكَافِرُونَ عِنْدَ ذَلِكَ لِإِبْلِيسَ : قَدْ وَجَدَ الْمُؤْمِنُونَ مَنْ يَشْفَعُ لَهُمْ، فَقُمْ أَنْتَ فَاشْفَعْ لَنَا إِلَى رَبِّكَ، فَإِنَّكَ أَنْتَ أَضْلَلْتَنَا.\nقَالَ : فَيَقُومُ، فَيَثُورُ مَجْلِسُهُ أَنْتَنَ رِيحٍ شَمَّهَا أَحَدٌ قَطُّ، ثُمَّ يَعْظُمُ لِجَهَنَّمَ، فَيَقُولُ عِنْدَ ذَلِكَ : # وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ سورة إبراهيم آية 22 # \"إِلَى آخِرِ الْآيَةِ",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة إبراهيم آية 22",
+          "surah_name": "إبراهيم",
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "20",
+            "id": 96,
+            "idInBook": 96,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ  ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ زِيَادٍ  ، حَدَّثَنَا دُخَيْنٌ الْحَجْرِيُّ  ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ  ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ :\" إِذَا جَمَعَ اللَّهُ الْأَوَّلِينَ وَالْآخِرِينَ فَقَضَى بَيْنَهُمْ وَفَرَغَ مِنَ الْقَضَاءِ، قَالَ الْمُؤْمِنُونَ : قَدْ قَضَى بَيْنَنَا رَبُّنَا، فَمَنْ يَشْفَعُ لَنَا إِلَى رَبِّنَا؟ فَيَقُولُونَ : انْطَلِقُوا إِلَى آدَمَ ، فَإِنَّ اللَّهَ خَلَقَهُ بِيَدِهِ، وَكَلَّمَهُ، فَيَأْتُونَهُ، فَيَقُولُونَ : قُمْ فَاشْفَعْ لَنَا إِلَى رَبِّنَا.\nفَيَقُولُ آدَمُ : عَلَيْكُمْ بِنُوحٍ ، فَيَأْتُونَ نُوحًا ، فَيَدُلُّهُمْ عَلَى إِبْرَاهِيمَ ، فَيَأْتُونَ إِبْرَاهِيمَ ، فَيَدُلُّهُمْ عَلَى مُوسَى ، فَيَأْتُونَ مُوسَى ، فَيَدُلُّهُمْ عَلَى عِيسَى ، فَيَأْتُونَ عِيسَى ، فَيَقُولُ : أَدُلُّكُمْ عَلَى النَّبِيِّ الْأُمِّيِّ.\nقَالَ : فَيَأْتُونِي فَيَأْذَنُ اللَّهُ G لِي أَنْ أَقُومَ إِلَيْهِ، فَيَثُورُ مَجْلِسِي أَطْيَبَ رِيحٍ شَمَّهَا أَحَدٌ قَطُّ، حَتَّى آتِيَ رَبِّي فَيُشَفِّعَنِي وَيَجْعَلَ لِي نُورًا مِنْ شَعْرِ رَأْسِي إِلَى ظُفْرِ قَدَمِي، فَيَقُولُ الْكَافِرُونَ عِنْدَ ذَلِكَ لِإِبْلِيسَ : قَدْ وَجَدَ الْمُؤْمِنُونَ مَنْ يَشْفَعُ لَهُمْ، فَقُمْ أَنْتَ فَاشْفَعْ لَنَا إِلَى رَبِّكَ، فَإِنَّكَ أَنْتَ أَضْلَلْتَنَا.\nقَالَ : فَيَقُومُ، فَيَثُورُ مَجْلِسُهُ أَنْتَنَ رِيحٍ شَمَّهَا أَحَدٌ قَطُّ، ثُمَّ يَعْظُمُ لِجَهَنَّمَ، فَيَقُولُ عِنْدَ ذَلِكَ : # وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ سورة إبراهيم آية 22 # \"إِلَى آخِرِ الْآيَةِ",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَٰمٌ",
+      "text_english": "And those who believed and did righteous deeds will be admitted to gardens beneath which rivers flow, abiding eternally therein by permission of their Lord; and their greeting therein will be, \"Peace!\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًۭا كَلِمَةًۭ طَيِّبَةًۭ كَشَجَرَةٍۢ طَيِّبَةٍ أَصْلُهَا ثَابِتٌۭ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "text_english": "Have you not considered how Allah presents an example, [making] a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky?",
+      "hadiths": [
+        {
+          "reference_text": "14:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28983,
+            "idInBook": 3203,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقِنَاعٍ عَلَيْهِ رُطَبٌ فَقَالَ ‏\"‏ مَثَلُ كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا قَالَ هِيَ النَّخْلَةُ ‏:‏ ‏(‏ مَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الأَرْضِ مَا لَهَا مِنْ قَرَارٍ ‏)‏ قَالَ هِيَ الْحَنْظَلُ ‏\"‏ ‏.‏ قَالَ فَأَخْبَرْتُ بِذَلِكَ أَبَا الْعَالِيَةِ فَقَالَ صَدَقَ وَأَحْسَنَ ‏.‏ \n\n\n حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو بَكْرِ بْنُ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَبِيهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَهُ بِمَعْنَاهُ وَلَمْ يَرْفَعْهُ وَلَمْ يَذْكُرْ قَوْلَ أَبِي الْعَالِيَةِ وَهَذَا أَصَحُّ مِنْ حَدِيثِ حَمَّادِ بْنِ سَلَمَةَ وَرَوَى غَيْرُ وَاحِدٍ مِثْلَ هَذَا مَوْقُوفًا وَلاَ نَعْلَمُ أَحَدًا رَفَعَهُ غَيْرَ حَمَّادِ بْنِ سَلَمَةَ وَرَوَاهُ مَعْمَرٌ وَحَمَّادُ بْنُ زَيْدٍ وَغَيْرُ وَاحِدٍ وَلَمْ يَرْفَعُوهُ ‏.‏ \n\n\n حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَ حَدِيثِ قُتَيْبَةَ وَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) was brought a dish with unripe dates on it. He said: The parable of a goodly word is that of a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (14:24 & 25).' And he said: 'It is the date-palm.' And the parable of an evil tree uprooted from the surface of the earth, having no stability (14:26). He said: 'It is the colocynth tree.'\"",
+            "narrator": "Narrated Anas bin Malik:"
+          }
+        },
+        {
+          "reference_text": "14:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "47",
+            "id": 171,
+            "idInBook": 171,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقِنَاعٍ عَلَيْهِ رُطَبٌ فَقَالَ ‏\"‏ مَثَلُ كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا قَالَ هِيَ النَّخْلَةُ ‏:‏ ‏(‏ مَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الأَرْضِ مَا لَهَا مِنْ قَرَارٍ ‏)‏ قَالَ هِيَ الْحَنْظَلُ ‏\"‏ ‏.‏ قَالَ فَأَخْبَرْتُ بِذَلِكَ أَبَا الْعَالِيَةِ فَقَالَ صَدَقَ وَأَحْسَنَ ‏.‏ \n\n\n حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو بَكْرِ بْنُ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَبِيهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَهُ بِمَعْنَاهُ وَلَمْ يَرْفَعْهُ وَلَمْ يَذْكُرْ قَوْلَ أَبِي الْعَالِيَةِ وَهَذَا أَصَحُّ مِنْ حَدِيثِ حَمَّادِ بْنِ سَلَمَةَ وَرَوَى غَيْرُ وَاحِدٍ مِثْلَ هَذَا مَوْقُوفًا وَلاَ نَعْلَمُ أَحَدًا رَفَعَهُ غَيْرَ حَمَّادِ بْنِ سَلَمَةَ وَرَوَاهُ مَعْمَرٌ وَحَمَّادُ بْنُ زَيْدٍ وَغَيْرُ وَاحِدٍ وَلَمْ يَرْفَعُوهُ ‏.‏ \n\n\n حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَ حَدِيثِ قُتَيْبَةَ وَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) was brought a dish with unripe dates on it. He said: The parable of a goodly word is that of a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (14:24 & 25).' And he said: 'It is the date-palm.' And the parable of an evil tree uprooted from the surface of the earth, having no stability (14:26). He said: 'It is the colocynth tree.'\"",
+            "narrator": "Narrated Anas bin Malik:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "text_english": "It produces its fruit all the time, by permission of its Lord. And Allah presents examples for the people that perhaps they will be reminded.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍۢ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍۢ",
+      "text_english": "And the example of a bad word is like a bad tree, uprooted from the surface of the earth, not having any stability.",
+      "hadiths": [
+        {
+          "reference_text": "14:26",
+          "surah_name": null,
+          "start_ayah": 26,
+          "end_ayah": 26,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28983,
+            "idInBook": 3203,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقِنَاعٍ عَلَيْهِ رُطَبٌ فَقَالَ ‏\"‏ مَثَلُ كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا قَالَ هِيَ النَّخْلَةُ ‏:‏ ‏(‏ مَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الأَرْضِ مَا لَهَا مِنْ قَرَارٍ ‏)‏ قَالَ هِيَ الْحَنْظَلُ ‏\"‏ ‏.‏ قَالَ فَأَخْبَرْتُ بِذَلِكَ أَبَا الْعَالِيَةِ فَقَالَ صَدَقَ وَأَحْسَنَ ‏.‏ \n\n\n حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو بَكْرِ بْنُ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَبِيهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَهُ بِمَعْنَاهُ وَلَمْ يَرْفَعْهُ وَلَمْ يَذْكُرْ قَوْلَ أَبِي الْعَالِيَةِ وَهَذَا أَصَحُّ مِنْ حَدِيثِ حَمَّادِ بْنِ سَلَمَةَ وَرَوَى غَيْرُ وَاحِدٍ مِثْلَ هَذَا مَوْقُوفًا وَلاَ نَعْلَمُ أَحَدًا رَفَعَهُ غَيْرَ حَمَّادِ بْنِ سَلَمَةَ وَرَوَاهُ مَعْمَرٌ وَحَمَّادُ بْنُ زَيْدٍ وَغَيْرُ وَاحِدٍ وَلَمْ يَرْفَعُوهُ ‏.‏ \n\n\n حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَ حَدِيثِ قُتَيْبَةَ وَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) was brought a dish with unripe dates on it. He said: The parable of a goodly word is that of a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (14:24 & 25).' And he said: 'It is the date-palm.' And the parable of an evil tree uprooted from the surface of the earth, having no stability (14:26). He said: 'It is the colocynth tree.'\"",
+            "narrator": "Narrated Anas bin Malik:"
+          }
+        },
+        {
+          "reference_text": "14:26",
+          "surah_name": null,
+          "start_ayah": 26,
+          "end_ayah": 26,
+          "hadith": {
+            "source": "47",
+            "id": 171,
+            "idInBook": 171,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقِنَاعٍ عَلَيْهِ رُطَبٌ فَقَالَ ‏\"‏ مَثَلُ كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا قَالَ هِيَ النَّخْلَةُ ‏:‏ ‏(‏ مَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الأَرْضِ مَا لَهَا مِنْ قَرَارٍ ‏)‏ قَالَ هِيَ الْحَنْظَلُ ‏\"‏ ‏.‏ قَالَ فَأَخْبَرْتُ بِذَلِكَ أَبَا الْعَالِيَةِ فَقَالَ صَدَقَ وَأَحْسَنَ ‏.‏ \n\n\n حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو بَكْرِ بْنُ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَبِيهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَهُ بِمَعْنَاهُ وَلَمْ يَرْفَعْهُ وَلَمْ يَذْكُرْ قَوْلَ أَبِي الْعَالِيَةِ وَهَذَا أَصَحُّ مِنْ حَدِيثِ حَمَّادِ بْنِ سَلَمَةَ وَرَوَى غَيْرُ وَاحِدٍ مِثْلَ هَذَا مَوْقُوفًا وَلاَ نَعْلَمُ أَحَدًا رَفَعَهُ غَيْرَ حَمَّادِ بْنِ سَلَمَةَ وَرَوَاهُ مَعْمَرٌ وَحَمَّادُ بْنُ زَيْدٍ وَغَيْرُ وَاحِدٍ وَلَمْ يَرْفَعُوهُ ‏.‏ \n\n\n حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، نَحْوَ حَدِيثِ قُتَيْبَةَ وَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) was brought a dish with unripe dates on it. He said: The parable of a goodly word is that of a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (14:24 & 25).' And he said: 'It is the date-palm.' And the parable of an evil tree uprooted from the surface of the earth, having no stability (14:26). He said: 'It is the colocynth tree.'\"",
+            "narrator": "Narrated Anas bin Malik:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ ۚ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "text_english": "Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter. And Allah sends astray the wrongdoers. And Allah does what He wills.",
+      "hadiths": [
+        {
+          "reference_text": "14:27",
+          "surah_name": null,
+          "start_ayah": 27,
+          "end_ayah": 27,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42709,
+            "idInBook": 1644,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن البراء بن عازب، رضي الله عنهما، عن النبي، صلى الله عليه وسلم، قال‏:‏ “المسلم إذا سئل في القبر يشهد أن لا إله إلا الله، وأن محمداً رسول الله، فذلك قوله تعالى‏:‏ ‏{‏يثبت الله الذين آمنوا بالقول الثابت في الحياة الدنيا وفي الآخرة‏}‏ ‏(‏‏(‏إبراهيم‏:‏27‏)‏‏)‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "The Prophet (ﷺ) said, \"When a believer is questioned in the grave, he testifies that, 'there is no true god except Allah and Muhammad is the Messenger of Allah.' About him the Words of Allah, the Exalted, are: 'Allah will keep firm those who believe, with the firm statement (The Testimony of Faith) in this world and the Hereafter)\". (14:27).",
+            "narrator": "Bara' bin 'Azib (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "14:27",
+          "surah_name": null,
+          "start_ayah": 27,
+          "end_ayah": 27,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28984,
+            "idInBook": 3204,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثِدٍ، قَالَ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ، يُحَدِّثُ عَنِ الْبَرَاءِ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي قَوْلِ اللَّهِ ‏:‏ ‏(‏ يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ ‏)‏ قَالَ ‏\"‏ فِي الْقَبْرِ إِذَا قِيلَ لَهُ مَنْ رَبُّكَ وَمَا دِينُكَ وَمَنْ نَبِيُّكَ؟ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that regarding Allah's saying: Allah will keep firm those who believe, with the word that stands firm in this world and in the Hereafter (14:27). The Prophet (ﷺ) said: \"In the grave, when it is said to him: 'Who is your Lord? What is your religion? And who is your Prophet?'\"",
+            "narrator": "Narrated Al-Bara:"
+          }
+        },
+        {
+          "reference_text": "14:27",
+          "surah_name": null,
+          "start_ayah": 27,
+          "end_ayah": 27,
+          "hadith": {
+            "source": "introduction",
+            "id": 427,
+            "idInBook": 427,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن البراء بن عازب، رضي الله عنهما، عن النبي، صلى الله عليه وسلم، قال‏:‏ “المسلم إذا سئل في القبر يشهد أن لا إله إلا الله، وأن محمداً رسول الله، فذلك قوله تعالى‏:‏ ‏{‏يثبت الله الذين آمنوا بالقول الثابت في الحياة الدنيا وفي الآخرة‏}‏ ‏(‏‏(‏إبراهيم‏:‏27‏)‏‏)‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+            "english": "The Prophet (ﷺ) said, \"When a believer is questioned in the grave, he testifies that, 'there is no true god except Allah and Muhammad is the Messenger of Allah.' About him the Words of Allah, the Exalted, are: 'Allah will keep firm those who believe, with the firm statement (The Testimony of Faith) in this world and the Hereafter)\". (14:27).",
+            "narrator": "Bara' bin 'Azib (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "14:27",
+          "surah_name": null,
+          "start_ayah": 27,
+          "end_ayah": 27,
+          "hadith": {
+            "source": "47",
+            "id": 172,
+            "idInBook": 172,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثِدٍ، قَالَ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ، يُحَدِّثُ عَنِ الْبَرَاءِ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي قَوْلِ اللَّهِ ‏:‏ ‏(‏ يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ ‏)‏ قَالَ ‏\"‏ فِي الْقَبْرِ إِذَا قِيلَ لَهُ مَنْ رَبُّكَ وَمَا دِينُكَ وَمَنْ نَبِيُّكَ؟ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that regarding Allah's saying: Allah will keep firm those who believe, with the word that stands firm in this world and in the Hereafter (14:27). The Prophet (ﷺ) said: \"In the grave, when it is said to him: 'Who is your Lord? What is your religion? And who is your Prophet?'\"",
+            "narrator": "Narrated Al-Bara:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًۭا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+      "text_english": "Have you not considered those who exchanged the favor of Allah for disbelief and settled their people [in] the home of ruin?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+      "text_english": "[It is] Hell, which they will [enter to] burn, and wretched is the settlement.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "وَجَعَلُوا۟ لِلَّهِ أَندَادًۭا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+      "text_english": "And they have attributed to Allah equals to mislead [people] from His way. Say, \"Enjoy yourselves, for indeed, your destination is the Fire.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا بَيْعٌۭ فِيهِ وَلَا خِلَٰلٌ",
+      "text_english": "[O Muhammad], tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and publicly, before a Day comes in which there will be no exchange, nor any friendships.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًۭا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ",
+      "text_english": "It is Allah who created the heavens and the earth and sent down rain from the sky and produced thereby some fruits as provision for you and subjected for you the ships to sail through the sea by His command and subjected for you the rivers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "text_english": "And He subjected for you the sun and the moon, continuous [in orbit], and subjected for you the night and the day.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ",
+      "text_english": "And He gave you from all you asked of Him. And if you should count the favor of Allah, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ",
+      "text_english": "And [mention, O Muhammad], when Abraham said, \"My Lord, make this city [Makkah] secure and keep me and my sons away from worshipping idols.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ",
+      "text_english": "My Lord, indeed they have led astray many among the people. So whoever follows me - then he is of me; and whoever disobeys me - indeed, You are [yet] Forgiving and Merciful.",
+      "hadiths": [
+        {
+          "reference_text": "14:36",
+          "surah_name": null,
+          "start_ayah": 36,
+          "end_ayah": 36,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42707,
+            "idInBook": 1642,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عبد الله بن عمرو بن العاص، رضي الله عنهما، أن النبي، صلى الله عليه وسلم، تلا قول الله عز وجل في إبراهيم، صلى الله عليه وسلم‏:‏ ‏{‏رب إنهن أضللن كثيراً من الناس فمن تبعني فإنه مني‏}‏ ‏(‏‏(‏إبراهيم‏:‏36‏)‏‏)‏، وقول عيسى، صلى الله عليه وسلم‏:‏‏{‏إن تعذبهم فإنهم عبادك وإن تغفر لهم فإنك أنت العزيز الحكيم‏}‏ ‏(‏‏(‏المائدة‏:‏ 118‏)‏‏)‏، فرفع يديه وقال‏:‏ ‏\"‏اللهم أمتى أمتى” وبكى، فقال الله عز وجل‏:‏‏\"‏ ‏\"‏ يا جبريل اذهب إلى محمد وربك أعلم، فسله ما يبكيه‏؟‏ “ فأتاه جبريل، فأخبره رسول الله صلى الله عليه وسلم، بما قال‏:‏ وهو أعلم، فقال الله تعالى‏:‏ ‏\"‏يا جبريل اذهب إلى محمد فقل‏:‏ إنا سنرضيك في أمتك ولا نسؤوك‏\"‏ \n‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "The Prophet (ﷺ) recited the Words of Allah, the Exalted, and the Glorious, about Ibrahim (ﷺ) who said: \"O my Rubb! They have led astray many among mankind. But whosoever follows me, he verily, is of me\". (14:36) and those of 'Isa (Jesus) (ﷺ) who said: \"If You punish them, they are Your slaves, and if You forgive them, verily, You, only You, are the All-Mighty, the All-Wise\". (5:118). Then he (ﷺ) raised up his hands and said, \"O Allah! My Ummah, my Ummah,\" and wept; Allah, the Exalted, said: \"O Jibril (Gabriel)! Go to Muhammad (ﷺ) and ask him: 'What makes you weep?\" So Jibril came to him and asked him (the reason of his weeping) and the Messenger of Allah informed him what he had said (though Allah knew it well). Upon this Allah said: \"Jibril, go to Muhammad (ﷺ) and say: 'Verily, We will please you with regard to your Ummah and will never displease you\"..",
+            "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "14:36",
+          "surah_name": null,
+          "start_ayah": 36,
+          "end_ayah": 36,
+          "hadith": {
+            "source": "introduction",
+            "id": 425,
+            "idInBook": 425,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن عبد الله بن عمرو بن العاص، رضي الله عنهما، أن النبي، صلى الله عليه وسلم، تلا قول الله عز وجل في إبراهيم، صلى الله عليه وسلم‏:‏ ‏{‏رب إنهن أضللن كثيراً من الناس فمن تبعني فإنه مني‏}‏ ‏(‏‏(‏إبراهيم‏:‏36‏)‏‏)‏، وقول عيسى، صلى الله عليه وسلم‏:‏‏{‏إن تعذبهم فإنهم عبادك وإن تغفر لهم فإنك أنت العزيز الحكيم‏}‏ ‏(‏‏(‏المائدة‏:‏ 118‏)‏‏)‏، فرفع يديه وقال‏:‏ ‏\"‏اللهم أمتى أمتى” وبكى، فقال الله عز وجل‏:‏‏\"‏ ‏\"‏ يا جبريل اذهب إلى محمد وربك أعلم، فسله ما يبكيه‏؟‏ “ فأتاه جبريل، فأخبره رسول الله صلى الله عليه وسلم، بما قال‏:‏ وهو أعلم، فقال الله تعالى‏:‏ ‏\"‏يا جبريل اذهب إلى محمد فقل‏:‏ إنا سنرضيك في أمتك ولا نسؤوك‏\"‏ \n‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "The Prophet (ﷺ) recited the Words of Allah, the Exalted, and the Glorious, about Ibrahim (ﷺ) who said: \"O my Rubb! They have led astray many among mankind. But whosoever follows me, he verily, is of me\". (14:36) and those of 'Isa (Jesus) (ﷺ) who said: \"If You punish them, they are Your slaves, and if You forgive them, verily, You, only You, are the All-Mighty, the All-Wise\". (5:118). Then he (ﷺ) raised up his hands and said, \"O Allah! My Ummah, my Ummah,\" and wept; Allah, the Exalted, said: \"O Jibril (Gabriel)! Go to Muhammad (ﷺ) and ask him: 'What makes you weep?\" So Jibril came to him and asked him (the reason of his weeping) and the Messenger of Allah informed him what he had said (though Allah knew it well). Upon this Allah said: \"Jibril, go to Muhammad (ﷺ) and say: 'Verily, We will please you with regard to your Ummah and will never displease you\"..",
+            "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "text_english": "Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.",
+      "hadiths": [
+        {
+          "reference_text": "14:37",
+          "surah_name": null,
+          "start_ayah": 37,
+          "end_ayah": 37,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42253,
+            "idInBook": 1188,
+            "bookId": 13,
+            "chapterId": 18,
+            "arabic": "وعن بن عباس رضي الله عنهما قال‏:‏ جاء إبراهيم صلى الله عليه وسلم  بأم إسماعيل وبابنها إسماعيل وهي ترضعه حتى وضعها عند البيت عند دوحة فوق زمزم في أعلى المسجد وليس بمكة يومئذ أحد وليس بها ماء، فوضعهما هناك، ووضع عندهما جراباً فيه تمر، وسقاء فيه ماء، ثم قفى إبراهيم منطلقاً، فتبعته أم إسماعيل فقالت‏:‏ يا إبراهيم أين تذهب وتتركنا بهذا الوادي الذي ليس فيه أنيس ولا شيء‏؟‏ فقالت له ذلك مراراً، وجعل لا يلتفت إليها، قالت له‏:‏ آلله أمرك بهذا‏؟‏ قال‏:‏ نعم ، قالت‏:‏ إذا لا يضيعنا، ثم رجعت، فانطلق إبراهيم صلى الله عليه وسلم ، حتى إذا كان عند الثنية حيث يرونه استقبل بوجهه البيت ، ثم دعا بهؤلاء الدعوات ، فرفع يديه فقال‏:‏ ‏{‏ربنا إني أسكنت من ذريتي بواد غير ذي زرع‏}‏ حتى بلغ ‏{‏يشكرون‏}‏ وجعلت أم إسماعيل ترضع إسماعيل، وتشرب من ذلك الماء، حتى إذا نفد ما في السقاء عطشت، وعطش ابنها، وجعلت تنظر إليه يتلوى -أوقال‏:‏ يتلبط- فانطلقت كراهية أن تنظر إليه ، فوجدت الصفا أقرب جبل في الأرض يليها، فقامت عليه، ثم استقبلت الوادي تنظر هل ترى أحداً‏؟‏ فلم تر أحداً، فهبطت من الصفا حتى إذا بلغت الوادي، رفعت طرف درعها، ثم سعت سعي الإنسان المجهود حتى جاوزت الوادي، ثم أتت المروة، فقامت عليها، فنظرت هل ترى أحداً‏؟‏ فلم تر أحداً، ففعلت ذلك سبع مرات، قال ابن عباس رضي الله عنهما‏:‏ قال النبي صلى الله عليه وسلم  ‏\"‏فذلك سعي الناس بينها‏\"‏ فلما أشرفت على المروة سمعت صوتاً، فقالت‏:‏ صه-تريد نفسها- ثم تسمّعت ، فسمعت أيضاً فقالت‏:‏ قد أسمعت إن كان عندك غواث فأغث، فإذا هى بالملك عند موضع زمزم، فبحث بعقبه -أو قال بجناحه- حتى ظهر الماء، فجعلت تحوضه وتقول بيدها هكذا، وجعلت تغرف الماء في سقائها وهو يفور بعدما تغرف، وفي رواية ‏:‏ بقدر ما تغرف، قال ابن عباس رضي الله عنهما ‏:‏ قال النبي صلى الله عليه وسلم  ‏:‏ ‏\"‏رحم الله أم إسماعيل لو تركت زمزم -أو قال‏:‏ لو لم تغرف من الماء، لكان زمزم عينا معينا” قال‏:‏ فشربت ، وأرضعت ولدها، فقال لها الملك‏:‏ لا تخافوا الضيعة فإن ههنا بيتا لله يبنيه هذا الغلام وأبوه، وإن الله لا يضيع أهله، وكان البيت مرتفعاً من الأرض كالرابية تأتيه السيول، فتأخذ عن يمينه وعن شماله، فكانت كذلك حتى مرت بهم رفقة من جرهم، أو أهل بيت من جرهم مقبلين من طريق كداء، فنزلوا في أسفل مكة، فرأوا طائراً عائفاً فقالوا‏:‏ إن هذا الطائر ليدور على ماء لعهدنا بهذا الوادي وما فيه ماء، فأرسلوا  جرياً أو جريين، فإذا هم بالماء، فرجعوا، فأخبروهم، فأقبلوا وأم إسماعيل عند الماء، فقالوا‏:‏ أتأذنين لنا أن ننزل عندك‏؟‏ قالت‏:‏ نعم، ولكن لا حق لكم في الماء، قالوا‏:‏ نعم، قال ابن عباس‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏فألفى ذلك أم إسماعيل، وهي تحب الأنس، فنزلوا، فأرسلوا إلى أهليهم فنزلوا معهم، حتى إذا كانوا بها أهل أبيات، وشب الغلام وتعلم العربيه منهم وأنفسهم وأعجبهم حين شب ، فلما أدرك، زوجوه امرأة منهم، وماتت أم إسماعيل، فجاء إبراهيم بعد ما تزوج إسماعيل  يطالع تركته فلم يجد إسماعيل، فسأل امرأته عنه فقالت‏:‏ خرج يبتغي لنا-    وفي رواية‏:‏ يصيد لنا - ثم سألها عن عيشهم وهيئتهم فقالت‏:‏ نحن بشر ، نحن في ضيق وشدة، وشكت إليه ، قال‏:‏ فإذا جاء زوجك، أقرئي عليه السلام وقولي‏:‏ غير عتبة بابك، قال‏:‏ ذاك أبي  وقد أمرني أن أفارقك، الحقي بأهلك‏.‏ فطلقها ، وتزوج منهم أخرى، فلبث عنهم إبراهيم ما شاء الله ثم أتاهم بعد، فلم يجده ، فدخل على امرأته، فسأله عنه، قالت‏:‏ خرج يبتغي لنا، قال‏:‏ كيف أنتم‏؟‏ وسألها عن عيشهم وهيئتهم، فقالت‏:‏ نحن بخير وسعة وأثنت على الله تعالى، فقال‏:‏ ما طعامكم‏؟‏ قالت‏:‏ اللحم قال‏:‏ فما شرابكم‏؟‏ قالت الماء‏.‏ قال‏:‏ اللهم بارك لهم في اللحم والماء، قال النبي صلى الله عليه وسلم  ‏:‏ ‏\"‏ولم يكن لهم يؤمئذ حب ولو كان لهم دعا لهم فيه” قال‏:‏ فهما لا يخلو عليهما أحد بغير مكة إلا لم يوافقاه‏.‏ وفي رواية فجاء فقال‏:‏ أين إسماعيل‏؟‏ فقالت امرأته‏:‏ ذهب يصيد، فقالت امرأته‏:‏ ألا تنزل، فتطعم وتشرب‏؟‏ قال‏:‏ وما طعامكم وما شرابكم‏؟‏ قالت‏:‏ طعامنا اللحم، وشرابنا الماء، قال‏:‏ اللهم بارك لهم في طعامهم وشرابهم- قال، فقال أبوالقاسم صلى الله عليه وسلم ‏:‏ “بركة دعوة إبراهيم صلى الله عليه وسلم ‏\"‏ قال‏:‏ فإذا جاء زوجك ، فاقرئي عليه السلام ومريه يثبت عتبة بابه، فلما جاء إسماعيل، قال‏:‏ هل أتاكم من أحد‏؟‏ قالت‏:‏ نعم، أتانا شيخ حسن الهيئة، وأثنت عليه فسألني عنك، فأخبرته ،فسألني كيف عيشنا، فأخبرته، أنّا بخير، قال‏:‏ فأوصاك بشيء‏؟‏ قالت‏:‏ نعم، يقرأ عليك السلام، ويأمرك أن تثبت عبتة بابك، قال‏:‏ ذاك أبي  وأنت العتبة أمرني أن أمسكك، ثم لبث عنهم ما شاء الله، ثم جاء بعد ذلك وإسماعيل يبري نبلاً له تحت دوحة قريباً من زمزم، فلما رآه، قام إليه ، فصنع كما يصنع الوالد بالولد، والولد بالوالد قال يا إسماعيل إن الله أمرني بأمر ، قال‏:‏ فاصنع ما أراك ربك‏؟‏ قال‏:‏ وتعينني، قال‏:‏ وأعينك، قال‏:‏ فإن الله أمرني أن أبني بيتا ههنا، وأشار إلى أكمة مرتفعة على ما حولها، فعند ذلك رفع القواعد من البيت، فجعل إسماعيل يأتي بالحجارة وإبراهيم يبني حتى إذا ارتفع البناء، جاء بهذا الحجر فوضعه له فقام عليه، وهو يبني وإسماعيل يناوله الحجارة وهما يقولان ‏:‏ ربنا تقبل منا إنك أنت السميع العليم‏.‏ وفي رواية‏:‏ إن إبراهيم خرج بإسماعيل وأم إسماعيل، معهم شنة فيها ماء، فجعلت أم إسماعيل تشرب من الشنة، فيدر لبنها على صبيها حتى قدم مكة، فوضعها تحت دوحة، ثم رجع إبراهيم إلى أهله، فاتبعته أم إسماعيل حتى لما بلغوا كداء، نادته من ورائه‏:‏ يا إبراهيم إلى من تتركنا‏؟‏ قال‏:‏ إلى الله ، قالت‏:‏ رضيت بالله، فرجعت، وجعلت تشرب من الشنة، ويدر لبنها على صبيها حتى لما فني الماء قالت‏:‏ لو ذهبت ، فنظرت لعلي أحس أحداً، قال‏:‏ فذهبت فصعدت الصفا، فنظرت ونظرت هل تحس أحداً، فلما بلغت الوادي، سمعت، وأتت المروة، وفعلت ذلك أشواطا، ثم قالت‏:‏ لو ذهبت فنظرت ما فعل الصبي، فذهبت ونظرت، فإذا هو على حاله كأنه ينشغ للموت، فلم تقرها نفسها ، فقالت‏:‏ لو ذهبت ، فنظرت لعلي أحس أحداً، فذهبت فصعدت الصفا، فنظرت ونظرت، فلم تحس أحداً حتى أتمت سبعاً، ثم قالت‏:‏ لو ذهبت ، فنظرت ما فعل، فإذا هي بصوت فقال‏:‏ أغث إن كان عندك خير، فإذا جبريل صلى الله عليه وسلم  فقال بعقبه هكذا، وغمز بعقبه على الأرض فانبثق الماء فدهشت أم إسماعيل، فجعلت تحفن، وذكر الحديث بطوله‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ بهذه الروايات كلها‏.‏ «الدوحة» الشجرة الكبيرة. قوله: «قفى» : أي: ولى. ... «والجري» : الرسول. «وألفى» : معناه وجد. قوله: «ينشغ» : أي: يشهق.",
+            "english": "Ibrahim (ﷺ) brought his wife and her son Isma'il (ﷺ), while she was suckling him, to a place near the Ka'bah under a tree on the spot of Zamzam, at the highest place in the mosque. In those days, there was no human being in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Isma'il's mother followed him saying: \"O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?\" She repeated that to him many times, but he did not look back at her. Then she asked him: \"Has Allah commanded you to do so?\" He said: \"Yes.\" She said: \"Then He will not neglect us.\" She returned while Ibrahim proceeded onwards. Having reached the Thaniya, where they could not see him, he faced Ka'bah, raised his both hands and supplicated: \"O our Rubb! I have made some of my offspring to dwell in an uncultivable valley by Your Sacred House (the Ka'bah at Makkah) in order, O our Rubb, that they may perform As-Salat (Iqamat-as-Salat). So fill some hearts among men with love towards them, and (O Allah) provide them with fruits so that they may give thanks.\" (14:37).Isma'il's mother went on suckling Isma'il and drinking from the water which she had. When the water in the water-skin had all been used up, she became thirsty and her child also became thirsty. She started looking at Isma'il, tossing in agony. She left him, for she could not endure looking at him, and found that the mountain of As-Safa was the nearest mountain to her on that land. She stood on it and started looking at the valley keenly so that she might see somebody, but she could not see anybody. Then she descended from As-Safa, and when she reached the valley, she tucked up her robe and ran in the valley like a person in distress and trouble till she crossed the valley and reached Al-Marwah mountain where she stood and started looking, expecting to see somebody, but she could not see anybody. She repeated that (running between As-Safa and Al-Marwah) seven times.\" Ibn 'Abbas further related: The Prophet (ﷺ) said, \"This is the source of the tradition of the Sa'y - i.e., the going of people between the two mountains. When she reached Al-Marwah (for the last time), she heard a voice and she exclaimed: 'Shshs!' (Silencing herself) and listened attentively. She heard the voice again and said: 'O (whoever you may be) You have made me hear your voice; have you any succour for me?' And behold! She saw an angel at the place of Zamzam, digging the earth with his heel (or with his wing), till water flowed out from that place. She started to make something like of a basin around it, using her hands in this way and began to fill her water- skin with water with her hands, and the water was flowing out until she had scooped some of it.\" The Prophet (ﷺ) further said, \"May Allah bestow mercy on Isma'il's mother! Had she let the Zamzam flow without trying to control it (or had she not scooped in that water) while filling her water-skin, Zamzam would have been a stream flowing on the surface of the earth.\" The Prophet (ﷺ) further added, \"Then she drank (water) and suckled her child. The angel said to her: 'Do not be afraid of being neglected, for this is the site on which the House of Allah will be built by this boy and his father, and Allah will never let neglected His people.' The House of Allah (the Ka'bah) at that time was on a high place resembling a hillock, and when torrents came, they flowed to its right and left. She continued living in that way till some people from the tribe of Jurhum passed by her and her child. As they were coming from through the way of Kada', in the lower part of Makkah where they saw a bird that had a habit of flying around water and not leaving it. They said: 'This bird must be flying over water, though we know that there is no water in this valley.' They sent one or two messengers who discovered the source of water, and returned to inform them of the water. So, they all came towards the water.\" The Prophet (ﷺ) added, \"Isma'il's mother was sitting near the water. They asked her: 'Do you allow us to stay with you?' She replied: 'Yes, but you will have no right to possess the water.' They agreed to that.\" The Prophet (ﷺ) further said, \"Isma'il's mother was pleased with the whole situation as she used to love the company of the people. So, they settled there, and later on they sent for their families who came and settled with them. The child (i.e., Isma'il) grew up and learnt Arabic from them (his virtues) caused them to love and admire him as he grew up, and when he reached the age of puberty, they gave him one of their daughters in marriage. After Isma'il's mother had died, Ibrahim came after Isma'il's marriage in order to see his family that he had left before, but he did not find Isma'il there. When he asked Isma'il's wife about him, she replied: 'He has gone in search of our livelihood.' Then he asked her about their way of living and their condition, and she replied complaining to him: 'We are living in hardship, misery and destitution.' He said: 'When your husband returns, convey my salutations to him and tell him to change the threshold of the door of his house.' When Isma'il came, he seemed to have perceived something unusual. He asked his wife: 'Did anyone visit you?' She replied: 'Yes, an old man of such and such description came and asked me about you and I informed him, and he asked about our state of living, and, I told him that we were living in hardship and poverty.' Thereupon Isma'il said: 'Did he advise you anything?' She replied: 'Yes, he told me to convey his salutations to you and to change the threshold of your door.' Isma'il said: 'That was my father, and he has ordered me to divorce you. Go back to your family.' So Isma'il divorced her and married another woman from amongst them (Jurhum). Then Ibrahim stayed away from them for a period as long as Allah wished, and called on them again but did not find Isma'il. So he came to Isma'il's wife and asked her about him. She said: 'He has gone in search of our livelihood.' Ibrahim asked her about their sustenance and living: 'How are you getting on?' She replied: 'We are prosperous and well off.' Then she praised Allah, the Exalted. Ibrahim asked: 'What kind of food do you eat?' She said: 'Meat.' He said: 'What do you drink?' She said: 'Water.' He said, 'O Allah! Bless their meat and water!\"' The Prophet (ﷺ) added, \"At that time they did not have grain, and if they had grain, he would have also invoked Allah to bless it.\" The Prophet (ﷺ) further said, \"If somebody has only these two things as his sustenance, his health and disposition will be badly affected because these things do not suit him unless he lives in Makkah.\" The Prophet (ﷺ) added, \"Then Ibrahim said to Isma'il's wife, 'When your husband comes, give my regards to him and tell him that he should keep firm the threshold of his door.' When Isma'il came back, he asked his wife: 'Did anyone call on you?' She replied: 'Yes, a good looking old man came to me.' She praised him and added: 'He asked about you, and I informed him, and he asked about our livelihood and I told him that we were in good condition.' Isma'il asked her: 'Did he give you a piece of advice?' She said: 'Yes, he told me to convey his regards to you and ordered that you should keep firm the threshold of your door.' On that Isma'il said: 'He was my father and you are the threshold of the door. He has ordered me to keep you with me.' Then Ibrahim stayed away from them for a period as long as Allah wished and called on them afterwards. He saw Isma'il under a tree near Zamzam, sharpening his arrows. When he saw Ibrahim, he rose up to welcome him, and they greeted each other as a father does with his son or a son does with his father. Ibrahim said: 'O Isma'il! Allah has given me an order.' Isma'il said: 'Do what your Rubb has commanded you to do.' Ibrahim asked: 'Will you help me?' Isma'il said: 'I will help you.' Ibrahim said: 'Allah has ordered me to build a house here, pointing to a hillock higher than the land surrounding it.\"' The Messenger of Allah (ﷺ) added, \"Then they raised the foundations of the House (i.e., Ka'bah). Isma'il brought the stones and Ibrahim was building (the house). When the walls became high, Isma'il brought stone and placed it for Ibrahim who stood over it and carried on building the House, while Isma'il was handing over the stones to him, both of them prayed: 'O our Rubb! Accept this service from us! Verily, You are the All- Hearer and the All-Knower.\"'.There are some more narrations about this incident, some adding details and some with minor variations in the wordings.",
+            "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "14:37",
+          "surah_name": null,
+          "start_ayah": 37,
+          "end_ayah": 37,
+          "hadith": {
+            "source": "18",
+            "id": 60,
+            "idInBook": 60,
+            "bookId": 13,
+            "chapterId": 18,
+            "arabic": "وعن بن عباس رضي الله عنهما قال‏:‏ جاء إبراهيم صلى الله عليه وسلم  بأم إسماعيل وبابنها إسماعيل وهي ترضعه حتى وضعها عند البيت عند دوحة فوق زمزم في أعلى المسجد وليس بمكة يومئذ أحد وليس بها ماء، فوضعهما هناك، ووضع عندهما جراباً فيه تمر، وسقاء فيه ماء، ثم قفى إبراهيم منطلقاً، فتبعته أم إسماعيل فقالت‏:‏ يا إبراهيم أين تذهب وتتركنا بهذا الوادي الذي ليس فيه أنيس ولا شيء‏؟‏ فقالت له ذلك مراراً، وجعل لا يلتفت إليها، قالت له‏:‏ آلله أمرك بهذا‏؟‏ قال‏:‏ نعم ، قالت‏:‏ إذا لا يضيعنا، ثم رجعت، فانطلق إبراهيم صلى الله عليه وسلم ، حتى إذا كان عند الثنية حيث يرونه استقبل بوجهه البيت ، ثم دعا بهؤلاء الدعوات ، فرفع يديه فقال‏:‏ ‏{‏ربنا إني أسكنت من ذريتي بواد غير ذي زرع‏}‏ حتى بلغ ‏{‏يشكرون‏}‏ وجعلت أم إسماعيل ترضع إسماعيل، وتشرب من ذلك الماء، حتى إذا نفد ما في السقاء عطشت، وعطش ابنها، وجعلت تنظر إليه يتلوى -أوقال‏:‏ يتلبط- فانطلقت كراهية أن تنظر إليه ، فوجدت الصفا أقرب جبل في الأرض يليها، فقامت عليه، ثم استقبلت الوادي تنظر هل ترى أحداً‏؟‏ فلم تر أحداً، فهبطت من الصفا حتى إذا بلغت الوادي، رفعت طرف درعها، ثم سعت سعي الإنسان المجهود حتى جاوزت الوادي، ثم أتت المروة، فقامت عليها، فنظرت هل ترى أحداً‏؟‏ فلم تر أحداً، ففعلت ذلك سبع مرات، قال ابن عباس رضي الله عنهما‏:‏ قال النبي صلى الله عليه وسلم  ‏\"‏فذلك سعي الناس بينها‏\"‏ فلما أشرفت على المروة سمعت صوتاً، فقالت‏:‏ صه-تريد نفسها- ثم تسمّعت ، فسمعت أيضاً فقالت‏:‏ قد أسمعت إن كان عندك غواث فأغث، فإذا هى بالملك عند موضع زمزم، فبحث بعقبه -أو قال بجناحه- حتى ظهر الماء، فجعلت تحوضه وتقول بيدها هكذا، وجعلت تغرف الماء في سقائها وهو يفور بعدما تغرف، وفي رواية ‏:‏ بقدر ما تغرف، قال ابن عباس رضي الله عنهما ‏:‏ قال النبي صلى الله عليه وسلم  ‏:‏ ‏\"‏رحم الله أم إسماعيل لو تركت زمزم -أو قال‏:‏ لو لم تغرف من الماء، لكان زمزم عينا معينا” قال‏:‏ فشربت ، وأرضعت ولدها، فقال لها الملك‏:‏ لا تخافوا الضيعة فإن ههنا بيتا لله يبنيه هذا الغلام وأبوه، وإن الله لا يضيع أهله، وكان البيت مرتفعاً من الأرض كالرابية تأتيه السيول، فتأخذ عن يمينه وعن شماله، فكانت كذلك حتى مرت بهم رفقة من جرهم، أو أهل بيت من جرهم مقبلين من طريق كداء، فنزلوا في أسفل مكة، فرأوا طائراً عائفاً فقالوا‏:‏ إن هذا الطائر ليدور على ماء لعهدنا بهذا الوادي وما فيه ماء، فأرسلوا  جرياً أو جريين، فإذا هم بالماء، فرجعوا، فأخبروهم، فأقبلوا وأم إسماعيل عند الماء، فقالوا‏:‏ أتأذنين لنا أن ننزل عندك‏؟‏ قالت‏:‏ نعم، ولكن لا حق لكم في الماء، قالوا‏:‏ نعم، قال ابن عباس‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏فألفى ذلك أم إسماعيل، وهي تحب الأنس، فنزلوا، فأرسلوا إلى أهليهم فنزلوا معهم، حتى إذا كانوا بها أهل أبيات، وشب الغلام وتعلم العربيه منهم وأنفسهم وأعجبهم حين شب ، فلما أدرك، زوجوه امرأة منهم، وماتت أم إسماعيل، فجاء إبراهيم بعد ما تزوج إسماعيل  يطالع تركته فلم يجد إسماعيل، فسأل امرأته عنه فقالت‏:‏ خرج يبتغي لنا-    وفي رواية‏:‏ يصيد لنا - ثم سألها عن عيشهم وهيئتهم فقالت‏:‏ نحن بشر ، نحن في ضيق وشدة، وشكت إليه ، قال‏:‏ فإذا جاء زوجك، أقرئي عليه السلام وقولي‏:‏ غير عتبة بابك، قال‏:‏ ذاك أبي  وقد أمرني أن أفارقك، الحقي بأهلك‏.‏ فطلقها ، وتزوج منهم أخرى، فلبث عنهم إبراهيم ما شاء الله ثم أتاهم بعد، فلم يجده ، فدخل على امرأته، فسأله عنه، قالت‏:‏ خرج يبتغي لنا، قال‏:‏ كيف أنتم‏؟‏ وسألها عن عيشهم وهيئتهم، فقالت‏:‏ نحن بخير وسعة وأثنت على الله تعالى، فقال‏:‏ ما طعامكم‏؟‏ قالت‏:‏ اللحم قال‏:‏ فما شرابكم‏؟‏ قالت الماء‏.‏ قال‏:‏ اللهم بارك لهم في اللحم والماء، قال النبي صلى الله عليه وسلم  ‏:‏ ‏\"‏ولم يكن لهم يؤمئذ حب ولو كان لهم دعا لهم فيه” قال‏:‏ فهما لا يخلو عليهما أحد بغير مكة إلا لم يوافقاه‏.‏ وفي رواية فجاء فقال‏:‏ أين إسماعيل‏؟‏ فقالت امرأته‏:‏ ذهب يصيد، فقالت امرأته‏:‏ ألا تنزل، فتطعم وتشرب‏؟‏ قال‏:‏ وما طعامكم وما شرابكم‏؟‏ قالت‏:‏ طعامنا اللحم، وشرابنا الماء، قال‏:‏ اللهم بارك لهم في طعامهم وشرابهم- قال، فقال أبوالقاسم صلى الله عليه وسلم ‏:‏ “بركة دعوة إبراهيم صلى الله عليه وسلم ‏\"‏ قال‏:‏ فإذا جاء زوجك ، فاقرئي عليه السلام ومريه يثبت عتبة بابه، فلما جاء إسماعيل، قال‏:‏ هل أتاكم من أحد‏؟‏ قالت‏:‏ نعم، أتانا شيخ حسن الهيئة، وأثنت عليه فسألني عنك، فأخبرته ،فسألني كيف عيشنا، فأخبرته، أنّا بخير، قال‏:‏ فأوصاك بشيء‏؟‏ قالت‏:‏ نعم، يقرأ عليك السلام، ويأمرك أن تثبت عبتة بابك، قال‏:‏ ذاك أبي  وأنت العتبة أمرني أن أمسكك، ثم لبث عنهم ما شاء الله، ثم جاء بعد ذلك وإسماعيل يبري نبلاً له تحت دوحة قريباً من زمزم، فلما رآه، قام إليه ، فصنع كما يصنع الوالد بالولد، والولد بالوالد قال يا إسماعيل إن الله أمرني بأمر ، قال‏:‏ فاصنع ما أراك ربك‏؟‏ قال‏:‏ وتعينني، قال‏:‏ وأعينك، قال‏:‏ فإن الله أمرني أن أبني بيتا ههنا، وأشار إلى أكمة مرتفعة على ما حولها، فعند ذلك رفع القواعد من البيت، فجعل إسماعيل يأتي بالحجارة وإبراهيم يبني حتى إذا ارتفع البناء، جاء بهذا الحجر فوضعه له فقام عليه، وهو يبني وإسماعيل يناوله الحجارة وهما يقولان ‏:‏ ربنا تقبل منا إنك أنت السميع العليم‏.‏ وفي رواية‏:‏ إن إبراهيم خرج بإسماعيل وأم إسماعيل، معهم شنة فيها ماء، فجعلت أم إسماعيل تشرب من الشنة، فيدر لبنها على صبيها حتى قدم مكة، فوضعها تحت دوحة، ثم رجع إبراهيم إلى أهله، فاتبعته أم إسماعيل حتى لما بلغوا كداء، نادته من ورائه‏:‏ يا إبراهيم إلى من تتركنا‏؟‏ قال‏:‏ إلى الله ، قالت‏:‏ رضيت بالله، فرجعت، وجعلت تشرب من الشنة، ويدر لبنها على صبيها حتى لما فني الماء قالت‏:‏ لو ذهبت ، فنظرت لعلي أحس أحداً، قال‏:‏ فذهبت فصعدت الصفا، فنظرت ونظرت هل تحس أحداً، فلما بلغت الوادي، سمعت، وأتت المروة، وفعلت ذلك أشواطا، ثم قالت‏:‏ لو ذهبت فنظرت ما فعل الصبي، فذهبت ونظرت، فإذا هو على حاله كأنه ينشغ للموت، فلم تقرها نفسها ، فقالت‏:‏ لو ذهبت ، فنظرت لعلي أحس أحداً، فذهبت فصعدت الصفا، فنظرت ونظرت، فلم تحس أحداً حتى أتمت سبعاً، ثم قالت‏:‏ لو ذهبت ، فنظرت ما فعل، فإذا هي بصوت فقال‏:‏ أغث إن كان عندك خير، فإذا جبريل صلى الله عليه وسلم  فقال بعقبه هكذا، وغمز بعقبه على الأرض فانبثق الماء فدهشت أم إسماعيل، فجعلت تحفن، وذكر الحديث بطوله‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ بهذه الروايات كلها‏.‏ «الدوحة» الشجرة الكبيرة. قوله: «قفى» : أي: ولى. ... «والجري» : الرسول. «وألفى» : معناه وجد. قوله: «ينشغ» : أي: يشهق.",
+            "english": "Ibrahim (ﷺ) brought his wife and her son Isma'il (ﷺ), while she was suckling him, to a place near the Ka'bah under a tree on the spot of Zamzam, at the highest place in the mosque. In those days, there was no human being in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Isma'il's mother followed him saying: \"O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?\" She repeated that to him many times, but he did not look back at her. Then she asked him: \"Has Allah commanded you to do so?\" He said: \"Yes.\" She said: \"Then He will not neglect us.\" She returned while Ibrahim proceeded onwards. Having reached the Thaniya, where they could not see him, he faced Ka'bah, raised his both hands and supplicated: \"O our Rubb! I have made some of my offspring to dwell in an uncultivable valley by Your Sacred House (the Ka'bah at Makkah) in order, O our Rubb, that they may perform As-Salat (Iqamat-as-Salat). So fill some hearts among men with love towards them, and (O Allah) provide them with fruits so that they may give thanks.\" (14:37).Isma'il's mother went on suckling Isma'il and drinking from the water which she had. When the water in the water-skin had all been used up, she became thirsty and her child also became thirsty. She started looking at Isma'il, tossing in agony. She left him, for she could not endure looking at him, and found that the mountain of As-Safa was the nearest mountain to her on that land. She stood on it and started looking at the valley keenly so that she might see somebody, but she could not see anybody. Then she descended from As-Safa, and when she reached the valley, she tucked up her robe and ran in the valley like a person in distress and trouble till she crossed the valley and reached Al-Marwah mountain where she stood and started looking, expecting to see somebody, but she could not see anybody. She repeated that (running between As-Safa and Al-Marwah) seven times.\" Ibn 'Abbas further related: The Prophet (ﷺ) said, \"This is the source of the tradition of the Sa'y - i.e., the going of people between the two mountains. When she reached Al-Marwah (for the last time), she heard a voice and she exclaimed: 'Shshs!' (Silencing herself) and listened attentively. She heard the voice again and said: 'O (whoever you may be) You have made me hear your voice; have you any succour for me?' And behold! She saw an angel at the place of Zamzam, digging the earth with his heel (or with his wing), till water flowed out from that place. She started to make something like of a basin around it, using her hands in this way and began to fill her water- skin with water with her hands, and the water was flowing out until she had scooped some of it.\" The Prophet (ﷺ) further said, \"May Allah bestow mercy on Isma'il's mother! Had she let the Zamzam flow without trying to control it (or had she not scooped in that water) while filling her water-skin, Zamzam would have been a stream flowing on the surface of the earth.\" The Prophet (ﷺ) further added, \"Then she drank (water) and suckled her child. The angel said to her: 'Do not be afraid of being neglected, for this is the site on which the House of Allah will be built by this boy and his father, and Allah will never let neglected His people.' The House of Allah (the Ka'bah) at that time was on a high place resembling a hillock, and when torrents came, they flowed to its right and left. She continued living in that way till some people from the tribe of Jurhum passed by her and her child. As they were coming from through the way of Kada', in the lower part of Makkah where they saw a bird that had a habit of flying around water and not leaving it. They said: 'This bird must be flying over water, though we know that there is no water in this valley.' They sent one or two messengers who discovered the source of water, and returned to inform them of the water. So, they all came towards the water.\" The Prophet (ﷺ) added, \"Isma'il's mother was sitting near the water. They asked her: 'Do you allow us to stay with you?' She replied: 'Yes, but you will have no right to possess the water.' They agreed to that.\" The Prophet (ﷺ) further said, \"Isma'il's mother was pleased with the whole situation as she used to love the company of the people. So, they settled there, and later on they sent for their families who came and settled with them. The child (i.e., Isma'il) grew up and learnt Arabic from them (his virtues) caused them to love and admire him as he grew up, and when he reached the age of puberty, they gave him one of their daughters in marriage. After Isma'il's mother had died, Ibrahim came after Isma'il's marriage in order to see his family that he had left before, but he did not find Isma'il there. When he asked Isma'il's wife about him, she replied: 'He has gone in search of our livelihood.' Then he asked her about their way of living and their condition, and she replied complaining to him: 'We are living in hardship, misery and destitution.' He said: 'When your husband returns, convey my salutations to him and tell him to change the threshold of the door of his house.' When Isma'il came, he seemed to have perceived something unusual. He asked his wife: 'Did anyone visit you?' She replied: 'Yes, an old man of such and such description came and asked me about you and I informed him, and he asked about our state of living, and, I told him that we were living in hardship and poverty.' Thereupon Isma'il said: 'Did he advise you anything?' She replied: 'Yes, he told me to convey his salutations to you and to change the threshold of your door.' Isma'il said: 'That was my father, and he has ordered me to divorce you. Go back to your family.' So Isma'il divorced her and married another woman from amongst them (Jurhum). Then Ibrahim stayed away from them for a period as long as Allah wished, and called on them again but did not find Isma'il. So he came to Isma'il's wife and asked her about him. She said: 'He has gone in search of our livelihood.' Ibrahim asked her about their sustenance and living: 'How are you getting on?' She replied: 'We are prosperous and well off.' Then she praised Allah, the Exalted. Ibrahim asked: 'What kind of food do you eat?' She said: 'Meat.' He said: 'What do you drink?' She said: 'Water.' He said, 'O Allah! Bless their meat and water!\"' The Prophet (ﷺ) added, \"At that time they did not have grain, and if they had grain, he would have also invoked Allah to bless it.\" The Prophet (ﷺ) further said, \"If somebody has only these two things as his sustenance, his health and disposition will be badly affected because these things do not suit him unless he lives in Makkah.\" The Prophet (ﷺ) added, \"Then Ibrahim said to Isma'il's wife, 'When your husband comes, give my regards to him and tell him that he should keep firm the threshold of his door.' When Isma'il came back, he asked his wife: 'Did anyone call on you?' She replied: 'Yes, a good looking old man came to me.' She praised him and added: 'He asked about you, and I informed him, and he asked about our livelihood and I told him that we were in good condition.' Isma'il asked her: 'Did he give you a piece of advice?' She said: 'Yes, he told me to convey his regards to you and ordered that you should keep firm the threshold of your door.' On that Isma'il said: 'He was my father and you are the threshold of the door. He has ordered me to keep you with me.' Then Ibrahim stayed away from them for a period as long as Allah wished and called on them afterwards. He saw Isma'il under a tree near Zamzam, sharpening his arrows. When he saw Ibrahim, he rose up to welcome him, and they greeted each other as a father does with his son or a son does with his father. Ibrahim said: 'O Isma'il! Allah has given me an order.' Isma'il said: 'Do what your Rubb has commanded you to do.' Ibrahim asked: 'Will you help me?' Isma'il said: 'I will help you.' Ibrahim said: 'Allah has ordered me to build a house here, pointing to a hillock higher than the land surrounding it.\"' The Messenger of Allah (ﷺ) added, \"Then they raised the foundations of the House (i.e., Ka'bah). Isma'il brought the stones and Ibrahim was building (the house). When the walls became high, Isma'il brought stone and placed it for Ibrahim who stood over it and carried on building the House, while Isma'il was handing over the stones to him, both of them prayed: 'O our Rubb! Accept this service from us! Verily, You are the All- Hearer and the All-Knower.\"'.There are some more narrations about this incident, some adding details and some with minor variations in the wordings.",
+            "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+      "text_english": "Our Lord, indeed You know what we conceal and what we declare, and nothing is hidden from Allah on the earth or in the heaven.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+      "text_english": "Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "text_english": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "text_english": "Our Lord, forgive me and my parents and the believers the Day the account is established.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍۢ تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ",
+      "text_english": "And never think that Allah is unaware of what the wrongdoers do. He only delays them for a Day when eyes will stare [in horror].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌۭ",
+      "text_english": "Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍۢ",
+      "text_english": "And, [O Muhammad], warn the people of a Day when the punishment will come to them and those who did wrong will say, \"Our Lord, delay us for a short term; we will answer Your call and follow the messengers.\" [But it will be said], \"Had you not sworn, before, that for you there would be no cessation?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "وَسَكَنتُمْ فِى مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+      "text_english": "And you lived among the dwellings of those who wronged themselves, and it had become clear to you how We dealt with them. And We presented for you [many] examples.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "text_english": "And they had planned their plan, but with Allah is [recorded] their plan, even if their plan had been [sufficient] to do away with the mountains.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ رُسُلَهُۥٓ ۗ إِنَّ ٱللَّهَ عَزِيزٌۭ ذُو ٱنتِقَامٍۢ",
+      "text_english": "So never think that Allah will fail in His promise to His messengers. Indeed, Allah is Exalted in Might and Owner of Retribution.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ ۖ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ",
+      "text_english": "[It will be] on the Day the earth will be replaced by another earth, and the heavens [as well], and all creatures will come out before Allah, the One, the Prevailing.",
+      "hadiths": [
+        {
+          "reference_text": "سورة إبراهيم آية 48",
+          "surah_name": "إبراهيم",
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "darimi",
+            "id": 39610,
+            "idInBook": 2073,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ  ، أَخْبَرَنَا خَالِدٌ  ، عَنْ دَاوُدَ  ، عَنْ الشَّعْبِيِّ  ، عَنْ مَسْرُوقٍ  ، قَالَ : قُلْتُ لِعَائِشَةَ   : يَا أُمَّ الْمُؤْمِنِينَ، أَرَأَيْتِ قَوْلَ اللَّهِ تَعَالَى :# يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ وَالسَّمَوَاتُ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ سورة إبراهيم آية 48 # أَيْنَ النَّاسُ يَوْمَئِذٍ؟ قَالَتْ : سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ : \" عَلَى الصِّرَاطِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "14:48",
+          "surah_name": null,
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28985,
+            "idInBook": 3205,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ تَلَتْ عَائِشَةُ هَذِهِ الآيَةَ ‏:‏ ‏(‏ يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ ‏)‏ قَالَتْ يَا رَسُولَ اللَّهِ فَأَيْنَ يَكُونُ النَّاسُ قَالَ ‏\"‏ عَلَى الصِّرَاطِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رُوِيَ مِنْ غَيْرِ هَذَا الْوَجْهِ عَنْ عَائِشَةَ ‏.‏",
+            "english": "\"'Aishah recited this Ayah: The Day when the earth will be changed to another earth (14:48). She said: 'O Messenger of Allah! Where will the people be?' He said: 'Upon the Sirat.'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        },
+        {
+          "reference_text": "سورة إبراهيم آية 48",
+          "surah_name": "إبراهيم",
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "20",
+            "id": 100,
+            "idInBook": 100,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ  ، أَخْبَرَنَا خَالِدٌ  ، عَنْ دَاوُدَ  ، عَنْ الشَّعْبِيِّ  ، عَنْ مَسْرُوقٍ  ، قَالَ : قُلْتُ لِعَائِشَةَ   : يَا أُمَّ الْمُؤْمِنِينَ، أَرَأَيْتِ قَوْلَ اللَّهِ تَعَالَى :# يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ وَالسَّمَوَاتُ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ سورة إبراهيم آية 48 # أَيْنَ النَّاسُ يَوْمَئِذٍ؟ قَالَتْ : سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ : \" عَلَى الصِّرَاطِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "14:48",
+          "surah_name": null,
+          "start_ayah": 48,
+          "end_ayah": 48,
+          "hadith": {
+            "source": "47",
+            "id": 173,
+            "idInBook": 173,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ تَلَتْ عَائِشَةُ هَذِهِ الآيَةَ ‏:‏ ‏(‏ يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ ‏)‏ قَالَتْ يَا رَسُولَ اللَّهِ فَأَيْنَ يَكُونُ النَّاسُ قَالَ ‏\"‏ عَلَى الصِّرَاطِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رُوِيَ مِنْ غَيْرِ هَذَا الْوَجْهِ عَنْ عَائِشَةَ ‏.‏",
+            "english": "\"'Aishah recited this Ayah: The Day when the earth will be changed to another earth (14:48). She said: 'O Messenger of Allah! Where will the people be?' He said: 'Upon the Sirat.'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+      "text_english": "And you will see the criminals that Day bound together in shackles,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "سَرَابِيلُهُم مِّن قَطِرَانٍۢ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ",
+      "text_english": "Their garments of liquid pitch and their faces covered by the Fire.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍۢ مَّا كَسَبَتْ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "text_english": "So that Allah will recompense every soul for what it earned. Indeed, Allah is swift in account.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "هَٰذَا بَلَٰغٌۭ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَلِيَذَّكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "text_english": "This [Qur'an] is notification for the people that they may be warned thereby and that they may know that He is but one God and that those of understanding will be reminded.",
+      "hadiths": []
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "surah": {
+    "id": 19,
+    "name_arabic": "سُورَةُ مَرۡيَمَ",
+    "name_english": "Maryam",
+    "name_english_translation": "Mary",
+    "verses_count": 98
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ كٓهيعٓصٓ",
+      "text_english": "Kaf, Ha, Ya, 'Ayn, Sad.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+      "text_english": "[This is] a mention of the mercy of your Lord to His servant Zechariah",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا",
+      "text_english": "When he called to his Lord a private supplication.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا",
+      "text_english": "He said, \"My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+      "text_english": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا",
+      "text_english": "Who will inherit me and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا",
+      "text_english": "[He was told], \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا",
+      "text_english": "He said, \"My Lord, how will I have a boy when my wife has been barren and I have reached extreme old age?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا",
+      "text_english": "[An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.' \"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا",
+      "text_english": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا",
+      "text_english": "So he came out to his people from the prayer chamber and signaled to them to exalt [Allah] in the morning and afternoon.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا",
+      "text_english": "[Allah] said, \"O John, take the Scripture with determination.\" And We gave him judgement [while yet] a boy",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَحَنَانًۭا مِّن لَّدُنَّا وَزَكَوٰةًۭ ۖ وَكَانَ تَقِيًّۭا",
+      "text_english": "And affection from Us and purity, and he was fearing of Allah",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّۭا",
+      "text_english": "And dutiful to his parents, and he was not a disobedient tyrant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "وَسَلَٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّۭا",
+      "text_english": "And peace be upon him the day he was born and the day he dies and the day he is raised alive.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+      "text_english": "And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا",
+      "text_english": "And she took, in seclusion from them, a screen. Then We sent to her Our Angel, and he represented himself to her as a well-proportioned man.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا",
+      "text_english": "She said, \"Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا",
+      "text_english": "He said, \"I am only the messenger of your Lord to give you [news of] a pure boy.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا",
+      "text_english": "She said, \"How can I have a boy while no man has touched me and I have not been unchaste?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا",
+      "text_english": "He said, \"Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.' \"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+      "text_english": "So she conceived him, and she withdrew with him to a remote place.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا",
+      "text_english": "And the pains of childbirth drove her to the trunk of a palm tree. She said, \"Oh, I wish I had died before this and was in oblivion, forgotten.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+      "text_english": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا",
+      "text_english": "And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا",
+      "text_english": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.' \"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا",
+      "text_english": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا",
+      "text_english": "O sister of Aaron, your father was not a man of evil, nor was your mother unchaste.\"",
+      "hadiths": [
+        {
+          "reference_text": "19:28",
+          "surah_name": null,
+          "start_ayah": 28,
+          "end_ayah": 28,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29019,
+            "idInBook": 3239,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، وَأَبُو مُوسَى مُحَمَّدُ بْنُ الْمُثَنَّى قَالاَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ أَبِيهِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى نَجْرَانَ فَقَالُوا لِي أَلَسْتُمْ تَقْرَءُونَ ‏:‏ ‏(‏ يَا أُخْتَ هَارُونَ ‏)‏ وَقَدْ كَانَ بَيْنَ عِيسَى وَمُوسَى مَا كَانَ فَلَمْ أَدْرِ مَا أُجِيبُهُمْ ‏.‏ فَرَجَعْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ ‏\"‏ أَلاَّ أَخْبَرْتَهُمْ أَنَّهُمْ كَانُوا يُسَمُّونَ بِأَنْبِيَائِهِمْ وَالصَّالِحِينَ قَبْلَهُمْ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ ابْنِ إِدْرِيسَ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) sent me to Najran. They said to me: 'Do you people not recite: O sister of Harun (19:28) - while between Musa and 'Eisa there is such (gap) as there is?' I did not know how to respond to them. So when I returned to the Prophet (ﷺ), I told him about that, and he said: 'Why didn't you tell them that they were named after their Prophets and righteous people before them.'\"",
+            "narrator": "Narrated Al-Mughirah bin Shu'bah:"
+          }
+        },
+        {
+          "reference_text": "19:28",
+          "surah_name": null,
+          "start_ayah": 28,
+          "end_ayah": 28,
+          "hadith": {
+            "source": "47",
+            "id": 207,
+            "idInBook": 207,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، وَأَبُو مُوسَى مُحَمَّدُ بْنُ الْمُثَنَّى قَالاَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ أَبِيهِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى نَجْرَانَ فَقَالُوا لِي أَلَسْتُمْ تَقْرَءُونَ ‏:‏ ‏(‏ يَا أُخْتَ هَارُونَ ‏)‏ وَقَدْ كَانَ بَيْنَ عِيسَى وَمُوسَى مَا كَانَ فَلَمْ أَدْرِ مَا أُجِيبُهُمْ ‏.‏ فَرَجَعْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ ‏\"‏ أَلاَّ أَخْبَرْتَهُمْ أَنَّهُمْ كَانُوا يُسَمُّونَ بِأَنْبِيَائِهِمْ وَالصَّالِحِينَ قَبْلَهُمْ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ ابْنِ إِدْرِيسَ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) sent me to Najran. They said to me: 'Do you people not recite: O sister of Harun (19:28) - while between Musa and 'Eisa there is such (gap) as there is?' I did not know how to respond to them. So when I returned to the Prophet (ﷺ), I told him about that, and he said: 'Why didn't you tell them that they were named after their Prophets and righteous people before them.'\"",
+            "narrator": "Narrated Al-Mughirah bin Shu'bah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا",
+      "text_english": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا",
+      "text_english": "[Jesus] said, \"Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّۭا",
+      "text_english": "And He has made me blessed wherever I am and has enjoined upon me prayer and zakah as long as I remain alive",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا",
+      "text_english": "And [made me] dutiful to my mother, and He has not made me a wretched tyrant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا",
+      "text_english": "And peace is on me the day I was born and the day I will die and the day I am raised alive.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+      "text_english": "That is Jesus, the son of Mary - the word of truth about which they are in dispute.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "text_english": "It is not [befitting] for Allah to take a son; exalted is He! When He decrees an affair, He only says to it, \"Be,\" and it is.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+      "text_english": "[Jesus said], \"And indeed, Allah is my Lord and your Lord, so worship Him. That is a straight path.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+      "text_english": "Then the factions differed [concerning Jesus] from among them, so woe to those who disbelieved - from the scene of a tremendous Day.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَٰكِنِ ٱلظَّٰلِمُونَ ٱلْيَوْمَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+      "text_english": "How [clearly] they will hear and see the Day they come to Us, but the wrongdoers today are in clear error.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍۢ وَهُمْ لَا يُؤْمِنُونَ",
+      "text_english": "And warn them, [O Muhammad], of the Day of Regret, when the matter will be concluded; and [yet], they are in [a state of] heedlessness, and they do not believe.",
+      "hadiths": [
+        {
+          "reference_text": "19:39",
+          "surah_name": null,
+          "start_ayah": 39,
+          "end_ayah": 39,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29020,
+            "idInBook": 3240,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا النَّضْرُ بْنُ إِسْمَاعِيلَ أَبُو الْمُغِيرَةِ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، رضى الله عنه قَالَ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلمَ ‏:‏ ‏(‏ وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ ‏)‏ قَالَ ‏\"‏ يُؤْتَى بِالْمَوْتِ كَأَنَّهُ كَبْشٌ أَمْلَحُ حَتَّى يُوقَفَ عَلَى السُّورِ بَيْنَ الْجَنَّةِ وَالنَّارِ فَيُقَالُ يَا أَهْلَ الْجَنَّةِ ‏.‏ فَيَشْرَئِبُّونَ ‏.‏ وَيُقَالُ يَا أَهْلَ النَّارِ ‏.‏ فَيَشْرَئِبُّونَ ‏.‏ فَيُقَالُ هَلْ تَعْرِفُونَ هَذَا فَيَقُولُونَ نَعَمْ هَذَا الْمَوْتُ ‏.‏ فَيُضْجَعُ فَيُذْبَحُ فَلَوْلاَ أَنَّ اللَّهَ قَضَى لأَهْلِ الْجَنَّةِ الْحَيَاةَ فِيهَا وَالْبَقَاءَ لَمَاتُوا فَرَحًا وَلَوْلاَ أَنَّ اللَّهَ قَضَى لأَهْلِ النَّارِ الْحَيَاةَ فِيهَا وَالْبَقَاءَ لَمَاتُوا تَرَحًا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) recited: And warn them of a Day of griefs and regrets (19:39) and he said: 'Death will be brought as if it is a mixed black and white ram, until it is halted upon the barrier between Paradise and the Fire. It will be said: 'O people of Paradise! They will raise up their necks to look. It will be said: 'O people of the Fire! And they will raise up their necks to look. It will be said: 'Do you recognize this?' They will say: 'Yes. This is death.' Then it will be laid down and slaughtered. If it were not that Allah had decreed that the inhabitants of Paradise would remain, then they would die of joy, and if it were not that Allah had decreed that the inhabitants of the Fire would remain, then they would die of grief.'\"",
+            "narrator": "Narrated Abu Sa'eed Al-Khudri:"
+          }
+        },
+        {
+          "reference_text": "19:39",
+          "surah_name": null,
+          "start_ayah": 39,
+          "end_ayah": 39,
+          "hadith": {
+            "source": "47",
+            "id": 208,
+            "idInBook": 208,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا النَّضْرُ بْنُ إِسْمَاعِيلَ أَبُو الْمُغِيرَةِ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، رضى الله عنه قَالَ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلمَ ‏:‏ ‏(‏ وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ ‏)‏ قَالَ ‏\"‏ يُؤْتَى بِالْمَوْتِ كَأَنَّهُ كَبْشٌ أَمْلَحُ حَتَّى يُوقَفَ عَلَى السُّورِ بَيْنَ الْجَنَّةِ وَالنَّارِ فَيُقَالُ يَا أَهْلَ الْجَنَّةِ ‏.‏ فَيَشْرَئِبُّونَ ‏.‏ وَيُقَالُ يَا أَهْلَ النَّارِ ‏.‏ فَيَشْرَئِبُّونَ ‏.‏ فَيُقَالُ هَلْ تَعْرِفُونَ هَذَا فَيَقُولُونَ نَعَمْ هَذَا الْمَوْتُ ‏.‏ فَيُضْجَعُ فَيُذْبَحُ فَلَوْلاَ أَنَّ اللَّهَ قَضَى لأَهْلِ الْجَنَّةِ الْحَيَاةَ فِيهَا وَالْبَقَاءَ لَمَاتُوا فَرَحًا وَلَوْلاَ أَنَّ اللَّهَ قَضَى لأَهْلِ النَّارِ الْحَيَاةَ فِيهَا وَالْبَقَاءَ لَمَاتُوا تَرَحًا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) recited: And warn them of a Day of griefs and regrets (19:39) and he said: 'Death will be brought as if it is a mixed black and white ram, until it is halted upon the barrier between Paradise and the Fire. It will be said: 'O people of Paradise! They will raise up their necks to look. It will be said: 'O people of the Fire! And they will raise up their necks to look. It will be said: 'Do you recognize this?' They will say: 'Yes. This is death.' Then it will be laid down and slaughtered. If it were not that Allah had decreed that the inhabitants of Paradise would remain, then they would die of joy, and if it were not that Allah had decreed that the inhabitants of the Fire would remain, then they would die of grief.'\"",
+            "narrator": "Narrated Abu Sa'eed Al-Khudri:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+      "text_english": "Indeed, it is We who will inherit the earth and whoever is on it, and to Us they will be returned.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا",
+      "text_english": "And mention in the Book [the story of] Abraham. Indeed, he was a man of truth and a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا",
+      "text_english": "[Mention] when he said to his father, \"O my father, why do you worship that which does not hear and does not see and will not benefit you at all?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًۭا سَوِيًّۭا",
+      "text_english": "O my father, indeed there has come to me of knowledge that which has not come to you, so follow me; I will guide you to an even path.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا",
+      "text_english": "O my father, do not worship Satan. Indeed Satan has ever been, to the Most Merciful, disobedient.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا",
+      "text_english": "O my father, indeed I fear that there will touch you a punishment from the Most Merciful so you would be to Satan a companion [in Hellfire].\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا",
+      "text_english": "[His father] said, \"Have you no desire for my gods, O Abraham? If you do not desist, I will surely stone you, so avoid me a prolonged time.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا",
+      "text_english": "[Abraham] said, \"Peace will be upon you. I will ask forgiveness for you of my Lord. Indeed, He is ever gracious to me.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا",
+      "text_english": "And I will leave you and those you invoke other than Allah and will invoke my Lord. I expect that I will not be in invocation to my Lord unhappy.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ ۖ وَكُلًّۭا جَعَلْنَا نَبِيًّۭا",
+      "text_english": "So when he had left them and those they worshipped other than Allah, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّۭا",
+      "text_english": "And We gave them of Our mercy, and we made for them a reputation of high honor.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًۭا وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+      "text_english": "And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّۭا",
+      "text_english": "And We called him from the side of the mount at [his] right and brought him near, confiding [to him].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 53,
+      "text_arabic": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّۭا",
+      "text_english": "And We gave him out of Our mercy his brother Aaron as a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 54,
+      "text_arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِسْمَٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+      "text_english": "And mention in the Book, Ishmael. Indeed, he was true to his promise, and he was a messenger and a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 55,
+      "text_arabic": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّۭا",
+      "text_english": "And he used to enjoin on his people prayer and zakah and was to his Lord pleasing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 56,
+      "text_arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّۭا",
+      "text_english": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 57,
+      "text_arabic": "وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا",
+      "text_english": "And We raised him to a high station.",
+      "hadiths": [
+        {
+          "reference_text": "19:57",
+          "surah_name": null,
+          "start_ayah": 57,
+          "end_ayah": 57,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29021,
+            "idInBook": 3241,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا الْحُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، فِي قَوْلِهِ ‏:‏ ‏(‏ورَفَعْنَاهُ مَكَانًا عَلِيًّا ‏)‏ قَالَ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لَمَّا عُرِجَ بِي رَأَيْتُ إِدْرِيسَ فِي السَّمَاءِ الرَّابِعَةِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رَوَاهُ سَعِيدُ بْنُ أَبِي عَرُوبَةَ وَهَمَّامٌ وَغَيْرُ وَاحِدٍ عَنْ قَتَادَةَ عَنْ أَنَسٍ عَنْ مَالِكِ بْنِ صَعْصَعَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم حَدِيثَ الْمِعْرَاجِ بِطُولِهِ وَهَذَا عِنْدَنَا مُخْتَصَرٌ مِنْ ذَاكَ ‏.‏",
+            "english": "from Qatadah, that regarding Allah's saying: And we raised him to a high station (19:57). He said: \"Anas bin Malik narrated that Allah's Prophet (ﷺ) said: \"When I was brought up, I saw Idris in the Fourth Heaven.\"",
+            "narrator": "Narrated Shaiban:"
+          }
+        },
+        {
+          "reference_text": "19:57",
+          "surah_name": null,
+          "start_ayah": 57,
+          "end_ayah": 57,
+          "hadith": {
+            "source": "47",
+            "id": 209,
+            "idInBook": 209,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا الْحُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، فِي قَوْلِهِ ‏:‏ ‏(‏ورَفَعْنَاهُ مَكَانًا عَلِيًّا ‏)‏ قَالَ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لَمَّا عُرِجَ بِي رَأَيْتُ إِدْرِيسَ فِي السَّمَاءِ الرَّابِعَةِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رَوَاهُ سَعِيدُ بْنُ أَبِي عَرُوبَةَ وَهَمَّامٌ وَغَيْرُ وَاحِدٍ عَنْ قَتَادَةَ عَنْ أَنَسٍ عَنْ مَالِكِ بْنِ صَعْصَعَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم حَدِيثَ الْمِعْرَاجِ بِطُولِهِ وَهَذَا عِنْدَنَا مُخْتَصَرٌ مِنْ ذَاكَ ‏.‏",
+            "english": "from Qatadah, that regarding Allah's saying: And we raised him to a high station (19:57). He said: \"Anas bin Malik narrated that Allah's Prophet (ﷺ) said: \"When I was brought up, I saw Idris in the Fourth Heaven.\"",
+            "narrator": "Narrated Shaiban:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 58,
+      "text_arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩",
+      "text_english": "Those were the ones upon whom Allah bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel, and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 59,
+      "text_arabic": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "text_english": "But there came after them successors who neglected prayer and pursued desires; so they are going to meet evil -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 60,
+      "text_arabic": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًۭٔا",
+      "text_english": "Except those who repent, believe and do righteousness; for those will enter Paradise and will not be wronged at all.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 61,
+      "text_arabic": "جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدَ ٱلرَّحْمَٰنُ عِبَادَهُۥ بِٱلْغَيْبِ ۚ إِنَّهُۥ كَانَ وَعْدُهُۥ مَأْتِيًّۭا",
+      "text_english": "[Therein are] gardens of perpetual residence which the Most Merciful has promised His servants in the unseen. Indeed, His promise has ever been coming.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 62,
+      "text_arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَٰمًۭا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةًۭ وَعَشِيًّۭا",
+      "text_english": "They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 63,
+      "text_arabic": "تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا",
+      "text_english": "That is Paradise, which We give as inheritance to those of Our servants who were fearing of Allah.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 64,
+      "text_arabic": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا",
+      "text_english": "[Gabriel said], \"And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -",
+      "hadiths": [
+        {
+          "reference_text": "19:64",
+          "surah_name": null,
+          "start_ayah": 64,
+          "end_ayah": 64,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42647,
+            "idInBook": 1582,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن ابن عباس رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم لجبريل‏:‏ ما يمنعك أن تزورنا أكثر مما تزورنا‏؟‏‏\"‏ فنزلت ‏:‏‏{‏وما نتنزل إلا بأمر ربك له ما بين أيدينا وما خلفنا وما بين ذلك‏}‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+            "english": "The Prophet (ﷺ) said to Jibril (Gabriel), \"What prevents you from visiting us more frequently?\" Thereupon was revealed the Ayah: \"(The angels say:) 'And we (angels) descend not except by the Command of your Rubb. To Him belongs what is before us and what is behind us, and what is between those two\". (19:64).",
+            "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "19:64",
+          "surah_name": null,
+          "start_ayah": 64,
+          "end_ayah": 64,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29022,
+            "idInBook": 3242,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا يَعْلَى بْنُ عُبَيْدٍ، حَدَّثَنَا عُمَرُ بْنُ ذَرٍّ، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِجِبْرِيلَ ‏\"‏ مَا يَمْنَعُكَ أَنْ تَزُورَنَا أَكْثَرَ مِمَّا تَزُورُنَا ‏\"‏ ‏.‏ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏ومَا نَتَنَزَّلُ إِلاَّ بِأَمْرِ رَبِّكَ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏\n\n قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ \n\n\n حَدَّثَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا وَكِيعٌ، عَنْ عُمَرَ بْنِ ذَرٍّ، نَحْوَهُ ‏.‏",
+            "english": "from Ibn 'Abbas who said: \"The Messenger of Allah (ﷺ) said to Jibra'il: 'What prevents you from visiting us more than you visit us?'\" He said: \"So this Ayah was revealed: And we descend not except by the command of your Lord. To Him belongs what is before us and what is behind us.\" Up to the end of the Ayah (19:64).",
+            "narrator": "Narrated Sa'eed bin Jubair:"
+          }
+        },
+        {
+          "reference_text": "19:64",
+          "surah_name": null,
+          "start_ayah": 64,
+          "end_ayah": 64,
+          "hadith": {
+            "source": "introduction",
+            "id": 365,
+            "idInBook": 365,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعن ابن عباس رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم لجبريل‏:‏ ما يمنعك أن تزورنا أكثر مما تزورنا‏؟‏‏\"‏ فنزلت ‏:‏‏{‏وما نتنزل إلا بأمر ربك له ما بين أيدينا وما خلفنا وما بين ذلك‏}‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+            "english": "The Prophet (ﷺ) said to Jibril (Gabriel), \"What prevents you from visiting us more frequently?\" Thereupon was revealed the Ayah: \"(The angels say:) 'And we (angels) descend not except by the Command of your Rubb. To Him belongs what is before us and what is behind us, and what is between those two\". (19:64).",
+            "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:"
+          }
+        },
+        {
+          "reference_text": "19:64",
+          "surah_name": null,
+          "start_ayah": 64,
+          "end_ayah": 64,
+          "hadith": {
+            "source": "47",
+            "id": 210,
+            "idInBook": 210,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا يَعْلَى بْنُ عُبَيْدٍ، حَدَّثَنَا عُمَرُ بْنُ ذَرٍّ، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِجِبْرِيلَ ‏\"‏ مَا يَمْنَعُكَ أَنْ تَزُورَنَا أَكْثَرَ مِمَّا تَزُورُنَا ‏\"‏ ‏.‏ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏ومَا نَتَنَزَّلُ إِلاَّ بِأَمْرِ رَبِّكَ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏\n\n قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ \n\n\n حَدَّثَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا وَكِيعٌ، عَنْ عُمَرَ بْنِ ذَرٍّ، نَحْوَهُ ‏.‏",
+            "english": "from Ibn 'Abbas who said: \"The Messenger of Allah (ﷺ) said to Jibra'il: 'What prevents you from visiting us more than you visit us?'\" He said: \"So this Ayah was revealed: And we descend not except by the command of your Lord. To Him belongs what is before us and what is behind us.\" Up to the end of the Ayah (19:64).",
+            "narrator": "Narrated Sa'eed bin Jubair:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 65,
+      "text_arabic": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا",
+      "text_english": "Lord of the heavens and the earth and whatever is between them - so worship Him and have patience for His worship. Do you know of any similarity to Him?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 66,
+      "text_arabic": "وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+      "text_english": "And the disbeliever says, \"When I have died, am I going to be brought forth alive?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 67,
+      "text_arabic": "أَوَلَا يَذْكُرُ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن قَبْلُ وَلَمْ يَكُ شَيْـًۭٔا",
+      "text_english": "Does man not remember that We created him before, while he was nothing?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 68,
+      "text_arabic": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّۭا",
+      "text_english": "So by your Lord, We will surely gather them and the devils; then We will bring them to be present around Hell upon their knees.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 69,
+      "text_arabic": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى ٱلرَّحْمَٰنِ عِتِيًّۭا",
+      "text_english": "Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 70,
+      "text_arabic": "ثُمَّ لَنَحْنُ أَعْلَمُ بِٱلَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّۭا",
+      "text_english": "Then, surely it is We who are most knowing of those most worthy of burning therein.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 71,
+      "text_arabic": "وَإِن مِّنكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًۭا مَّقْضِيًّۭا",
+      "text_english": "And there is none of you except he will come to it. This is upon your Lord an inevitability decreed.",
+      "hadiths": [
+        {
+          "reference_text": "سورة مريم آية 71",
+          "surah_name": "مريم",
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "darimi",
+            "id": 39611,
+            "idInBook": 2074,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ  ، عَنْ إِسْرَائِيلَ  ، عَنْ السُّدِّيِّ  ، قَالَ : سَأَلْتُ مُرَّةَ  عَنْ قَوْلِ اللَّهِ G : # وَإِنْ مِنْكُمْ إِلا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا مَقْضِيًّا سورة مريم آية 71 # فَحَدَّثَنِي : أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ   حَدَّثَهُمْ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" يَرِدُ النَّاسُ النَّارَ ثُمَّ يَصْدُرُونَ عَنْهَا بِأَعْمَالِهِمْ، فَأَوَّلُهُمْ كَلَمْحِ الْبَرْقِ، ثُمَّ كَالرِّيحِ، ثُمَّ كَحُضْرِ الْفَرَسِ، ثُمَّ كَالرَّاكِبِ فِي رَحْلِهِ، ثُمَّ كَشَدِّ الرَّجُلِ، ثُمَّ كَمَشْيِهِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "19:71",
+          "surah_name": null,
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29023,
+            "idInBook": 3243,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنِ السُّدِّيِّ، قَالَ سَأَلْتُ مُرَّةَ الْهَمْدَانِيَّ عَنْ قَوْلِ اللَّهِ، عَزَّ وَجَلَّ ‏:‏ ‏(‏ وإِنْ مِنْكُمْ إِلاَّ وَارِدُهَا ‏)‏ فَحَدَّثَنِي أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ حَدَّثَهُمْ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَرِدُ النَّاسُ النَّارَ ثُمَّ يَصْدُرُونَ مِنْهَا بِأَعْمَالِهِمْ فَأَوَّلُهُمْ كَلَمْحِ الْبَرْقِ ثُمَّ كَالرِّيحِ ثُمَّ كَحُضْرِ الْفَرَسِ ثُمَّ كَالرَّاكِبِ فِي رَحْلِهِ ثُمَّ كَشَدِّ الرَّجُلِ ثُمَّ كَمَشْيِهِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَرَوَاهُ شُعْبَةُ عَنِ السُّدِّيِّ فَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"I asked Murrah Al-Hamdani about the saying of Allah, Mighty and Sublime is He: There is not one of you but will pass over it (19:71). So he narrated to me that 'Abdullah bin Mas'ud narrated to him saying: 'The Messenger of Allah (ﷺ) said: \"The people will pass over the Fire, then they avert it based upon their deeds. The first of them (would pass over it) like a flash of lightening, then like the wind, then like a fleeing horse, then like a rider fleeing on a mount, then like a man fleeing, then like one walking.\"",
+            "narrator": "Narrated As-Suddi:"
+          }
+        },
+        {
+          "reference_text": "19:71",
+          "surah_name": null,
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29024,
+            "idInBook": 3244,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا شُعْبَةُ، عَنِ السُّدِّيِّ، عَنْ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍِ ‏:‏ ‏(‏وإنْ مِنْكُمْ إِلاَّ وَارِدُهَا ‏)‏ قَالَ يَرِدُونَهَا ثُمَّ يَصْدُرُونَ بِأَعْمَالِهِمْ ‏.‏ \n\n\n حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنِ السُّدِّيِّ، بِمِثْلِهِ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ قُلْتُ لِشُعْبَةَ إِنَّ إِسْرَائِيلَ حَدَّثَنِي عَنِ السُّدِّيِّ عَنْ مُرَّةَ عَنْ عَبْدِ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ شُعْبَةُ وَقَدْ سَمِعْتُهُ مِنَ السُّدِّيِّ مَرْفُوعًا وَلَكِنِّي عَمْدًا أَدَعُهُ ‏.‏",
+            "english": "from As-Suffi from Murrah: \"'Abdullah said: 'There is not one of you but will pass over it (19:71) - They pass over it, then they avert it based upon their deeds.'\"",
+            "narrator": "Narrated Shu'bah:"
+          }
+        },
+        {
+          "reference_text": "سورة مريم آية 71",
+          "surah_name": "مريم",
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "20",
+            "id": 101,
+            "idInBook": 101,
+            "bookId": 9,
+            "chapterId": 20,
+            "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ  ، عَنْ إِسْرَائِيلَ  ، عَنْ السُّدِّيِّ  ، قَالَ : سَأَلْتُ مُرَّةَ  عَنْ قَوْلِ اللَّهِ G : # وَإِنْ مِنْكُمْ إِلا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا مَقْضِيًّا سورة مريم آية 71 # فَحَدَّثَنِي : أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ   حَدَّثَهُمْ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :\" يَرِدُ النَّاسُ النَّارَ ثُمَّ يَصْدُرُونَ عَنْهَا بِأَعْمَالِهِمْ، فَأَوَّلُهُمْ كَلَمْحِ الْبَرْقِ، ثُمَّ كَالرِّيحِ، ثُمَّ كَحُضْرِ الْفَرَسِ، ثُمَّ كَالرَّاكِبِ فِي رَحْلِهِ، ثُمَّ كَشَدِّ الرَّجُلِ، ثُمَّ كَمَشْيِهِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "19:71",
+          "surah_name": null,
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "47",
+            "id": 211,
+            "idInBook": 211,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنِ السُّدِّيِّ، قَالَ سَأَلْتُ مُرَّةَ الْهَمْدَانِيَّ عَنْ قَوْلِ اللَّهِ، عَزَّ وَجَلَّ ‏:‏ ‏(‏ وإِنْ مِنْكُمْ إِلاَّ وَارِدُهَا ‏)‏ فَحَدَّثَنِي أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ حَدَّثَهُمْ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَرِدُ النَّاسُ النَّارَ ثُمَّ يَصْدُرُونَ مِنْهَا بِأَعْمَالِهِمْ فَأَوَّلُهُمْ كَلَمْحِ الْبَرْقِ ثُمَّ كَالرِّيحِ ثُمَّ كَحُضْرِ الْفَرَسِ ثُمَّ كَالرَّاكِبِ فِي رَحْلِهِ ثُمَّ كَشَدِّ الرَّجُلِ ثُمَّ كَمَشْيِهِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَرَوَاهُ شُعْبَةُ عَنِ السُّدِّيِّ فَلَمْ يَرْفَعْهُ ‏.‏",
+            "english": "\"I asked Murrah Al-Hamdani about the saying of Allah, Mighty and Sublime is He: There is not one of you but will pass over it (19:71). So he narrated to me that 'Abdullah bin Mas'ud narrated to him saying: 'The Messenger of Allah (ﷺ) said: \"The people will pass over the Fire, then they avert it based upon their deeds. The first of them (would pass over it) like a flash of lightening, then like the wind, then like a fleeing horse, then like a rider fleeing on a mount, then like a man fleeing, then like one walking.\"",
+            "narrator": "Narrated As-Suddi:"
+          }
+        },
+        {
+          "reference_text": "19:71",
+          "surah_name": null,
+          "start_ayah": 71,
+          "end_ayah": 71,
+          "hadith": {
+            "source": "47",
+            "id": 212,
+            "idInBook": 212,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا شُعْبَةُ، عَنِ السُّدِّيِّ، عَنْ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍِ ‏:‏ ‏(‏وإنْ مِنْكُمْ إِلاَّ وَارِدُهَا ‏)‏ قَالَ يَرِدُونَهَا ثُمَّ يَصْدُرُونَ بِأَعْمَالِهِمْ ‏.‏ \n\n\n حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنِ السُّدِّيِّ، بِمِثْلِهِ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ قُلْتُ لِشُعْبَةَ إِنَّ إِسْرَائِيلَ حَدَّثَنِي عَنِ السُّدِّيِّ عَنْ مُرَّةَ عَنْ عَبْدِ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ شُعْبَةُ وَقَدْ سَمِعْتُهُ مِنَ السُّدِّيِّ مَرْفُوعًا وَلَكِنِّي عَمْدًا أَدَعُهُ ‏.‏",
+            "english": "from As-Suffi from Murrah: \"'Abdullah said: 'There is not one of you but will pass over it (19:71) - They pass over it, then they avert it based upon their deeds.'\"",
+            "narrator": "Narrated Shu'bah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 72,
+      "text_arabic": "ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا",
+      "text_english": "Then We will save those who feared Allah and leave the wrongdoers within it, on their knees.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 73,
+      "text_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا",
+      "text_english": "And when Our verses are recited to them as clear evidences, those who disbelieve say to those who believe, \"Which of [our] two parties is best in position and best in association?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 74,
+      "text_arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا",
+      "text_english": "And how many a generation have We destroyed before them who were better in possessions and [outward] appearance?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 75,
+      "text_arabic": "قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا",
+      "text_english": "Say, \"Whoever is in error - let the Most Merciful extend for him an extension [in wealth and time] until, when they see that which they were promised - either punishment [in this world] or the Hour [of resurrection] - they will come to know who is worst in position and weaker in soldiers.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 76,
+      "text_arabic": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا",
+      "text_english": "And Allah increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 77,
+      "text_arabic": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا",
+      "text_english": "Then, have you seen he who disbelieved in Our verses and said, \"I will surely be given wealth and children [in the next life]?\"",
+      "hadiths": [
+        {
+          "reference_text": "19:77",
+          "surah_name": null,
+          "start_ayah": 77,
+          "end_ayah": 77,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29026,
+            "idInBook": 3246,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، قَالَ سَمِعْتُ خَبَّابَ بْنَ الأَرَتِّ، يَقُولُ جِئْتُ الْعَاصِيَ بْنَ وَائِلٍ السَّهْمِيَّ أَتَقَاضَاهُ حَقًّا لِي عِنْدَهُ فَقَالَ لاَ أُعْطِيكَ حَتَّى تَكْفُرَ بِمُحَمَّدٍ ‏.‏ فَقُلْتُ لاَ حَتَّى تَمُوتَ ثُمَّ تُبْعَثَ ‏.‏ قَالَ وَإِنِّي لَمَيِّتٌ ثُمَّ مَبْعُوثٌ فَقُلْتُ نَعَمْ ‏.‏ فَقَالَ إِنَّ لِي هُنَاكَ مَالاً وَوَلَدًا فَأَقْضِيكَ ‏.‏ فَنَزَلَتْ ‏:‏ ‏(‏ أَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لأُوتَيَنَّ مَالاً وَوَلَدًا ‏)‏ الآيَةَ ‏.‏ \n\n\n حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، نَحْوَهُ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"I heard Khabbab bin Al-Aratt saying: 'I came to Al-'As bin Wa'il As-Sahmi to collect a debt he owed me. He said: 'You shall not be given anything until you deny Muhammad.' So I said: 'No, not until you are dead and resurrected.' He said: 'After I die and I am resurrected?' So I said: 'Yes.' So he said: 'I shall indeed have wealth and offspring to repay you with.' So (the following) Ayah was revealed: Have you seen him who disbelieved in Our Ayat and said: I shall certainly be given wealth and children (19:77).'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        },
+        {
+          "reference_text": "19:77",
+          "surah_name": null,
+          "start_ayah": 77,
+          "end_ayah": 77,
+          "hadith": {
+            "source": "47",
+            "id": 214,
+            "idInBook": 214,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، قَالَ سَمِعْتُ خَبَّابَ بْنَ الأَرَتِّ، يَقُولُ جِئْتُ الْعَاصِيَ بْنَ وَائِلٍ السَّهْمِيَّ أَتَقَاضَاهُ حَقًّا لِي عِنْدَهُ فَقَالَ لاَ أُعْطِيكَ حَتَّى تَكْفُرَ بِمُحَمَّدٍ ‏.‏ فَقُلْتُ لاَ حَتَّى تَمُوتَ ثُمَّ تُبْعَثَ ‏.‏ قَالَ وَإِنِّي لَمَيِّتٌ ثُمَّ مَبْعُوثٌ فَقُلْتُ نَعَمْ ‏.‏ فَقَالَ إِنَّ لِي هُنَاكَ مَالاً وَوَلَدًا فَأَقْضِيكَ ‏.‏ فَنَزَلَتْ ‏:‏ ‏(‏ أَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لأُوتَيَنَّ مَالاً وَوَلَدًا ‏)‏ الآيَةَ ‏.‏ \n\n\n حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، نَحْوَهُ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"I heard Khabbab bin Al-Aratt saying: 'I came to Al-'As bin Wa'il As-Sahmi to collect a debt he owed me. He said: 'You shall not be given anything until you deny Muhammad.' So I said: 'No, not until you are dead and resurrected.' He said: 'After I die and I am resurrected?' So I said: 'Yes.' So he said: 'I shall indeed have wealth and offspring to repay you with.' So (the following) Ayah was revealed: Have you seen him who disbelieved in Our Ayat and said: I shall certainly be given wealth and children (19:77).'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 78,
+      "text_arabic": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+      "text_english": "Has he looked into the unseen, or has he taken from the Most Merciful a promise?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 79,
+      "text_arabic": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّۭا",
+      "text_english": "No! We will record what he says and extend for him from the punishment extensively.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 80,
+      "text_arabic": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًۭا",
+      "text_english": "And We will inherit him [in] what he mentions, and he will come to Us alone.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 81,
+      "text_arabic": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةًۭ لِّيَكُونُوا۟ لَهُمْ عِزًّۭا",
+      "text_english": "And they have taken besides Allah [false] deities that they would be for them [a source of] honor.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 82,
+      "text_arabic": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+      "text_english": "No! Those \"gods\" will deny their worship of them and will be against them opponents [on the Day of Judgement].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 83,
+      "text_arabic": "أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا ٱلشَّيَٰطِينَ عَلَى ٱلْكَٰفِرِينَ تَؤُزُّهُمْ أَزًّۭا",
+      "text_english": "Do you not see that We have sent the devils upon the disbelievers, inciting them to [evil] with [constant] incitement?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 84,
+      "text_arabic": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّۭا",
+      "text_english": "So be not impatient over them. We only count out to them a [limited] number.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 85,
+      "text_arabic": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًۭا",
+      "text_english": "On the Day We will gather the righteous to the Most Merciful as a delegation",
+      "hadiths": []
+    },
+    {
+      "verse_number": 86,
+      "text_arabic": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًۭا",
+      "text_english": "And will drive the criminals to Hell in thirst",
+      "hadiths": []
+    },
+    {
+      "verse_number": 87,
+      "text_arabic": "لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+      "text_english": "None will have [power of] intercession except he who had taken from the Most Merciful a covenant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 88,
+      "text_arabic": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا",
+      "text_english": "And they say, \"The Most Merciful has taken [for Himself] a son.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 89,
+      "text_arabic": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّۭا",
+      "text_english": "You have done an atrocious thing.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 90,
+      "text_arabic": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+      "text_english": "The heavens almost rupture therefrom and the earth splits open and the mountains collapse in devastation",
+      "hadiths": []
+    },
+    {
+      "verse_number": 91,
+      "text_arabic": "أَن دَعَوْا۟ لِلرَّحْمَٰنِ وَلَدًۭا",
+      "text_english": "That they attribute to the Most Merciful a son.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 92,
+      "text_arabic": "وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+      "text_english": "And it is not appropriate for the Most Merciful that He should take a son.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 93,
+      "text_arabic": "إِن كُلُّ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَٰنِ عَبْدًۭا",
+      "text_english": "There is no one in the heavens and earth but that he comes to the Most Merciful as a servant.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 94,
+      "text_arabic": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّۭا",
+      "text_english": "He has enumerated them and counted them a [full] counting.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 95,
+      "text_arabic": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَٰمَةِ فَرْدًا",
+      "text_english": "And all of them are coming to Him on the Day of Resurrection alone.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 96,
+      "text_arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَٰنُ وُدًّۭا",
+      "text_english": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection.",
+      "hadiths": [
+        {
+          "reference_text": "19:96",
+          "surah_name": null,
+          "start_ayah": 96,
+          "end_ayah": 96,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29025,
+            "idInBook": 3245,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ إِنِّي قَدْ أَحْبَبْتُ فُلاَنًا فَأَحِبَّهُ قَالَ فَيُنَادِي فِي السَّمَاءِ ثُمَّ تَنْزِلُ لَهُ الْمَحَبَّةُ فِي أَهْلِ الأَرْضِ فَذَلِكَ قَوْلُ اللَّهِ ‏:‏ ‏(‏ إنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَنُ وُدًّا ‏)‏ وَإِذَا أَبْغَضَ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ إِنِّي قَدْ أَبْغَضْتُ فُلاَنًا فَيُنَادِي فِي السَّمَاءِ ثُمَّ تَنْزِلُ لَهُ الْبَغْضَاءُ فِي الأَرْضِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنْ أَبِيهِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) said: \"When Allah loves a slave He calls Jibra'il, (saying): 'Indeed I love so-and-so, so love him.'\" He said: \"So he calls out in the heavens. Then love for him descends among the people of the earth. That is as in the saying of Allah: Verily, those who believe and work deeds of righteousness, the Most Gracious will grant love for them (19:96). And when Allah hates a slave He calls out to Jibra'il, (saying): 'Indeed I hate so-and-so.' So he calls out in the heavens. Then hatred for him descends upon the earth.'\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        },
+        {
+          "reference_text": "19:96",
+          "surah_name": null,
+          "start_ayah": 96,
+          "end_ayah": 96,
+          "hadith": {
+            "source": "47",
+            "id": 213,
+            "idInBook": 213,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أَحَبَّ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ إِنِّي قَدْ أَحْبَبْتُ فُلاَنًا فَأَحِبَّهُ قَالَ فَيُنَادِي فِي السَّمَاءِ ثُمَّ تَنْزِلُ لَهُ الْمَحَبَّةُ فِي أَهْلِ الأَرْضِ فَذَلِكَ قَوْلُ اللَّهِ ‏:‏ ‏(‏ إنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَنُ وُدًّا ‏)‏ وَإِذَا أَبْغَضَ اللَّهُ عَبْدًا نَادَى جِبْرِيلَ إِنِّي قَدْ أَبْغَضْتُ فُلاَنًا فَيُنَادِي فِي السَّمَاءِ ثُمَّ تَنْزِلُ لَهُ الْبَغْضَاءُ فِي الأَرْضِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنْ أَبِيهِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا ‏.‏",
+            "english": "that the Messenger of Allah (ﷺ) said: \"When Allah loves a slave He calls Jibra'il, (saying): 'Indeed I love so-and-so, so love him.'\" He said: \"So he calls out in the heavens. Then love for him descends among the people of the earth. That is as in the saying of Allah: Verily, those who believe and work deeds of righteousness, the Most Gracious will grant love for them (19:96). And when Allah hates a slave He calls out to Jibra'il, (saying): 'Indeed I hate so-and-so.' So he calls out in the heavens. Then hatred for him descends upon the earth.'\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 97,
+      "text_arabic": "فَإِنَّمَا يَسَّرْنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلْمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوْمًۭا لُّدًّۭا",
+      "text_english": "So, [O Muhammad], We have only made Qur'an easy in the Arabic language that you may give good tidings thereby to the righteous and warn thereby a hostile people.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 98,
+      "text_arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًۢا",
+      "text_english": "And how many have We destroyed before them of generations? Do you perceive of them anyone or hear from them a sound?",
+      "hadiths": []
+    }
+  ]
+}

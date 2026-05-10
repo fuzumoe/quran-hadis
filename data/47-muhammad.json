@@ -1,0 +1,435 @@
+{
+  "surah": {
+    "id": 47,
+    "name_arabic": "سُورَةُ مُحَمَّدٍ",
+    "name_english": "Muhammad",
+    "name_english_translation": "Muhammad",
+    "verses_count": 38
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ",
+      "text_english": "Those who disbelieve and avert [people] from the way of Allah - He will waste their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ",
+      "text_english": "And those who believe and do righteous deeds and believe in what has been sent down upon Muhammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَٰلَهُمْ",
+      "text_english": "That is because those who disbelieve follow falsehood, and those who believe follow the truth from their Lord. Thus does Allah present to the people their comparisons.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍۢ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ",
+      "text_english": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure their bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allah had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allah - never will He waste their deeds.",
+      "hadiths": [
+        {
+          "reference_text": "47:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 27392,
+            "idInBook": 1612,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَمِّهِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم فَدَى رَجُلَيْنِ مِنَ الْمُسْلِمِينَ بِرَجُلٍ مِنَ الْمُشْرِكِينَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَعَمُّ أَبِي قِلاَبَةَ هُوَ أَبُو الْمُهَلَّبِ وَاسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ عَمْرٍو وَيُقَالُ مُعَاوِيَةُ بْنُ عَمْرٍو وَأَبُو قِلاَبَةَ اسْمُهُ عَبْدُ اللَّهِ بْنُ زَيْدٍ الْجَرْمِيُّ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنَّ لِلإِمَامِ أَنْ يَمُنَّ عَلَى مَنْ شَاءَ مِنَ الأُسَارَى وَيَقْتُلَ مَنْ شَاءَ مِنْهُمْ وَيَفْدِيَ مَنْ شَاءَ ‏.‏ وَاخْتَارَ بَعْضُ أَهْلِ الْعِلْمِ الْقَتْلَ عَلَى الْفِدَاءِ ‏.‏ وَقَالَ الأَوْزَاعِيُّ بَلَغَنِي أَنَّ هَذِهِ الآيَةَ مَنْسُوخَةٌ قَوْلُهُ تَعَالَى‏:‏ ‏(‏فَإِِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً‏)‏ نَسَخَتْهَا‏:‏ ‏(‏وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ‏)‏ حَدَّثَنَا بِذَلِكَ هَنَّادٌ حَدَّثَنَا ابْنُ الْمُبَارَكِ عَنِ الأَوْزَاعِيِّ ‏.‏ قَالَ إِسْحَاقُ بْنُ مَنْصُورٍ قُلْتُ لأَحْمَدَ إِذَا أُسِرَ الأَسِيرُ يُقْتَلُ أَوْ يُفَادَى أَحَبُّ إِلَيْكَ قَالَ إِنْ قَدَرُوا أَنْ يُفَادُوا فَلَيْسَ بِهِ بَأْسٌ وَإِنْ قُتِلَ فَمَا أَعْلَمُ بِهِ بَأْسًا ‏.‏ قَالَ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الإِثْخَانُ أَحَبُّ إِلَىَّ إِلاَّ أَنْ يَكُونَ مَعْرُوفًا فَأَطْمَعُ بِهِ الْكَثِيرَ ‏.‏",
+            "english": "That the Prophet (ﷺ) ransomed two men for the Muslims with a man from the idolaters.\n\n\n This Hadith is Hasan Sahih.\n\n\nThe paternal uncle of Abu Al-Muhallab's name is 'Abdur Rahman bin 'Amr, and they also say it was Muhawiyah bin 'Amr. And Abu Qilabah's name is 'Abdullah bin Zaid Al-Jarmi (narrator in the chain)\n\n\nThis is acted upon according to most of the people of knowledge among the Companions of the Prophet(ﷺ) and others. It is for the Imam to decide to be generous with whom he wills among the captives, or to kill whom he wills among them, or to ransom whom he wills among them. Some of the people of knowledge preferred killing over ransoming.\n\n\nAl-Awzai' said: \"It has been conveyed to me. that this Ayah is abrogated: Thereafter (is the time) either for generosity (to free them without ranson) or ransom (47:4). It was abrogated by: Kill them wherever you find them (2:191). This was narrated to us by Hannad (who said): \"Ibn Al-Mubarak narrated to us, from Al-Awza'i.\"\n\n\nIshaq bin Mansur said: \"I said to Ahmad: 'When the captives are captured' is killing or ransoming better to you?' He said: 'If they are able to ransom' then there is no harm in it. And if they kill, then I do not know of any harm in it.'\" Ishaq said: \"Wiping them out is better to me, unless it is someone well-known, so that it is hoped that a large amount will be obtained for him.\"",
+            "narrator": "Narrated 'Imran bin Husain:"
+          }
+        },
+        {
+          "reference_text": "47:4",
+          "surah_name": null,
+          "start_ayah": 4,
+          "end_ayah": 4,
+          "hadith": {
+            "source": "21",
+            "id": 29,
+            "idInBook": 29,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَمِّهِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم فَدَى رَجُلَيْنِ مِنَ الْمُسْلِمِينَ بِرَجُلٍ مِنَ الْمُشْرِكِينَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَعَمُّ أَبِي قِلاَبَةَ هُوَ أَبُو الْمُهَلَّبِ وَاسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ عَمْرٍو وَيُقَالُ مُعَاوِيَةُ بْنُ عَمْرٍو وَأَبُو قِلاَبَةَ اسْمُهُ عَبْدُ اللَّهِ بْنُ زَيْدٍ الْجَرْمِيُّ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنَّ لِلإِمَامِ أَنْ يَمُنَّ عَلَى مَنْ شَاءَ مِنَ الأُسَارَى وَيَقْتُلَ مَنْ شَاءَ مِنْهُمْ وَيَفْدِيَ مَنْ شَاءَ ‏.‏ وَاخْتَارَ بَعْضُ أَهْلِ الْعِلْمِ الْقَتْلَ عَلَى الْفِدَاءِ ‏.‏ وَقَالَ الأَوْزَاعِيُّ بَلَغَنِي أَنَّ هَذِهِ الآيَةَ مَنْسُوخَةٌ قَوْلُهُ تَعَالَى‏:‏ ‏(‏فَإِِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً‏)‏ نَسَخَتْهَا‏:‏ ‏(‏وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ‏)‏ حَدَّثَنَا بِذَلِكَ هَنَّادٌ حَدَّثَنَا ابْنُ الْمُبَارَكِ عَنِ الأَوْزَاعِيِّ ‏.‏ قَالَ إِسْحَاقُ بْنُ مَنْصُورٍ قُلْتُ لأَحْمَدَ إِذَا أُسِرَ الأَسِيرُ يُقْتَلُ أَوْ يُفَادَى أَحَبُّ إِلَيْكَ قَالَ إِنْ قَدَرُوا أَنْ يُفَادُوا فَلَيْسَ بِهِ بَأْسٌ وَإِنْ قُتِلَ فَمَا أَعْلَمُ بِهِ بَأْسًا ‏.‏ قَالَ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الإِثْخَانُ أَحَبُّ إِلَىَّ إِلاَّ أَنْ يَكُونَ مَعْرُوفًا فَأَطْمَعُ بِهِ الْكَثِيرَ ‏.‏",
+            "english": "That the Prophet (ﷺ) ransomed two men for the Muslims with a man from the idolaters.\n\n\n This Hadith is Hasan Sahih.\n\n\nThe paternal uncle of Abu Al-Muhallab's name is 'Abdur Rahman bin 'Amr, and they also say it was Muhawiyah bin 'Amr. And Abu Qilabah's name is 'Abdullah bin Zaid Al-Jarmi (narrator in the chain)\n\n\nThis is acted upon according to most of the people of knowledge among the Companions of the Prophet(ﷺ) and others. It is for the Imam to decide to be generous with whom he wills among the captives, or to kill whom he wills among them, or to ransom whom he wills among them. Some of the people of knowledge preferred killing over ransoming.\n\n\nAl-Awzai' said: \"It has been conveyed to me. that this Ayah is abrogated: Thereafter (is the time) either for generosity (to free them without ranson) or ransom (47:4). It was abrogated by: Kill them wherever you find them (2:191). This was narrated to us by Hannad (who said): \"Ibn Al-Mubarak narrated to us, from Al-Awza'i.\"\n\n\nIshaq bin Mansur said: \"I said to Ahmad: 'When the captives are captured' is killing or ransoming better to you?' He said: 'If they are able to ransom' then there is no harm in it. And if they kill, then I do not know of any harm in it.'\" Ishaq said: \"Wiping them out is better to me, unless it is someone well-known, so that it is hoped that a large amount will be obtained for him.\"",
+            "narrator": "Narrated 'Imran bin Husain:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+      "text_english": "He will guide them and amend their condition",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+      "text_english": "And admit them to Paradise, which He has made known to them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "text_english": "O you who have believed, if you support Allah, He will support you and plant firmly your feet.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًۭا لَّهُمْ وَأَضَلَّ أَعْمَٰلَهُمْ",
+      "text_english": "But those who disbelieve - for them is misery, and He will waste their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَٰلَهُمْ",
+      "text_english": "That is because they disliked what Allah revealed, so He rendered worthless their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَٰفِرِينَ أَمْثَٰلُهَا",
+      "text_english": "Have they not traveled through the land and seen how was the end of those before them? Allah destroyed [everything] over them, and for the disbelievers is something comparable.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+      "text_english": "That is because Allah is the protector of those who have believed and because the disbelievers have no protector.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ مَثْوًۭى لَّهُمْ",
+      "text_english": "Indeed, Allah will admit those who have believed and done righteous deeds to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةًۭ مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَٰهُمْ فَلَا نَاصِرَ لَهُمْ",
+      "text_english": "And how many a city was stronger than your city [Makkah] which drove you out? We destroyed them; and there was no helper for them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُم",
+      "text_english": "So is he who is on clear evidence from his Lord like him to whom the evil of his work has been made attractive and they follow their [own] desires?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ",
+      "text_english": "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord, like [that of] those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ",
+      "text_english": "And among them, [O Muhammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge, \"What has he said just now?\" Those are the ones of whom Allah has sealed over their hearts and who have followed their [own] desires.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+      "text_english": "And those who are guided - He increases them in guidance and gives them their righteousness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةًۭ ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ",
+      "text_english": "Then do they await except that the Hour should come upon them unexpectedly? But already there have come [some of] its indications. Then what good to them, when it has come, will be their remembrance?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+      "text_english": "So know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women. And Allah knows of your movement and your resting place.",
+      "hadiths": [
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42229,
+            "idInBook": 1164,
+            "bookId": 13,
+            "chapterId": 18,
+            "arabic": "وعن عاصم الأحول عن عبد الله بن سرجس رضي الله عنه قال‏:‏ قلت لرسول الله صلى الله عليه وسلم ‏:‏ يا رسول الله غفر الله لك، قال‏:‏ ‏\n\"‏ولك‏\"‏ قال عاصم‏:‏ فقلت له‏:‏ استغفر لك رضي الله عنه صلى الله عليه وسلم ‏؟‏ قال‏:‏ نعم ولك، ثم تلا هذه الآية‏:‏ ‏{‏واستغفر لذنبك، وللمؤمنين والمؤمنات‏}‏ ‏(‏‏(‏محمد‏:‏19‏)‏‏)‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "'Abdullah bin Sarjis (May Allah be pleased with him) said to the Messenger of Allah (ﷺ): \"O Messenger of Allah! May Allah forgive all your sins!\" The Messenger of Allah (ﷺ) said, \"And yours also.\" 'Asim reported: I asked 'Abdullah: \"Did the Messenger of Allah (ﷺ) seek forgiveness for you?\" He replied: \"Yes, and for you also.\" Then he recited the Verse: \"Seek forgiveness for your sins and for the believing men and the believing women.\" (47:19).",
+            "narrator": "'Asim Al-Ahwal said:"
+          }
+        },
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "shamail_muhammadiyah",
+            "id": 48737,
+            "idInBook": 22,
+            "bookId": 16,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ أَبُو الأَشْعَثِ الْعِجْلِيُّ الْبَصْرِيُّ، قَالَ‏:‏ أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عَبْدِ اللهِ بْنِ سَرْجِسَ، قَالَ‏:‏ أَتَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم وَهُوَ فِي نَاسٍ مِنْ أَصْحَابِهِ، فَدُرْتُ هَكَذَا مِنْ خَلْفِهِ، فَعَرَفَ الَّذِي أُرِيدُ، فَأَلْقَى الرِّدَاءَ عَنْ ظَهْرِهِ، فَرَأَيْتُ مَوْضِعَ الْخَاتَمِ عَلَى كَتِفَيْهِ، مِثْلَ الْجُمْعِ حَوْلَهَا خِيلانٌ، كَأَنَّهَا ثَآلِيلُ، فَرَجَعْتُ حَتَّى اسْتَقْبَلْتُهُ، فَقُلْتُ‏:‏ غَفَرَ اللَّهُ لَكَ يَا رَسُولَ اللهِ، فَقَالَ‏:‏ وَلَكَ فَقَالَ الْقَوْمُ‏:‏ أَسْتَغْفَرَ لَكَ رَسُولُ اللهِ صلى الله عليه وسلم‏؟‏ فَقَالَ‏:‏ نَعَمْ، وَلَكُمْ، ثُمَّ تَلا هَذِهِ الآيَةَ ﴿وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ﴾",
+            "english": "\"I came to Allah’s Messenger (Allah bless him and give him peace), while he was among a group of his Companions, so I circled like this behind him. He understood what I wanted, so he threw the cloak off his back. I thus saw the place of the Seal on his shoulders, like a clenched fist surrounded by moles, as if they were warts. I came around to face him, and I said: 'May Allah forgive you, O Messenger of Allah!' He said: ‘And you,' so the people exclaimed: 'Allah’s Messenger (Allah bless him and give him peace) has asked forgiveness for you!' He said: 'Yes, and also for you!' Then he recited this Quranic verse: 'And ask forgiveness for your sin, and for the believing men and the believing women .”(Q.47:19).”’",
+            "narrator": "'Abdullah ibn Sarjis  said:"
+          }
+        },
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29123,
+            "idInBook": 3343,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه ‏:‏ ‏(‏واسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ‏)‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ سَبْعِينَ مَرَّةً ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ - وَيُرْوَى عَنْ أَبِي هُرَيْرَةَ أَيْضًا عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ ‏\"‏ ‏.‏ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ ‏\"‏ ‏.‏ وَرَوَاهُ مُحَمَّدُ بْنُ عَمْرٍو عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ ‏.‏",
+            "english": "from Abu Salamah, from Abu Hurairah  (regarding): 'And seek forgiveness for your sins, and also for the believing men and women (47:19).' That the Messenger of Allah (ﷺ) said: \"Indeed I ask Allah for forgiveness seventy times a day.\"",
+            "narrator": "Narrated Az-Zuhri:"
+          }
+        },
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "18",
+            "id": 36,
+            "idInBook": 36,
+            "bookId": 13,
+            "chapterId": 18,
+            "arabic": "وعن عاصم الأحول عن عبد الله بن سرجس رضي الله عنه قال‏:‏ قلت لرسول الله صلى الله عليه وسلم ‏:‏ يا رسول الله غفر الله لك، قال‏:‏ ‏\n\"‏ولك‏\"‏ قال عاصم‏:‏ فقلت له‏:‏ استغفر لك رضي الله عنه صلى الله عليه وسلم ‏؟‏ قال‏:‏ نعم ولك، ثم تلا هذه الآية‏:‏ ‏{‏واستغفر لذنبك، وللمؤمنين والمؤمنات‏}‏ ‏(‏‏(‏محمد‏:‏19‏)‏‏)‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+            "english": "'Abdullah bin Sarjis (May Allah be pleased with him) said to the Messenger of Allah (ﷺ): \"O Messenger of Allah! May Allah forgive all your sins!\" The Messenger of Allah (ﷺ) said, \"And yours also.\" 'Asim reported: I asked 'Abdullah: \"Did the Messenger of Allah (ﷺ) seek forgiveness for you?\" He replied: \"Yes, and for you also.\" Then he recited the Verse: \"Seek forgiveness for your sins and for the believing men and the believing women.\" (47:19).",
+            "narrator": "'Asim Al-Ahwal said:"
+          }
+        },
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "2",
+            "id": 8,
+            "idInBook": 8,
+            "bookId": 16,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ أَبُو الأَشْعَثِ الْعِجْلِيُّ الْبَصْرِيُّ، قَالَ‏:‏ أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عَبْدِ اللهِ بْنِ سَرْجِسَ، قَالَ‏:‏ أَتَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم وَهُوَ فِي نَاسٍ مِنْ أَصْحَابِهِ، فَدُرْتُ هَكَذَا مِنْ خَلْفِهِ، فَعَرَفَ الَّذِي أُرِيدُ، فَأَلْقَى الرِّدَاءَ عَنْ ظَهْرِهِ، فَرَأَيْتُ مَوْضِعَ الْخَاتَمِ عَلَى كَتِفَيْهِ، مِثْلَ الْجُمْعِ حَوْلَهَا خِيلانٌ، كَأَنَّهَا ثَآلِيلُ، فَرَجَعْتُ حَتَّى اسْتَقْبَلْتُهُ، فَقُلْتُ‏:‏ غَفَرَ اللَّهُ لَكَ يَا رَسُولَ اللهِ، فَقَالَ‏:‏ وَلَكَ فَقَالَ الْقَوْمُ‏:‏ أَسْتَغْفَرَ لَكَ رَسُولُ اللهِ صلى الله عليه وسلم‏؟‏ فَقَالَ‏:‏ نَعَمْ، وَلَكُمْ، ثُمَّ تَلا هَذِهِ الآيَةَ ﴿وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ﴾",
+            "english": "\"I came to Allah’s Messenger (Allah bless him and give him peace), while he was among a group of his Companions, so I circled like this behind him. He understood what I wanted, so he threw the cloak off his back. I thus saw the place of the Seal on his shoulders, like a clenched fist surrounded by moles, as if they were warts. I came around to face him, and I said: 'May Allah forgive you, O Messenger of Allah!' He said: ‘And you,' so the people exclaimed: 'Allah’s Messenger (Allah bless him and give him peace) has asked forgiveness for you!' He said: 'Yes, and also for you!' Then he recited this Quranic verse: 'And ask forgiveness for your sin, and for the believing men and the believing women .”(Q.47:19).”’",
+            "narrator": "'Abdullah ibn Sarjis  said:"
+          }
+        },
+        {
+          "reference_text": "47:19",
+          "surah_name": null,
+          "start_ayah": 19,
+          "end_ayah": 19,
+          "hadith": {
+            "source": "47",
+            "id": 311,
+            "idInBook": 311,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه ‏:‏ ‏(‏واسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ‏)‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ سَبْعِينَ مَرَّةً ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ - وَيُرْوَى عَنْ أَبِي هُرَيْرَةَ أَيْضًا عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ ‏\"‏ ‏.‏ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ ‏\"‏ ‏.‏ وَرَوَاهُ مُحَمَّدُ بْنُ عَمْرٍو عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ ‏.‏",
+            "english": "from Abu Salamah, from Abu Hurairah  (regarding): 'And seek forgiveness for your sins, and also for the believing men and women (47:19).' That the Messenger of Allah (ﷺ) said: \"Indeed I ask Allah for forgiveness seventy times a day.\"",
+            "narrator": "Narrated Az-Zuhri:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌۭ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌۭ مُّحْكَمَةٌۭ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+      "text_english": "Those who believe say, \"Why has a surah not been sent down? But when a precise surah is revealed and fighting is mentioned therein, you see those in whose hearts is hypocrisy looking at you with a look of one overcome by death. And more appropriate for them [would have been]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "طَاعَةٌۭ وَقَوْلٌۭ مَّعْرُوفٌۭ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًۭا لَّهُمْ",
+      "text_english": "Obedience and good words. And when the matter [of fighting] was determined, if they had been true to Allah, it would have been better for them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+      "text_english": "So would you perhaps, if you turned away, cause corruption on earth and sever your [ties of] relationship?",
+      "hadiths": [
+        {
+          "reference_text": "47:22",
+          "surah_name": null,
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "riyad_assalihin",
+            "id": 42597,
+            "idInBook": 1532,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ إن الله تعالى خلق الخلق حتى إذا فرغ منهم قامت الرحم، فقالت‏:‏ هذا مقام العائذ بك من القطيعة، قال‏:‏ نعم أما ترضين أن أصل من وصلك، وأقطع من قطعك‏؟‏ قالت‏:‏ بلى، قال‏:‏ فذلك لك، ثم قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ اقرءوا إن شئتم‏:‏ ‏(‏فهل عسيتم إن توليتم أن تفسدوا في الأرض وتقطعوا أرحامكم‏.‏ أولئك الذين لعنهم الله فأصمهم وأعمى أبصارهم‏)‏ ‏‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ وفي رواية للبخاري‏:‏ فقال الله تعالى‏:‏ ‏\"‏ من وصلك، وصلته، ومن قطعك، قطعته‏\"‏‏.‏",
+            "english": "Messenger of Allah (ﷺ) said, \"Allah created all the creatures and when He finished the task of His creation, Ar-Rahm (ties of relationship) said: '(O Allah) at this place I seek refuge with You against severing my ties.' Allah said: 'That I treat with kindness those who treat you with kindness and sever ties with those who sever ties with you.' It said: 'I am satisfied.' Allah said: 'Then this is yours\". Then Messenger of Allah (ﷺ) said, \"Recite this Ayah if you like: 'Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship? Such are they whom Allah has cursed, so that He has made them deaf and blinded their sight\". (47:22,23)..The words in Al-Bukhari are: Messenger of Allah (ﷺ) said, \"Allah (SWT) says: 'He who maintains good ties with you, I maintain good ties with him; and he who severs your ties, I sever ties with him\".",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        },
+        {
+          "reference_text": "47:22",
+          "surah_name": null,
+          "start_ayah": 22,
+          "end_ayah": 22,
+          "hadith": {
+            "source": "introduction",
+            "id": 315,
+            "idInBook": 315,
+            "bookId": 13,
+            "chapterId": 0,
+            "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ إن الله تعالى خلق الخلق حتى إذا فرغ منهم قامت الرحم، فقالت‏:‏ هذا مقام العائذ بك من القطيعة، قال‏:‏ نعم أما ترضين أن أصل من وصلك، وأقطع من قطعك‏؟‏ قالت‏:‏ بلى، قال‏:‏ فذلك لك، ثم قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ اقرءوا إن شئتم‏:‏ ‏(‏فهل عسيتم إن توليتم أن تفسدوا في الأرض وتقطعوا أرحامكم‏.‏ أولئك الذين لعنهم الله فأصمهم وأعمى أبصارهم‏)‏ ‏‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ وفي رواية للبخاري‏:‏ فقال الله تعالى‏:‏ ‏\"‏ من وصلك، وصلته، ومن قطعك، قطعته‏\"‏‏.‏",
+            "english": "Messenger of Allah (ﷺ) said, \"Allah created all the creatures and when He finished the task of His creation, Ar-Rahm (ties of relationship) said: '(O Allah) at this place I seek refuge with You against severing my ties.' Allah said: 'That I treat with kindness those who treat you with kindness and sever ties with those who sever ties with you.' It said: 'I am satisfied.' Allah said: 'Then this is yours\". Then Messenger of Allah (ﷺ) said, \"Recite this Ayah if you like: 'Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship? Such are they whom Allah has cursed, so that He has made them deaf and blinded their sight\". (47:22,23)..The words in Al-Bukhari are: Messenger of Allah (ﷺ) said, \"Allah (SWT) says: 'He who maintains good ties with you, I maintain good ties with him; and he who severs your ties, I sever ties with him\".",
+            "narrator": "Abu Hurairah (May Allah be pleased with him) reported:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ",
+      "text_english": "Those [who do so] are the ones that Allah has cursed, so He deafened them and blinded their vision.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+      "text_english": "Then do they not reflect upon the Qur'an, or are there locks upon [their] hearts?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+      "text_english": "Indeed, those who reverted back [to disbelief] after guidance had become clear to them - Satan enticed them and prolonged hope for them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+      "text_english": "That is because they said to those who disliked what Allah sent down, \"We will obey you in part of the matter.\" And Allah knows what they conceal.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ",
+      "text_english": "Then how [will it be] when the angels take them in death, striking their faces and their backs?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَٰلَهُمْ",
+      "text_english": "That is because they followed what angered Allah and disliked [what earns] His pleasure, so He rendered worthless their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ ٱللَّهُ أَضْغَٰنَهُمْ",
+      "text_english": "Or do those in whose hearts is disease think that Allah would never expose their [feelings of] hatred?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "وَلَوْ نَشَآءُ لَأَرَيْنَٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ ٱلْقَوْلِ ۚ وَٱللَّهُ يَعْلَمُ أَعْمَٰلَكُمْ",
+      "text_english": "And if We willed, We could show them to you, and you would know them by their mark; but you will surely know them by the tone of [their] speech. And Allah knows your deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "text_english": "And We will surely test you until We make evident those who strive among you [for the cause of Allah] and the patient, and We will test your affairs.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا وَسَيُحْبِطُ أَعْمَٰلَهُمْ",
+      "text_english": "Indeed, those who disbelieved and averted [people] from the path of Allah and opposed the Messenger after guidance had become clear to them - never will they harm Allah at all, and He will render worthless their deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَٰلَكُمْ",
+      "text_english": "O you who have believed, obey Allah and obey the Messenger and do not invalidate your deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌۭ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+      "text_english": "Indeed, those who disbelieved and averted [people] from the path of Allah and then died while they were disbelievers - never will Allah forgive them.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَٰلَكُمْ",
+      "text_english": "So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌۭ وَلَهْوٌۭ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "text_english": "[This] worldly life is only amusement and diversion. And if you believe and fear Allah, He will give you your rewards and not ask you for your properties.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَٰنَكُمْ",
+      "text_english": "If He should ask you for them and press you, you would withhold, and He would expose your unwillingness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم",
+      "text_english": "Here you are - those invited to spend in the cause of Allah - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allah is the Free of need, while you are the needy. And if you turn away, He will replace you with another people; then they will not be the likes of you.",
+      "hadiths": [
+        {
+          "reference_text": "47:38",
+          "surah_name": null,
+          "start_ayah": 38,
+          "end_ayah": 38,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29124,
+            "idInBook": 3344,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا شَيْخٌ، مِنْ أَهْلِ الْمَدِينَةِ عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ تَلاَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا هَذِهِ الآيَة ‏:‏ ‏(‏وإِنْ تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لاَ يَكُونُوا أَمْثَالَكُمْ ‏)‏ قَالُوا وَمَنْ يُسْتَبْدَلُ بِنَا قَالَ فَضَرَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى مَنْكِبِ سَلْمَانَ ثُمَّ قَالَ ‏\"‏ هَذَا وَقَوْمُهُ هَذَا وَقَوْمُهُ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ غَرِيبٌ فِي إِسْنَادِهِ مَقَالٌ ‏.‏ وَقَدْ رَوَى عَبْدُ اللَّهِ بْنُ جَعْفَرٍ أَيْضًا هَذَا الْحَدِيثَ عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ ‏.‏",
+            "english": "\"One day, the Messenger of Allah (ﷺ) recited this Ayah: 'And if you turn away, He will replace you with other people; then they will not be like you (47:38).' They said: 'And who will replace us?' So the Messenger of Allah (ﷺ) patted the shoulder of Salman, then he said: 'This one and his people, this one and his people.'\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        },
+        {
+          "reference_text": "47:38",
+          "surah_name": null,
+          "start_ayah": 38,
+          "end_ayah": 38,
+          "hadith": {
+            "source": "47",
+            "id": 312,
+            "idInBook": 312,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا شَيْخٌ، مِنْ أَهْلِ الْمَدِينَةِ عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ تَلاَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا هَذِهِ الآيَة ‏:‏ ‏(‏وإِنْ تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لاَ يَكُونُوا أَمْثَالَكُمْ ‏)‏ قَالُوا وَمَنْ يُسْتَبْدَلُ بِنَا قَالَ فَضَرَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى مَنْكِبِ سَلْمَانَ ثُمَّ قَالَ ‏\"‏ هَذَا وَقَوْمُهُ هَذَا وَقَوْمُهُ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ غَرِيبٌ فِي إِسْنَادِهِ مَقَالٌ ‏.‏ وَقَدْ رَوَى عَبْدُ اللَّهِ بْنُ جَعْفَرٍ أَيْضًا هَذَا الْحَدِيثَ عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ ‏.‏",
+            "english": "\"One day, the Messenger of Allah (ﷺ) recited this Ayah: 'And if you turn away, He will replace you with other people; then they will not be like you (47:38).' They said: 'And who will replace us?' So the Messenger of Allah (ﷺ) patted the shoulder of Salman, then he said: 'This one and his people, this one and his people.'\"",
+            "narrator": "Narrated Abu Hurairah:"
+          }
+        }
+      ]
+    }
+  ]
+}

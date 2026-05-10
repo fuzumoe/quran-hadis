@@ -1,0 +1,182 @@
+{
+  "surah": {
+    "id": 66,
+    "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+    "name_english": "At-Tahrim",
+    "name_english_translation": "The Prohibition",
+    "verses_count": 12
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+      "text_english": "O Prophet, why do you prohibit [yourself from] what Allah has made lawful for you, seeking the approval of your wives? And Allah is Forgiving and Merciful.",
+      "hadiths": [
+        {
+          "reference_text": "66:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46109,
+            "idInBook": 3148,
+            "bookId": 14,
+            "chapterId": 13,
+            "arabic": "وَعَنْ عَائِشَةَ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَمْكُثُ عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ وَشَرِبَ عِنْدَهَا عَسَلًا فَتَوَاصَيْتُ أَنَا وَحَفْصَةُ أَنَّ أَيَّتَنَا دَخَلَ عَلَيْهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلْتَقُلْ: إِنِّي أَجِدُ مِنْكَ رِيحَ مَغَافِيرَ أَكَلْتَ مَغَافِيرَ؟ فَدَخَلَ عَلَى إِحْدَاهُمَا فَقَالَتْ لَهُ ذَلِكَ فَقَالَ: «لَا بَأْسَ شَرِبْتُ عَسَلًا عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ فَلَنْ أَعُودَ لَهُ وَقَدْ حَلَفْتُ لَا تُخْبِرِي بِذَلِكِ أَحَدًا» يَبْتَغِي مرضاة أَزوَاجه فَنَزَلَتْ: (يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ الله لَك تبتغي مرضاة أَزوَاجك)\nالْآيَة",
+            "english": "The Prophet used to spend time with Zainab daughter of Jahsh and that he once drank honey at her house, so Hafsa and she agreed that the one whom the Prophet visited first should say, “I notice that you have an odour of the gum of the mimosa.* Have you eaten some?” When he visited one of them and she said that to him he replied, “Don’t worry; I drank some honey at the house of Zainab daughter of Jahsh, but I swear that I shall not do it again. Do not tell anyone of that.”  desiring to please his wives, and then there came down, “O prophet, why do you hold to be forbidden what God has made lawful for you, desiring to please your wives? (Al-Qur’an 66:1).\n*Maghafir; plural of Mughfur, is here used. It is the gum of a kind of mimosa called ‘urfut, the odour of which is unpleasant.\n\n(Bukhari and Muslim.)",
+            "narrator": "'A'isha said:"
+          }
+        },
+        {
+          "reference_text": "66:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "13",
+            "id": 194,
+            "idInBook": 194,
+            "bookId": 14,
+            "chapterId": 13,
+            "arabic": "وَعَنْ عَائِشَةَ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَمْكُثُ عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ وَشَرِبَ عِنْدَهَا عَسَلًا فَتَوَاصَيْتُ أَنَا وَحَفْصَةُ أَنَّ أَيَّتَنَا دَخَلَ عَلَيْهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلْتَقُلْ: إِنِّي أَجِدُ مِنْكَ رِيحَ مَغَافِيرَ أَكَلْتَ مَغَافِيرَ؟ فَدَخَلَ عَلَى إِحْدَاهُمَا فَقَالَتْ لَهُ ذَلِكَ فَقَالَ: «لَا بَأْسَ شَرِبْتُ عَسَلًا عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ فَلَنْ أَعُودَ لَهُ وَقَدْ حَلَفْتُ لَا تُخْبِرِي بِذَلِكِ أَحَدًا» يَبْتَغِي مرضاة أَزوَاجه فَنَزَلَتْ: (يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ الله لَك تبتغي مرضاة أَزوَاجك)\nالْآيَة",
+            "english": "The Prophet used to spend time with Zainab daughter of Jahsh and that he once drank honey at her house, so Hafsa and she agreed that the one whom the Prophet visited first should say, “I notice that you have an odour of the gum of the mimosa.* Have you eaten some?” When he visited one of them and she said that to him he replied, “Don’t worry; I drank some honey at the house of Zainab daughter of Jahsh, but I swear that I shall not do it again. Do not tell anyone of that.”  desiring to please his wives, and then there came down, “O prophet, why do you hold to be forbidden what God has made lawful for you, desiring to please your wives? (Al-Qur’an 66:1).\n*Maghafir; plural of Mughfur, is here used. It is the gum of a kind of mimosa called ‘urfut, the odour of which is unpleasant.\n\n(Bukhari and Muslim.)",
+            "narrator": "'A'isha said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "text_english": "Allah has already ordained for you [Muslims] the dissolution of your oaths. And Allah is your protector, and He is the Knowing, the Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًۭا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+      "text_english": "And [remember] when the Prophet confided to one of his wives a statement; and when she informed [another] of it and Allah showed it to him, he made known part of it and ignored a part. And when he informed her about it, she said, \"Who told you this?\" He said, \"I was informed by the Knowing, the Acquainted.\"",
+      "hadiths": [
+        {
+          "reference_text": "66:3",
+          "surah_name": null,
+          "start_ayah": 3,
+          "end_ayah": 3,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36485,
+            "idInBook": 322,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، عَنْ عُبَيْدِ بْنِ حُنَيْنٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَرَدْتُ أَنْ أَسْأَلَ، عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَمَا رَأَيْتُ مَوْضِعًا فَمَكَثْتُ سَنَتَيْنِ فَلَمَّا كُنَّا بِمَرِّ الظَّهْرَانِ وَذَهَبَ لِيَقْضِيَ حَاجَتَهُ فَجَاءَ وَقَدْ قَضَى حَاجَتَهُ فَذَهَبْتُ أَصُبُّ عَلَيْهِ مِنْ الْمَاءِ قُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ مَنْ الْمَرْأَتَانِ اللَّتَانِ تَظَاهَرَتَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ عَائِشَةُ وَحَفْصَةُ رَضِيَ اللَّهُ عَنْهُمَا‏.‏",
+            "english": "I wanted to ask `Umar something but I did not find a chance, so I waited for two years. Then when we were in Marraz-Zahran, he went to relieve himself, then he came after relieving himself and I poured water for him, I said: O Ameer al-Mu`mineen, who are the two women who helped one another against the Messenger of Allah (ﷺ)`? He said: `A`ishah and Hafsah.\n` As mentioned in the Qur`an: `If you two (wives of the Prophet (ﷺ)) turn in repentance to Allâh. (it will be better for you), your hearts are indeed so inclined to oppose what the Prophet (ﷺ) likes); but if you help one another against him (Muhammad (ﷺ)). then verily, Allâh is his Maula (Lord, or Master, or Protector), and Jibril (Gabriel). and the righteous among the believers, and furthermore, the angels are his helpers`\n(surah at-Tahreem 66:3)",
+            "narrator": "It was narrated that Ibn `Abbas said:"
+          }
+        },
+        {
+          "reference_text": "66:3",
+          "surah_name": null,
+          "start_ayah": 3,
+          "end_ayah": 3,
+          "hadith": {
+            "source": "2",
+            "id": 245,
+            "idInBook": 245,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، عَنْ عُبَيْدِ بْنِ حُنَيْنٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَرَدْتُ أَنْ أَسْأَلَ، عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَمَا رَأَيْتُ مَوْضِعًا فَمَكَثْتُ سَنَتَيْنِ فَلَمَّا كُنَّا بِمَرِّ الظَّهْرَانِ وَذَهَبَ لِيَقْضِيَ حَاجَتَهُ فَجَاءَ وَقَدْ قَضَى حَاجَتَهُ فَذَهَبْتُ أَصُبُّ عَلَيْهِ مِنْ الْمَاءِ قُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ مَنْ الْمَرْأَتَانِ اللَّتَانِ تَظَاهَرَتَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ عَائِشَةُ وَحَفْصَةُ رَضِيَ اللَّهُ عَنْهُمَا‏.‏",
+            "english": "I wanted to ask `Umar something but I did not find a chance, so I waited for two years. Then when we were in Marraz-Zahran, he went to relieve himself, then he came after relieving himself and I poured water for him, I said: O Ameer al-Mu`mineen, who are the two women who helped one another against the Messenger of Allah (ﷺ)`? He said: `A`ishah and Hafsah.\n` As mentioned in the Qur`an: `If you two (wives of the Prophet (ﷺ)) turn in repentance to Allâh. (it will be better for you), your hearts are indeed so inclined to oppose what the Prophet (ﷺ) likes); but if you help one another against him (Muhammad (ﷺ)). then verily, Allâh is his Maula (Lord, or Master, or Protector), and Jibril (Gabriel). and the righteous among the believers, and furthermore, the angels are his helpers`\n(surah at-Tahreem 66:3)",
+            "narrator": "It was narrated that Ibn `Abbas said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "text_english": "If you two [wives] repent to Allah, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًۭا مِّنكُنَّ مُسْلِمَٰتٍۢ مُّؤْمِنَٰتٍۢ قَٰنِتَٰتٍۢ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍۢ سَٰٓئِحَٰتٍۢ ثَيِّبَٰتٍۢ وَأَبْكَارًۭا",
+      "text_english": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.",
+      "hadiths": [
+        {
+          "reference_text": "66:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36317,
+            "idInBook": 154,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ عُمَرُ وَافَقْتُ رَبِّي عَزَّ وَجَلَّ فِي ثَلَاثٍ أَوْ وَافَقَنِي رَبِّي فِي ثَلَاثٍ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ لَوْ اتَّخَذْتَ الْمَقَامَ مُصَلًّى قَالَ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى‏}‏ وَقُلْتُ لَوْ حَجَبْتَ عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ فَإِنَّهُ يَدْخُلُ عَلَيْكَ الْبَرُّ وَالْفَاجِرُ فَأُنْزِلَتْ آيَةُ الْحِجَابِ قَالَ وَبَلَغَنِي عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ شَيْءٌ فَاسْتَقْرَيْتُهُنَّ أَقُولُ لَهُنَّ لَتَكُفُّنَّ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ لَيُبْدِلَنَّهُ اللَّهُ بِكُنَّ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ حَتَّى أَتَيْتُ عَلَى إِحْدَى أُمَّهَاتِ الْمُؤْمِنِينَ فَقَالَتْ يَا عُمَرُ أَمَا فِي رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا يَعِظُ نِسَاءَهُ حَتَّى تَعِظَهُنَّ فَكَفَفْتُ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ‏}‏ الْآيَةَ‏.‏",
+            "english": "I agreed with my Lord, may He be glorified and exalted, in three matters - or my Lord agreed with me in three matters, I said: O Messenger of Allah, why don't you take the Maqarn of Ibraheem as a place of prayer? Then Allah revealed the verse: `And take you (people) the Maqam (place) of Ibraheem (Abraham) [or the stone on which \nIbraheem (Abraham) stood while he was building the Ka'bah) as a place of prayer` (al Baqarah 2:125). And I said: Why don't you tell the Mothers of the Believers to observe hijab, for both righteous people and evildoers enter upon you? Then the verse of hijab was revealed. And I heard something about the Mothers of the Believers, so I talked to them and told them: You should stop bothering the Messenger of Allah ﷺ , or Allah will replace you with wives who are better than you and are Muslims. Then I came to one of the Mothers of the Believers and she said: O 'Umar, is it the case that the Messenger of Allah ﷺ cannot admonish his wives so that you come and admonish them? So I stopped, then Allah, may He be glorified and exalted, revealed the verse: “It may be if he divorced you (all) that his Lord will give him instead of you, wives better than you Muslims (who submit to Allah), believers, obedient (to Allah)...` [at­-Tahreerm 66:5)",
+            "narrator": "It was narrated that Anas said, 'Umar said:"
+          }
+        },
+        {
+          "reference_text": "66:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "2",
+            "id": 77,
+            "idInBook": 77,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ عُمَرُ وَافَقْتُ رَبِّي عَزَّ وَجَلَّ فِي ثَلَاثٍ أَوْ وَافَقَنِي رَبِّي فِي ثَلَاثٍ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ لَوْ اتَّخَذْتَ الْمَقَامَ مُصَلًّى قَالَ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى‏}‏ وَقُلْتُ لَوْ حَجَبْتَ عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ فَإِنَّهُ يَدْخُلُ عَلَيْكَ الْبَرُّ وَالْفَاجِرُ فَأُنْزِلَتْ آيَةُ الْحِجَابِ قَالَ وَبَلَغَنِي عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ شَيْءٌ فَاسْتَقْرَيْتُهُنَّ أَقُولُ لَهُنَّ لَتَكُفُّنَّ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ لَيُبْدِلَنَّهُ اللَّهُ بِكُنَّ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ حَتَّى أَتَيْتُ عَلَى إِحْدَى أُمَّهَاتِ الْمُؤْمِنِينَ فَقَالَتْ يَا عُمَرُ أَمَا فِي رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا يَعِظُ نِسَاءَهُ حَتَّى تَعِظَهُنَّ فَكَفَفْتُ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ‏}‏ الْآيَةَ‏.‏",
+            "english": "I agreed with my Lord, may He be glorified and exalted, in three matters - or my Lord agreed with me in three matters, I said: O Messenger of Allah, why don't you take the Maqarn of Ibraheem as a place of prayer? Then Allah revealed the verse: `And take you (people) the Maqam (place) of Ibraheem (Abraham) [or the stone on which \nIbraheem (Abraham) stood while he was building the Ka'bah) as a place of prayer` (al Baqarah 2:125). And I said: Why don't you tell the Mothers of the Believers to observe hijab, for both righteous people and evildoers enter upon you? Then the verse of hijab was revealed. And I heard something about the Mothers of the Believers, so I talked to them and told them: You should stop bothering the Messenger of Allah ﷺ , or Allah will replace you with wives who are better than you and are Muslims. Then I came to one of the Mothers of the Believers and she said: O 'Umar, is it the case that the Messenger of Allah ﷺ cannot admonish his wives so that you come and admonish them? So I stopped, then Allah, may He be glorified and exalted, revealed the verse: “It may be if he divorced you (all) that his Lord will give him instead of you, wives better than you Muslims (who submit to Allah), believers, obedient (to Allah)...` [at­-Tahreerm 66:5)",
+            "narrator": "It was narrated that Anas said, 'Umar said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "text_english": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allah in what He commands them but do what they are commanded.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "text_english": "O you who have disbelieved, make no excuses that Day. You will only be recompensed for what you used to do.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "text_english": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allah will not disgrace the Prophet and those who believed with him. Their light will proceed before them and on their right; they will say, \"Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "text_english": "O Prophet, strive against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+      "text_english": "Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, \"Enter the Fire with those who enter.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "text_english": "And Allah presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ",
+      "text_english": "And [the example of] Mary, the daughter of 'Imran, who guarded her chastity, so We blew into [her garment] through Our angel, and she believed in the words of her Lord and His scriptures and was of the devoutly obedient.",
+      "hadiths": []
+    }
+  ]
+}

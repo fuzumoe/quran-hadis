@@ -1,0 +1,469 @@
+{
+  "surah": {
+    "id": 51,
+    "name_arabic": "سُورَةُ الذَّارِيَاتِ",
+    "name_english": "Adh-Dhaariyat",
+    "name_english_translation": "The Winnowing Winds",
+    "verses_count": 60
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلذَّٰرِيَٰتِ ذَرْوًۭا",
+      "text_english": "By those [winds] scattering [dust] dispersing",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "فَٱلْحَٰمِلَٰتِ وِقْرًۭا",
+      "text_english": "And those [clouds] carrying a load [of water]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "فَٱلْجَٰرِيَٰتِ يُسْرًۭا",
+      "text_english": "And those [ships] sailing with ease",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "فَٱلْمُقَسِّمَٰتِ أَمْرًا",
+      "text_english": "And those [angels] apportioning [each] matter,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "إِنَّمَا تُوعَدُونَ لَصَادِقٌۭ",
+      "text_english": "Indeed, what you are promised is true.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٌۭ",
+      "text_english": "And indeed, the recompense is to occur.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ",
+      "text_english": "By the heaven containing pathways,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "إِنَّكُمْ لَفِى قَوْلٍۢ مُّخْتَلِفٍۢ",
+      "text_english": "Indeed, you are in differing speech.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+      "text_english": "Deluded away from the Qur'an is he who is deluded.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "قُتِلَ ٱلْخَرَّٰصُونَ",
+      "text_english": "Destroyed are the falsifiers",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "ٱلَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ",
+      "text_english": "Who are within a flood [of confusion] and heedless.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ",
+      "text_english": "They ask, \"When is the Day of Recompense?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ",
+      "text_english": "[It is] the Day they will be tormented over the Fire",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ",
+      "text_english": "[And will be told], \"Taste your torment. This is that for which you were impatient.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَعُيُونٍ",
+      "text_english": "Indeed, the righteous will be among gardens and springs,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+      "text_english": "Accepting what their Lord has given them. Indeed, they were before that doers of good.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+      "text_english": "They used to sleep but little of the night,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+      "text_english": "And in the hours before dawn they would ask forgiveness,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "text_english": "And from their properties was [given] the right of the [needy] petitioner and the deprived.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَفِى ٱلْأَرْضِ ءَايَٰتٌۭ لِّلْمُوقِنِينَ",
+      "text_english": "And on the earth are signs for the certain [in faith]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+      "text_english": "And in yourselves. Then will you not see?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "text_english": "And in the heaven is your provision and whatever you are promised.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّۭ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ",
+      "text_english": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ",
+      "text_english": "Has there reached you the story of the honored guests of Abraham? -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ قَوْمٌۭ مُّنكَرُونَ",
+      "text_english": "When they entered upon him and said, \"[We greet you with] peace.\" He answered, \"[And upon you] peace, [you are] a people unknown.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
+      "text_english": "Then he went to his family and came with a fat [roasted] calf",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+      "text_english": "And placed it near them; he said, \"Will you not eat?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍۢ",
+      "text_english": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ",
+      "text_english": "And his wife approached with a cry [of alarm] and struck her face and said, \"[I am] a barren old woman!\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 30,
+      "text_arabic": "قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+      "text_english": "They said, \"Thus has said your Lord; indeed, He is the Wise, the Knowing.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 31,
+      "text_arabic": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
+      "text_english": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 32,
+      "text_arabic": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ",
+      "text_english": "They said, \"Indeed, we have been sent to a people of criminals",
+      "hadiths": []
+    },
+    {
+      "verse_number": 33,
+      "text_arabic": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةًۭ مِّن طِينٍۢ",
+      "text_english": "To send down upon them stones of clay,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 34,
+      "text_arabic": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+      "text_english": "Marked in the presence of your Lord for the transgressors.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 35,
+      "text_arabic": "فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ",
+      "text_english": "So We brought out whoever was in the cities of the believers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 36,
+      "text_arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+      "text_english": "And We found not within them other than a [single] house of Muslims.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 37,
+      "text_arabic": "وَتَرَكْنَا فِيهَآ ءَايَةًۭ لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "text_english": "And We left therein a sign for those who fear the painful punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 38,
+      "text_arabic": "وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍۢ مُّبِينٍۢ",
+      "text_english": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 39,
+      "text_arabic": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌۭ",
+      "text_english": "But he turned away with his supporters and said,\" A magician or a madman.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 40,
+      "text_arabic": "فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+      "text_english": "So We took him and his soldiers and cast them into the sea, and he was blameworthy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 41,
+      "text_arabic": "وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ",
+      "text_english": "And in 'Aad [was a sign], when We sent against them the barren wind.",
+      "hadiths": [
+        {
+          "reference_text": "51:41",
+          "surah_name": null,
+          "start_ayah": 41,
+          "end_ayah": 41,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 44400,
+            "idInBook": 1439,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: مَا هَبَّتْ رِيحٌ قَطُّ إِلَّا جَثَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسلم على رُكْبَتَيْهِ وَقَالَ: «اللَّهُمَّ اجْعَلْهَا رَحْمَةً وَلَا تَجْعَلْهَا عَذَابًا اللَّهُمَّ اجْعَلْهَا رِيَاحًا وَلَا تَجْعَلْهَا رِيحًا» . قَالَ ابْنُ عَبَّاسٍ فِي كِتَابِ اللَّهِ تَعَالَى: (إِنَّا أرسلنَا عَلَيْهِم ريحًا صَرْصَرًا)\nو (أرسلنَا عَلَيْهِم الرّيح الْعَقِيم)\n(وَأَرْسَلْنَا الرِّيَاح لَوَاقِح)\nو (أَن يُرْسل الرِّيَاح مُبَشِّرَات)\nرَوَاهُ الشَّافِعِي وَالْبَيْهَقِيّ فِي الدَّعْوَات الْكَبِير",
+            "english": "No wind ever blew without the Prophet getting down on his knees and saying, \"O God, make it a blessing and do not make it a punishment. O God, make it to be winds and do not make it a single wind.” Ibn ‘Abbas remarked that the Book of God most high contains these words, \"We sent upon them a furious wind;\"1 \"We sent upon them the devastating wind;\"2 \"And We sent the winds fertilising;\"3 and \"We sent the winds as heralds of glad tidings.\"4 \n\n    1. Al-Qur’an; 41:16.\t\n    2. Al-Qur’an; 51:41.\t\n    3. Al-Qur’an; 15:22.\n    4. Cf. Al-Qur an; 30:46. The quotation is not quite accurate. The quotations are meant to show that when 'wind’ is used without qualification in the Qur’an it indicates punishment, but the use of 'winds without qualification indicates blessing.\n\nShafi'i and Baihaqi, in  ad-da'awat al-kabir, transmitted it.",
+            "narrator": "Ibn ‘Abbas said:"
+          }
+        },
+        {
+          "reference_text": "51:41",
+          "surah_name": null,
+          "start_ayah": 41,
+          "end_ayah": 41,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29137,
+            "idInBook": 3357,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ سَلاَّمٍ، عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ، عَنْ أَبِي وَائِلٍ، عَنْ رَجُلٍ، مِنْ رَبِيعَةَ قَالَ قَدِمْتُ الْمَدِينَةَ فَدَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذُكِرْتُ عِنْدَهُ وَافِدَ عَادٍ فَقُلْتُ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِثْلَ وَافِدِ عَادٍ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَمَا وَافِدُ عَادٍ ‏\"‏ ‏.‏ قَالَ فَقُلْتُ عَلَى الْخَبِيرِ سَقَطْتَ إِنَّ عَادًا لَمَّا أُقْحِطَتْ بَعَثَتْ قَيْلاً فَنَزَلَ عَلَى بَكْرِ بْنِ مُعَاوِيَةَ فَسَقَاهُ الْخَمْرَ وَغَنَّتْهُ الْجَرَادَتَانِ ثُمَّ خَرَجَ يُرِيدُ جِبَالَ مَهْرَةَ فَقَالَ اللَّهُمَّ إِنِّي لَمْ آتِكَ لِمَرِيضٍ فَأُدَاوِيَهِ وَلاَ لأَسِيرٍ فَأُفَادِيَهُ فَاسْقِ عَبْدَكَ مَا كُنْتَ مُسْقِيَهُ وَاسْقِ مَعَهُ بَكْرَ بْنَ مُعَاوِيَةَ ‏.‏ يَشْكُرْ لَهُ الْخَمْرَ الَّذِي سَقَاهُ فَرُفِعَ لَهُ سَحَابَاتٌ فَقِيلَ لَهُ اخْتَرْ إِحْدَاهُنَّ فَاخْتَارَ السَّوْدَاءَ مِنْهُنَّ فَقِيلَ لَهُ خُذْهَا رَمَادًا رَمْدَدًا لاَ تَذَرُ مِنْ عَادٍ أَحَدًا وَذُكِرَ أَنَّهُ لَمْ يُرْسَلْ عَلَيْهِمْ مِنَ الرِّيحِ إِلاَّ قَدْرُ هَذِهِ الْحَلْقَةِ يَعْنِي حَلْقَةَ الْخَاتَمِ ‏.‏ ثُمَّ قَرَأَ ‏:‏ ‏(‏إذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ * مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلاَّ جَعَلَتْهُ كَالرَّمِيمِ ‏)‏ الآيَةَ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى غَيْرُ وَاحِدٍ هَذَا الْحَدِيثَ عَنْ سَلاَّمٍ أَبِي الْمُنْذِرِ عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ عَنْ أَبِي وَائِلٍ عَنِ الْحَارِثِ بْنِ حَسَّانَ وَيُقَالُ لَهُ الْحَارِثُ بْنُ يَزِيدَ ‏.‏",
+            "english": "from a man of Rabi'ah who said: \"I arrived in Al-Madinah, entered upon the Messenger of Allah (ﷺ) and mentioned the emissary of 'Ad to him. I said: 'I seek refuge in Allah from being like the emissary of 'Ad.' So the Messenger of Allah (ﷺ) said: 'And what of the emissary of 'Ad?'\" He said: \"I said: You have got the one who is informed about it. When 'Ad suffered from famine they sent Qail and he stayed with Bakr bin Mu'awiyah. He gave him wine to drink and two slave girls to sing for him. Then he went out towards the mountains of Murrah and said: \"O Allah! I did not come to You to cure a sick person, nor to ransom a captive! So give water to Your slave as You used to do, and give water to Bakr bin Mu'awiyah along with him.\" He said that out of gratitude for the wine which he gave him to drink. So two clouds appeared and it was said to him: \"Choose one of them.\" So he chose the black one. It was said to him: \"Take it as ashes that will leave none in 'Ad.\" So he mentioned that the wind sent upon them was not more than this circle - meaning the circle of a ring - then he recited: \"...We sent against them the barren wind; it spared nothing that it reached, but blew it into broken spreads of rotten ruins. (51:41 & 42)\"",
+            "narrator": "Narrated Abu Wa'il:"
+          }
+        },
+        {
+          "reference_text": "51:41",
+          "surah_name": null,
+          "start_ayah": 41,
+          "end_ayah": 41,
+          "hadith": {
+            "source": "4",
+            "id": 918,
+            "idInBook": 918,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: مَا هَبَّتْ رِيحٌ قَطُّ إِلَّا جَثَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسلم على رُكْبَتَيْهِ وَقَالَ: «اللَّهُمَّ اجْعَلْهَا رَحْمَةً وَلَا تَجْعَلْهَا عَذَابًا اللَّهُمَّ اجْعَلْهَا رِيَاحًا وَلَا تَجْعَلْهَا رِيحًا» . قَالَ ابْنُ عَبَّاسٍ فِي كِتَابِ اللَّهِ تَعَالَى: (إِنَّا أرسلنَا عَلَيْهِم ريحًا صَرْصَرًا)\nو (أرسلنَا عَلَيْهِم الرّيح الْعَقِيم)\n(وَأَرْسَلْنَا الرِّيَاح لَوَاقِح)\nو (أَن يُرْسل الرِّيَاح مُبَشِّرَات)\nرَوَاهُ الشَّافِعِي وَالْبَيْهَقِيّ فِي الدَّعْوَات الْكَبِير",
+            "english": "No wind ever blew without the Prophet getting down on his knees and saying, \"O God, make it a blessing and do not make it a punishment. O God, make it to be winds and do not make it a single wind.” Ibn ‘Abbas remarked that the Book of God most high contains these words, \"We sent upon them a furious wind;\"1 \"We sent upon them the devastating wind;\"2 \"And We sent the winds fertilising;\"3 and \"We sent the winds as heralds of glad tidings.\"4 \n\n    1. Al-Qur’an; 41:16.\t\n    2. Al-Qur’an; 51:41.\t\n    3. Al-Qur’an; 15:22.\n    4. Cf. Al-Qur an; 30:46. The quotation is not quite accurate. The quotations are meant to show that when 'wind’ is used without qualification in the Qur’an it indicates punishment, but the use of 'winds without qualification indicates blessing.\n\nShafi'i and Baihaqi, in  ad-da'awat al-kabir, transmitted it.",
+            "narrator": "Ibn ‘Abbas said:"
+          }
+        },
+        {
+          "reference_text": "51:41",
+          "surah_name": null,
+          "start_ayah": 41,
+          "end_ayah": 41,
+          "hadith": {
+            "source": "47",
+            "id": 325,
+            "idInBook": 325,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ سَلاَّمٍ، عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ، عَنْ أَبِي وَائِلٍ، عَنْ رَجُلٍ، مِنْ رَبِيعَةَ قَالَ قَدِمْتُ الْمَدِينَةَ فَدَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذُكِرْتُ عِنْدَهُ وَافِدَ عَادٍ فَقُلْتُ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِثْلَ وَافِدِ عَادٍ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَمَا وَافِدُ عَادٍ ‏\"‏ ‏.‏ قَالَ فَقُلْتُ عَلَى الْخَبِيرِ سَقَطْتَ إِنَّ عَادًا لَمَّا أُقْحِطَتْ بَعَثَتْ قَيْلاً فَنَزَلَ عَلَى بَكْرِ بْنِ مُعَاوِيَةَ فَسَقَاهُ الْخَمْرَ وَغَنَّتْهُ الْجَرَادَتَانِ ثُمَّ خَرَجَ يُرِيدُ جِبَالَ مَهْرَةَ فَقَالَ اللَّهُمَّ إِنِّي لَمْ آتِكَ لِمَرِيضٍ فَأُدَاوِيَهِ وَلاَ لأَسِيرٍ فَأُفَادِيَهُ فَاسْقِ عَبْدَكَ مَا كُنْتَ مُسْقِيَهُ وَاسْقِ مَعَهُ بَكْرَ بْنَ مُعَاوِيَةَ ‏.‏ يَشْكُرْ لَهُ الْخَمْرَ الَّذِي سَقَاهُ فَرُفِعَ لَهُ سَحَابَاتٌ فَقِيلَ لَهُ اخْتَرْ إِحْدَاهُنَّ فَاخْتَارَ السَّوْدَاءَ مِنْهُنَّ فَقِيلَ لَهُ خُذْهَا رَمَادًا رَمْدَدًا لاَ تَذَرُ مِنْ عَادٍ أَحَدًا وَذُكِرَ أَنَّهُ لَمْ يُرْسَلْ عَلَيْهِمْ مِنَ الرِّيحِ إِلاَّ قَدْرُ هَذِهِ الْحَلْقَةِ يَعْنِي حَلْقَةَ الْخَاتَمِ ‏.‏ ثُمَّ قَرَأَ ‏:‏ ‏(‏إذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ * مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلاَّ جَعَلَتْهُ كَالرَّمِيمِ ‏)‏ الآيَةَ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى غَيْرُ وَاحِدٍ هَذَا الْحَدِيثَ عَنْ سَلاَّمٍ أَبِي الْمُنْذِرِ عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ عَنْ أَبِي وَائِلٍ عَنِ الْحَارِثِ بْنِ حَسَّانَ وَيُقَالُ لَهُ الْحَارِثُ بْنُ يَزِيدَ ‏.‏",
+            "english": "from a man of Rabi'ah who said: \"I arrived in Al-Madinah, entered upon the Messenger of Allah (ﷺ) and mentioned the emissary of 'Ad to him. I said: 'I seek refuge in Allah from being like the emissary of 'Ad.' So the Messenger of Allah (ﷺ) said: 'And what of the emissary of 'Ad?'\" He said: \"I said: You have got the one who is informed about it. When 'Ad suffered from famine they sent Qail and he stayed with Bakr bin Mu'awiyah. He gave him wine to drink and two slave girls to sing for him. Then he went out towards the mountains of Murrah and said: \"O Allah! I did not come to You to cure a sick person, nor to ransom a captive! So give water to Your slave as You used to do, and give water to Bakr bin Mu'awiyah along with him.\" He said that out of gratitude for the wine which he gave him to drink. So two clouds appeared and it was said to him: \"Choose one of them.\" So he chose the black one. It was said to him: \"Take it as ashes that will leave none in 'Ad.\" So he mentioned that the wind sent upon them was not more than this circle - meaning the circle of a ring - then he recited: \"...We sent against them the barren wind; it spared nothing that it reached, but blew it into broken spreads of rotten ruins. (51:41 & 42)\"",
+            "narrator": "Narrated Abu Wa'il:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 42,
+      "text_arabic": "مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ",
+      "text_english": "It left nothing of what it came upon but that it made it like disintegrated ruins.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 43,
+      "text_arabic": "وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍۢ",
+      "text_english": "And in Thamud, when it was said to them, \"Enjoy yourselves for a time.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 44,
+      "text_arabic": "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ",
+      "text_english": "But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 45,
+      "text_arabic": "فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍۢ وَمَا كَانُوا۟ مُنتَصِرِينَ",
+      "text_english": "And they were unable to arise, nor could they defend themselves.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 46,
+      "text_arabic": "وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ",
+      "text_english": "And [We destroyed] the people of Noah before; indeed, they were a people defiantly disobedient.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 47,
+      "text_arabic": "وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍۢ وَإِنَّا لَمُوسِعُونَ",
+      "text_english": "And the heaven We constructed with strength, and indeed, We are [its] expander.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 48,
+      "text_arabic": "وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ",
+      "text_english": "And the earth We have spread out, and excellent is the preparer.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 49,
+      "text_arabic": "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "text_english": "And of all things We created two mates; perhaps you will remember.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 50,
+      "text_arabic": "فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+      "text_english": "So flee to Allah. Indeed, I am to you from Him a clear warner.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 51,
+      "text_arabic": "وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+      "text_english": "And do not make [as equal] with Allah another deity. Indeed, I am to you from Him a clear warner.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 52,
+      "text_arabic": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ",
+      "text_english": "Similarly, there came not to those before them any messenger except that they said, \"A magician or a madman.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 53,
+      "text_arabic": "أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌۭ طَاغُونَ",
+      "text_english": "Did they suggest it to them? Rather, they [themselves] are a transgressing people.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 54,
+      "text_arabic": "فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍۢ",
+      "text_english": "So leave them, [O Muhammad], for you are not to be blamed.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 55,
+      "text_arabic": "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ",
+      "text_english": "And remind, for indeed, the reminder benefits the believers.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 56,
+      "text_arabic": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+      "text_english": "And I did not create the jinn and mankind except to worship Me.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 57,
+      "text_arabic": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍۢ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+      "text_english": "I do not want from them any provision, nor do I want them to feed Me.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 58,
+      "text_arabic": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+      "text_english": "Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength.",
+      "hadiths": [
+        {
+          "reference_text": "51:58",
+          "surah_name": null,
+          "start_ayah": 58,
+          "end_ayah": 58,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28803,
+            "idInBook": 3023,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ أَقْرَأَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم‏:‏‏(‏ إِنِّي أَنَا الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) recited to me: \"Indeed Allah is the Provider, The Possessor of power, the Firm.\" (51:58)",
+            "narrator": "Narrated 'Abdullah:"
+          }
+        },
+        {
+          "reference_text": "51:58",
+          "surah_name": null,
+          "start_ayah": 58,
+          "end_ayah": 58,
+          "hadith": {
+            "source": "46",
+            "id": 14,
+            "idInBook": 14,
+            "bookId": 5,
+            "chapterId": 46,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ أَقْرَأَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم‏:‏‏(‏ إِنِّي أَنَا الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "\"The Messenger of Allah (ﷺ) recited to me: \"Indeed Allah is the Provider, The Possessor of power, the Firm.\" (51:58)",
+            "narrator": "Narrated 'Abdullah:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 59,
+      "text_arabic": "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًۭا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+      "text_english": "And indeed, for those who have wronged is a portion [of punishment] like the portion of their predecessors, so let them not impatiently urge Me.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 60,
+      "text_arabic": "فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ",
+      "text_english": "And woe to those who have disbelieved from their Day which they are promised.",
+      "hadiths": []
+    }
+  ]
+}

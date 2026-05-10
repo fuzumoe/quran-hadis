@@ -1,0 +1,575 @@
+{
+  "surah": {
+    "id": 48,
+    "name_arabic": "سُورَةُ الفَتۡحِ",
+    "name_english": "Al-Fath",
+    "name_english_translation": "The Victory",
+    "verses_count": 29
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًۭا مُّبِينًۭا",
+      "text_english": "Indeed, We have given you, [O Muhammad], a clear conquest",
+      "hadiths": [
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "shamail_muhammadiyah",
+            "id": 49022,
+            "idInBook": 307,
+            "bookId": 16,
+            "chapterId": 44,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، قَالَ‏:‏ سَمِعْتُ عَبْدَ اللهِ بْنَ مُغَفَّلٍ، يَقُولُ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم، عَلَى نَاقَتِهِ يَوْمَ الْفَتْحِ، وَهُوَ يَقْرَأُ‏:‏ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ، قَالَ‏:‏ فَقَرَأَ وَرَجَّعَ، قَالَ‏:‏ وَقَالَ مُعَاوِيَةُ بْنُ قُرَّةَ‏:‏ لَوْلا أَنْ يَجْتَمِعَ النَّاسُ عَلَيَّ لأَخَذْتُ لَكُمْ فِي ذَلِكَ الصَّوْتِ أَوْ قَالَ‏:‏ اللَّحْنِ‏.‏",
+            "english": "\"I saw the Prophet (Allah bless him and give him peace) on his she-camel on the Day of Victory, and he was reciting: “We have surely given you a clear victory, so that Allah may forgive you your former and your latter sins .” (Al Qur'an 48:1-2) He recited in a quivering voice.”",
+            "narrator": "Abdu’llah ibn Mughaffal said:"
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "ahmed",
+            "id": 36366,
+            "idInBook": 203,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا أَبُو نُوحٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ قَالَ فَسَأَلْتُهُ عَنْ شَيْءٍ ثَلَاثَ مَرَّاتٍ فَلَمْ يَرُدَّ عَلَيَّ قَالَ فَقُلْتُ لِنَفْسِي ثَكِلَتْكَ أُمُّكَ يَا ابْنَ الْخَطَّابِ نَزَرْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَ مَرَّاتٍ فَلَمْ يَرُدَّ عَلَيْكَ قَالَ فَرَكِبْتُ رَاحِلَتِي فَتَقَدَّمْتُ مَخَافَةَ أَنْ يَكُونَ نَزَلَ فِيَّ شَيْءٌ قَالَ فَإِذَا أَنَا بِمُنَادٍ يُنَادِي يَا عُمَرُ أَيْنَ عُمَرُ قَالَ فَرَجَعْتُ وَأَنَا أَظُنُّ أَنَّهُ نَزَلَ فِيَّ شَيْءٌ قَالَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَزَلَتْ عَلَيَّ الْبَارِحَةَ سُورَةٌ هِيَ أَحَبُّ إِلَيَّ مِنْ الدُّنْيَا وَمَا فِيهَا إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ‏.‏",
+            "english": "We were with the Messenger of Allah (ﷺ)  on a journey, and I asked him about something three times but he did not answer me. I said to myself, May \nyour mother be bereft of you. O son of al-Khattab, you spoke to the Messenger of Allah (ﷺ) three times and he did not answer you. So I got on my mount and went on ahead, fearing that something had been revealed concerning me. Then I heard someone calling out: O 'Umar! Where is ‘Umar? I went back, thinking that something had been revealed concerning me, and the Prophet (ﷺ) said: `Yesterday a soorah was revealed to me that is dearer to me than this world and everything in it: ‘Verily, We have given you (O Muhammad ﷺ) a manifest victory. That Atlah may forgive you your sins of the past and the future' (al­-Fath 48:1–2].",
+            "narrator": "It was narrated that 'Umar bin al­-Khattab (رضي الله عنه ­) said:"
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "bukhari",
+            "id": 3978,
+            "idInBook": 3978,
+            "bookId": 1,
+            "chapterId": 64,
+            "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ تَعُدُّونَ أَنْتُمُ الْفَتْحَ فَتْحَ مَكَّةَ، وَقَدْ كَانَ فَتْحُ مَكَّةَ فَتْحًا، وَنَحْنُ نَعُدُّ الْفَتْحَ بَيْعَةَ الرُّضْوَانِ يَوْمَ الْحُدَيْبِيَةِ‏.‏ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم أَرْبَعَ عَشْرَةَ مِائَةً، وَالْحُدَيْبِيَةُ بِئْرٌ فَنَزَحْنَاهَا، فَلَمْ نَتْرُكْ فِيهَا قَطْرَةً، فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَأَتَاهَا، فَجَلَسَ عَلَى شَفِيرِهَا، ثُمَّ دَعَا بِإِنَاءٍ مِنْ مَاءٍ فَتَوَضَّأَ ثُمَّ مَضْمَضَ وَدَعَا، ثُمَّ صَبَّهُ فِيهَا فَتَرَكْنَاهَا غَيْرَ بَعِيدٍ ثُمَّ إِنَّهَا أَصْدَرَتْنَا مَا شِئْنَا نَحْنُ وَرِكَابَنَا‏.‏",
+            "english": "Do you (people) consider the conquest of Mecca, the Victory (referred to in the Qur'an 48:1). Was the \nconquest of Mecca a victory? We really consider that the actual Victory was the Ar-Ridwan Pledge of \nallegiance which we gave on the day of Al-Hudaibiya (to the Prophet) . On the day of Al-Hudaibiya \nwe were fourteen hundred men along with the Prophet (ﷺ) Al-Hudaibiya was a well, the water of which \nwe used up leaving not a single drop of water in it. When the Prophet (ﷺ) was informed of that, he came \nand sat on its edge. Then he asked for a utensil of water, performed ablution from it, rinsed (his \nmouth), invoked (Allah), and poured the remaining water into the well. We stayed there for a while \nand then the well brought forth what we required of water for ourselves and our riding animals.",
+            "narrator": "Narrated Al-Bara:"
+          }
+        },
+        {
+          "reference_text": "سورة الفتح آية 1-2",
+          "surah_name": "الفتح",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "darimi",
+            "id": 40340,
+            "idInBook": 2803,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29126,
+            "idInBook": 3346,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ عَثْمَةَ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، رضى الله عنه يَقُولُ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَعْضِ أَسْفَارِهِ فَكَلَّمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَسَكَتَ ثُمَّ كَلَّمْتُهُ فَسَكَتَ ثُمَّ كَلَّمْتُهُ فَسَكَتَ فَحَرَّكْتُ رَاحِلَتِي فَتَنَحَّيْتُ وَقُلْتُ ثَكِلَتْكَ أُمُّكَ يَا ابْنَ الْخَطَّابِ نَزَرْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم ثَلاَثَ مَرَّاتٍ كُلُّ ذَلِكَ لاَ يُكَلِّمُكَ مَا أَخْلَقَكَ أَنْ يَنْزِلَ فِيكَ قُرْآنٌ قَالَ فَمَا نَشِبْتُ أَنْ سَمِعْتُ صَارِخًا يَصْرُخُ بِي قَالَ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ يَا ابْنَ الْخَطَّابِ لَقَدْ أُنْزِلَ عَلَىَّ هَذِهِ اللَّيْلَةَ سُورَةٌ مَا أُحِبُّ أَنَّ لِي بِهَا مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ‏:‏ ‏(‏إنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا ‏)‏ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ وَرَوَاهُ بَعْضُهُمْ عَنْ مَالِكٍ مُرْسَلاً ‏.‏",
+            "english": "from Zaid bin Aslam, from his father who said: \"I heard 'Umar bin Al-Khattab  saying: 'We were with the Messenger of Allah (ﷺ) during one of his journeys when I said something to him but he was silent. Then I said something again but he was silent. I quickened my pace of mount to go to the other wise. I said: \"May your mother lose you O Ibn Al-Khattab! You pestered the Messenger of Allah (ﷺ) three times, each time he did not reply to you! You deserve that something be revealed about you in the Qur'an.'\" He ('Umar) said: \"It was not long before I heard a voice calling me.' So I came to the Messenger of Allah (ﷺ) and he said: \"O Ibn Al-Khattab! A Surah was revealed to me last night which is dearer to me than what the sun rises upon: Verily, We have given you a manifest victory (48:1).'\"",
+            "narrator": "Narrated Malik bin Anas:"
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "44",
+            "id": 6,
+            "idInBook": 6,
+            "bookId": 16,
+            "chapterId": 44,
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، قَالَ‏:‏ سَمِعْتُ عَبْدَ اللهِ بْنَ مُغَفَّلٍ، يَقُولُ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم، عَلَى نَاقَتِهِ يَوْمَ الْفَتْحِ، وَهُوَ يَقْرَأُ‏:‏ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ، قَالَ‏:‏ فَقَرَأَ وَرَجَّعَ، قَالَ‏:‏ وَقَالَ مُعَاوِيَةُ بْنُ قُرَّةَ‏:‏ لَوْلا أَنْ يَجْتَمِعَ النَّاسُ عَلَيَّ لأَخَذْتُ لَكُمْ فِي ذَلِكَ الصَّوْتِ أَوْ قَالَ‏:‏ اللَّحْنِ‏.‏",
+            "english": "\"I saw the Prophet (Allah bless him and give him peace) on his she-camel on the Day of Victory, and he was reciting: “We have surely given you a clear victory, so that Allah may forgive you your former and your latter sins .” (Al Qur'an 48:1-2) He recited in a quivering voice.”",
+            "narrator": "Abdu’llah ibn Mughaffal said:"
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "2",
+            "id": 126,
+            "idInBook": 126,
+            "bookId": 8,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا أَبُو نُوحٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ قَالَ فَسَأَلْتُهُ عَنْ شَيْءٍ ثَلَاثَ مَرَّاتٍ فَلَمْ يَرُدَّ عَلَيَّ قَالَ فَقُلْتُ لِنَفْسِي ثَكِلَتْكَ أُمُّكَ يَا ابْنَ الْخَطَّابِ نَزَرْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَ مَرَّاتٍ فَلَمْ يَرُدَّ عَلَيْكَ قَالَ فَرَكِبْتُ رَاحِلَتِي فَتَقَدَّمْتُ مَخَافَةَ أَنْ يَكُونَ نَزَلَ فِيَّ شَيْءٌ قَالَ فَإِذَا أَنَا بِمُنَادٍ يُنَادِي يَا عُمَرُ أَيْنَ عُمَرُ قَالَ فَرَجَعْتُ وَأَنَا أَظُنُّ أَنَّهُ نَزَلَ فِيَّ شَيْءٌ قَالَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَزَلَتْ عَلَيَّ الْبَارِحَةَ سُورَةٌ هِيَ أَحَبُّ إِلَيَّ مِنْ الدُّنْيَا وَمَا فِيهَا إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ‏.‏",
+            "english": "We were with the Messenger of Allah (ﷺ)  on a journey, and I asked him about something three times but he did not answer me. I said to myself, May \nyour mother be bereft of you. O son of al-Khattab, you spoke to the Messenger of Allah (ﷺ) three times and he did not answer you. So I got on my mount and went on ahead, fearing that something had been revealed concerning me. Then I heard someone calling out: O 'Umar! Where is ‘Umar? I went back, thinking that something had been revealed concerning me, and the Prophet (ﷺ) said: `Yesterday a soorah was revealed to me that is dearer to me than this world and everything in it: ‘Verily, We have given you (O Muhammad ﷺ) a manifest victory. That Atlah may forgive you your sins of the past and the future' (al­-Fath 48:1–2].",
+            "narrator": "It was narrated that 'Umar bin al­-Khattab (رضي الله عنه ­) said:"
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "64",
+            "id": 194,
+            "idInBook": 194,
+            "bookId": 1,
+            "chapterId": 64,
+            "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ تَعُدُّونَ أَنْتُمُ الْفَتْحَ فَتْحَ مَكَّةَ، وَقَدْ كَانَ فَتْحُ مَكَّةَ فَتْحًا، وَنَحْنُ نَعُدُّ الْفَتْحَ بَيْعَةَ الرُّضْوَانِ يَوْمَ الْحُدَيْبِيَةِ‏.‏ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم أَرْبَعَ عَشْرَةَ مِائَةً، وَالْحُدَيْبِيَةُ بِئْرٌ فَنَزَحْنَاهَا، فَلَمْ نَتْرُكْ فِيهَا قَطْرَةً، فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَأَتَاهَا، فَجَلَسَ عَلَى شَفِيرِهَا، ثُمَّ دَعَا بِإِنَاءٍ مِنْ مَاءٍ فَتَوَضَّأَ ثُمَّ مَضْمَضَ وَدَعَا، ثُمَّ صَبَّهُ فِيهَا فَتَرَكْنَاهَا غَيْرَ بَعِيدٍ ثُمَّ إِنَّهَا أَصْدَرَتْنَا مَا شِئْنَا نَحْنُ وَرِكَابَنَا‏.‏",
+            "english": "Do you (people) consider the conquest of Mecca, the Victory (referred to in the Qur'an 48:1). Was the \nconquest of Mecca a victory? We really consider that the actual Victory was the Ar-Ridwan Pledge of \nallegiance which we gave on the day of Al-Hudaibiya (to the Prophet) . On the day of Al-Hudaibiya \nwe were fourteen hundred men along with the Prophet (ﷺ) Al-Hudaibiya was a well, the water of which \nwe used up leaving not a single drop of water in it. When the Prophet (ﷺ) was informed of that, he came \nand sat on its edge. Then he asked for a utensil of water, performed ablution from it, rinsed (his \nmouth), invoked (Allah), and poured the remaining water into the well. We stayed there for a while \nand then the well brought forth what we required of water for ourselves and our riding animals.",
+            "narrator": "Narrated Al-Bara:"
+          }
+        },
+        {
+          "reference_text": "سورة الفتح آية 1-2",
+          "surah_name": "الفتح",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "introduction",
+            "id": 46,
+            "idInBook": 46,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:1",
+          "surah_name": null,
+          "start_ayah": 1,
+          "end_ayah": 1,
+          "hadith": {
+            "source": "47",
+            "id": 314,
+            "idInBook": 314,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ عَثْمَةَ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، رضى الله عنه يَقُولُ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَعْضِ أَسْفَارِهِ فَكَلَّمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَسَكَتَ ثُمَّ كَلَّمْتُهُ فَسَكَتَ ثُمَّ كَلَّمْتُهُ فَسَكَتَ فَحَرَّكْتُ رَاحِلَتِي فَتَنَحَّيْتُ وَقُلْتُ ثَكِلَتْكَ أُمُّكَ يَا ابْنَ الْخَطَّابِ نَزَرْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم ثَلاَثَ مَرَّاتٍ كُلُّ ذَلِكَ لاَ يُكَلِّمُكَ مَا أَخْلَقَكَ أَنْ يَنْزِلَ فِيكَ قُرْآنٌ قَالَ فَمَا نَشِبْتُ أَنْ سَمِعْتُ صَارِخًا يَصْرُخُ بِي قَالَ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ يَا ابْنَ الْخَطَّابِ لَقَدْ أُنْزِلَ عَلَىَّ هَذِهِ اللَّيْلَةَ سُورَةٌ مَا أُحِبُّ أَنَّ لِي بِهَا مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ‏:‏ ‏(‏إنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا ‏)‏ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ وَرَوَاهُ بَعْضُهُمْ عَنْ مَالِكٍ مُرْسَلاً ‏.‏",
+            "english": "from Zaid bin Aslam, from his father who said: \"I heard 'Umar bin Al-Khattab  saying: 'We were with the Messenger of Allah (ﷺ) during one of his journeys when I said something to him but he was silent. Then I said something again but he was silent. I quickened my pace of mount to go to the other wise. I said: \"May your mother lose you O Ibn Al-Khattab! You pestered the Messenger of Allah (ﷺ) three times, each time he did not reply to you! You deserve that something be revealed about you in the Qur'an.'\" He ('Umar) said: \"It was not long before I heard a voice calling me.' So I came to the Messenger of Allah (ﷺ) and he said: \"O Ibn Al-Khattab! A Surah was revealed to me last night which is dearer to me than what the sun rises upon: Verily, We have given you a manifest victory (48:1).'\"",
+            "narrator": "Narrated Malik bin Anas:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+      "text_english": "That Allah may forgive for you what preceded of your sin and what will follow and complete His favor upon you and guide you to a straight path",
+      "hadiths": [
+        {
+          "reference_text": "سورة الفتح آية 1-2",
+          "surah_name": "الفتح",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "darimi",
+            "id": 40340,
+            "idInBook": 2803,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29127,
+            "idInBook": 3347,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، رضى الله عنه قَالَ أُنْزِلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ليغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ ‏)‏ مَرْجِعَهُ مِنَ الْحُدَيْبِيَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَقَدْ أُنْزِلَتْ عَلَىَّ آيَةٌ أَحَبُّ إِلَىَّ مِمَّا عَلَى الأَرْضِ ثُمَّ قَرَأَهَا النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ فَقَالُوا هَنِيئًا مَرِيئًا يَا نَبِيَّ اللَّهِ قَدْ بَيَّنَ اللَّهُ لَكَ مَاذَا يُفْعَلُ بِكَ فَمَاذَا يُفْعَلُ بِنَا فَنَزَلَتْ عَلَيْهِ ‏:‏ ‏(‏ ليُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ ‏)‏ حَتَّى بَلَغَ ‏:‏ ‏(‏فوزًا عَظِيمًا ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَفِيهِ عَنْ مُجَمِّعِ بْنِ جَارِيَةَ ‏.‏",
+            "english": "\"While the Messenger of Allah (ﷺ) was returning from Al-Hudaibiyyah it was revealed to him, 'That Allah may forgive you your sins of the past and the future (48:2).' So the Prophet (ﷺ) said: 'An Ayah has been revealed to me which is dearer to me than whatever is upon the earth.' Then the Prophet (ﷺ) recited it for them and they said: 'Congratulations O Messenger of Allah! Allah has explained what He will do with you, but what will He do with us?' So (the following) was revealed: 'That He may admit the believing men and the believing women into Gardens under which rivers flow' up to (His Saying) 'a supreme success (48:5).'\"",
+            "narrator": "Narrated Anas :"
+          }
+        },
+        {
+          "reference_text": "سورة الفتح آية 1-2",
+          "surah_name": "الفتح",
+          "start_ayah": 1,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "introduction",
+            "id": 46,
+            "idInBook": 46,
+            "bookId": 9,
+            "chapterId": 0,
+            "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ  ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ  ، حَدَّثَنِي الْحَكَمُ بْنُ أَبَانَ  ، عَنْ عِكْرِمَةَ  ، عَنْ ابْنِ عَبَّاسٍ   رَضِيَ اللهُ عَنْهُ، قَالَ :\" إِنَّ اللَّهَ فَضَّلَ مُحَمَّدًا K عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ وَعَلَى أَهْلِ السَّمَاءِ، فَقَالُوا : يَا ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، بِمَ فَضَّلَهُ عَلَى أَهْلِ السَّمَاءِ؟، قَالَ : إِنَّ اللَّهَ قَالَ لِأَهْلِ السَّمَاءِ # وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ سورة الأنبياء آية 29 #، وَقَالَ اللَّهُ تَعَالَى لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا { 1 } لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ سورة الفتح آية 1-2 #، قَالُوا : فَمَا فَضْلُهُ عَلَى الْأَنْبِيَاءِ عَلَيْهِمْ السَّلامُ؟ قَالَ : قَالَ اللَّهُ G : # وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ سورة إبراهيم آية 4 #، وَقَالَ اللَّهُ G لِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : # وَمَا أَرْسَلْنَاكَ إِلا كَافَّةً لِلنَّاسِ سورة سبأ آية 28 #، فَأَرْسَلَهُ إِلَى الْجِنِّ وَالْإِنْسِ \"",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:2",
+          "surah_name": null,
+          "start_ayah": 2,
+          "end_ayah": 2,
+          "hadith": {
+            "source": "47",
+            "id": 315,
+            "idInBook": 315,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، رضى الله عنه قَالَ أُنْزِلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ليغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ ‏)‏ مَرْجِعَهُ مِنَ الْحُدَيْبِيَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَقَدْ أُنْزِلَتْ عَلَىَّ آيَةٌ أَحَبُّ إِلَىَّ مِمَّا عَلَى الأَرْضِ ثُمَّ قَرَأَهَا النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ فَقَالُوا هَنِيئًا مَرِيئًا يَا نَبِيَّ اللَّهِ قَدْ بَيَّنَ اللَّهُ لَكَ مَاذَا يُفْعَلُ بِكَ فَمَاذَا يُفْعَلُ بِنَا فَنَزَلَتْ عَلَيْهِ ‏:‏ ‏(‏ ليُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ ‏)‏ حَتَّى بَلَغَ ‏:‏ ‏(‏فوزًا عَظِيمًا ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَفِيهِ عَنْ مُجَمِّعِ بْنِ جَارِيَةَ ‏.‏",
+            "english": "\"While the Messenger of Allah (ﷺ) was returning from Al-Hudaibiyyah it was revealed to him, 'That Allah may forgive you your sins of the past and the future (48:2).' So the Prophet (ﷺ) said: 'An Ayah has been revealed to me which is dearer to me than whatever is upon the earth.' Then the Prophet (ﷺ) recited it for them and they said: 'Congratulations O Messenger of Allah! Allah has explained what He will do with you, but what will He do with us?' So (the following) was revealed: 'That He may admit the believing men and the believing women into Gardens under which rivers flow' up to (His Saying) 'a supreme success (48:5).'\"",
+            "narrator": "Narrated Anas :"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+      "text_english": "And [that] Allah may aid you with a mighty victory.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًۭا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+      "text_english": "It is He who sent down tranquillity into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth, and ever is Allah Knowing and Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًۭا",
+      "text_english": "[And] that He may admit the believing men and the believing women to gardens beneath which rivers flow to abide therein eternally and remove from them their misdeeds - and ever is that, in the sight of Allah, a great attainment -",
+      "hadiths": [
+        {
+          "reference_text": "48:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29127,
+            "idInBook": 3347,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، رضى الله عنه قَالَ أُنْزِلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ليغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ ‏)‏ مَرْجِعَهُ مِنَ الْحُدَيْبِيَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَقَدْ أُنْزِلَتْ عَلَىَّ آيَةٌ أَحَبُّ إِلَىَّ مِمَّا عَلَى الأَرْضِ ثُمَّ قَرَأَهَا النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ فَقَالُوا هَنِيئًا مَرِيئًا يَا نَبِيَّ اللَّهِ قَدْ بَيَّنَ اللَّهُ لَكَ مَاذَا يُفْعَلُ بِكَ فَمَاذَا يُفْعَلُ بِنَا فَنَزَلَتْ عَلَيْهِ ‏:‏ ‏(‏ ليُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ ‏)‏ حَتَّى بَلَغَ ‏:‏ ‏(‏فوزًا عَظِيمًا ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَفِيهِ عَنْ مُجَمِّعِ بْنِ جَارِيَةَ ‏.‏",
+            "english": "\"While the Messenger of Allah (ﷺ) was returning from Al-Hudaibiyyah it was revealed to him, 'That Allah may forgive you your sins of the past and the future (48:2).' So the Prophet (ﷺ) said: 'An Ayah has been revealed to me which is dearer to me than whatever is upon the earth.' Then the Prophet (ﷺ) recited it for them and they said: 'Congratulations O Messenger of Allah! Allah has explained what He will do with you, but what will He do with us?' So (the following) was revealed: 'That He may admit the believing men and the believing women into Gardens under which rivers flow' up to (His Saying) 'a supreme success (48:5).'\"",
+            "narrator": "Narrated Anas :"
+          }
+        },
+        {
+          "reference_text": "48:5",
+          "surah_name": null,
+          "start_ayah": 5,
+          "end_ayah": 5,
+          "hadith": {
+            "source": "47",
+            "id": 315,
+            "idInBook": 315,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، رضى الله عنه قَالَ أُنْزِلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ليغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ ‏)‏ مَرْجِعَهُ مِنَ الْحُدَيْبِيَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَقَدْ أُنْزِلَتْ عَلَىَّ آيَةٌ أَحَبُّ إِلَىَّ مِمَّا عَلَى الأَرْضِ ثُمَّ قَرَأَهَا النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ فَقَالُوا هَنِيئًا مَرِيئًا يَا نَبِيَّ اللَّهِ قَدْ بَيَّنَ اللَّهُ لَكَ مَاذَا يُفْعَلُ بِكَ فَمَاذَا يُفْعَلُ بِنَا فَنَزَلَتْ عَلَيْهِ ‏:‏ ‏(‏ ليُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ ‏)‏ حَتَّى بَلَغَ ‏:‏ ‏(‏فوزًا عَظِيمًا ‏)‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَفِيهِ عَنْ مُجَمِّعِ بْنِ جَارِيَةَ ‏.‏",
+            "english": "\"While the Messenger of Allah (ﷺ) was returning from Al-Hudaibiyyah it was revealed to him, 'That Allah may forgive you your sins of the past and the future (48:2).' So the Prophet (ﷺ) said: 'An Ayah has been revealed to me which is dearer to me than whatever is upon the earth.' Then the Prophet (ﷺ) recited it for them and they said: 'Congratulations O Messenger of Allah! Allah has explained what He will do with you, but what will He do with us?' So (the following) was revealed: 'That He may admit the believing men and the believing women into Gardens under which rivers flow' up to (His Saying) 'a supreme success (48:5).'\"",
+            "narrator": "Narrated Anas :"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًۭا",
+      "text_english": "And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allah an assumption of evil nature. Upon them is a misfortune of evil nature; and Allah has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "text_english": "And to Allah belong the soldiers of the heavens and the earth. And ever is Allah Exalted in Might and Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+      "text_english": "Indeed, We have sent you as a witness and a bringer of good tidings and a warner",
+      "hadiths": []
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا",
+      "text_english": "That you [people] may believe in Allah and His Messenger and honor him and respect the Prophet and exalt Allah morning and afternoon.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا",
+      "text_english": "Indeed, those who pledge allegiance to you, [O Muhammad] - they are actually pledging allegiance to Allah. The hand of Allah is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allah - He will give him a great reward.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
+      "text_english": "Those who remained behind of the bedouins will say to you, \"Our properties and our families occupied us, so ask forgiveness for us.\" They say with their tongues what is not within their hearts. Say, \"Then who could prevent Allah at all if He intended for you harm or intended for you benefit? Rather, ever is Allah, with what you do, Acquainted.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًۭا",
+      "text_english": "But you thought that the Messenger and the believers would never return to their families, ever, and that was made pleasing in your hearts. And you assumed an assumption of evil and became a people ruined.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَعِيرًۭا",
+      "text_english": "And whoever has not believed in Allah and His Messenger - then indeed, We have prepared for the disbelievers a Blaze.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+      "text_english": "And to Allah belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And ever is Allah Forgiving and Merciful.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا",
+      "text_english": "Those who remained behind will say when you set out toward the war booty to take it, \"Let us follow you.\" They wish to change the words of Allah. Say, \"Never will you follow us. Thus did Allah say before.\" So they will say, \"Rather, you envy us.\" But [in fact] they were not understanding except a little.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًۭا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا",
+      "text_english": "Say to those who remained behind of the bedouins, \"You will be called to [face] a people of great military might; you may fight them, or they will submit. So if you obey, Allah will give you a good reward; but if you turn away as you turned away before, He will punish you with a painful punishment.\"",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌۭ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌۭ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌۭ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًۭا",
+      "text_english": "There is not upon the blind any guilt or upon the lame any guilt or upon the ill any guilt [for remaining behind]. And whoever obeys Allah and His Messenger - He will admit him to gardens beneath which rivers flow; but whoever turns away - He will punish him with a painful punishment.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًۭا قَرِيبًۭا",
+      "text_english": "Certainly was Allah pleased with the believers when they pledged allegiance to you, [O Muhammad], under the tree, and He knew what was in their hearts, so He sent down tranquillity upon them and rewarded them with an imminent conquest",
+      "hadiths": [
+        {
+          "reference_text": "48:18",
+          "surah_name": null,
+          "start_ayah": 18,
+          "end_ayah": 18,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 27416,
+            "idInBook": 1636,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الأُمَوِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، فِي قَوْلِهِ تَعَالَى‏:‏ ‏(‏لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ ‏)‏ قَالَ جَابِرٌ بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى أَنْ لاَ نَفِرَّ وَلَمْ نُبَايِعْهُ عَلَى الْمَوْتِ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ سَلَمَةَ بْنِ الأَكْوَعِ وَابْنِ عُمَرَ وَعُبَادَةَ وَجَرِيرِ بْنِ عَبْدِ اللَّهِ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ عِيسَى بْنِ يُونُسَ عَنِ الأَوْزَاعِيِّ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ قَالَ قَالَ جَابِرُ بْنُ عَبْدِ اللَّهِ وَلَمْ يُذْكَرْ فِيهِ أَبُو سَلَمَةَ ‏.‏",
+            "english": "From Abu Salamah, from Jabir bin Abdullah about the statement of Allah, most High: Allah was pleased with the believers when they gave the pledge to you under the tree (48:18). that Jabir said: \"We pledged to the Messenger of Allah (ﷺ) that we would not flee, and we did not pledge to him for death.\"\n\n\n There are narration on this topic from Salamah bin Al-Akwa', Ibn 'Umar, 'Ubadah, and Jarir bin 'Abdullah.\n\n\n This Hadith is been reported from 'Eisa bin Yunus, from Al-Awza'i, from Yahya bin Abi Kathir who said: \"Jabir bin 'Abdullah said\" and he did not mention Abu Salamah on it.",
+            "narrator": "Narrated Yahya bin Abi Kathir:"
+          }
+        },
+        {
+          "reference_text": "48:18",
+          "surah_name": null,
+          "start_ayah": 18,
+          "end_ayah": 18,
+          "hadith": {
+            "source": "21",
+            "id": 53,
+            "idInBook": 53,
+            "bookId": 5,
+            "chapterId": 21,
+            "arabic": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الأُمَوِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، فِي قَوْلِهِ تَعَالَى‏:‏ ‏(‏لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ ‏)‏ قَالَ جَابِرٌ بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى أَنْ لاَ نَفِرَّ وَلَمْ نُبَايِعْهُ عَلَى الْمَوْتِ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ سَلَمَةَ بْنِ الأَكْوَعِ وَابْنِ عُمَرَ وَعُبَادَةَ وَجَرِيرِ بْنِ عَبْدِ اللَّهِ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ عِيسَى بْنِ يُونُسَ عَنِ الأَوْزَاعِيِّ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ قَالَ قَالَ جَابِرُ بْنُ عَبْدِ اللَّهِ وَلَمْ يُذْكَرْ فِيهِ أَبُو سَلَمَةَ ‏.‏",
+            "english": "From Abu Salamah, from Jabir bin Abdullah about the statement of Allah, most High: Allah was pleased with the believers when they gave the pledge to you under the tree (48:18). that Jabir said: \"We pledged to the Messenger of Allah (ﷺ) that we would not flee, and we did not pledge to him for death.\"\n\n\n There are narration on this topic from Salamah bin Al-Akwa', Ibn 'Umar, 'Ubadah, and Jarir bin 'Abdullah.\n\n\n This Hadith is been reported from 'Eisa bin Yunus, from Al-Awza'i, from Yahya bin Abi Kathir who said: \"Jabir bin 'Abdullah said\" and he did not mention Abu Salamah on it.",
+            "narrator": "Narrated Yahya bin Abi Kathir:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "وَمَغَانِمَ كَثِيرَةًۭ يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا",
+      "text_english": "And much war booty which they will take. And ever is Allah Exalted in Might and Wise.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةًۭ تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةًۭ لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+      "text_english": "Allah has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا",
+      "text_english": "And [He promises] other [victories] that you were [so far] unable to [realize] which Allah has already encompassed. And ever is Allah, over all things, competent.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَلَوْ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا",
+      "text_english": "And if those [Makkans] who disbelieve had fought you, they would have turned their backs [in flight]. Then they would not find a protector or a helper.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا",
+      "text_english": "[This is] the established way of Allah which has occurred before. And never will you find in the way of Allah any change.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "text_english": "And it is He who withheld their hands from you and your hands from them within [the area of] Makkah after He caused you to overcome them. And ever is Allah of what you do, Seeing.",
+      "hadiths": [
+        {
+          "reference_text": "48:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46764,
+            "idInBook": 3803,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَن أنسٍ: أَنَّ ثَمَانِينَ رَجُلًا مِنْ أَهْلِ مَكَّةَ هَبَطُوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ جَبَلِ التَّنْعِيمِ مُتَسَلِّحِينَ يُرِيدُونَ غِرَّةَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَصْحَابِهِ فَأَخَذَهُمْ سِلْمًا فَاسْتَحْيَاهُمْ. وَفِي رِوَايَةٍ: فَأَعْتَقَهُمْ فَأَنْزَلَ اللَّهُ تَعَالَى (وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ ببطنِ مكةَ)\nرَوَاهُ مُسلم",
+            "english": "Anas told that eighty Meccans came down armed from the mountain of at-Tan‘im against God’s Messenger intending to take him and his companions unawares, but he took them captive without fighting and spared them. A version says he set them free and God most high sent down, “He it is who averted their hands from you and your hands from them in the valley of Mecca” (Al-Qur’an; 48:24).\n\nMuslim transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29128,
+            "idInBook": 3348,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنِي سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ ثَمَانِينَ، هَبَطُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَصْحَابِهِ مِنْ جَبَلِ التَّنْعِيمِ عِنْدَ صَلاَةِ الصُّبْحِ وَهُمْ يُرِيدُونَ أَنْ يَقْتُلُوهُ فَأُخِذُوا أَخْذًا فَأَعْتَقَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَنْزَلَ اللَّهُ ‏:‏ ‏(‏ هُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ ‏)‏ الآيَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that eighty people swooped down from the mountain of At-Tan'im to kill the Messenger of Allah (ﷺ) during Salat As-Subh, but he captured them and (later) let them go. So Allah revealed the Ayah: And it is He Who has withheld their hands from you and your hands from them (48:24).",
+            "narrator": "Narrated Anas:"
+          }
+        },
+        {
+          "reference_text": "48:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "19",
+            "id": 178,
+            "idInBook": 178,
+            "bookId": 14,
+            "chapterId": 19,
+            "arabic": "وَعَن أنسٍ: أَنَّ ثَمَانِينَ رَجُلًا مِنْ أَهْلِ مَكَّةَ هَبَطُوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ جَبَلِ التَّنْعِيمِ مُتَسَلِّحِينَ يُرِيدُونَ غِرَّةَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَصْحَابِهِ فَأَخَذَهُمْ سِلْمًا فَاسْتَحْيَاهُمْ. وَفِي رِوَايَةٍ: فَأَعْتَقَهُمْ فَأَنْزَلَ اللَّهُ تَعَالَى (وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ ببطنِ مكةَ)\nرَوَاهُ مُسلم",
+            "english": "Anas told that eighty Meccans came down armed from the mountain of at-Tan‘im against God’s Messenger intending to take him and his companions unawares, but he took them captive without fighting and spared them. A version says he set them free and God most high sent down, “He it is who averted their hands from you and your hands from them in the valley of Mecca” (Al-Qur’an; 48:24).\n\nMuslim transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "48:24",
+          "surah_name": null,
+          "start_ayah": 24,
+          "end_ayah": 24,
+          "hadith": {
+            "source": "47",
+            "id": 316,
+            "idInBook": 316,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنِي سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ ثَمَانِينَ، هَبَطُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَصْحَابِهِ مِنْ جَبَلِ التَّنْعِيمِ عِنْدَ صَلاَةِ الصُّبْحِ وَهُمْ يُرِيدُونَ أَنْ يَقْتُلُوهُ فَأُخِذُوا أَخْذًا فَأَعْتَقَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَنْزَلَ اللَّهُ ‏:‏ ‏(‏ هُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ ‏)‏ الآيَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "english": "that eighty people swooped down from the mountain of At-Tan'im to kill the Messenger of Allah (ﷺ) during Salat As-Subh, but he captured them and (later) let them go. So Allah revealed the Ayah: And it is He Who has withheld their hands from you and your hands from them (48:24).",
+            "narrator": "Narrated Anas:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌۭ مُّؤْمِنُونَ وَنِسَآءٌۭ مُّؤْمِنَٰتٌۭ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍۢ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "text_english": "They are the ones who disbelieved and obstructed you from al-Masjid al-Haram while the offering was prevented from reaching its place of sacrifice. And if not for believing men and believing women whom you did not know - that you might trample them and there would befall you because of them dishonor without [your] knowledge - [you would have been permitted to enter Makkah]. [This was so] that Allah might admit to His mercy whom He willed. If they had been apart [from them], We would have punished those who disbelieved among them with painful punishment",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا",
+      "text_english": "When those who disbelieved had put into their hearts chauvinism - the chauvinism of the time of ignorance. But Allah sent down His tranquillity upon His Messenger and upon the believers and imposed upon them the word of righteousness, and they were more deserving of it and worthy of it. And ever is Allah, of all things, Knowing.",
+      "hadiths": [
+        {
+          "reference_text": "48:26",
+          "surah_name": null,
+          "start_ayah": 26,
+          "end_ayah": 26,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 29129,
+            "idInBook": 3349,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ قَزْعَةَ الْبَصْرِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ حَبِيبٍ، عَنْ شُعْبَةَ، عَنْ ثُوَيْرٍ، عَنْ أَبِيهِ، عَنِ الطُّفَيْلِ بْنِ أُبَىِّ بْنِ كَعْبٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ وألْزَمَهُمْ كَلِمَةَ التَّقْوَى ‏)‏ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ قَالَ هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مَرْفُوعًا إِلاَّ مِنْ حَدِيثِ الْحَسَنِ بْنِ قَزْعَةَ قَالَ وَسَأَلْتُ أَبَا زُرْعَةَ عَنْ هَذَا الْحَدِيثِ فَلَمْ يَعْرِفْهُ مَرْفُوعًا إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "english": "from his father, from the Prophet (ﷺ) (regarding this Ayah): 'And made them stick to the word of Taqwa (48:26).' He (ﷺ) said (the word is): \"La Ilaha Illallah.\"",
+            "narrator": "Narrated At-Tufail bin Ubayy bin Ka'b:"
+          }
+        },
+        {
+          "reference_text": "48:26",
+          "surah_name": null,
+          "start_ayah": 26,
+          "end_ayah": 26,
+          "hadith": {
+            "source": "47",
+            "id": 317,
+            "idInBook": 317,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ قَزْعَةَ الْبَصْرِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ حَبِيبٍ، عَنْ شُعْبَةَ، عَنْ ثُوَيْرٍ، عَنْ أَبِيهِ، عَنِ الطُّفَيْلِ بْنِ أُبَىِّ بْنِ كَعْبٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلمَ ‏:‏ ‏(‏ وألْزَمَهُمْ كَلِمَةَ التَّقْوَى ‏)‏ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ قَالَ هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مَرْفُوعًا إِلاَّ مِنْ حَدِيثِ الْحَسَنِ بْنِ قَزْعَةَ قَالَ وَسَأَلْتُ أَبَا زُرْعَةَ عَنْ هَذَا الْحَدِيثِ فَلَمْ يَعْرِفْهُ مَرْفُوعًا إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "english": "from his father, from the Prophet (ﷺ) (regarding this Ayah): 'And made them stick to the word of Taqwa (48:26).' He (ﷺ) said (the word is): \"La Ilaha Illallah.\"",
+            "narrator": "Narrated At-Tufail bin Ubayy bin Ka'b:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا",
+      "text_english": "Certainly has Allah showed to His Messenger the vision in truth. You will surely enter al-Masjid al-Haram, if Allah wills, in safety, with your heads shaved and [hair] shortened, not fearing [anyone]. He knew what you did not know and has arranged before that a conquest near [at hand].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
+      "text_english": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allah as Witness.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "مُّحَمَّدٌۭ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۢا",
+      "text_english": "Muhammad is the Messenger of Allah; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allah and [His] pleasure. Their mark is on their faces from the trace of prostration. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that Allah may enrage by them the disbelievers. Allah has promised those who believe and do righteous deeds among them forgiveness and a great reward.",
+      "hadiths": []
+    }
+  ]
+}

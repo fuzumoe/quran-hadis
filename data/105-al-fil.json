@@ -1,0 +1,41 @@
+{
+  "surah": {
+    "id": 105,
+    "name_arabic": "سُورَةُ الفِيلِ",
+    "name_english": "Al-Fil",
+    "name_english_translation": "The Elephant",
+    "verses_count": 5
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "text_english": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "text_english": "Did He not make their plan into misguidance?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_english": "And He sent against them birds in flocks,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "text_english": "Striking them with stones of hard clay,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "text_english": "And He made them like eaten straw.",
+      "hadiths": []
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "surah": {
+    "id": 81,
+    "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+    "name_english": "At-Takwir",
+    "name_english_translation": "The Overthrowing",
+    "verses_count": 29
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "text_english": "When the sun is wrapped up [in darkness]",
+      "hadiths": []
+    },
+    {
+      "verse_number": 2,
+      "text_arabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "text_english": "And when the stars fall, dispersing,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 3,
+      "text_arabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "text_english": "And when the mountains are removed",
+      "hadiths": []
+    },
+    {
+      "verse_number": 4,
+      "text_arabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "text_english": "And when full-term she-camels are neglected",
+      "hadiths": []
+    },
+    {
+      "verse_number": 5,
+      "text_arabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "text_english": "And when the wild beasts are gathered",
+      "hadiths": []
+    },
+    {
+      "verse_number": 6,
+      "text_arabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "text_english": "And when the seas are filled with flame",
+      "hadiths": []
+    },
+    {
+      "verse_number": 7,
+      "text_arabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "text_english": "And when the souls are paired",
+      "hadiths": []
+    },
+    {
+      "verse_number": 8,
+      "text_arabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "text_english": "And when the girl [who was] buried alive is asked",
+      "hadiths": [
+        {
+          "reference_text": "81:8",
+          "surah_name": null,
+          "start_ayah": 8,
+          "end_ayah": 8,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 46022,
+            "idInBook": 3061,
+            "bookId": 14,
+            "chapterId": 13,
+            "arabic": "وَعَن جذامة بِنْتِ وَهْبٍ قَالَتْ: حَضَرْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أُنَاسٍ وَهُوَ يَقُولُ: «لقد هَمَمْت أَن أَنْهَى عَنِ الْغِيلَةِ فَنَظَرْتُ فِي الرُّومِ وَفَارِسَ فَإِذَا هُمْ يُغِيلُونَ أَوْلَادَهُمْ فَلَا يَضُرُّ أَوْلَادَهُمْ ذَلِكَ شَيْئًا» . ثُمَّ سَأَلُوهُ عَنِ الْعَزْلِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" ذَلِكَ الوأد الْخَفي وَهِي (وَإِذا الموؤودة سُئِلت)\nرَوَاهُ مُسلم",
+            "english": "I was with God’s Messenger along with some people when he was saying, “I intended to prohibit suckling during pregnancy* but I considered the Greeks and the Persians and saw that they suckled their children during pregnancy without any injury being caused to their children thereby.” Then they asked him about withdrawing the penis and God’s Messenger replied, “That is the secret burying alive” and reference is made to it in the words, “When the girl buried alive will be asked (Al-Qur’an 81:8).”\n*(Ghila. It means either suckling during pregnancy, or intercourse with a woman while she is suckling a child.\n  \nMuslim transmitted it.",
+            "narrator": "Judama daughter of Wahb said:"
+          }
+        },
+        {
+          "reference_text": "81:8",
+          "surah_name": null,
+          "start_ayah": 8,
+          "end_ayah": 8,
+          "hadith": {
+            "source": "13",
+            "id": 107,
+            "idInBook": 107,
+            "bookId": 14,
+            "chapterId": 13,
+            "arabic": "وَعَن جذامة بِنْتِ وَهْبٍ قَالَتْ: حَضَرْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أُنَاسٍ وَهُوَ يَقُولُ: «لقد هَمَمْت أَن أَنْهَى عَنِ الْغِيلَةِ فَنَظَرْتُ فِي الرُّومِ وَفَارِسَ فَإِذَا هُمْ يُغِيلُونَ أَوْلَادَهُمْ فَلَا يَضُرُّ أَوْلَادَهُمْ ذَلِكَ شَيْئًا» . ثُمَّ سَأَلُوهُ عَنِ الْعَزْلِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" ذَلِكَ الوأد الْخَفي وَهِي (وَإِذا الموؤودة سُئِلت)\nرَوَاهُ مُسلم",
+            "english": "I was with God’s Messenger along with some people when he was saying, “I intended to prohibit suckling during pregnancy* but I considered the Greeks and the Persians and saw that they suckled their children during pregnancy without any injury being caused to their children thereby.” Then they asked him about withdrawing the penis and God’s Messenger replied, “That is the secret burying alive” and reference is made to it in the words, “When the girl buried alive will be asked (Al-Qur’an 81:8).”\n*(Ghila. It means either suckling during pregnancy, or intercourse with a woman while she is suckling a child.\n  \nMuslim transmitted it.",
+            "narrator": "Judama daughter of Wahb said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 9,
+      "text_arabic": "بِأَىِّ ذَنۢبٍۢ قُتِلَتْ",
+      "text_english": "For what sin she was killed",
+      "hadiths": []
+    },
+    {
+      "verse_number": 10,
+      "text_arabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "text_english": "And when the pages are made public",
+      "hadiths": []
+    },
+    {
+      "verse_number": 11,
+      "text_arabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "text_english": "And when the sky is stripped away",
+      "hadiths": []
+    },
+    {
+      "verse_number": 12,
+      "text_arabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "text_english": "And when Hellfire is set ablaze",
+      "hadiths": []
+    },
+    {
+      "verse_number": 13,
+      "text_arabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "text_english": "And when Paradise is brought near,",
+      "hadiths": []
+    },
+    {
+      "verse_number": 14,
+      "text_arabic": "عَلِمَتْ نَفْسٌۭ مَّآ أَحْضَرَتْ",
+      "text_english": "A soul will [then] know what it has brought [with it].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 15,
+      "text_arabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "text_english": "So I swear by the retreating stars -",
+      "hadiths": [
+        {
+          "reference_text": "81:15",
+          "surah_name": null,
+          "start_ayah": 15,
+          "end_ayah": 15,
+          "hadith": {
+            "source": "abudawud",
+            "id": 21321,
+            "idInBook": 817,
+            "bookId": 4,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنْ إِسْمَاعِيلَ، عَنْ أَصْبَغَ، مَوْلَى عَمْرِو بْنِ حُرَيْثٍ عَنْ عَمْرِو بْنِ حُرَيْثٍ، قَالَ كَأَنِّي أَسْمَعُ صَوْتَ النَّبِيِّ صلى الله عليه وسلم يَقْرَأُ فِي صَلاَةِ الْغَدَاةِ ‏{‏ فَلاَ أُقْسِمُ بِالْخُنَّسِ * الْجَوَارِ الْكُنَّسِ ‏}‏ ‏.‏",
+            "english": "As if I am hearing the voice of the prophet (may peace by upon him) who would recite at the morning prayer “Oh, but I call to witness the planets, the stars which rise and set”(surah 81:15-16)",
+            "narrator": "‘Amr b. Huraith said:"
+          }
+        },
+        {
+          "reference_text": "81:15",
+          "surah_name": null,
+          "start_ayah": 15,
+          "end_ayah": 15,
+          "hadith": {
+            "source": "2",
+            "id": 427,
+            "idInBook": 427,
+            "bookId": 4,
+            "chapterId": 2,
+            "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنْ إِسْمَاعِيلَ، عَنْ أَصْبَغَ، مَوْلَى عَمْرِو بْنِ حُرَيْثٍ عَنْ عَمْرِو بْنِ حُرَيْثٍ، قَالَ كَأَنِّي أَسْمَعُ صَوْتَ النَّبِيِّ صلى الله عليه وسلم يَقْرَأُ فِي صَلاَةِ الْغَدَاةِ ‏{‏ فَلاَ أُقْسِمُ بِالْخُنَّسِ * الْجَوَارِ الْكُنَّسِ ‏}‏ ‏.‏",
+            "english": "As if I am hearing the voice of the prophet (may peace by upon him) who would recite at the morning prayer “Oh, but I call to witness the planets, the stars which rise and set”(surah 81:15-16)",
+            "narrator": "‘Amr b. Huraith said:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 16,
+      "text_arabic": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "text_english": "Those that run [their courses] and disappear -",
+      "hadiths": []
+    },
+    {
+      "verse_number": 17,
+      "text_arabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "text_english": "And by the night as it closes in",
+      "hadiths": [
+        {
+          "reference_text": "81:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "mishkat_almasabih",
+            "id": 43744,
+            "idInBook": 783,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَن عَمْرو بن حُرَيْث: أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يقْرَأ فِي الْفجْر (وَاللَّيْل إِذا عسعس)\nرَوَاهُ مُسلم",
+            "english": "‘Amr b. Huraith said that he heard the Prophet reciting at the dawn prayer, “By the night when it dissipates.\"*\n\n*Al-Qur’an; 81:17\n\nMuslim transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة التكوير آية 17",
+          "surah_name": "التكوير",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "darimi",
+            "id": 38158,
+            "idInBook": 621,
+            "bookId": 9,
+            "chapterId": 2,
+            "arabic": "أَخْبَرَنَا أَبُو نُعَيْمٍ  ، حَدَّثَنَا الْمَسْعُودِيُّ  ، عَنْ الْوَلِيدِ بْنِ سَرِيعٍ  ،  عَنْ عَمْرِو بْنِ حُرَيْثٍ  ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ\" يَقْرَأُ فِي صَلَاةِ الصُّبْحِ إِذَا الشَّمْسُ كُوِّرَتْ، فَلَمَّا انْتَهَى إِلَى هَذِهِ الْآيَةِ # وَاللَّيْلِ إِذَا عَسْعَسَ سورة التكوير آية 17 #، جَعَلْتُ أَقُولُ فِي نَفْسِي : مَا اللَّيْلُ إِذَا عَسْعَسَ؟ أَخْبَرَنَا أَبُو نُعَيْمٍ  ، حَدَّثَنَا مِسْعَرٌ  ، عَنْ الْوَلِيدِ  ، عَنْ عَمْرِو بْنِ حُرَيْثٍ  ، بِنَحْوِهِ",
+            "english": "",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "81:17",
+          "surah_name": null,
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "4",
+            "id": 262,
+            "idInBook": 262,
+            "bookId": 14,
+            "chapterId": 4,
+            "arabic": "وَعَن عَمْرو بن حُرَيْث: أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يقْرَأ فِي الْفجْر (وَاللَّيْل إِذا عسعس)\nرَوَاهُ مُسلم",
+            "english": "‘Amr b. Huraith said that he heard the Prophet reciting at the dawn prayer, “By the night when it dissipates.\"*\n\n*Al-Qur’an; 81:17\n\nMuslim transmitted it.",
+            "narrator": ""
+          }
+        },
+        {
+          "reference_text": "سورة التكوير آية 17",
+          "surah_name": "التكوير",
+          "start_ayah": 17,
+          "end_ayah": 17,
+          "hadith": {
+            "source": "2",
+            "id": 111,
+            "idInBook": 111,
+            "bookId": 9,
+            "chapterId": 2,
+            "arabic": "أَخْبَرَنَا أَبُو نُعَيْمٍ  ، حَدَّثَنَا الْمَسْعُودِيُّ  ، عَنْ الْوَلِيدِ بْنِ سَرِيعٍ  ،  عَنْ عَمْرِو بْنِ حُرَيْثٍ  ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ\" يَقْرَأُ فِي صَلَاةِ الصُّبْحِ إِذَا الشَّمْسُ كُوِّرَتْ، فَلَمَّا انْتَهَى إِلَى هَذِهِ الْآيَةِ # وَاللَّيْلِ إِذَا عَسْعَسَ سورة التكوير آية 17 #، جَعَلْتُ أَقُولُ فِي نَفْسِي : مَا اللَّيْلُ إِذَا عَسْعَسَ؟ أَخْبَرَنَا أَبُو نُعَيْمٍ  ، حَدَّثَنَا مِسْعَرٌ  ، عَنْ الْوَلِيدِ  ، عَنْ عَمْرِو بْنِ حُرَيْثٍ  ، بِنَحْوِهِ",
+            "english": "",
+            "narrator": ""
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 18,
+      "text_arabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "text_english": "And by the dawn when it breathes",
+      "hadiths": []
+    },
+    {
+      "verse_number": 19,
+      "text_arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+      "text_english": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
+      "hadiths": []
+    },
+    {
+      "verse_number": 20,
+      "text_arabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍۢ",
+      "text_english": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+      "hadiths": []
+    },
+    {
+      "verse_number": 21,
+      "text_arabic": "مُّطَاعٍۢ ثَمَّ أَمِينٍۢ",
+      "text_english": "Obeyed there [in the heavens] and trustworthy.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 22,
+      "text_arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍۢ",
+      "text_english": "And your companion is not [at all] mad.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 23,
+      "text_arabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "text_english": "And he has already seen Gabriel in the clear horizon.",
+      "hadiths": [
+        {
+          "reference_text": "81:23",
+          "surah_name": null,
+          "start_ayah": 23,
+          "end_ayah": 23,
+          "hadith": {
+            "source": "muslim",
+            "id": 7621,
+            "idInBook": 344,
+            "bookId": 2,
+            "chapterId": 1,
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ كُنْتُ مُتَّكِئًا عِنْدَ عَائِشَةَ فَقَالَتْ يَا أَبَا عَائِشَةَ ثَلاَثٌ مَنْ تَكَلَّمَ بِوَاحِدَةٍ مِنْهُنَّ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ ‏.‏ قُلْتُ مَا هُنَّ قَالَتْ مَنْ زَعَمَ أَنَّ مُحَمَّدًا صلى الله عليه وسلم رَأَى رَبَّهُ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ ‏.‏ قَالَ وَكُنْتُ مُتَّكِئًا فَجَلَسْتُ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ أَنْظِرِينِي وَلاَ تَعْجَلِينِي أَلَمْ يَقُلِ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَلَقَدْ رَآهُ بِالأُفُقِ الْمُبِينِ‏}‏ ‏{‏ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى‏}‏ ‏.‏ فَقَالَتْ أَنَا أَوَّلُ هَذِهِ الأُمَّةِ سَأَلَ عَنْ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ إِنَّمَا هُوَ جِبْرِيلُ لَمْ أَرَهُ عَلَى صُورَتِهِ الَّتِي خُلِقَ عَلَيْهَا غَيْرَ هَاتَيْنِ الْمَرَّتَيْنِ رَأَيْتُهُ مُنْهَبِطًا مِنَ السَّمَاءِ سَادًّا عِظَمُ خَلْقِهِ مَا بَيْنَ السَّمَاءِ إِلَى الأَرْضِ ‏\"‏ ‏.‏ فَقَالَتْ أَوَلَمْ تَسْمَعْ أَنَّ اللَّهَ يَقُولُ ‏{‏ لاَ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ اللَّطِيفُ الْخَبِيرُ‏}‏ أَوَلَمْ تَسْمَعْ أَنَّ اللَّهَ يَقُولُ ‏{‏ وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلاَّ وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولاً فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ إِنَّهُ عَلِيٌّ حَكِيمٌ‏}‏ قَالَتْ وَمَنْ زَعَمَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَمَ شَيْئًا مِنْ كِتَابِ اللَّهِ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ وَاللَّهُ يَقُولُ ‏{‏ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ‏}‏ ‏.‏ قَالَتْ وَمَنْ زَعَمَ أَنَّهُ يُخْبِرُ بِمَا يَكُونُ فِي غَدٍ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ وَاللَّهُ يَقُولُ ‏{‏ قُلْ لاَ يَعْلَمُ مَنْ فِي السَّمَوَاتِ وَالأَرْضِ الْغَيْبَ إِلاَّ اللَّهُ‏}‏ ‏.‏",
+            "english": "I was resting at (the house of) 'A'isha that she said: O Abu 'A'isha (kunya of Masruq), there are three things, and he who affirmed even one of them fabricated the greatest lie against Allah. I asked that they were. She said: He who presumed that Muhammad (ﷺ) saw his Lord (with his ocular vision) fabricated the greatest lie against Allah. I was reclining but then sat up and said: Mother of the Faithful, wait a bit and do not be in a haste. Has not Allah (Mighty and Majestic) said:\" And truly he saw him on the clear horizon\" (Al-Qur'an, Surat at-Takwir, 81:23) and\" he saw Him in another descent\" (Al-Qur'an, Surat Najm 53:13)? She said: I am the first of this Ummah who asked the Messenger of Allah (ﷺ) about it, and he said: Verily he is Gabriel. I have never seen him in his original form in which he was created except on those two occasions (to which these verses refer); I saw him descending from the heaven and filling (the space) from the sky to the earth with the greatness of his bodily structure. She said: Have you not heard Allah saying: \"Eyes comprehend Him not, but He comprehends (all) vision. and He is Subtle, and All-Aware\" (Al-Qur'an, Surat al-An`am 6:103)? (She, i.e. 'A'isha, further said): Have you not heard that, verily, Allah says: \"And it is not for any human being that Allah should speak to him except by revelation or from behind a partition or that He sends a messenger to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.\" (Al-Qur'an, Surat ash-Shura, 42:51) She said: He who presumes that the Messenger of Allah (ﷺ) concealed anything from the Book of Allah fabricates the greatest lie against Allah. Allah says: \"O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allah will protect you from the people. Indeed, Allah does not guide the disbelieving people.\" (Al-Qur'an, Surat al-Ma'idah, 5:67). She said: He who presumes that he would inform about what was going to happen tomorrow fabricates the greatest lie against Allah. And Allah says \"Say, 'None in the heavens and earth knows the unseen except Allah , and they do not perceive when they will be resurrected.'\" (Al-Qur'an, Surat an-Naml, 27:65).",
+            "narrator": "It is narrated on the authority of Masruq that he said:"
+          }
+        },
+        {
+          "reference_text": "81:23",
+          "surah_name": null,
+          "start_ayah": 23,
+          "end_ayah": 23,
+          "hadith": {
+            "source": "tirmidhi",
+            "id": 28932,
+            "idInBook": 3152,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ كُنْتُ مُتَّكِئًا عِنْدَ عَائِشَةَ فَقَالَتْ يَا أَبَا عَائِشَةَ ثَلاَثٌ مَنْ تَكَلَّمَ بِوَاحِدَةٍ مِنْهُنَّ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ مَنْ زَعَمَ أَنَّ مُحَمَّدًا رَأَى رَبَّهُ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ وَاللَّهُ يَقُولُ ‏:‏ ‏(‏ لَا تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ‏)‏ ، ‏(‏ مَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلاَّ وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ ‏)‏ وَكُنْتُ مُتَّكِئًا فَجَلَسْتُ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ أَنْظِرِينِي وَلاَ تُعْجِلِينِي أَلَيْسَ يَقُولُ اللَّهُ ‏:‏ ‏(‏ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى ‏)‏، ‏(‏ وَلََقَدْ رَآهُ بِالأُفُقِ الْمُبِينِ ‏)‏ قَالَتْ أَنَا وَاللَّهِ أَوَّلُ مَنْ سَأَلَ عَنْ هَذَا رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّمَا ذَاكَ جِبْرِيلُ مَا رَأَيْتُهُ فِي الصُّورَةِ الَّتِي خُلِقَ فِيهَا غَيْرَ هَاتَيْنِ الْمَرَّتَيْنِ رَأَيْتُهُ مُنْهَبِطًا مِنَ السَّمَاءِ سَادًّا عِظَمُ خَلْقِهِ مَا بَيْنَ السَّمَاءِ وَالأَرْضِ ‏\"‏ ‏.‏ وَمَنْ زَعَمَ أَنَّ مُحَمَّدًا كَتَمَ شَيْئًا مِمَّا أَنْزَلَ اللَّهُ عَلَيْهِ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ يَقُولُ اللَّهُ ‏:‏ ‏(‏ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ‏)‏ وَمَنْ زَعَمَ أَنَّهُ يَعْلَمُ مَا فِي غَدٍ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ وَاللَّهُ يَقُولُ ‏:‏ ‏(‏قُلْ لاَ يَعْلَمُ مَنْ فِي السَّمَوَاتِ وَالأَرْضِ الْغَيْبَ إِلاَّ اللَّهُ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَمَسْرُوقُ بْنُ الأَجْدَعِ يُكْنَى أَبَا عَائِشَةَ وَهُوَ مَسْرُوقُ بْنُ عَبْدِ الرَّحْمَنِ وَهَكَذَا كَانَ اسْمُهُ فِي الدِّيوَانِ ‏.‏",
+            "english": "\"I was reclining in the presence of 'Aishah when she said: 'O Abu 'Aishah! There are three things, whoever speaks of one of them, then he has uttered one of the worst lies against Allah. Whoever claims that Muhammad saw his Lord. Then he has uttered one the worst lies against Allah, Allah says: No vision can grasp Him, but His grasp is over all vision, and He is the Most Subtle, Well-Acquainted with all things (6:103). It is not for any human being that Allah should speak to him unless (it be) by revelation or from behind a veil (42:51).' I was reclining so I sat up an said: 'O Mother of the Believers! Take your time with me and do not be hasty with me! Did Allah Most High not say: And indeed he saw him at a second descent (53:13). (And) 'And indeed he saw him in the clear horizon (81:23).' She said 'By Allah! I was the first who asked the Messenger of Allah (ﷺ) about this. He said: \"That was only Jibril. I did not see him in the appearance he was created in except for these two times. I saw him descending from the heavens, and due to his tremendous size he filled what was between the heavens and the earth.\" \"And whoever claimed that Muhammad hid anything that Allah revealed to him, then he uttered one of the worst lies against Allah. Allah says: O Messenger! Proclaim what has been sent down to you from your Lord (5:67).\" \"And whoever claimed that he (ﷺ) knew what would be tomorrow, then he has uttered one of the worst lies against Allah. Allah says: Say: 'None in the heavens and in the earth knows the unseen but Allah (27:65).'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        },
+        {
+          "reference_text": "81:23",
+          "surah_name": null,
+          "start_ayah": 23,
+          "end_ayah": 23,
+          "hadith": {
+            "source": "1",
+            "id": 344,
+            "idInBook": 344,
+            "bookId": 2,
+            "chapterId": 1,
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ كُنْتُ مُتَّكِئًا عِنْدَ عَائِشَةَ فَقَالَتْ يَا أَبَا عَائِشَةَ ثَلاَثٌ مَنْ تَكَلَّمَ بِوَاحِدَةٍ مِنْهُنَّ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ ‏.‏ قُلْتُ مَا هُنَّ قَالَتْ مَنْ زَعَمَ أَنَّ مُحَمَّدًا صلى الله عليه وسلم رَأَى رَبَّهُ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ ‏.‏ قَالَ وَكُنْتُ مُتَّكِئًا فَجَلَسْتُ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ أَنْظِرِينِي وَلاَ تَعْجَلِينِي أَلَمْ يَقُلِ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَلَقَدْ رَآهُ بِالأُفُقِ الْمُبِينِ‏}‏ ‏{‏ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى‏}‏ ‏.‏ فَقَالَتْ أَنَا أَوَّلُ هَذِهِ الأُمَّةِ سَأَلَ عَنْ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ إِنَّمَا هُوَ جِبْرِيلُ لَمْ أَرَهُ عَلَى صُورَتِهِ الَّتِي خُلِقَ عَلَيْهَا غَيْرَ هَاتَيْنِ الْمَرَّتَيْنِ رَأَيْتُهُ مُنْهَبِطًا مِنَ السَّمَاءِ سَادًّا عِظَمُ خَلْقِهِ مَا بَيْنَ السَّمَاءِ إِلَى الأَرْضِ ‏\"‏ ‏.‏ فَقَالَتْ أَوَلَمْ تَسْمَعْ أَنَّ اللَّهَ يَقُولُ ‏{‏ لاَ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ اللَّطِيفُ الْخَبِيرُ‏}‏ أَوَلَمْ تَسْمَعْ أَنَّ اللَّهَ يَقُولُ ‏{‏ وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلاَّ وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولاً فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ إِنَّهُ عَلِيٌّ حَكِيمٌ‏}‏ قَالَتْ وَمَنْ زَعَمَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَمَ شَيْئًا مِنْ كِتَابِ اللَّهِ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ وَاللَّهُ يَقُولُ ‏{‏ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ‏}‏ ‏.‏ قَالَتْ وَمَنْ زَعَمَ أَنَّهُ يُخْبِرُ بِمَا يَكُونُ فِي غَدٍ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ وَاللَّهُ يَقُولُ ‏{‏ قُلْ لاَ يَعْلَمُ مَنْ فِي السَّمَوَاتِ وَالأَرْضِ الْغَيْبَ إِلاَّ اللَّهُ‏}‏ ‏.‏",
+            "english": "I was resting at (the house of) 'A'isha that she said: O Abu 'A'isha (kunya of Masruq), there are three things, and he who affirmed even one of them fabricated the greatest lie against Allah. I asked that they were. She said: He who presumed that Muhammad (ﷺ) saw his Lord (with his ocular vision) fabricated the greatest lie against Allah. I was reclining but then sat up and said: Mother of the Faithful, wait a bit and do not be in a haste. Has not Allah (Mighty and Majestic) said:\" And truly he saw him on the clear horizon\" (Al-Qur'an, Surat at-Takwir, 81:23) and\" he saw Him in another descent\" (Al-Qur'an, Surat Najm 53:13)? She said: I am the first of this Ummah who asked the Messenger of Allah (ﷺ) about it, and he said: Verily he is Gabriel. I have never seen him in his original form in which he was created except on those two occasions (to which these verses refer); I saw him descending from the heaven and filling (the space) from the sky to the earth with the greatness of his bodily structure. She said: Have you not heard Allah saying: \"Eyes comprehend Him not, but He comprehends (all) vision. and He is Subtle, and All-Aware\" (Al-Qur'an, Surat al-An`am 6:103)? (She, i.e. 'A'isha, further said): Have you not heard that, verily, Allah says: \"And it is not for any human being that Allah should speak to him except by revelation or from behind a partition or that He sends a messenger to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.\" (Al-Qur'an, Surat ash-Shura, 42:51) She said: He who presumes that the Messenger of Allah (ﷺ) concealed anything from the Book of Allah fabricates the greatest lie against Allah. Allah says: \"O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allah will protect you from the people. Indeed, Allah does not guide the disbelieving people.\" (Al-Qur'an, Surat al-Ma'idah, 5:67). She said: He who presumes that he would inform about what was going to happen tomorrow fabricates the greatest lie against Allah. And Allah says \"Say, 'None in the heavens and earth knows the unseen except Allah , and they do not perceive when they will be resurrected.'\" (Al-Qur'an, Surat an-Naml, 27:65).",
+            "narrator": "It is narrated on the authority of Masruq that he said:"
+          }
+        },
+        {
+          "reference_text": "81:23",
+          "surah_name": null,
+          "start_ayah": 23,
+          "end_ayah": 23,
+          "hadith": {
+            "source": "47",
+            "id": 120,
+            "idInBook": 120,
+            "bookId": 5,
+            "chapterId": 47,
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ كُنْتُ مُتَّكِئًا عِنْدَ عَائِشَةَ فَقَالَتْ يَا أَبَا عَائِشَةَ ثَلاَثٌ مَنْ تَكَلَّمَ بِوَاحِدَةٍ مِنْهُنَّ فَقَدْ أَعْظَمَ عَلَى اللَّهِ الْفِرْيَةَ مَنْ زَعَمَ أَنَّ مُحَمَّدًا رَأَى رَبَّهُ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ وَاللَّهُ يَقُولُ ‏:‏ ‏(‏ لَا تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ‏)‏ ، ‏(‏ مَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلاَّ وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ ‏)‏ وَكُنْتُ مُتَّكِئًا فَجَلَسْتُ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ أَنْظِرِينِي وَلاَ تُعْجِلِينِي أَلَيْسَ يَقُولُ اللَّهُ ‏:‏ ‏(‏ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى ‏)‏، ‏(‏ وَلََقَدْ رَآهُ بِالأُفُقِ الْمُبِينِ ‏)‏ قَالَتْ أَنَا وَاللَّهِ أَوَّلُ مَنْ سَأَلَ عَنْ هَذَا رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّمَا ذَاكَ جِبْرِيلُ مَا رَأَيْتُهُ فِي الصُّورَةِ الَّتِي خُلِقَ فِيهَا غَيْرَ هَاتَيْنِ الْمَرَّتَيْنِ رَأَيْتُهُ مُنْهَبِطًا مِنَ السَّمَاءِ سَادًّا عِظَمُ خَلْقِهِ مَا بَيْنَ السَّمَاءِ وَالأَرْضِ ‏\"‏ ‏.‏ وَمَنْ زَعَمَ أَنَّ مُحَمَّدًا كَتَمَ شَيْئًا مِمَّا أَنْزَلَ اللَّهُ عَلَيْهِ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ يَقُولُ اللَّهُ ‏:‏ ‏(‏ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ‏)‏ وَمَنْ زَعَمَ أَنَّهُ يَعْلَمُ مَا فِي غَدٍ فَقَدْ أَعْظَمَ الْفِرْيَةَ عَلَى اللَّهِ وَاللَّهُ يَقُولُ ‏:‏ ‏(‏قُلْ لاَ يَعْلَمُ مَنْ فِي السَّمَوَاتِ وَالأَرْضِ الْغَيْبَ إِلاَّ اللَّهُ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَمَسْرُوقُ بْنُ الأَجْدَعِ يُكْنَى أَبَا عَائِشَةَ وَهُوَ مَسْرُوقُ بْنُ عَبْدِ الرَّحْمَنِ وَهَكَذَا كَانَ اسْمُهُ فِي الدِّيوَانِ ‏.‏",
+            "english": "\"I was reclining in the presence of 'Aishah when she said: 'O Abu 'Aishah! There are three things, whoever speaks of one of them, then he has uttered one of the worst lies against Allah. Whoever claims that Muhammad saw his Lord. Then he has uttered one the worst lies against Allah, Allah says: No vision can grasp Him, but His grasp is over all vision, and He is the Most Subtle, Well-Acquainted with all things (6:103). It is not for any human being that Allah should speak to him unless (it be) by revelation or from behind a veil (42:51).' I was reclining so I sat up an said: 'O Mother of the Believers! Take your time with me and do not be hasty with me! Did Allah Most High not say: And indeed he saw him at a second descent (53:13). (And) 'And indeed he saw him in the clear horizon (81:23).' She said 'By Allah! I was the first who asked the Messenger of Allah (ﷺ) about this. He said: \"That was only Jibril. I did not see him in the appearance he was created in except for these two times. I saw him descending from the heavens, and due to his tremendous size he filled what was between the heavens and the earth.\" \"And whoever claimed that Muhammad hid anything that Allah revealed to him, then he uttered one of the worst lies against Allah. Allah says: O Messenger! Proclaim what has been sent down to you from your Lord (5:67).\" \"And whoever claimed that he (ﷺ) knew what would be tomorrow, then he has uttered one of the worst lies against Allah. Allah says: Say: 'None in the heavens and in the earth knows the unseen but Allah (27:65).'\"",
+            "narrator": "Narrated Masruq:"
+          }
+        }
+      ]
+    },
+    {
+      "verse_number": 24,
+      "text_arabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍۢ",
+      "text_english": "And Muhammad is not a withholder of [knowledge of] the unseen.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 25,
+      "text_arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍۢ رَّجِيمٍۢ",
+      "text_english": "And the Qur'an is not the word of a devil, expelled [from the heavens].",
+      "hadiths": []
+    },
+    {
+      "verse_number": 26,
+      "text_arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "text_english": "So where are you going?",
+      "hadiths": []
+    },
+    {
+      "verse_number": 27,
+      "text_arabic": "إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ",
+      "text_english": "It is not except a reminder to the worlds",
+      "hadiths": []
+    },
+    {
+      "verse_number": 28,
+      "text_arabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "text_english": "For whoever wills among you to take a right course.",
+      "hadiths": []
+    },
+    {
+      "verse_number": 29,
+      "text_arabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "text_english": "And you do not will except that Allah wills - Lord of the worlds.",
+      "hadiths": []
+    }
+  ]
+}
